@@ -3,6 +3,7 @@ title: "An Archive of a Different Type - Internet Archive"
 date: 2020-08-28T12:46:06.617Z
 tags: ["Archiving"]
 slug: an-archive-of-a-different-type
+featuredImagePreview: /img/2020/20200727_1648451-1536x728.jpg
 ---
 
 [Internet Archive](http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/):
