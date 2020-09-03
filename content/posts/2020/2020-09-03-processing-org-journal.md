@@ -1,7 +1,6 @@
 ---
 title: "Processing my org-journal each month"
 date: 2020-09-03T22:12:56.416Z
-draft: true
 tags: ["journaling","emacs","org mode"]
 categories: ["Software"]
 slug:
