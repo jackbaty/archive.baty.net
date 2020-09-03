@@ -1,0 +1,21 @@
+{{- $cdn := .Scratch.Get "cdn" | default dict -}}
+{{- $fingerprint := .Scratch.Get "fingerprint" -}}
+{{- $comment := .Scratch.Get "comment" | default dict -}}
+{{- $commentConfig := dict -}}
+
+{{- if $comment.enable -}}
+    <div id="comments">
+ 
+        {{- /* Commento Comment System */ -}}
+        {{- $commento := $comment.commento | default dict -}}
+
+            <div id="commento"></div>
+    <h3>Comments</h3>
+    <div id="commento"></div>
+    <script src="https://comments.baty.net/js/commento.js"></script>
+    <noscript>Please enable JavaScript to view the
+        <a href="https://commento.io/">comments powered by Commento.</a>
+    </noscript>
+{{- end -}}
+
+{{- dict "comment" $commentConfig | dict "config" | merge (.Scratch.Get "this") | .Scratch.Set "this" -}}

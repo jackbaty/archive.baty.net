@@ -474,7 +474,7 @@ theme = "LoveIt"
 
   #  Analytics config
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
       id = ""

@@ -1,0 +1,5 @@
+{{- $analytics := .Scratch.Get "analytics" | default dict -}}
+
+{{- if $analytics.enable -}}
+  <script async defer data-domain="baty.net" src="https://plausible.io/js/plausible.js"></script>
+{{- end -}}
