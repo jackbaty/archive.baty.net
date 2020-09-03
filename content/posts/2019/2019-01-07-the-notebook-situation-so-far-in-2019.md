@@ -14,7 +14,7 @@ tags:
   - notebook
 
 ---
-<figure class="wp-block-image"><img src="/wp-content/uploads/2019/01/DSCF3106-2-966x1024.jpg" alt="" class="wp-image-2311" srcset="/wp-content/uploads/2019/01/DSCF3106-2.jpg 966w, /wp-content/uploads/2019/01/DSCF3106-2-283x300.jpg 283w, /wp-content/uploads/2019/01/DSCF3106-2-768x814.jpg 768w, /wp-content/uploads/2019/01/DSCF3106-2-750x795.jpg 750w" sizes="(max-width: 966px) 100vw, 966px" /><figcaption>Hobonichi Techo and Moleskine Sketchbook</figcaption></figure> 
+<figure class="wp-block-image"><img src="/img/2019/notebooks.jpg" alt="" /><figcaption><h4>Hobonichi Techo and Moleskine Sketchbook</h4></figcaption></figure> 
 
 My notebook configuration looks nothing like I planned it just a week ago. I had intended to keep things [just like last year][1] but nope.
 
@@ -24,7 +24,7 @@ What&#8217;s actually happening is that I&#8217;ve ended up with an [A4 Moleskin
 
 I know, right? It caught me by surprise too.<figure class="wp-block-image">
 
-<img src="/wp-content/uploads/2019/01/DSCF3107-1024x683.jpg" alt="" class="wp-image-2312" srcset="/wp-content/uploads/2019/01/DSCF3107.jpg 1024w, /wp-content/uploads/2019/01/DSCF3107-300x200.jpg 300w, /wp-content/uploads/2019/01/DSCF3107-768x512.jpg 768w, /wp-content/uploads/2019/01/DSCF3107-750x500.jpg 750w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Moleskine Sketchbook as a journal</figcaption></figure> 
+<img src="/img/2019/moleskine-sketchbook.jpg" alt="" /><figcaption><h4>The Moleskine Sketchbook as a journal</h4></figcaption></figure> 
 
 I bought a little 4&#215;6 photo printer and have been having a ball with it. The big Moleskine gives me room to glue a photo or two to a page and still write stuff around it. I&#8217;m really liking this.
 

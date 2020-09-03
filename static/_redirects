@@ -1,0 +1,8 @@
+# Redirects for Netlify
+/feed/ /index.xml
+/Posts/2013/02/DigitalRecordkeeping.html  /2013/digital-recordkeeping/
+/2017/6045/ /2017/social-is-no-fun/
+/wiki https://roamresearch.com/#/app/jackbaty
+/roam https://roamresearch.com/#/app/jackbaty
+
+

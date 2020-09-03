@@ -2,7 +2,7 @@
 title: "The origin of my avatar"
 date: 2018-12-09
 description: The origin of my avatar
-type: posts
+type: page
 subtitle: Where my avatar came from
 ---
 
@@ -14,4 +14,4 @@ While buying old camera gear from someone on Craigslist, I noticed a pile of neg
 
 The negatives were family photos from the early 1900s. I scanned them all. They are fascinating to me. One of my favorites shows a man in overalls, smiling, with a pipe clenched in his teeth. He's pushing a woman in a wheelbarrow. They are both laughing, and the man's smile looks so genuine and comical that I now use it for my avatar. It makes me happy.
 
-{{< figure src="avatar-origin-scan.jpg" title="" >}}
+{{< figure src="avatar-origin-scan.jpg" title="Original photo" >}}

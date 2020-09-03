@@ -1,6 +1,6 @@
 ---
 title: "Reflexive Shopping - TOP"
-date: 2019-01-2T12:50:53-04:00
+date: 2019-01-02T12:50:53-04:00
 tags: ["photography"]
 ---
 

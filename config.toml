@@ -15,7 +15,7 @@ theme = "LoveIt"
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
-    name = "Archives"
+    name = "Posts"
     url = "/posts/"
     # title will be shown when you hover on this menu link
     title = ""
@@ -36,8 +36,24 @@ theme = "LoveIt"
     url = "/categories/"
     title = ""
     weight = 3
+    
+	[[menu.main]]
+	  identifier = "about"
+	  pre = ""
+	  post = ""
+	  name = "About"
+	  url = "/about/"
+	  title = ""
+	  weight = 4
 
-
+	[[menu.main]]
+	  identifier = "roam"
+	  pre = ""
+	  post = ""
+	  name = "Roam"
+	  url = "/roam/"
+	  title = ""
+	  weight = 5
 
 
 
@@ -148,7 +164,7 @@ theme = "LoveIt"
     # special amount of posts in each list page
     paginate = 20
     # date format (month and day)
-    dateFormat = "01-02"
+    dateFormat = "Jan 02"
     # amount of RSS pages
     rss = 10
 
