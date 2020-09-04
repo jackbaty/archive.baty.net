@@ -6,7 +6,7 @@ categories: ["Software"]
 slug:
 ---
 
-I use [org-journal](https://github.com/bastibe/org-journal][org-journal) for keeping my personal journal. My first entry was made on December 20, 2016 and I've made nearly 600 entries since then[^entries]. 
+I use [org-journal](https://github.com/bastibe/org-journal) for keeping my personal journal. My first entry was made on December 20, 2016 and I've made nearly 600 entries since then[^entries]. 
 
 Most months usually do consist of a couple dozen entries, and it's important to me that I preserve them. One reason for using a text-based format like Org mode is that it's portable, flexible, easy to back up, and likely to last a while. Still, I don't trust anything digital to last forever, so I print my entries each month.
 
