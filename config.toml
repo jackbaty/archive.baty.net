@@ -72,7 +72,8 @@ theme = "LoveIt"
   # ("sha256", "sha384", "sha512", "md5")
   fingerprint = ""
   #  date format
-  dateFormat = "2006-01-02"
+  #dateFormat = "2006-01-02"
+  dateFormat = "Monday, Jan 2, 2006"
   # website images for Open Graph and Twitter Cards
   images = ["/img/logo.png"]
 

@@ -6,10 +6,8 @@ draft: false
 
 ## A little about me {#a-little-about-me}
 
-<div id="your-host">
-<img src="jack-about.jpg" alt="Jack Baty" width="300" height="300" /><br>
-<span>Your host, Jack Baty</span>
-</div>
+{{< image src="jack-about-300x300.jpg" caption="Your host, Jack Baty" width="300" height="300" linked="false" >}}
+
 
 I was a partner at Fusionary Media from 1995 until May 2020. I remain there in a consulting role. Fusionary is a terrific
 digital development studio in Grand Rapids, MI. If your business needs something built for
