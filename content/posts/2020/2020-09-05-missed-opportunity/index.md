@@ -4,10 +4,10 @@ date:  2020-09-05
 tags: ["photography"]
 categories: ["Photography"]
 featuredImagePreview:  preview.jpg
+featuredImage:  hood.jpg
+summary: "Too often I miss making a good photo by just a little"
 slug: "missed-photo-z28"
 ---
-
-{{< image src="hood.jpg" caption="Z28 hood" >}}
 
 I spotted this Z28 while walking through a parking lot last night. Seemed like it would make a fun image so I snapped a photo of it with the little Ricoh.
 
