@@ -1,7 +1,7 @@
 ---
 title: "Missed photo - Z28"
 date:  2020-09-05
-tags: ["photography]"]
+tags: ["photography"]
 categories: ["Photography"]
 featuredImagePreview:  preview.jpg
 slug: "missed-photo-z28"
