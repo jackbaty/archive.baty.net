@@ -1,0 +1,25 @@
+---
+title: "So, I went with Roam Research and am a True Believer"
+date:  2020-06-11
+tags: ["Notetaking","Roam"]
+categories: ["Software"]
+slug: "so-i-went-with-roam-research-and-am-a-true-believer"
+---
+
+I discovered [Roam](https://roamresearch.com/) in December, 2019 and thought, “Wow! This is exactly the thing I’ve been looking for” even though it was buggy, less than pretty, and still too new to count on. And yet, the more I dug in, the more I liked it. I remember telling people that “this thing pays dividends on your notes!” I’d finally found the ultimate tool for my Personal Knowledge Management System. (I don’t call it a “Zettelkasten” for two reasons. First, the way I use Roam isn’t really as a Zettelkasten. Second, I can’t help but think that Zettelkasten is kind of a show-off word so it puts me off.)
+
+Then I heard they were going to charge $30/month for the privilege of using Roam and, although I would be _able_ to pay, it made me pause. I got over the “But you don’t own your data!” problem, but $30/month for the rest of my life made me twitchy.
+
+At the time, the only real contender for me was [TiddlyWiki](https://tiddlywiki.com/). I love TiddlyWiki. It’s what made my [Rudimentary Lathe wiki](https://rudimentarylathe.org/) possible (and fun). TiddlyWiki does transclusion, can do backlinking, is a single HTML file that I control. And not long after Roam started making waves, TiddlyWiki fans started improving TiddlyWiki to emulate some of Roam’s most notable features. We ended up with [Stroll](https://giffmex.org/stroll/stroll.html), and it’s very nice. I didn’t see using it for _everything_ the way I planned to with Roam. I don’t know why, really. Just a feeling. So, I kept looking.
+
+Until Roam came along, I took most of my notes in one of two places, [TheBrain](https://thebrain.com/) and [Org mode](https://orgmode.org/). Org mode kicks the ass of everything else for general note-taking, text processing, task management, you name it. But after a few weeks with Roam, I’m no longer interested in writing notes in anything that doesn’t include bi-directional links. Backlinking is key, this is why I’ve loved TheBrain for so long. That’s all it does (ok, not true, but it’s what it does best). But I dislike taking notes in TheBrain, and I never really get into the flow. There’s a lot of friction getting stuff into TheBrain. This is why I’d link stuff with TheBrain but would take notes in Org mode. Not ideal.
+
+Suddenly, Jethro Kuan created [Org-roam](https://github.com/org-roam/org-roam). Now we were talking! Org mode with terrific backlink support, titles rather than file names, aliases, never-ending customization options, and a solid database cache behind it all. It’s so very good. But, it means I’ve got to use Emacs. I love Emacs, but I tire of the mental overhead it causes me. I wasn’t sure that I wanted my “Second Brain” to be stuck in an editor that often hurts my _first_ brain. And as great and powerful as the org-mode format is, Markdown is easier, ubiquitous, and works with just about every modern editor. I felt myself wishing Org-roam used Markdown. It doesn’t, and it shouldn’t, so I hesitated.
+
+Then, of course, someone linked me to [Obsidian](https://obsidian.md/), “A second brain, for you, forever.” Nice. Let’s see, Markdown files on my own device. A fast, capable editor, backlinks galore, a built in graph, support for Daily Notes, and a plug-in system that could take me who-knows where. I spent a week with it and thought I’d found what I was looking for.
+
+Except, it’s not an outliner. I really missed Roam’s outliner based editor. I missed the block-level references and transclusion from Roam. I missed that it was just a tab away from where I was usually already working. I liked that Roam is automatically everywhere I can fire up a browser. I don’t have to decide how to use the thing on my iPad. It’s just a website. Mostly, I missed the _flow_ Roam somehow makes possible. I can’t put my finger on it, but Roam is the most pleasant, easiest, and entirely capable option for a PKM.
+
+Roam isn’t the choice I wanted to make. I wanted to use Org-roam. Still do. I also find Obsidian compelling. But, I had to stop losing sleep thinking about it, so I made the decision to go all-in with Roam. It’s the outliner, simplicity, and block-level references that clinched it. Many will say that I don’t “own my data” but I kind of do. I export the entire DB as JSON daily and could probably recreate the thing in Obsidian or something else in a few hours. I don’t feel locked in, but I’m sure some people disagree. Good for them, that’s what Org-roam and Obsidian are for.
+
+Roam Research opened the waitlist and introduced pricing yesterday. I could still use Roam for free for a while, being an early beta user, but I needed to commit. To that end, I paid $500 for the “True Believer” plan. It’s a 5-year license that includes a few perks like early access to new features. That qualifies as a commitment, I’d say. Now I just need to stick with it.
