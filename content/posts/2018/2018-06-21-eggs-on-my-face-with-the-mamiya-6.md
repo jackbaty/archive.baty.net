@@ -14,7 +14,8 @@ tags:
   - photo
 
 ---
-<figure id="attachment_1357" style="width: 1190px" class="wp-caption alignnone"><img class="size-full wp-image-1357" src="/img/2018/06/2018-06-21-eggs-in-eyes.jpg" alt="" width="1190" height="1200" srcset="/img/2018/06/2018-06-21-eggs-in-eyes.jpg 1190w, /img/2018/06/2018-06-21-eggs-in-eyes-150x150.jpg 150w, /img/2018/06/2018-06-21-eggs-in-eyes-298x300.jpg 298w, /img/2018/06/2018-06-21-eggs-in-eyes-768x774.jpg 768w, /img/2018/06/2018-06-21-eggs-in-eyes-1015x1024.jpg 1015w, /img/2018/06/2018-06-21-eggs-in-eyes-694x700.jpg 694w" sizes="(max-width: 1190px) 100vw, 1190px" /><figcaption class="wp-caption-text">Self Portrait (2013). Mamiya 6, HP5+, D-76</figcaption></figure>
+
+{{< figure src="/img/2018/06/2018-06-21-eggs-in-eyes.jpg" title="Self Portrait (2013). Mamiya 6, HP5+, D-76" >}}
 
 A few years back I owned a Mamiya 6 medium format rangefinder. Eventually I drifted toward using the Hasselblads for medium format and sold the Mamiya. I&#8217;ve been missing it.
 

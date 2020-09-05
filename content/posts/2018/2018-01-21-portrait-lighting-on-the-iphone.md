@@ -11,7 +11,8 @@ tags:
   - iPhone
 
 ---
-<figure style="width: 960px" class="wp-caption alignnone"><img title="kelly-portrait.jpg" src="/img/2018/01/kelly-portrait.jpg" alt="Kelly portrait" width="960" height="1280" border="0" /><figcaption class="wp-caption-text">Kelly. (iPhone X)</figcaption></figure>
+
+{{< figure src="/img/2018/01/kelly-portrait.jpg" title="Kelly. (iPhone X)" >}}
 
 Portrait Lighting on the iPhone X can be a fun, dramatic effect, but I’ve yet to see it hold up on anything much larger than a phone screen. The above image of my niece Kelly is a pretty typical example. It looks impressive on the phone, but view it at any reasonable size and it kind of falls down. She _loved_ it when I showed it to her on the phone, so maybe I’m just being too critical.
 
