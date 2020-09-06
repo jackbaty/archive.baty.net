@@ -61,7 +61,7 @@ theme = "LoveIt"
   #  LoveIt theme version
   version = "0.2.X"
   # site description
-  description = "A personal website by Jack Baty"
+  description = "A personal weblog by Jack Baty"
   # site keywords
   keywords = ["Theme", "Hugo"]
   # site default theme ("light", "dark", "auto")
@@ -183,7 +183,7 @@ theme = "LoveIt"
       #  title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page
-      subtitle = "A personal weblog by Jack Baty"
+      subtitle = "Jack Baty – Director of Unspecified Services"
       # whether to use typeit animation for subtitle
       typeit = false
       # whether to show social links
