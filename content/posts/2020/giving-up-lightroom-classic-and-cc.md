@@ -8,7 +8,7 @@ slug: "giving-up-lightroom-classic-and-cc"
 
 The new Lightroom is too simple, and Capture One Pro is too disconnected from everything, so I _want_ to use Lightroom Classic, which kind of falls in the middle. 
 
-If I'm not using Capture One, the idea was to use Lightroom Classic and set up catalog sync so that the "keepers" end up synced to Lightroom Desktop (or is it "CC" or just "Lightroom" I can never remember?). Anyway, this was supposed to allow me the power of "real" Lightroom (aka Lightroom Classic) along with the convenience of sync-everywhere and editing on mobile.
+I love Capture One Pro, but I thought I'd try using Lightroom Classic and set up catalog sync so that the "keepers" end up synced to Lightroom Desktop (or is it "CC" or just "Lightroom" I can never remember?). Anyway, this was supposed to allow me the power of "real" Lightroom (aka Lightroom Classic) along with the convenience of sync-everywhere and editing on mobile.
 
 I'm here to tell you that I can not make it work for me. There's too much overhead in having to decide what to add to a synced collection and when. And where to keep any synced originals? Do I do that in both apps? And so on. I seem to end up with duplicates for no reason I can fathom. I'm constantly moving images from the automatic synced folders to their proper place in the filesystem. It often feels like the worst of both worlds. I've seen people do it. I've watched the videos and read the blog posts. I've tried, but nope, it's all too finicky for me.
 
