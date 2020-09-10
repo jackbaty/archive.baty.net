@@ -11,7 +11,7 @@ This blog has been using a self-hosted instance of [Commento](https://commento.i
 
 With any luck I won't have to think about comments here for a while. 
 
-Feel free to comment below! :)
+Feel free to comment below! 😝 
 
 
 
