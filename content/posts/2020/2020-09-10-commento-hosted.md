@@ -5,7 +5,7 @@ tags: ["Blogging"]
 categories: ["Software"]
 ---
 
-I don't like having so many subscriptions, but I'm losing interest in maintaining servers and apps.
+I don't like having so many subscriptions, but I'm losing interest in maintaining servers and apps, so I'm now using the Commento-hosted version instead of the self-hosted version.
 
 This blog has been using a self-hosted instance of [Commento](https://commento.io) for comments. I've looked at other options for comments but I don't love any of them, so I'll stick with Commento for now. My new theme supports Commento out of the box, so all it took was for me to pay for a subscription and now Commento is managing comments for me for the next year.
 
