@@ -8,14 +8,11 @@ draft: false
 
 {{< image src="jack-about-300x300.jpg" caption="Your host, Jack Baty" width="300" height="300" linked="false" >}}
 
+I was a partner at Fusionary Media from 1995 until May 2020. I remain there in a consulting role. Fusionary is a terrific digital development studio in Grand Rapids, MI. If your business needs something built for the web or mobile devices you should 💌 [send them a note](mailto:info@fusionary.com).
 
-I was a partner at Fusionary Media from 1995 until May 2020. I remain there in a consulting role. Fusionary is a terrific
-digital development studio in Grand Rapids, MI. If your business needs something built for
-the web or mobile devices you should 💌 [send us a note](mailto:info@fusionary.com).
+I blog here at [baty.net](https://www.baty.net/) ✒️. I write about photography, blogging, analog tools, productivity, software, you name it.
 
-I blog here at [baty.net](https://www.baty.net/) ✒️ and at [copingmechanism.com](https://copingmechanism.com)
-
-I write daily using a [public Roam database](https://www.baty.net/roam).
+I also write daily, in public, using a [public Roam database](https://www.baty.net/roam).
 Before that I maintained my wiki at [Rudimentary Lathe](https://rudimentarylathe.org).
 
 You can email me at [jbaty@hey.com](mailto:jbaty@hey.com) ✉️. I still like receiving email!
@@ -23,7 +20,7 @@ You can email me at [jbaty@hey.com](mailto:jbaty@hey.com) ✉️. I still like r
 I have a few other interests:
 
 **Photography**. I call it “photography” but it’s more like “camera collecting.” I
-shoot both film and digital and upload to Flickr
+shoot both film and digital and upload to [Flickr](https://flickr.com/photos/jbaty).
 
 **Analog**. Digital is where we are, but I still enjoy using things like film
 cameras, vinyl records, manual typewriters, notebooks, and fountain pens.
@@ -37,9 +34,7 @@ Do not expect consistency.
 
 **Weblogs and other publishing experiments**
 
--   [copingmechanism.com](https://copingmechanism.com) - My main blog, primarily
-    about photography
--   [baty.net](https://baty.net/) - My original blog, about everything else, since 2000
+-   [baty.net](https://baty.net/) - You're soaking in it, since 2000
 -   [baty.net/roam](https://baty.net/roam) - A public
     [Roam](https://roamresearch.com) database I use as a wiki
 -   [rudimentarylathe.org](https://rudimentarylathe.org/) - My original wiki (using Tiddlywiki)
