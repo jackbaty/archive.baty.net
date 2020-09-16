@@ -12,5 +12,6 @@ A few of the things I’m doing as of **Sunday, September 6, 2020**
 - Dusted off baty.net and am revamping the whole thing
 - Learning to edit video a little
 - Experimenting with [Teamwork](https://www.teamwork.com)
+- Editing this file with [Nova](https://nova.app)
 - Oh yeah, we sold [the company](https://fusionary.com/), so I’m now a consultant there, 3 days a week. It’s weird, but exciting.
 
