@@ -27,7 +27,7 @@ Each time I switch I have to re-learn how I manage exports and watermarks and la
 
 That decision is now to move forward (again) with Capture One Pro and remove any temptation of "just trying it in Lightroom a second". 
 
-So I've deleted Lightroom, Lightroom Classic, and Photoshop from all of my devices and I'l l be canceling my subscription as soon as I'm sure I won't end up missing any photos.
+So I've deleted Lightroom, Lightroom Classic, and Photoshop from all of my devices and I'll be canceling my subscription as soon as I'm sure I won't end up missing any photos.
 
 The Photoshop thing is another pain point. I am terrible at Photoshop, but just knowing it's there is comforting. I know that no matter what I want to do, I can do it in Photoshop and can find a resource online to help me figure out how.
 
