@@ -8,7 +8,7 @@ draft: false
 
 {{< image src="jack-about-300x300.jpg" caption="Your host, Jack Baty" width="300" height="300" linked="false" >}}
 
-I was a partner at Fusionary Media from 1995 until May 2020. I remain there in a consulting role. Fusionary is a terrific digital development studio in Grand Rapids, MI. If your business needs something built for the web or mobile devices you should 💌 [send them a note](mailto:info@fusionary.com).
+I was a partner at Fusionary Media from 1995 until we sold the company in May of 2020. I remain there in a consulting role. Fusionary is a terrific digital development studio in Grand Rapids, MI, and if your business needs something built for the web or mobile devices you should 💌 [send them a note](mailto:info@fusionary.com).
 
 I blog here at [baty.net](https://www.baty.net/) ✒️. I write about photography, blogging, analog tools, productivity, software, you name it.
 
@@ -34,29 +34,32 @@ Do not expect consistency.
 
 **Weblogs and other publishing experiments**
 
--   [baty.net](https://baty.net/) - You're soaking in it, since 2000
--   [baty.net/roam](https://baty.net/roam) - A public
-    [Roam](https://roamresearch.com) database I use as a wiki
--   [rudimentarylathe.org](https://rudimentarylathe.org/) - My original wiki (using Tiddlywiki)
--   [tilde.club/~jbaty](https://tilde.club/~jbaty) - because nostalgia is strong
-    and Paul Ford is my hero
+- [baty.net](https://baty.net/) - You're soaking in it, since 2000
+- [baty.net/roam](https://baty.net/roam) - A public
+  [Roam](https://roamresearch.com) database I use as a wiki
+- [rudimentarylathe.org](https://rudimentarylathe.org/) - My original wiki (using Tiddlywiki)
+- [tilde.club/~jbaty](https://tilde.club/~jbaty) - because nostalgia is strong
+  and Paul Ford is my hero
 
 **Photography**
 
--   [Flickr](https://flickr.com/photos/jbaty) - I've been posting photos to
-    Flickr since forever. Flickr is still the best photo sharing service, and
-    I'm looking forward to what's next now that it's owned by SmugMug.
+- [Flickr](https://flickr.com/photos/jbaty) - I've been posting photos to Flickr
+    since forever. Flickr is still the best photo sharing service, and I'm
+    looking forward to what's next now that it's owned by SmugMug.
+- I've been using [SmugMug](https://jackbaty.smugmug.com) again recently for
+  various galleries.
+
 
 **Social Media**
 
--   [@jackbaty@mastodon.technology](https://mastodon.technology/@jackbaty) on Mastodon
--   [@jackbaty](https://twitter.com/jackbaty) on Twitter
--   [MrJackBaty](https://instagram.com/mrjackbaty) on Instagram, although I don't post often
+- [@jackbaty@mastodon.technology](https://mastodon.technology/@jackbaty) on Mastodon
+- [@jackbaty](https://twitter.com/jackbaty) on Twitter
+- [MrJackBaty](https://instagram.com/mrjackbaty) on Instagram, although I don't post often
 
 **Other**
 
--   [Books I've read](https://rudimentarylathe.org/#Books)
--   [Things I use](/lifestack)
--   [The origin of my avatar](https://www.baty.net/avatar/)
--   [Letterboxd](https://letterboxd.com/jackbaty) is where I track and rate the movies I watch
--   [Goodreads](https://goodreads.com/jackbaty) for sharing what I'm reading
+- [Books I've read](https://rudimentarylathe.org/#Books)
+- [Things I use](/lifestack)
+- [The origin of my avatar](https://www.baty.net/avatar/)
+- [Letterboxd](https://letterboxd.com/jackbaty) is where I track and rate the movies I watch
+- [Goodreads](https://goodreads.com/jackbaty) for sharing what I'm reading
