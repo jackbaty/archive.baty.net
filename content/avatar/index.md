@@ -3,7 +3,7 @@ title: "The origin of my avatar"
 date: 2018-12-09
 description: The origin of my avatar
 type: page
-subtitle: Where my avatar came from
+subtitle: The story behind my "Pipe Guy" avatar
 ---
 
 Here's the avatar I've been using for a few years.

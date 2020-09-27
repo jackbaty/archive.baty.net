@@ -4,7 +4,7 @@ date: 2019-07-04T11:18:00-04:00
 draft: false
 ---
 
-## A little about me {#a-little-about-me}
+## A little about me
 
 {{< image src="jack-about-300x300.jpg" caption="Your host, Jack Baty" width="300" height="300" linked="false" >}}
 
@@ -30,13 +30,13 @@ See the [Now page](/now) for a list of more specific current interests and proje
 Do not expect consistency.
 
 
-## Miscellany {#miscellany}
+## Miscellany
 
 **Weblogs and other publishing experiments**
 
 - [baty.net](https://baty.net/) - You're soaking in it, since 2000
 - [baty.net/roam](https://baty.net/roam) - A public
-  [Roam](https://roamresearch.com) database I use as a wiki
+  [Roam](https://roamresearch.com) database used as a wiki and sort of microblog
 - [rudimentarylathe.org](https://rudimentarylathe.org/) - My original wiki (using Tiddlywiki)
 - [tilde.club/~jbaty](https://tilde.club/~jbaty) - because nostalgia is strong
   and Paul Ford is my hero
@@ -44,8 +44,8 @@ Do not expect consistency.
 **Photography**
 
 - [Flickr](https://flickr.com/photos/jbaty) - I've been posting photos to Flickr
-    since forever. Flickr is still the best photo sharing service, and I'm
-    looking forward to what's next now that it's owned by SmugMug.
+  since forever. Flickr is still the best photo sharing service, and I'm
+  looking forward to what's next now that it's owned by SmugMug.
 - I've been using [SmugMug](https://jackbaty.smugmug.com) again recently for
   various galleries.
 
