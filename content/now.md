@@ -9,8 +9,7 @@ A few of the things I’m doing as of **Sunday, September 6, 2020**
 - Living in [Roam](https://roamresearch.com/). This now includes the content that was formerly maintained on [the
   wiki](https://rudimentarylathe.org/).
 - Learning to edit video a little
-- Experimenting with [Teamwork](https://www.teamwork.com)
-- Editing this file with [Nova](https://nova.app)
-- Considering [SmugMug](https://jackbaty.smugmug.com/) again
+- Experimenting with [Teamwork](https://www.teamwork.com) for work projects
+- Using [SmugMug](https://jackbaty.smugmug.com/) again for galleries
 - Oh yeah, we sold [the company](https://fusionary.com/), so I’m now a consultant there, 3 days a week. It’s weird, but exciting.
 
