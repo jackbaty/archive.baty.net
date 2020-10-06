@@ -583,7 +583,7 @@ theme = "LoveIt"
 [outputs]
   # 
   home = ["HTML", "RSS", "JSON"]
-  page = ["HTML", "MarkDown"]
+  page = ["HTML"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
   taxonomyTerm = ["HTML"]
