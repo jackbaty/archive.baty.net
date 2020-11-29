@@ -6,7 +6,7 @@ categories: ["Misc"]
 slug: "see-you-at-copingmechanism"
 ---
 
-When I grow weary of dealing with plain text files and Hugo-based publishing, I fire up a WordPress blog.
+When I grow weary of dealing with plain text files and Hugo-based publishing, I fire up a ~~WordPress~~ Ghost blog.
 
 I've done it again: **I'll be posting at [copingmechanism.com](https://copingmechanism.com)** for now.
 
