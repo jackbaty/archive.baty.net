@@ -5,7 +5,7 @@ tags: ["Emacs", "Plaintext"]
 categories: ["Emacs"]
 ---
 
-Emacs and I broke up recently. I felt I had to move on after years of destructive codependency. It wasn't them, it was me.
+Emacs and I broke up recently. I felt I had to move on after years of destructive codependency. It wasn't Emacs, it was me.
 
 With so much newly-found free time, I began flirting with all manner of sexy tools. No longer did I feel stuck in the same rut and same routines. I could use a mouse. I could work in the cloud. I could mingle with various specific, proprietary, and visually stunning apps of all kinds. Point and click, point and click. It was liberating!
 
