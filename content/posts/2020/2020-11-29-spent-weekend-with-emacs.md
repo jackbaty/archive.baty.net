@@ -17,9 +17,9 @@ I cracked open the "old-notes" folder. It was full of Markdown files. They've be
 
 Markdown files were still configured to open in Emacs on my Mac, so when I double-clicked just that one little file, it opened right up. And there it was, Emacs, uninhibitedly presenting me a beautiful plain text file.
 
-It was such a beautiful sight I couldn't help but bring up `dired` and wow, there the rest of the files were, lined up, waiting to be read, edited, searched, controlled by git, forever. One thing led to another and my entire frame was filled with windows and buffers; some split vertically, some horizontal. All simple plain text and mine to do with whatever I wished. 
+It was such a wonderful sight I couldn't help but bring up `dired` and wow, there the rest of the files were, lined up, waiting to be read, edited, searched, controlled by git, forever. One thing led to another and my entire frame was filled with windows and buffers; some split vertically, some horizontal. All simple plain text and mine to do with whatever I wished. 
 
-Evil mode's vim bindings came rushing back, as they always do, and before long I was flying around in so many files I started to get dizzy. I started opening other folders, other files. .org, .txt, .md, .html, you name it. God, it felt great. We had so much fun.
+Evil mode's vim bindings came rushing back, as they always do, and before long I was flying around in so many files I started to get dizzy. Next thing you know I was opening other folders, other files. .org, .txt, .md, .html, you name it. God, it felt great. We had so much fun.
 
 By the time I woke up two days later I had completely reconfigured Emacs, cleaned up some unused packages, moved my tasks to Org mode, committed and pushed everything to Github. 
 
