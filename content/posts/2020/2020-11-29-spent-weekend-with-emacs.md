@@ -23,5 +23,5 @@ Evil mode's vim bindings came rushing back, as they always do, and before long I
 
 By the time I woke up two days later I had completely reconfigured Emacs, cleaned up some unused packages, moved my tasks to Org mode, committed and pushed everything to Github. 
 
-I don't know yet if Emacs and are going to get back together permanently, but we sure had a great weekend together.
+I don't know yet if Emacs and are going to get back together permanently, but we sure had a great weekend.
 
