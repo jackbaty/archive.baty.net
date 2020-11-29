@@ -12,10 +12,9 @@ I was a partner at Fusionary Media from 1995 until we sold the company in May of
 
 I blog here at [baty.net](https://www.baty.net/) ✒️. I write about photography, blogging, analog tools, productivity, software, you name it.
 
-I also write daily, in public, using a [public Roam database](https://www.baty.net/roam).
-Before that I maintained my wiki at [Rudimentary Lathe](https://rudimentarylathe.org).
+I also write daily, in public, using TiddlyWiki at [Rudimentary Lathe](https://rudimentarylathe.org).
 
-You can email me at [jbaty@hey.com](mailto:jbaty@hey.com) ✉️. I still like receiving email!
+You can email me at [jack@baty.net](mailto:jack@baty.net) ✉️. I still like receiving email!
 
 I have a few other interests:
 
