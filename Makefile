@@ -1,7 +1,7 @@
 PUBLIC_DIR=public/
-SERVER_HOST=server.baty.net
-SERVER_DIR=/home/jbaty/apps/blog/public_html
-TARGET=Netlify
+SERVER_HOST=server01.baty.net
+SERVER_DIR=/home/jbaty/apps/baty.net/public_html
+TARGET=DigitalOcean
 
 
 
