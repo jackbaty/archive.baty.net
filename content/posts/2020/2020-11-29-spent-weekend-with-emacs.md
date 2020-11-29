@@ -11,7 +11,7 @@ With so much newly-found free time, I began flirting with all manner of sexy too
 
 Over the recent holiday, I thought I'd take the time to clean out my digital closets and get a little organized. My desktop was riddled with screenshots, receipts, and other detritus I'd been ignoring. And I don't even want to talk about my Downloads folder. Yikes. It felt good getting through that.
 
-I went from Downloads to Dropbox. There were a few folders there with names like "notes", "old-notes", "org", "obsidian", etc. I figured I'd just sneak in, zip things up, and put them somewhere in ~/archive.
+I went from ~/Downloads to ~/Dropbox. There were a few folders there with names like "notes", "old-notes", "org", "obsidian", etc. I figured I'd just sneak in, zip things up, and put them somewhere in ~/archive.
 
 I cracked open the "old-notes" folder. It was full of Markdown files. They've been there for years, undisturbed. I figured it wouldn't hurt anything if I just opened one or two to see what it was like. That's when it started. 
 
