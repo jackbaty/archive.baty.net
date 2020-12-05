@@ -1,7 +1,7 @@
 ---
 layout: default
 title: YASnippet for Hugo frontmatter
-excerpt: Tweaking my Emacs text snippets
+excerpt: Tweaking my Emacs snippets for posting to Hugo
 date:  2020-12-05
 tags: ["Emacs"]
 categories: ["Emacs"]
