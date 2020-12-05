@@ -1,0 +1,279 @@
+{\rtf1\mac\ansicpg10000\cocoartf823
+{\fonttbl\f0\fmodern\fcharset77 Courier;}
+{\colortbl;\red255\green255\blue255;\red101\green119\blue153;\red50\green60\blue77;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl320\ql\qnatural
+
+\f0\fs24 \cf0 // {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?CCDTextFieldCell"}}{\fldrslt \cf2 \ul \ulc2 CCDTextFieldCell}}.h\
+#import <{\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?AppKit"}}{\fldrslt \cf3 \ul \ulc3 AppKit}}/{\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?AppKit"}}{\fldrslt \cf3 \ul \ulc3 AppKit}}.h>\
+#import "{\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?CCDImageCategory"}}{\fldrslt \cf3 \ul \ulc3 CCDImageCategory}}.h"\
+#import "{\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?CCDPTextView"}}{\fldrslt \cf3 \ul \ulc3 CCDPTextView}}.h"\
+#import "{\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSBezierPathCategory"}}{\fldrslt \cf3 \ul \ulc3 NSBezierPathCategory}}.h"\
+\
+@interface {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?CCDTextFieldCell"}}{\fldrslt \cf2 \ul \ulc2 CCDTextFieldCell}} : {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSTextFieldCell"}}{\fldrslt \cf3 \ul \ulc3 NSTextFieldCell}}\
+\{\
+        NSButtonCell *leftCell;\
+        NSButtonCell *rightCell;\
+\
+        {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSColor"}}{\fldrslt \cf3 \ul \ulc3 NSColor}} *labelColor;\
+\
+        {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSImage"}}{\fldrslt \cf3 \ul \ulc3 NSImage}} *scratch;\
+        BOOL isAnimating;\
+\}\
+\
+- (void)setLabelColor:({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSColor"}}{\fldrslt \cf3 \ul \ulc3 NSColor}} *)lColor;\
+- ({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSColor"}}{\fldrslt \cf3 \ul \ulc3 NSColor}} *)labelColor;\
+\
+- (void)setAnimating:(BOOL)animating;\
+- (BOOL)isAnimating;\
+\
+// modeled after NSSearchFieldCell\
+- (void)setLeftButtonCell:(id)cell;\
+- (id)leftButtonCell;\
+\
+- (void)setRightButtonCell:(id)cell;\
+- (id)rightButtonCell;\
+\
+- ({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})leftButtonRectForBounds:({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})bounds;\
+- ({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})rightButtonRectForBounds:({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})bounds;\
+\
+// These return the same rect.\
+- ({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})titleRectForBounds:({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})bounds; // inhereted from {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSCell"}}{\fldrslt \cf2 \ul \ulc2 NSCell}} but never called\
+- ({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})textRectForBounds:({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})bounds; // modeled after NSSearchFieldCell\
+\
+- ({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})labelRectForBounds:({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})bounds; // must support labels\
+\
+@end\
+\
+// {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?CCDTextFieldCell"}}{\fldrslt \cf2 \ul \ulc2 CCDTextFieldCell}}.m\
+#import "{\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?CCDTextFieldCell"}}{\fldrslt \cf2 \ul \ulc2 CCDTextFieldCell}}.h"\
+\
+@implementation {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?CCDTextFieldCell"}}{\fldrslt \cf2 \ul \ulc2 CCDTextFieldCell}}\
+\
+- (id)initTextCell:({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSString"}}{\fldrslt \cf3 \ul \ulc3 NSString}} *)txt\
+\{\
+    if (self = [super initTextCell:txt]) \{\
+\
+        leftCell = [[NSButtonCell alloc] initImageCell:nil];\
+        rightCell = [[NSButtonCell alloc] initImageCell:nil];\
+\
+            [leftCell setButtonType:NSMomentaryChangeButton];\
+            [leftCell setBezelStyle:NSRegularSquareBezelStyle];\
+            [leftCell setBordered:NO];\
+            [leftCell setImagePosition:NSImageOnly];\
+\
+            [rightCell setButtonType:NSMomentaryChangeButton];\
+            [rightCell setBezelStyle:NSRegularSquareBezelStyle];\
+            [rightCell setBordered:NO];\
+            [rightCell setImagePosition:NSImageOnly];\
+\
+            scratch = [[{\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSImage"}}{\fldrslt \cf3 \ul \ulc3 NSImage}} alloc] initWithSize:[self cellSize]];\
+            [scratch setFlipped:YES];\
+    \}\
+\
+    return self;\
+\}\
+\
+- (void)dealloc\
+\{\
+    [leftCell release];\
+    [rightCell release];\
+    [scratch release];\
+    [labelColor release];\
+\
+    [super dealloc];\
+\}\
+\
+#pragma mark Setters/Getters\
+- (void)setLeftButtonCell:(id)cell\
+\{\
+    [leftCell release];\
+    leftCell = [cell retain];\
+\}\
+- (id)leftButtonCell\
+\{\
+    return leftCell;\
+\}\
+\
+- (void)setRightButtonCell:(id)cell\
+\{\
+    [rightCell release];\
+    rightCell = [cell retain];\
+\}\
+- (id)rightButtonCell\
+\{\
+    return rightCell;\
+\}\
+\
+- (void)setLabelColor:({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSColor"}}{\fldrslt \cf3 \ul \ulc3 NSColor}} *)lColor\
+\{\
+    [labelColor autorelease];\
+    labelColor = lColor;\
+    [labelColor retain];\
+\}\
+- ({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSColor"}}{\fldrslt \cf3 \ul \ulc3 NSColor}} *)labelColor\
+\{\
+    return labelColor;\
+\}\
+\
+- (void)setAnimating:(BOOL)animating\
+\{\
+    isAnimating = animating;\
+\}\
+\
+- (BOOL)isAnimating \{ return isAnimating; \}\
+\
+#pragma mark Sizing\
+- ({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})textRectForBounds:({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})bounds\
+\{\
+    {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}} rect = NSInsetRect(bounds, 2, 2);\
+        rect.size.height = [super drawingRectForBounds:bounds].size.height;\
+\
+    \{ // Modify the bounds rect so our text gets drawn between our cells...\
+        {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSSize"}}{\fldrslt \cf3 \ul \ulc3 NSSize}} leftSize = [leftCell cellSize];\
+        {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSSize"}}{\fldrslt \cf3 \ul \ulc3 NSSize}} rightSize = [rightCell cellSize];\
+\
+        rect.origin.x += leftSize.width;\
+        rect.size.width -= leftSize.width;\
+\
+        rect.size.width -= rightSize.width;\
+\
+        // Deal with our rounded variation...\
+        if ([self bezelStyle] == NSTextFieldRoundedBezel) \{\
+            if (leftSize.width == 1) \{\
+                rect.origin.x += 5;\
+                rect.size.width -= 5;\
+            \}\
+            if (rightSize.width == 1)\
+                rect.size.width -= 5;\
+        \}\
+\
+    \}\
+\
+    return rect;\
+\}\
+\
+- ({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})leftButtonRectForBounds:({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})bounds\
+\{\
+    {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}} leftRect = {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSMakeRect"}}{\fldrslt \cf3 \ul \ulc3 NSMakeRect}}(0,0,0,0);\
+        leftRect.size = [leftCell cellSize];\
+    return leftRect;\
+\}\
+\
+- ({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})rightButtonRectForBounds:({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})bounds\
+\{\
+    {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}} rightRect = {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSMakeRect"}}{\fldrslt \cf3 \ul \ulc3 NSMakeRect}}(0,0,0,0);\
+\
+    rightRect.size = [rightCell cellSize];\
+    rightRect.origin.x = bounds.size.width - rightRect.size.width;\
+\
+    return rightRect;\
+\}\
+\
+- ({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})labelRectForBounds:({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})bounds\
+\{\
+    {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}} labelRect = [self textRectForBounds:bounds];\
+    if (![self isHighlighted]) \{ // guesses..\
+        labelRect.origin.x += 3;\
+        labelRect.origin.y += 2;\
+        labelRect.size.width -= 3;\
+    \} else labelRect = [self rightButtonRectForBounds:bounds]; // mimic Finder?\
+\
+    return labelRect;\
+\}\
+\
+- ({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})drawingRectForBounds:({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})theRect\
+\{\
+    return [self textRectForBounds:theRect];\
+\}\
+\
+#pragma mark Drawing\
+- (BOOL)showsFirstResponder \{ return NO; \}\
+- (BOOL)drawsBackground \{ return NO; \}\
+\
+- (void)drawWithFrame:({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})cellFrame inView:({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSView"}}{\fldrslt \cf3 \ul \ulc3 NSView}} *)controlView\
+\{\
+    {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSImage"}}{\fldrslt \cf3 \ul \ulc3 NSImage}} *progress;\
+    {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}} pRect, lRect = [self labelRectForBounds:cellFrame];\
+    {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSColor"}}{\fldrslt \cf3 \ul \ulc3 NSColor}} *lColor = [self labelColor];\
+    {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSImage"}}{\fldrslt \cf3 \ul \ulc3 NSImage}} *superImage = [[{\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSImage"}}{\fldrslt \cf3 \ul \ulc3 NSImage}} alloc] initWithSize:cellFrame.size];\
+            [superImage setFlipped:YES];\
+            [scratch setSize:cellFrame.size];\
+\
+            [superImage lockFocus]; // We want what would normally go in the controlView in an image instead.\
+            [super drawWithFrame:cellFrame inView:superImage]; // nevermind the warning, see {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?CCDImageCategory"}}{\fldrslt \cf3 \ul \ulc3 CCDImageCategory}}.h\
+            [superImage unlockFocus];\
+\
+    if ([controlView respondsToSelector:@selector(progressIndicator)]) \{ // grab the progress..\
+        {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSProgressIndicator"}}{\fldrslt \cf3 \ul \ulc3 NSProgressIndicator}} *indicator = [({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?CCDTextField"}}{\fldrslt \cf2 \ul \ulc2 CCDTextField}} *)controlView progressIndicator];\
+        pRect = NSOffsetRect([controlView bounds], 4, 4);\
+        progress = [[{\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSImage"}}{\fldrslt \cf3 \ul \ulc3 NSImage}} alloc] initWithSize:pRect.size];\
+        [progress setFlipped:YES];\
+\
+            [progress lockFocus]; // draw the progress\
+            [indicator setFrameSize:pRect.size]; \
+            [indicator drawRect:[indicator bounds]];   \
+            [progress unlockFocus];\
+    \}\
+\
+    [scratch lockFocus]; // composite..\
+        [[{\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSColor"}}{\fldrslt \cf3 \ul \ulc3 NSColor}} whiteColor] set];\
+        NSRectFill(cellFrame); // clear scratch of any previous drawing\
+\
+     if (isAnimating) // progress..\
+        [progress drawAtPoint:{\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSZeroPoint"}}{\fldrslt \cf3 \ul \ulc3 NSZeroPoint}} fromRect:NSInsetRect(cellFrame, 2, 4) operation:NSCompositeSourceOver fraction:1];\
+\
+    if (lColor) \{ // label..\
+        [lColor set];\
+        [{\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSBezierPath"}}{\fldrslt \cf3 \ul \ulc3 NSBezierPath}} fillRoundRectInRect:lRect radius:90]; // no clue if this is right, wish it was a little rounder though.\
+    \}\
+\
+    [superImage drawAtPoint:{\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSZeroPoint"}}{\fldrslt \cf3 \ul \ulc3 NSZeroPoint}} fromRect:cellFrame operation:NSCompositeDestinationAtop fraction:1];\
+    [scratch unlockFocus];\
+\
+    // draw it\
+    [scratch drawAtPoint:{\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSZeroPoint"}}{\fldrslt \cf3 \ul \ulc3 NSZeroPoint}} fromRect:cellFrame operation:NSCompositeSourceOver fraction:1];\
+    [super drawInteriorWithFrame:cellFrame inView:controlView];\
+\
+    \{ // draw the left and right cells as needed\
+        [leftCell drawWithFrame:[self leftButtonRectForBounds:cellFrame] inView:controlView];\
+        [rightCell drawWithFrame:[self rightButtonRectForBounds:cellFrame] inView:controlView];\
+    \}\
+\}\
+\
+#pragma mark Cursor\
+- (void)resetCursorRect:({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})cellFrame inView:({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSView"}}{\fldrslt \cf3 \ul \ulc3 NSView}} *)controlView\
+\{\
+    [super resetCursorRect:[self textRectForBounds:cellFrame] inView:controlView];\
+\}\
+\
+#pragma mark Selection Handling\
+static id lastView;\
+ - (void)selectWithFrame:({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRect"}}{\fldrslt \cf3 \ul \ulc3 NSRect}})aRect inView:({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSView"}}{\fldrslt \cf3 \ul \ulc3 NSView}} *)controlView editor:({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSText"}}{\fldrslt \cf3 \ul \ulc3 NSText}} *)textObj delegate:(id)anObject start:(int)selStart length:(int)selLength\
+ \{\
+     {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSEvent"}}{\fldrslt \cf3 \ul \ulc3 NSEvent}} *curEvent = [{\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSApp"}}{\fldrslt \cf3 \ul \ulc3 NSApp}} currentEvent];\
+     {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSPoint"}}{\fldrslt \cf3 \ul \ulc3 NSPoint}} mouseLoc= [controlView convertPoint:[curEvent locationInWindow] fromView:nil];\
+\
+     if (![lastView isEqualTo:controlView]) \{\
+        if ([curEvent type] == {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSKeyDown"}}{\fldrslt \cf3 \ul \ulc3 NSKeyDown}})\
+            [super selectWithFrame:aRect inView:controlView editor:textObj delegate:anObject start:selStart length:selLength];\
+         else\
+             if (!NSPointInRect(mouseLoc, [self textRectForBounds:[controlView bounds]]))\
+                 [super selectWithFrame:aRect inView:controlView editor:textObj delegate:anObject start:0 length:[[self stringValue] length]];\
+              else [super editWithFrame:aRect inView:controlView editor:textObj delegate:anObject event:curEvent];\
+\
+            lastView = controlView;\
+            return;\
+     \}\
+\
+     if (!NSPointInRect(mouseLoc, [self textRectForBounds:[controlView bounds]])) \{\
+         {\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?NSRange"}}{\fldrslt \cf3 \ul \ulc3 NSRange}} range = [({\field{\*\fldinst{HYPERLINK "http://cocoadev.com/index.pl?CCDPTextView"}}{\fldrslt \cf3 \ul \ulc3 CCDPTextView}}*)textObj prvtSelectedRange];\
+         selStart = range.location;\
+         selLength = range.length;\
+         [super selectWithFrame:aRect inView:controlView editor:textObj delegate:anObject start:selStart length:selLength]; \
+       return;\
+     \}\
+\
+    [super editWithFrame:aRect inView:controlView editor:textObj delegate:anObject event:curEvent];\
+\}\
+\
+@end}
