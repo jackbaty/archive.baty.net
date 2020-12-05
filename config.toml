@@ -47,11 +47,11 @@ theme = "LoveIt"
 	  weight = 4
 
 	[[menu.main]]
-	  identifier = "roam"
+	  identifier = "wiki"
 	  pre = ""
 	  post = ""
-	  name = "Roam"
-	  url = "/roam/"
+	  name = "Wiki"
+	  url = "https://rudimentarylathe.wiki"
 	  title = ""
 	  weight = 5
 
