@@ -12,7 +12,7 @@ I was a partner at Fusionary Media from 1995 until we sold the company in May of
 
 I blog here at [baty.net](https://www.baty.net/) ✒️. I write about photography, blogging, analog tools, productivity, software, you name it.
 
-I also write daily, in public, using TiddlyWiki at [Rudimentary Lathe](https://rudimentarylathe.org).
+I take notes, daily, in public, using TiddlyWiki at [Rudimentary Lathe](https://rudimentarylathe.wiki).
 
 You can email me at [jack@baty.net](mailto:jack@baty.net) ✉️. I still like receiving email!
 
@@ -34,9 +34,10 @@ Do not expect consistency.
 **Weblogs and other publishing experiments**
 
 - [baty.net](https://baty.net/) - You're soaking in it, since 2000
+- [rudimentarylathe.org](https://rudimentarylathe.wiki/) - My original wiki (using Tiddlywiki)
+- [copingmechanism.com](https://copingmechanism.com/) - My occasional blog, mostly about photography.
 - [baty.net/roam](https://baty.net/roam) - A public
   [Roam](https://roamresearch.com) database used as a wiki and sort of microblog
-- [rudimentarylathe.org](https://rudimentarylathe.org/) - My original wiki (using Tiddlywiki)
 - [tilde.club/~jbaty](https://tilde.club/~jbaty) - because nostalgia is strong
   and Paul Ford is my hero
 
