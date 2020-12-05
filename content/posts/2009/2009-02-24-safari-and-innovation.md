@@ -8,7 +8,7 @@ tags:
 - geek
 - Safari
 thesis_post_image:
-- https://www.baty.net/files/safari-logo.png
+- /files/safari-logo.png
 title: Safari and Innovation
 url: /2009/safari-and-innovation/
 ---

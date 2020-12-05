@@ -17,8 +17,8 @@ The new 5D was announced recently, and I was disappointed. The only compelling n
 
 Screw that, I bought a D300.
 
-[<img src="https://www.baty.net/files//nikon_d300.jpg" alt="" title="nikon_d300" width="400" height="363" class="aligncenter size-full wp-image-2710" />][1]
+[<img src="/files//nikon_d300.jpg" alt="" title="nikon_d300" width="400" height="363" class="aligncenter size-full wp-image-2710" />][1]
 
 So it would seem I'm now a Nikon Guy. Someday I'll take some photos with it.
 
- [1]: https://www.baty.net/files//nikon_d300.jpg
+ [1]: /files//nikon_d300.jpg

@@ -7,7 +7,7 @@ title: 'AeroPress: Best Coffee Maker Ever'
 url: /2007/aeropress-best-coffee-maker-ever/
 ---
 
-<img src="https://www.baty.net/files/aero_press_04.jpg" style="border: 0;" alt="image" width="150" height="302" />
+<img src="/files/aero_press_04.jpg" style="border: 0;" alt="image" width="150" height="302" />
 
 The [Aeropress Coffee/Espresso Maker][1] is awesome. For less than $30 you can have a small, simple device that makes a really great espresso or American cup of coffee. 
 

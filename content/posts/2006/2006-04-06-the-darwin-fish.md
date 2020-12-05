@@ -10,7 +10,7 @@ url: /2006/the-darwin-fish/
 You know that funny little fish with legs that smartass evolutionists use to make fun of the funny little legless fish used by the creationists? 
 
 
-<img src="https://www.baty.net/files/2006/04/files/darwinfish.png" height="141" width="278" border="1" hspace="4" vspace="4" alt="Darwinfish-1" /> 
+<img src="/files/2006/04/files/darwinfish.png" height="141" width="278" border="1" hspace="4" vspace="4" alt="Darwinfish-1" /> 
 
 [Turns out it's real][1] 
 

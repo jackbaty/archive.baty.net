@@ -11,7 +11,7 @@ title: Always Carrying a Camera
 url: /2009/always-carrying-a-camera/
 ---
 
-<img src="https://www.baty.net/files/man-with-helmet-and-camera.jpeg" alt="man-with-helmet-and-camera.jpeg" border="0" width="383" height="481" />
+<img src="/files/man-with-helmet-and-camera.jpeg" alt="man-with-helmet-and-camera.jpeg" border="0" width="383" height="481" />
   
 <span class="photo_caption">Photo courtesy LIFE magazine</span>
 

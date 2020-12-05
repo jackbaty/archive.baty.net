@@ -63,10 +63,10 @@ Ingest, Cull, Label and Keyword using Photo Mechanic. PM will rename and apply I
 
 I keep all files in directories based on date with a summary. Looks something like this&#8230;
 
-[<img src="https://www.baty.net/files//photo-folder.jpg" alt="" title="photo-folder" width="178" height="304" class="aligncenter size-full wp-image-2746" />][1]
+[<img src="/files//photo-folder.jpg" alt="" title="photo-folder" width="178" height="304" class="aligncenter size-full wp-image-2746" />][1]
 
 Once things are culled, I open any image that needs tweaking in Capture NX2, make my edits, and save a version directly into the original Raw NEF file (no silly sidecar files for me!) After all edits are complete, I filter only images with one or more stars, then upload them directly from Photo Mechanic to Photoshelter for online archiving. Some of these are then published to galleries. One or two might then be exported for Flickr or emailed to family.
 
 That's it. Not so bad, eh?
 
- [1]: https://www.baty.net/files//photo-folder.jpg
+ [1]: /files//photo-folder.jpg

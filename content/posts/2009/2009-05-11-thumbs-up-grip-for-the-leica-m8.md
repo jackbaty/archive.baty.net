@@ -4,7 +4,7 @@ categories:
 - Journal
 date: 2009-05-11T14:32:23+00:00
 thesis_post_image:
-- https://www.baty.net/files/ThumbsUp-0-20090511-183902.jpg
+- /files/ThumbsUp-0-20090511-183902.jpg
 title: Thumbs Up grip for the Leica M8
 url: /2009/thumbs-up-grip-for-the-leica-m8/
 ---
@@ -32,5 +32,5 @@ I ordered the Thumbs Up Model 1 from Tony Rose at PopFlash Photo and it arrived 
 Highly Recommended.
 
  [1]: files/ThumbsUp-2-20090511-183941.jpg
- [2]: https://www.baty.net/files/ThumbsUp-3-20090511-184100.jpg
- [3]: https://www.baty.net/files/ThumbsUp-4-20090511-184129.jpg
+ [2]: /files/ThumbsUp-3-20090511-184100.jpg
+ [3]: /files/ThumbsUp-4-20090511-184129.jpg

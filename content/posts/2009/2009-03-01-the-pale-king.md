@@ -6,7 +6,7 @@ date: 2009-03-02T02:48:52+00:00
 tags:
 - Art
 thesis_post_image:
-- https://www.baty.net/files/dfw-field.jpg
+- /files/dfw-field.jpg
 thesis_post_image_alt:
 - David Foster Wallace (photo by Marion Ettlinger)
 thesis_post_image_frame:

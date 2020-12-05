@@ -7,7 +7,7 @@ tags:
 - gear
 - photography
 thesis_post_image:
-- https://www.baty.net/files/leicam8-chrome-20090417-174809.jpg
+- /files/leicam8-chrome-20090417-174809.jpg
 title: Leica M8 Pending
 url: /2009/leica-m8-pending/
 ---

@@ -6,7 +6,7 @@ date: 2009-02-15T16:40:24+00:00
 tags:
 - photography
 thesis_post_image:
-- https://www.baty.net/files/wpid2891-20090210-013.jpg
+- /files/wpid2891-20090210-013.jpg
 thesis_post_image_alt:
 - Leica M4
 title: Light-tight box my Ass!

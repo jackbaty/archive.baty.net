@@ -9,4 +9,4 @@ title: Multitasking?
 url: /2008/multitasking/
 ---
 
-<img src="https://www.baty.net/files/multitasking-toolbar.png" alt="multitasking-toolbar.png" border="0" width="500" height="52" />
+<img src="/files/multitasking-toolbar.png" alt="multitasking-toolbar.png" border="0" width="500" height="52" />

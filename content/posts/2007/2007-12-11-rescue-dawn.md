@@ -9,7 +9,7 @@ title: Rescue Dawn ***
 url: /2007/rescue-dawn/
 ---
 
-<img src="https://www.baty.net/files/rescue-dawn.jpg" alt="rescue-dawn.jpg" border="0" width="500" height="270" />
+<img src="/files/rescue-dawn.jpg" alt="rescue-dawn.jpg" border="0" width="500" height="270" />
 
 Rescue Dawn has all the right things. Christian Bale, The Great Escape, Steve Zahn, Werner Herzog, 91% [Tomatometer][1].
 

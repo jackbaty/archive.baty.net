@@ -9,7 +9,7 @@ title: 'Movie: Death at a Funeral'
 url: /2008/movie-death-at-a-funeral/
 ---
 
-<img src="https://www.baty.net/files/death-at-a-funeral_film.jpg" alt="death-at-a-funeral_film.jpg" border="0" width="450" height="280" />
+<img src="/files/death-at-a-funeral_film.jpg" alt="death-at-a-funeral_film.jpg" border="0" width="450" height="280" />
 
 I seem to have a weak spot for rude British humour. I lost nearly an hour laughing uncontrollably watching [Death at a Funeral][1]. It's probably not that funny, but who cares, it felt great anyway.
 

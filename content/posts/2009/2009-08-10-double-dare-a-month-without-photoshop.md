@@ -10,7 +10,7 @@ image_source:
 tags:
 - photography
 thesis_post_image:
-- https://www.baty.net/files/hdr-and-a-lot-of-it.jpg
+- /files/hdr-and-a-lot-of-it.jpg
 title: 'Double Dare: A Month Without Photoshop'
 url: /2009/double-dare-a-month-without-photoshop/
 ---

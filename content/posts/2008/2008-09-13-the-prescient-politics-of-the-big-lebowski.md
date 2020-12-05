@@ -4,7 +4,7 @@ categories:
 - Journal
 date: 2008-09-13T17:19:25+00:00
 image:
-- https://www.baty.net/files/the-big-lebowski-3.jpg
+- /files/the-big-lebowski-3.jpg
 tags:
 - film
 - politics
@@ -12,7 +12,7 @@ title: The prescient politics of The Big Lebowski
 url: /2008/the-prescient-politics-of-the-big-lebowski/
 ---
 
-<img src="https://www.baty.net/files//biglebowski.jpg" alt="BigLebowski.jpg" border="0" width="105" height="155" class="alignleft" />
+<img src="/files//biglebowski.jpg" alt="BigLebowski.jpg" border="0" width="105" height="155" class="alignleft" />
 
 <span class="drop_cap">M</span>y first time watching \_The Big Lebowski\_ was a terrible disappointment. I hated it. This came as a shock to me as I'd loved every other Coen film so much. Surely something was wrong. About a year later I gave it another shot and that was all it took. It's now one of my favorites. Strange how that works.
 

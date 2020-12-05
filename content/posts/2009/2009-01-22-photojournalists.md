@@ -6,7 +6,7 @@ date: 2009-01-23T00:17:54+00:00
 tags:
 - photography
 thesis_post_image:
-- https://www.baty.net/files/photojournalists.jpg
+- /files/photojournalists.jpg
 thesis_post_image_alt:
 - photojournalists
 thesis_post_image_frame:

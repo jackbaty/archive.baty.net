@@ -11,7 +11,7 @@ url: /2009/in-a-dark-room/
 
 I have a darkroom. This has happened before.
 
-<img src="https://www.baty.net/files/23CII.jpg" alt="23CII.jpg" border="0" width="500" height="399" />
+<img src="/files/23CII.jpg" alt="23CII.jpg" border="0" width="500" height="399" />
 
 My first darkroom was in what my grandma called the "fruit cellar" of my old house. It was a small, musty place full of pipes lined with asbestos. I hated it, and printed maybe a total of 20 8&#215;10 photos there. Eventually just gave everything away. But that was a long time ago, and I've mostly forgotten how awful it was. So, I built another.
 

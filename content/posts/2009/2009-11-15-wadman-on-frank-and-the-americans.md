@@ -13,7 +13,7 @@ url: /2009/wadman-on-frank-and-the-americans/
 
 > That's 1000 selects, which had probably gone through quite a distillation process to even get there. Let's figure that he chose maybe one image per roll on average, so that's like 20,000 images over the course of two years driving around the country. Anybody is going to take some great pictures (though I'd like to say that as a rule, the images were not very good from a technical point of view. Often soft in focus, obviously heavily cropped from a larger frame, look like they had to be saved in the darkroom with lots of dodging and burning, etc. but I digress) So give a camera to your average joe and have him shoot 20,000 pictures over the course of 2 years, at a time when people didn't have the same phobia of getting their pictures taken as they do now, then distill out the best 83. I'm pretty sure you're going to get a decent sampling just by chance. 
 
-<img src="https://www.baty.net/files/robert-frank_flag.jpg" alt="robert-frank_flag.jpg" width="400" height="266" border="0" />
+<img src="/files/robert-frank_flag.jpg" alt="robert-frank_flag.jpg" width="400" height="266" border="0" />
   
 <span class="photo_caption">Robert Frank (b. 1924) Parade &#8211; Hoboken, New Jersey, 1955</span>
 
@@ -23,7 +23,7 @@ When looking at most photographs, I don't notice, or care much about, the "techn
 
 Robert Frank's photographs make me want to go out and take photos. Wadman's just make me want to go out and buy a nicer camera. I prefer the former. To each, his own.
 
-<img src="https://www.baty.net/files/frank-the-americans-book.jpg" alt="frank-the-americans-book.jpg" width="333" height="500" border="0" />
+<img src="/files/frank-the-americans-book.jpg" alt="frank-the-americans-book.jpg" width="333" height="500" border="0" />
   
 <span class="photo_caption">The table by my reading chair, as of this morning. I love <em>The Americans</em>.</span>
 

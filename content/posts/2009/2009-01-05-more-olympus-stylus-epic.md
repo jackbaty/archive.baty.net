@@ -6,7 +6,7 @@ date: 2009-01-06T00:18:32+00:00
 tags:
 - photography
 thesis_post_image:
-- https://www.baty.net/files//20090105-004.jpg
+- /files//20090105-004.jpg
 thesis_post_image_alt:
 - Olympus Stylus Epics
 thesis_post_image_frame:

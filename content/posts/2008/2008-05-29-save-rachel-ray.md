@@ -9,7 +9,7 @@ title: Save Rachel Ray
 url: /2008/save-rachel-ray/
 ---
 
-<img src="https://www.baty.net/files/rachael_ray.jpg" alt="rachael_ray.ap.03.jpg" border="0" width="220" height="249" />
+<img src="/files/rachael_ray.jpg" alt="rachael_ray.ap.03.jpg" border="0" width="220" height="249" />
 
 So Rachel Ray wears a scarf in a Dunkin Donuts ad. Conservative columnist Michelle Malkin decides that since a number of bad guys have worn similar scarves that the ad is somehow sympathetic with terrorists. [The ad is pulled][1]. Seems that wearing a certain type of scarf (a "kaffiyeh") "&#8230;has come to symbolize murderous Palestinian jihad."
 

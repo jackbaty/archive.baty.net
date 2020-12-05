@@ -6,7 +6,7 @@ date: 2009-08-29T13:05:10+00:00
 tags:
 - personal
 thesis_post_image:
-- https://www.baty.net/files/the-great-purge.gif
+- /files/the-great-purge.gif
 title: The Great Purge
 url: /2009/the-great-purge/
 ---

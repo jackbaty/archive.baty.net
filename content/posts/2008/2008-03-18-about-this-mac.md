@@ -9,7 +9,7 @@ title: About This Mac
 url: /2008/about-this-mac/
 ---
 
-<img src="https://www.baty.net/files/AboutThisMac.jpg" alt="AboutThisMac.jpg" border="0" width="371" height="432" />
+<img src="/files/AboutThisMac.jpg" alt="AboutThisMac.jpg" border="0" width="371" height="432" />
 
 I recently upgraded from the original 2 GHz Core Duo MacBook Pro with 2 GB of <span class="caps">RAM</span> and a 100GB 5200 <span class="caps">RPM</span> hard drive to a new 2.5 GHz Core 2 Duo with 4 GB <span class="caps">RAM</span> and a 200GB 7200 <span class="caps">RPM</span> drive.
 

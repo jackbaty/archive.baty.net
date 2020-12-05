@@ -6,7 +6,7 @@ date: 2009-02-21T16:46:45+00:00
 tags:
 - photography
 thesis_post_image:
-- https://www.baty.net/files/biogont-35mmzmsilver.jpg
+- /files/biogont-35mmzmsilver.jpg
 thesis_post_image_alt:
 - Zeiss Biogon 35
 title: Trying the Zeiss Biogon 35mm

@@ -8,7 +8,7 @@ dsq_thread_id:
 tags:
 - photography
 thesis_post_image:
-- https://www.baty.net/files/RenzemaReunion006.jpg
+- /files/RenzemaReunion006.jpg
 thesis_post_image_alt:
 - Renzema Reunion group portrait
 title: Lessons from an Informal Family Portrait

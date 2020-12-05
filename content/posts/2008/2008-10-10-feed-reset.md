@@ -16,8 +16,8 @@ url: /2008/feed-reset/
 
 Time to start over. I've just unsubscribed from every single feed in Google Reader. 312 of them. No more "12 best WordPress Themes" or "How to use Social Networks" or "10 ways to Rounded Corners using CSS" or "Ruby tips and tricks" or "Top 5 GTD Apps for OS X."
 
-[<img src="https://www.baty.net/files//googlereader.jpg" alt="" title="googlereader" width="297" height="130" class="aligncenter size-medium wp-image-2722" />][1]
+[<img src="/files//googlereader.jpg" alt="" title="googlereader" width="297" height="130" class="aligncenter size-medium wp-image-2722" />][1]
 
 I'm now on the lookout for good blogs about photography, film, art, writing, science and so on. You know, stuff about life.
 
- [1]: https://www.baty.net/files//googlereader.jpg
+ [1]: /files//googlereader.jpg

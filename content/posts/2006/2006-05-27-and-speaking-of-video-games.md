@@ -10,6 +10,6 @@ url: /2006/and-speaking-of-video-games/
 Remember Apple's Pippin? I barely do, and am better for it. 
 
 
-<img id="image1254" src="https://www.baty.net/files/pippin.jpg" alt="Apple Pippin" /> 
+<img id="image1254" src="/files/pippin.jpg" alt="Apple Pippin" /> 
 
 More photos and information [here](<http://www.macgeek.org/museum/pippin/photoalbum.html>)

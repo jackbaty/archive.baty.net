@@ -6,7 +6,7 @@ date: 2009-08-27T00:10:45+00:00
 tags:
 - productivity
 thesis_post_image:
-- https://www.baty.net/files/nops3.jpg
+- /files/nops3.jpg
 title: Things I can cross off my list
 url: /2009/things-i-can-cross-off-my-list/
 ---

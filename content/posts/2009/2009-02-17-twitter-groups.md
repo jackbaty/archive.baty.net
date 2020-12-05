@@ -7,7 +7,7 @@ tags:
 - geek
 - Web
 thesis_post_image:
-- https://www.baty.net/files/twitter-logo.jpg
+- /files/twitter-logo.jpg
 thesis_post_image_alt:
 - twitter logo
 title: Twitter Groups

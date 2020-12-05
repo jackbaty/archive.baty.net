@@ -9,7 +9,7 @@ title: Great Olan Mills Photos
 url: /2007/great-olan-mills-photos/
 ---
 
-<img src="https://www.baty.net/files/groovyfam.jpg" alt="groovyfam.jpg" border="0" width="306" height="400" />
+<img src="/files/groovyfam.jpg" alt="groovyfam.jpg" border="0" width="306" height="400" />
 
 A [whole series][1] of great 70s-ish studio portraits. Hilarious.
 

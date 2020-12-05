@@ -17,7 +17,7 @@ Easy, here's how I did it. The whole process took me less than 15 minutes from c
 
 First, I created an Agent which collects any note containing a tag labeled "YM."
 
-[<img src="https://www.baty.net/files//tinderbox-yammer-agent.jpg" alt="" title="tinderbox-yammer-agent" width="456" height="650" class="aligncenter size-full wp-image-2698" />][1]
+[<img src="/files//tinderbox-yammer-agent.jpg" alt="" title="tinderbox-yammer-agent" width="456" height="650" class="aligncenter size-full wp-image-2698" />][1]
 
 When the agent runs, it first calls out to a shell command which uses curl to post the note's title to Yammer via Yammer's API. Here's the action run by the Agent.
 
@@ -29,14 +29,14 @@ After the shell command, it removes the "YM" tag from the note, preventing subse
 
 To easily add the "YM" tag to a note, I created a Stamp.
 
-[<img src="https://www.baty.net/files//tinderbox-yammer-stamp.jpg" alt="" title="tinderbox-yammer-stamp" width="464" height="255" class="aligncenter size-full wp-image-2699" />][2]
+[<img src="/files//tinderbox-yammer-stamp.jpg" alt="" title="tinderbox-yammer-stamp" width="464" height="255" class="aligncenter size-full wp-image-2699" />][2]
 
 Wrapping it all up, to send a note to Yammer, I simply select the note and choose "Send to Yammer" from the menu and whoop, there it is.
 
-[<img src="https://www.baty.net/files//tinderbox-yammer-menu.jpg" alt="" title="tinderbox-yammer-menu" width="254" height="152" class="aligncenter size-full wp-image-2700" />][3]
+[<img src="/files//tinderbox-yammer-menu.jpg" alt="" title="tinderbox-yammer-menu" width="254" height="152" class="aligncenter size-full wp-image-2700" />][3]
 
 This makes me happy.
 
- [1]: https://www.baty.net/files//tinderbox-yammer-agent.jpg
- [2]: https://www.baty.net/files//tinderbox-yammer-stamp.jpg
- [3]: https://www.baty.net/files//tinderbox-yammer-menu.jpg
+ [1]: /files//tinderbox-yammer-agent.jpg
+ [2]: /files//tinderbox-yammer-stamp.jpg
+ [3]: /files//tinderbox-yammer-menu.jpg

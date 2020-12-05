@@ -9,7 +9,7 @@ title: MacBook Air
 url: /2008/macbook-air/
 ---
 
-<img src="https://www.baty.net/files/air.jpg" alt="air.jpg" border="0" width="498" height="59" />
+<img src="/files/air.jpg" alt="air.jpg" border="0" width="498" height="59" />
 
 I've wanted an Air since the day they were announced. So yesterday I bought one. But why? Well, other than the fact that I **really** wanted one, I do actually have a plan. 
 

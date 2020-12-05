@@ -15,13 +15,13 @@ url: /2008/socialthing-vs-friendfeed-im-going-with-socialthing/
 
 **Don't like about FriendFeed:** I have to add each "friend" individually, most of them imaginary. And just _look at it_&#8230;
 
-<img src="https://www.baty.net/files/FriendFeed.jpg" alt="FriendFeed.jpg" border="0" width="504" height="386" />
+<img src="/files/FriendFeed.jpg" alt="FriendFeed.jpg" border="0" width="504" height="386" />
 
 [Socialthing!][3] is still in private beta, but works much more to my liking. 
 
 **Like about Socialthing!** I add **services** instead of people, and everyone shows up automatically. And _just look at it_&#8230;
 
-<img src="https://www.baty.net/files/socialthing.jpg" alt="socialthing.jpg" border="0" width="565" height="344" />
+<img src="/files/socialthing.jpg" alt="socialthing.jpg" border="0" width="565" height="344" />
 
 **Don't like about Socialthing!:** Fewer available services (but all the ones that matter to me.) Beta is too private. They've reduced the number of invites due to (I assume) traffic pains and so I can't share the love as much as I'd like.
 

@@ -16,4 +16,4 @@ This seems like as good a reason as any to grab a new GF1. Any Micro 4/3rds came
 <span class="photo_caption">Photo from <a href='http://theonlinephotographer.typepad.com/the_online_photographer/2009/10/gf1-madness.html'>The Online Photographer</a>.</span>
 
  [1]: http://theonlinephotographer.typepad.com/the_online_photographer/blog_index.html
- [2]: https://www.baty.net/files/GF1-with-Summilux.jpg
+ [2]: /files/GF1-with-Summilux.jpg

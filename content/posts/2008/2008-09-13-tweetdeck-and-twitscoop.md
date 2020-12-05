@@ -4,7 +4,7 @@ categories:
 - Journal
 date: 2008-09-13T19:18:50+00:00
 image:
-- https://www.baty.net/files/TweetDeckFull.jpg
+- /files/TweetDeckFull.jpg
 tags:
 - twitter
 title: TweetDeck and TwitScoop
@@ -15,8 +15,8 @@ url: /2008/tweetdeck-and-twitscoop/
 
 My favorite of TweetDeck's features is its "TwitScoop":http://www.twitscoop.com/ integration.
 
-[<img src="https://www.baty.net/files//tweetdeck-189x300.jpg" alt="" title="tweetdeck" width="189" height="300" class="aligncenter size-medium wp-image-2667" />][1]
+[<img src="/files//tweetdeck-189x300.jpg" alt="" title="tweetdeck" width="189" height="300" class="aligncenter size-medium wp-image-2667" />][1]
 
 One glance at the TwitScoop column running on my second monitor and I can easily spot breaking news or popular topics. Clicking any of the words in the TwitScoop cloud brings me to the TwitScoop search for that word. Very handy.
 
- [1]: https://www.baty.net/files/tweetdeck.jpg
+ [1]: /files/tweetdeck.jpg

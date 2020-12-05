@@ -9,7 +9,7 @@ url: /2004/equipment-wanker/
 
 Just bear with me while I get through the equipment wanker stage.
 
-<img src="https://www.baty.net/files//jack-new-leica3.jpg" alt="jack-new-leica3" title="jack-new-leica3" width="500" height="338" class="aligncenter size-full wp-image-2827" />
+<img src="/files//jack-new-leica3.jpg" alt="jack-new-leica3" title="jack-new-leica3" width="500" height="338" class="aligncenter size-full wp-image-2827" />
 
 <div class="photo_caption">
   [photo courtesy Steve Lewis]

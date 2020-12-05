@@ -4,7 +4,7 @@ categories:
 - Journal
 date: 2009-09-07T14:49:29+00:00
 thesis_post_image:
-- https://www.baty.net/files/megaphone-monkey.jpg
+- /files/megaphone-monkey.jpg
 title: Don&#039;t review what you haven&#039;t used
 url: /2009/dont-review-what-you-havent-used/
 ---

@@ -14,7 +14,7 @@ title: Connect360 and the XBox
 url: /2008/connect360-and-the-xbox/
 ---
 
-<img src="https://www.baty.net/files/connect360.jpg" alt="connect360.jpg" border="0" width="97" height="94" />
+<img src="/files/connect360.jpg" alt="connect360.jpg" border="0" width="97" height="94" />
 
 I felt so dirty as I wandered into Best Buy to grab a copy of Vista. There was really no way around it, since I sometimes need to test web stuff in IE, manage a few SQL Server databases and of course play the occasional game.
 

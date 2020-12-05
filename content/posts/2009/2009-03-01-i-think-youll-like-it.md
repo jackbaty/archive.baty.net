@@ -4,7 +4,7 @@ categories:
 - Journal
 date: 2009-03-01T22:45:44+00:00
 thesis_post_image:
-- https://www.baty.net/files/borat.jpg
+- /files/borat.jpg
 title: I Think You&#039;ll Like It
 url: /2009/i-think-youll-like-it/
 ---

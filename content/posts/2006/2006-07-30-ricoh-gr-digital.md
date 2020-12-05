@@ -12,7 +12,7 @@ url: /2006/ricoh-gr-digital/
 After much hand-wringing and the selling of my 20D, Ive finally bought myself a Ricoh GR Digital 
 
 
-<img src="https://www.baty.net/files/gr_digital_j_a.jpg" alt="gr_digital_j_a.jpg" width="400" height="242" /> 
+<img src="/files/gr_digital_j_a.jpg" alt="gr_digital_j_a.jpg" width="400" height="242" /> 
 
 This unique compact camera has gotten very mixed reviews. The fly in the ointment has generally been comprised of 2 things: noise at high ISO and very slow RAW write speeds. Both of these complaints are completely valid but they dont tell the whole story. 
 
@@ -50,6 +50,6 @@ Whats not so good
 
 * Its way too expensive (I paid $650) for an ordinary compact point-and-shoot that doesnt even have a freakin zoom lens. Good thing its not an ordinary point-and-shoot. And I dont want a zoom lens. 
 
-<img src="https://www.baty.net/files/grd.jpg" alt="grd.jpg" width="100" height="100" />
+<img src="/files/grd.jpg" alt="grd.jpg" width="100" height="100" />
 
  [1]: http://www.dpreview.com/news/0509/05091301ricoh_gr.asp

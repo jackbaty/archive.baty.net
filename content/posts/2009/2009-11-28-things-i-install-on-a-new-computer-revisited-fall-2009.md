@@ -22,7 +22,7 @@ tz_gallery_targetheight:
 url: /2009/things-i-install-on-a-new-computer-revisited-fall-2009/
 ---
 
-<img src="https://www.baty.net/files/macbookpro-unibody.png" alt="macbookpro-unibody.png" width="400" height="220" border="0" />
+<img src="/files/macbookpro-unibody.png" alt="macbookpro-unibody.png" width="400" height="220" border="0" />
 
 My new MacBook Pro arrived yesterday. This will replace my aging,
 2-year old version. It's a thing of beauty. Whenever I get a new

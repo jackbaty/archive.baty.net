@@ -6,7 +6,7 @@ date: 2009-03-16T04:07:10+00:00
 tags:
 - gear
 thesis_post_image:
-- https://www.baty.net/files/tag-heuer-automatic-20090315-231120.jpg
+- /files/tag-heuer-automatic-20090315-231120.jpg
 title: Tag Heuer Aquaracer Automatic
 url: /2009/tag-heuer-aquaracer-automatic/
 ---

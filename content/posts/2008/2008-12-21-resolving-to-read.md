@@ -27,7 +27,7 @@ It happened under the kitchen table at my grandmother's house. I don't know how 
 
 With the house empty, I had no choice but to go exploring. In the attic I found a chest full of dusty old books. The Bobbsey Twins, Nancy Drew, and a few scattered textbooks mostly. I picked up something called "Trixie Belden: The Red Trailer Mystery" and brought it downstairs. I wasn't much into reading yet, but having nothing else to do, I crawled under the kitchen table and started to follow the adventures of Trixie, a 13-year old girl and her friends. I was hooked. I remained holed up under that table until the book was finished, stopping only to eat (the table was needed for that anyway.)
 
-<img class="aligncenter size-full wp-image-2806" title="the-red-trailer-mystery" src="https://www.baty.net/files//the-red-trailer-mystery.jpg" alt="the-red-trailer-mystery" width="200" height="301" />
+<img class="aligncenter size-full wp-image-2806" title="the-red-trailer-mystery" src="/files//the-red-trailer-mystery.jpg" alt="the-red-trailer-mystery" width="200" height="301" />
 
 There have been a number of what I'll call "perfect reading moments" since, but none so dramatic or important as that first time spending an entire day reading about Trixie Belden.
 

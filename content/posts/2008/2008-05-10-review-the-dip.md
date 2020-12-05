@@ -9,7 +9,7 @@ url: /2008/review-the-dip/
 
 Quick review of Seth Godin's [The Dip][1].
 
-<img src="https://www.baty.net/files/thedip.gif" alt="thedip.gif" border="0" width="150" height="218" />
+<img src="/files/thedip.gif" alt="thedip.gif" border="0" width="150" height="218" />
 
 The book is short and sweet, but could've been a blog post instead. I found myself thinking "Okay, I get it!" about a quarter of the way through. Here's my summary&#8230;
 

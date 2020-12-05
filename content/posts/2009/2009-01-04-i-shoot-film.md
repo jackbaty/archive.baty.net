@@ -13,7 +13,7 @@ url: /2009/i-shoot-film/
 
 In 2005 I sold a nice Leica M6 TTL with a mint Summicron ASPH 35mm to some random stranger on eBay. Last week I corrected that mistake by buying another M6.
 
-<img src="https://www.baty.net/files//leica-m6-ttl.jpg" alt="leica-m6-ttl" title="leica-m6-ttl" width="500" height="333" class="aligncenter size-full wp-image-2826 frame" />
+<img src="/files//leica-m6-ttl.jpg" alt="leica-m6-ttl" title="leica-m6-ttl" width="500" height="333" class="aligncenter size-full wp-image-2826 frame" />
 
 <p class="photo_caption">
   Leica M6 TTL with 50mm Summicron

@@ -14,6 +14,6 @@ I've got an idea. Let's get a bunch of 2-year olds, make them cry, and take a pi
 Oh damn, seems that [Jill Greenberg](<http://www.paulkopeikingallery.com/artists/greenberg/exhibitions/endtimes/index.htm>) has beaten us to it&#8230; 
 
 
-<img id="image1285" src="https://www.baty.net/files/therapture_b.jpg" alt="therapture_b.jpg" /> 
+<img id="image1285" src="/files/therapture_b.jpg" alt="therapture_b.jpg" /> 
 
 The photos are over-processed crap. This sort of thing probably shouldn't be illegal, but it's sure as hell unnecessary. The parents of those kids should be ashamed of themselves. Sure, kids cry all the time, but \*forcing\* them to just to make a buck and a weak political statement isn't art, it's abuse.

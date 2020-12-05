@@ -7,7 +7,7 @@ tags:
 - geek
 - productivity
 thesis_post_image:
-- https://www.baty.net/files/appzapper-icon-20090324-213045.jpg
+- /files/appzapper-icon-20090324-213045.jpg
 title: Things I didn&#039;t install on my new Mac
 url: /2009/things-i-didnt-install-on-my-new-mac/
 ---
@@ -38,4 +38,4 @@ When I wrote last year about the first things I install on a new computer I forg
 
 I'm sure there are more, but these are the things that at one time I felt I needed on a daily basis. Times change.
 
- [1]: https://www.baty.net/files/appzapper-icon-20090324-213045.jpg
+ [1]: /files/appzapper-icon-20090324-213045.jpg

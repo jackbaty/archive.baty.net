@@ -6,7 +6,7 @@ date: 2009-08-16T02:56:16+00:00
 tags:
 - photography
 thesis_post_image:
-- https://www.baty.net/files/3823436230_be9df3439b.jpg
+- /files/3823436230_be9df3439b.jpg
 title: Olympus OM-1n
 url: /2009/olympus-om-1n/
 ---
@@ -15,7 +15,7 @@ When you think of SLR cameras what's the first manufacturer that pops into your 
 
 If you spend any time listening to people who still use film cameras, you'll hear the Olympus OM system mentioned frequently. It seems to have an almost cult-like following. Of course anything with a cult-like following piques my interest, so I started looking more closely at the old OM cameras.
 
-<img src="https://www.baty.net/files/om-system.jpg" alt="om-system.jpg" border="0" width="500" height="295" />
+<img src="/files/om-system.jpg" alt="om-system.jpg" border="0" width="500" height="295" />
   
 <span class="photo_caption">Most of the massive OM system</span>
 

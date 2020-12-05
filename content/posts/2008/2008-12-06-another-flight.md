@@ -11,7 +11,7 @@ title: Another Flight
 url: /2008/another-flight/
 ---
 
-<img src="https://www.baty.net/files/jess-daddy-tattoo.jpg" alt="jess-daddy-tatto.jpg" border="0" width="500" height="375" class="frame" />
+<img src="/files/jess-daddy-tattoo.jpg" alt="jess-daddy-tatto.jpg" border="0" width="500" height="375" class="frame" />
 
 <div class="photo_caption">
   Jess getting "Daddy" tattoo. 2006 Grand Rapids, MI

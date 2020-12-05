@@ -11,4 +11,4 @@ url: /2006/private-merlin-on-devonthink/
 
 Here's a bit of my database (which contains 2,498,863 words so far) 
 
-<img id="image1251" src="https://www.baty.net/files/devon-screen1.jpg" alt="devon-screen1.jpg" />
+<img id="image1251" src="/files/devon-screen1.jpg" alt="devon-screen1.jpg" />

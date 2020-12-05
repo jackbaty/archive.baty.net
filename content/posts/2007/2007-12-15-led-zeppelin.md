@@ -20,7 +20,7 @@ But there was nothing more important than [Led Zeppelin][1]. By 1980, Led Zeppel
 
 In the fall of that year, the newly-opened Joe Louis Arena was to play host to the midwest leg of Zeppelin's US tour, October 29th and 30th. We bought tickets for the 29th. This was huge for me, as it would've been my second real rock concert. The first was Rush (the Permanent Waves tour) earlier that year in Kalamazoo, MI.
 
-<img src="https://www.baty.net/files/zeppelin-ticket.jpg" alt="zeppelin-ticket.jpg" border="0" width="350" height="109" />
+<img src="/files/zeppelin-ticket.jpg" alt="zeppelin-ticket.jpg" border="0" width="350" height="109" />
 
 We all know what happened next. Drummer John Bonham died on Sept. 25th. The rest of the tour was cancelled. A few friends and I wore black armbands to school the next day to commemorate. It may have seemed a silly thing to do at the time, but considering that we'd never really get another chance to see them perform live, I think it was appropriate.
 

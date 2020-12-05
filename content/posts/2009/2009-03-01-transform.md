@@ -9,7 +9,7 @@ tags:
 thesis_post_image_frame:
 - 1
 thesis_thumb:
-- https://www.baty.net/files/zachariasscreen-thumb.jpg
+- /files/zachariasscreen-thumb.jpg
 title: Transform
 url: /2009/transform/
 ---

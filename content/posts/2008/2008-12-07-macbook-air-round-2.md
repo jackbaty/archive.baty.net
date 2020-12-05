@@ -15,7 +15,7 @@ url: /2008/macbook-air-round-2/
 
 Can we all agree right up front that the MacBook Air is the thinnest, sweetest-looking laptop ever conceived by man? Yes? Good. That's what I think too.
 
-<img src="https://www.baty.net/files//macbook-air-2-1.jpg" alt="macbook-air-2-1.jpg" border="0" width="500" height="147" />
+<img src="/files//macbook-air-2-1.jpg" alt="macbook-air-2-1.jpg" border="0" width="500" height="147" />
 
 In addition to its oh-so-sexy look and feel, many geeks claimed that the original Air was [plenty fast for every day use][1]. After reading every review and blog post I could find, I bought one back in June. For the first month, I pretended that [everything I'd read][2] was true. It wasn't.
 

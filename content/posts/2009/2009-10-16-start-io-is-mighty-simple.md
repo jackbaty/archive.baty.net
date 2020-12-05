@@ -17,4 +17,4 @@ Like so many others, I'm on a minimalist kick. I'm trying to reduce clutter, dis
 
 That's nice and minimal
 
- [1]: https://www.baty.net/files/start-page-20091016-223303.jpg
+ [1]: /files/start-page-20091016-223303.jpg

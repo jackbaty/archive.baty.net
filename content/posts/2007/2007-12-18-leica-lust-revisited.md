@@ -11,7 +11,7 @@ url: /2007/leica-lust-revisited/
 
 James Russell has a piece at Luminous Landscape called [Leica M8 Revisited][1]. The reason I bring it up is that I want one. I mean **really** want one. 
 
-<img src="https://www.baty.net/files/m8-001.jpg" alt="m8-001.jpg" border="0" width="449" height="263" />
+<img src="/files/m8-001.jpg" alt="m8-001.jpg" border="0" width="449" height="263" />
 
 > Shooting the Leica is like going out with Pamela Anderson. The camera keeps saying you can make me clean, cook, raise the kids, but I won't be very good at it., though if you let me do what I'm good at you'll be very happy.
 

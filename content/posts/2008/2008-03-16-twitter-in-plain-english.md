@@ -11,7 +11,7 @@ url: /2008/twitter-in-plain-english/
 
 Another great video from the [commoncraft][1] folks.
 
-[<img src="https://www.baty.net/files/twitter-plain-english.jpg" alt="twitter-plain-english.jpg" border="0" width="350" height="277" />][2]
+[<img src="/files/twitter-plain-english.jpg" alt="twitter-plain-english.jpg" border="0" width="350" height="277" />][2]
 
 [Twitter in Plain English][2]
 

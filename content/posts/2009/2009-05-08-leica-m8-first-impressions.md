@@ -7,7 +7,7 @@ tags:
 - gear
 - photography
 thesis_post_image:
-- https://www.baty.net/files/20090509_013-20090509-124857.jpg
+- /files/20090509_013-20090509-124857.jpg
 title: Leica M8 First Impressions
 url: /2009/leica-m8-first-impressions/
 ---

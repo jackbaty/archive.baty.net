@@ -32,11 +32,11 @@ When used for this purpose, Instapaper is nice, but it doesn't really shine unti
 
 List of articles&#8230;
   
-<img src="https://www.baty.net/files/img-0009.png" alt="IMG_0009.PNG" border="0" width="320" height="480" />
+<img src="/files/img-0009.png" alt="IMG_0009.PNG" border="0" width="320" height="480" />
 
 Single article&#8230;
   
-<img src="https://www.baty.net/files/img-0010.png" alt="IMG_0010.PNG" border="0" width="320" height="480" />
+<img src="/files/img-0010.png" alt="IMG_0010.PNG" border="0" width="320" height="480" />
 
 It goes like this&#8230;
 

@@ -11,7 +11,7 @@ url: /2008/feltron-eight-2007-annual-report/
 
 [The 2007 Feltron Annual Report][1]
 
-<img src="https://www.baty.net/files/FeltronEight.jpg" alt="FeltronEight.jpg" border="0" width="250" height="308" />
+<img src="/files/FeltronEight.jpg" alt="FeltronEight.jpg" border="0" width="250" height="308" />
 
 Amazing. Best one yet.
 

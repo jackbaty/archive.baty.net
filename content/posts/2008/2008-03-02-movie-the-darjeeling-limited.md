@@ -9,7 +9,7 @@ title: 'Movie: The Darjeeling Limited'
 url: /2008/movie-the-darjeeling-limited/
 ---
 
-<img src="https://www.baty.net/files/The-Darjeeling-Ltd2.png" alt="The-Darjeeling-Ltd2.png" border="0" width="500" height="267" />
+<img src="/files/The-Darjeeling-Ltd2.png" alt="The-Darjeeling-Ltd2.png" border="0" width="500" height="267" />
 
 [The Darjeeling Limited][1]
 

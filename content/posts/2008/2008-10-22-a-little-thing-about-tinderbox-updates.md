@@ -16,8 +16,8 @@ One of the amazing things about Mark Bernstein's development process is the way 
 
 Each Tinderbox release comes embedded with a small (Tinderbox) document containing release notes. Here's one from this latest version&#8230;
 
-[<img src="https://www.baty.net/files//tinderbox-release-notes.jpg" alt="" title="tinderbox-release-notes" width="500" height="538" class="aligncenter size-full wp-image-2739" />][1]
+[<img src="/files//tinderbox-release-notes.jpg" alt="" title="tinderbox-release-notes" width="500" height="538" class="aligncenter size-full wp-image-2739" />][1]
 
 A nice touch.
 
- [1]: https://www.baty.net/files//tinderbox-release-notes.jpg
+ [1]: /files//tinderbox-release-notes.jpg

@@ -11,7 +11,7 @@ url: /2008/the-data-so-far/
 
 Here's a concise summary&#8230;
 
-<img src="https://www.baty.net/files/the_data_so_far.png" alt="the_data_so_far.png" border="0" width="325" height="310" />
+<img src="/files/the_data_so_far.png" alt="the_data_so_far.png" border="0" width="325" height="310" />
 
 From [xkcd][1]
 

@@ -11,4 +11,4 @@ url: /2008/worlds-silliest-toolbar/
 
 Reading mailing list archives is hard enough without having to decipher this&#8230;
 
-<img src="https://www.baty.net/files/terrible-toolbar-1.png" alt="terrible-toolbar-1.png" border="0" width="473" height="56" />
+<img src="/files/terrible-toolbar-1.png" alt="terrible-toolbar-1.png" border="0" width="473" height="56" />
