@@ -15,11 +15,11 @@ I’ve been experimenting with scanning film using a digital camera. I’ve proc
 {{< image src="scanning.jpg" caption="" >}}
 
 
-The [MK1 Film Carrier from Negative Supply][1] makes quick work of scanning a full, uncut roll of 35mm film. I feed the roll into one end and turn the knob to reveal each frame in turn. The film is held nice and flat and it operates smoothly. I was part of the Kickstarter campaign so I didn’t pay the full price of $329, which is good because although the device is nicely designed and made from machined aluminum, that’s a lot of money for what it does.<figure class="wp-block-image size-large">
+The [MK1 Film Carrier from Negative Supply][1] makes quick work of scanning a full, uncut roll of 35mm film. I feed the roll into one end and turn the knob to reveal each frame in turn. The film is held nice and flat and it operates smoothly. I was part of the Kickstarter campaign so I didn’t pay the full price of $329, which is good because although the device is nicely designed and made from machined aluminum, that’s a lot of money for what it does.
 
 {{< image src="mk1.jpg" caption="" >}}
 
-[Negative Lab Pro][2] is a plugin for Lightroom Classic that handles conversion of the original Raw “scans”. It’s really meant for color film scans, but I also use it for black and white. I originally used it for processing color negative film scans from the Epson scanner and it did such a great job with those that it became an integral part of my workflow. It even adds a metadata section to Lightroom for adding Exif data like camera make, model, lens, film stock, etc to each frame. This is very handy and replaces my command line version which I frequently forgot to run anyway. I don’t use Lightroom for my normal Raw processing, but I keep it around just for NLP.<figure class="wp-block-image size-large">
+[Negative Lab Pro][2] is a plugin for Lightroom Classic that handles conversion of the original Raw “scans”. It’s really meant for color film scans, but I also use it for black and white. I originally used it for processing color negative film scans from the Epson scanner and it did such a great job with those that it became an integral part of my workflow. It even adds a metadata section to Lightroom for adding Exif data like camera make, model, lens, film stock, etc to each frame. This is very handy and replaces my command line version which I frequently forgot to run anyway. I don’t use Lightroom for my normal Raw processing, but I keep it around just for NLP. 
 
 {{< image src="nlb.jpg" caption="" >}}
 
