@@ -19,7 +19,7 @@ Here's today's Daily Note so far:
 
 {{< image src="today.jpg" caption="Daily Note for today" >}}
 
-I'm rooting for Logseq. I already prefer it to things like [Obsidian](https://obsidian.md), which I find clunkly and unattractive. Whether it becomes compelling enough to be a full-on replacement for my private Roam database remains to be seen.
+I'm rooting for Logseq. I already prefer it to things like [Obsidian](https://obsidian.md), which I find clunky and unattractive. Whether it becomes compelling enough to be a full-on replacement for my private Roam database remains to be seen.
 
 
 
