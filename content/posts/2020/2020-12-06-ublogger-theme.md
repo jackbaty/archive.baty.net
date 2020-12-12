@@ -27,3 +27,5 @@ I was eager to take advantage of the improvements, but quickly ran into issues. 
 * Speaking of Tags, I prefer the old Tags display. The giant pills are too loud.
 
 I'm not serious enough about any of this yet to formally submit bug reports, but I'll keep an eye on it.
+
+**UPDATE**: There's another fork that may be more suitable: [CodeIT](https://github.com/sunt-programator/CodeIT)
