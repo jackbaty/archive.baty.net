@@ -13,7 +13,7 @@ Another option is to run the wiki via Node.js. This works with any browser, and 
 
 There is an app, [TiddlyDesktop](https://github.com/Jermolene/TiddlyDesktop) that works well, but still requires that I run a separate app just for editing my wiki.
 
-I just want to manage my wiki from a pinned tab in Safari without too much hassle.
+I just want to manage my wiki, a local file, from a pinned tab in Safari without too much hassle.
 
 Enter WebDAV.
 
