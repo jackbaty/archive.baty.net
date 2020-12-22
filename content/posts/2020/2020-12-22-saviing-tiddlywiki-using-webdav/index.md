@@ -26,12 +26,12 @@ Download [WebDAVNav Server app from the Mac App store](https://apps.apple.com/us
 I keep waiting for the other shoe to drop, because this was just too easy.
 
 - Works in Safari (or any browser, really)
-- Super simple setup on my Mac (via the App Store)
+- Super simple installation on my Mac (via the App Store)
 - Configuration is a breeze
 - I can run as many wikis as I want
 - My wiki can remain a single, easily-portable HTML file
 
-Downsides? Well I can't just double-click any old wiki.html file to edit and save. It has to be done through localhost. And it requires running a separate app (the WebDAV server). But, WebDAVNav barely even shows up in Activity Monitor, which is something I couldn't say when I had to run an instance of Firefox or Chrome for editing.
+Downsides? Well I still can't just double-click any old wiki.html file to edit and save. It has to be done through localhost. And it requires running a separate app (the WebDAV server), but it's in the background and not used for actually editing the wiki. WebDAVNav barely even shows up in Activity Monitor, which is something I couldn't say when I had to run an instance of Firefox or Chrome for editing.
 
-I'll be disappointed if this turns out being too good to be true, but so far it's the best solution I've found for editing and managing TiddlyWikis on my Mac.
+I'll be disappointed if this turns out being too good to be true, but so far it's the best solution I've found for editing and managing local TiddlyWiki files on my Mac.
 
