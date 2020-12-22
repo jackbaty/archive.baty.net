@@ -1,5 +1,5 @@
 ---
-title: "Saving local TiddlyWiki files using WebDav"
+title: "Saving local TiddlyWiki files using WebDAV"
 date:  2020-12-22
 tags: ["TiddlyWiki","Wiki"]
 categories: ["Software"]
@@ -7,7 +7,7 @@ categories: ["Software"]
 
 [TiddlyWiki](https://tiddlywiki.com) is an amazing, powerful, flexible, fun bit of software. I use it for various project notes and logs, but mostly I use it for my wiki at [rudimentarylathe.wiki](https://rudimentarylathe.wiki).
 
-I like pretty much everything about TiddlyWiki except the fact that saving the files can be a challenge. A TiddlyWiki is just a simple HTML file. That's it. It's permanent, portable, and about as future-proof as anything. But, making edits in a browser and then saving those changes presents a problem. There are a dozen ways to manage this, but none of them are ideal for me. For Chrome and Firefox, there's the [Timimi browser extension](https://github.com/ibnishak/Timimi). 
+I like pretty much everything about TiddlyWiki except the fact that saving the files can be a challenge. A TiddlyWiki is just a simple HTML file. That's it. It's permanent, portable, and about as future-proof as anything. But, making edits in a browser and then saving those changes presents a problem. There are a dozen ways to manage this, but none of them are ideal for me since I use Safari. For Chrome and Firefox, there's the [Timimi browser extension](https://github.com/ibnishak/Timimi). 
 
 Another option is to run the wiki via Node.js. This works in any browser, and can even allow it to run on a server, but it complicates things. It means the wiki is broken up into individual tiddler files and requires installing and running Node/NPM/etc. Separate files may be desirable for some, but I prefer the single-file configuration.
 
