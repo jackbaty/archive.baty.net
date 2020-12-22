@@ -23,6 +23,8 @@ Download the [WebDAVNav Server app from the Mac App store](https://apps.apple.co
 
 ![Screenshot](webdavnav.jpg)
 
+There are details (including Windows configuration) on the [TW-Scripts wiki](https://kookma.github.io/TW-Scripts/#Easy%20Local%20Saving%20with%20WebDav).
+
 I keep waiting for the other shoe to drop, because this was just too easy.
 
 - Works in Safari (or any browser, really)
