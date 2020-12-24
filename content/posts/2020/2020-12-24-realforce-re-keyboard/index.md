@@ -41,6 +41,6 @@ And what about those arrow keys? Well again, they're a tad far away. The arrow k
 
 The strangest thing I've noticed is that with all those extra keys hanging off the right side, it feels like I have to use the R2 off-center. I know, it shouldn't matter, but I notice it. It feels off, somehow.
 
-None of these issues are deal-breakers. The Realforce R2 is a fabulous keyboard. I love it, but I'm not sure I love it as much as I do the HHKB.
-
 {{< image src="keyboard.jpg" caption="The Realforce R2 and HHKB" >}}
+
+None of these issues are deal-breakers. The Realforce R2 is a fabulous keyboard. I love it, but I'm not sure I love it as much as I do the HHKB.
