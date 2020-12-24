@@ -1,9 +1,10 @@
 +++
-title = "Hugo Page Bundles"
-date = 2018-05-24T13:06:00-04:00
+date = "2018-05-24T13:06:00-04:00"
+draft = false
 slug = "hugo-bundles"
 tags = ["hugo", "org-mode", "blogging"]
-draft = false
+title = "Hugo Page Bundles"
+
 +++
 
 {{< figure src="/2018/hugo-page-bundles/hugo-logo.png" >}}

@@ -1,9 +1,10 @@
----
-title: "I got drunk on text files and accidentally spent the weekend with Emacs"
-date:  2020-11-29
-tags: ["Emacs", "Plaintext"]
-categories: ["Emacs"]
----
++++
+categories = ["Emacs"]
+date = "2020-11-29"
+tags = ["Emacs", "Plaintext"]
+title = "I got drunk on text files and accidentally spent the weekend with Emacs"
+
++++
 
 Emacs and I broke up recently. I felt I had to move on after years of destructive codependency. It wasn't Emacs, it was me.
 

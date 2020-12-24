@@ -1,8 +1,9 @@
----
-title: "Reflexive Shopping - TOP"
-date: 2019-01-02T12:50:53-04:00
-tags: ["photography"]
----
++++
+date = "2019-01-02T12:50:53-04:00"
+tags = ["photography"]
+title = "Reflexive Shopping - TOP"
+
++++
 
 [Mike Johnston on shopping, The Online Photographer](https://theonlinephotographer.typepad.com/the_online_photographer/2019/01/reflexive-shopping.html):
 

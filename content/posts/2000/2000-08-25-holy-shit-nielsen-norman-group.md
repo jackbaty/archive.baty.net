@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-08-25T12:57:39+00:00
-title: Holy Shit. Nielsen Norman Group
-url: /2000/holy-shit-nielsen-norman-group/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-08-25T12:57:39+00:00"
+title = "Holy Shit. Nielsen Norman Group"
+url = "/2000/holy-shit-nielsen-norman-group/"
+
++++
 
 [Holy Shit. Nielsen Norman Group hires Tog <del>and</del> Laurel (Straight Face 08-15-2000)][1]
 

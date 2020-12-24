@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-03-19T15:01:09+00:00
-title: Pens, lots of ‘em
-url: /2005/pens-lots-of-em/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-03-19T15:01:09+00:00"
+title = "Pens, lots of ‘em"
+url = "/2005/pens-lots-of-em/"
+
++++
 
 I like pens more than I should, given the amount of actual writing I do. With my recent "Moleskine" acquisitions, this has changed somewhat. Anyway, when I do write it's with one of three or four different pens.
 

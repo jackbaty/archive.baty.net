@@ -1,9 +1,10 @@
----
-title: "Publish Using Org Mode With Hugo"
-date: 2018-05-19T15:14:58-04:00
-draft: false
-tags: ["blogging","hugo","org-mode"]
----
++++
+date = "2018-05-19T15:14:58-04:00"
+draft = false
+tags = ["blogging", "hugo", "org-mode"]
+title = "Publish Using Org Mode With Hugo"
+
++++
 
 I write nearly everything /except/ blog posts using Org-mode. Wouldn't it be
 nice to write blog posts with Org-mode, too? It would.

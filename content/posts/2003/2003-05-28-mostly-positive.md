@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-29T02:55:13+00:00
-title: Mostly positive
-url: /2003/mostly-positive/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-29T02:55:13+00:00"
+title = "Mostly positive"
+url = "/2003/mostly-positive/"
+
++++
 
 I had one of those reference-quality days today. It started with
   

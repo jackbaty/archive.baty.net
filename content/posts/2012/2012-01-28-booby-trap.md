@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2012-01-28T00:00:00+00:00
-tags:
-- story
-- Writing
-title: Booby Trap
-url: /2012/booby-trap/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2012-01-28T00:00:00+00:00"
+tags = ["story", "Writing"]
+title = "Booby Trap"
+url = "/2012/booby-trap/"
+
++++
 
 ## A story about enemies</span> 
           

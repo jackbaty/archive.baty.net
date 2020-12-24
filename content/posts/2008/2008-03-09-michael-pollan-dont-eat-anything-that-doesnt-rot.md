@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-03-09T11:28:11+00:00
-tags:
-- personal
-title: 'Michael Pollan: Don’t Eat Anything That Doesn’t Rot'
-url: /2008/michael-pollan-dont-eat-anything-that-doesnt-rot/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-03-09T11:28:11+00:00"
+tags = ["personal"]
+title = "Michael Pollan: Don’t Eat Anything That Doesn’t Rot"
+url = "/2008/michael-pollan-dont-eat-anything-that-doesnt-rot/"
+
++++
 
 [Michael Pollan: Don't Eat Anything That Doesn't Rot][1]: "
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-08-15T17:22:10+00:00
-title: Redherring.com – The fantasy world
-url: /2000/redherringcom-the-fantasy-world/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-08-15T17:22:10+00:00"
+title = "Redherring.com – The fantasy world"
+url = "/2000/redherringcom-the-fantasy-world/"
+
++++
 
 [Redherring.com &#8211; The fantasy world of Jeff Bezos][1]
 

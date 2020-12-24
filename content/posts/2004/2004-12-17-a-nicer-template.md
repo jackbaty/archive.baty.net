@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-12-17T18:52:44+00:00
-title: A nicer template
-url: /2004/a-nicer-template/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-12-17T18:52:44+00:00"
+title = "A nicer template"
+url = "/2004/a-nicer-template/"
+
++++
 
 I really don't care a whole lot about the visual presentation of this site beyond the usual "clean" approach that I prefer. Or it might be that I care, but lack the skills to do much about it. Either way, my site ain't pretty much.
 

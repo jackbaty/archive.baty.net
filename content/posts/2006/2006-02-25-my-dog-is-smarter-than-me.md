@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-02-25T02:10:27+00:00
-title: My dog is smarter than me
-url: /2006/my-dog-is-smarter-than-me/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-02-25T02:10:27+00:00"
+title = "My dog is smarter than me"
+url = "/2006/my-dog-is-smarter-than-me/"
+
++++
 
 According to Tim Pennings, dogs calculate the fastest way to retrieve a thrown stick using some form of canine calculus before they even start running. Seems Zim only \*looks\* dumb. 
 

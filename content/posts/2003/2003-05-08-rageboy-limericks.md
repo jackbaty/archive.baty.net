@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:11+00:00
-title: Rageboy Limericks
-url: /2003/rageboy-limericks/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:11+00:00"
+title = "Rageboy Limericks"
+url = "/2003/rageboy-limericks/"
+
++++
 
 Rageboy gives us [5
   

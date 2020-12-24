@@ -1,11 +1,10 @@
----
-date: 2016-01-02T17:45:14-05:00
-description: ""
-tags:
-- photography
-- photo
-title: Dead Fish
----
++++
+date = "2016-01-02T17:45:14-05:00"
+description = ""
+tags = ["photography", "photo"]
+title = "Dead Fish"
+
++++
 
 {{< figure src="/img/photos/dead-fish.jpg" title="Dead Goldfish in Snow (2015). Digital. Fuji X-100" >}}
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-08-06T01:49:42+00:00
-title: 'Tim Bray: Unflash'
-url: /2003/tim-bray-unflash/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-08-06T01:49:42+00:00"
+title = "Tim Bray: Unflash"
+url = "/2003/tim-bray-unflash/"
+
++++
 
 Tim Bray and Co. tried using Flash to create a better interface for their Visual Net application, but later decided to scrap those plans and use DHTML instead. The most interesting bit in the article is this:
   

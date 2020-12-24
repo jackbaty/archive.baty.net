@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-01-18T23:19:57+00:00
-title: Selling the Canons
-url: /2015/selling-the-canons/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-01-18T23:19:57+00:00"
+title = "Selling the Canons"
+url = "/2015/selling-the-canons/"
+
++++
 
 <div id="attachment_4221" style="width: 650px" class="wp-caption alignnone">
   <a href="/img/2015/02/canon-gear.jpg"><img class="size-full wp-image-4221" src="/img/2015/02/canon-gear.jpg" alt="Canon gear for sale" width="640" height="480" srcset="/img/2015/02/canon-gear.jpg 640w, /img/2015/02/canon-gear-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></a>

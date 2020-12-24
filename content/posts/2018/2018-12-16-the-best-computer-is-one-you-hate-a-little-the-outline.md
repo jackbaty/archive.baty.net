@@ -1,12 +1,11 @@
----
-title: The best computer is one you hate a little – The Outline
-author: Jack
-date: 2018-12-16T19:17:25+00:00
-url: /2018/the-best-computer-is-one-you-hate-a-little-the-outline/
-categories:
-  - Tech
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2018-12-16T19:17:25+00:00"
+title = "The best computer is one you hate a little – The Outline"
+url = "/2018/the-best-computer-is-one-you-hate-a-little-the-outline/"
 
----
++++
 [Drew Millard, The Outline][1]:
 
 > My Lenovo computer is called a Yoga because it bends all the way backwards to become a tablet, which is something I both have absolutely no need for and am completely enamored with. Importantly, it does the main thing I need a computer (novo) to do, which is go on the internet and have a billion tabs open while typing in Google Docs.

@@ -1,9 +1,10 @@
----
-title: "G.A.S. Attack Outflanked - Bruce Robbins"
-date: 2017-05-07
-tags: ["film"]
-slug: "g-a-s-attack-outflanked-bruce-robbins"
----
++++
+date = "2017-05-07"
+slug = "g-a-s-attack-outflanked-bruce-robbins"
+tags = ["film"]
+title = "G.A.S. Attack Outflanked - Bruce Robbins"
+
++++
 
 [Bruce Robbins][1]:
 

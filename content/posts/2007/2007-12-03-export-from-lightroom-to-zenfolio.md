@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-12-03T18:36:00+00:00
-title: Export from Lightroom to Zenfolio
-url: /2007/export-from-lightroom-to-zenfolio/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-12-03T18:36:00+00:00"
+title = "Export from Lightroom to Zenfolio"
+url = "/2007/export-from-lightroom-to-zenfolio/"
+
++++
 
 [Zenfolio][1] is my favorite image hosting site and Lightroom is my Raw converter/DAM tool of choice. Finally, the toolset is emerging for these two tools. Until recently, getting photos from Lightroom to Zenfolio has been painful. 
 

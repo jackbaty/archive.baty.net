@@ -1,12 +1,12 @@
----
-author: Jack
-categories:
-- Software
-date: 2016-06-08T21:55:21+00:00
-format: link
-title: 'Instagram to third-party developers: drop dead'
-url: /2016/instagram-to-third-party-developers-drop-dead/
----
++++
+author = "Jack"
+categories = ["Software"]
+date = "2016-06-08T21:55:21+00:00"
+format = "link"
+title = "Instagram to third-party developers: drop dead"
+url = "/2016/instagram-to-third-party-developers-drop-dead/"
+
++++
 
 [Zeldman][1]
 

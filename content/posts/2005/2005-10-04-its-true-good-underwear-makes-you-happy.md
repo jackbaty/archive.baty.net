@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-10-04T19:45:32+00:00
-title: It’s true, good underwear makes you happy
-url: /2005/its-true-good-underwear-makes-you-happy/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-10-04T19:45:32+00:00"
+title = "It’s true, good underwear makes you happy"
+url = "/2005/its-true-good-underwear-makes-you-happy/"
+
++++
 
 <img src="/files/0067_black_th.jpg" height="100" width="100" border="1" align="left" hspace="4" vspace="4" alt="0067 Black Th" />
   

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-01-01T03:48:04+00:00
-title: The Bubble Project
-url: /2006/the-bubble-project/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-01-01T03:48:04+00:00"
+title = "The Bubble Project"
+url = "/2006/the-bubble-project/"
+
++++
 
 <img src="/files/filesPeeling_Bubble.jpg" height="162" width="200" border="1" align="right" hspace="4" vspace="4" alt="Peeling Bubble" /> 
 

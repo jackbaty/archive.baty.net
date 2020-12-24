@@ -1,8 +1,9 @@
----
-title: "Respecting visual lines in Doom Emacs"
-date: 2020-08-29T10:54:17.637Z
-tags: ["Emacs"]
----
++++
+date = "2020-08-29T10:54:17.637Z"
+tags = ["Emacs"]
+title = "Respecting visual lines in Doom Emacs"
+
++++
 
 When using writing modes such as Org or Markdown in Emacs, I use `visual-line-mode` and prefer that vertical movements (using j & k) operate via visual lines and not logical ones. This does not seem to be the default behavior of [Doom Emacs](https://github.com/hlissner/doom-emacs). Of course there's a setting for this and of course I needed to look it up; `evil-respect-visual-line-mode`.
 

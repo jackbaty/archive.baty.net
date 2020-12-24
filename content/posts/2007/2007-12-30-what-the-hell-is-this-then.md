@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-12-30T15:05:29+00:00
-tags:
-- poem
-title: What the hell is this, then?
-url: /2007/what-the-hell-is-this-then/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-12-30T15:05:29+00:00"
+tags = ["poem"]
+title = "What the hell is this, then?"
+url = "/2007/what-the-hell-is-this-then/"
+
++++
 
 "What the hell is this, then?"
   

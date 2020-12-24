@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-01-17T06:14:03+00:00
-title: Swimming Pool
-url: /2004/swimming-pool/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-01-17T06:14:03+00:00"
+title = "Swimming Pool"
+url = "/2004/swimming-pool/"
+
++++
 
 At the end of [Swimming Pool][1], I just sat there, staring at the screen, knowing I was completely missing something. Nearly a week has passed and I have a few thoughts, but nothing convincing. At first this frustrated me to no end, but now I'm starting to like the feeling. Seems most of the reviewers had many of the same impressions.
   

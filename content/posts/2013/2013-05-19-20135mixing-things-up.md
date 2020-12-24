@@ -1,15 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-05-19T11:38:32+00:00
-tags:
-- digital
-- inspiration
-- photography
-title: Mixing things up
-url: /2013/20135mixing-things-up/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-05-19T11:38:32+00:00"
+tags = ["digital", "inspiration", "photography"]
+title = "Mixing things up"
+url = "/2013/20135mixing-things-up/"
+
++++
 
 Yesterday was to be a day of photographing. By 7:00am I had packed up 2 bags and was ready to roll. I sat for a few minutes thinking of what I might like to shoot. Then I sat for a few more minutes. The next thing I knew it was early evening and I had nothing.
 

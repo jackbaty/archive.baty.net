@@ -1,15 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-06-24T19:00:00+00:00
-layout: post
-tags:
-- Analog
-- productivity
-title: Writing Stuff on Index Cards
-url: /2014/writing-stuff-on-index-cards/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-06-24T19:00:00+00:00"
+layout = "post"
+tags = ["Analog", "productivity"]
+title = "Writing Stuff on Index Cards"
+url = "/2014/writing-stuff-on-index-cards/"
+
++++
 
 When I type something on my computer it can be easily filed forever into a giant hierarchy of files and notes. When I write something on an index card it gets in my way until I deal with it.
 

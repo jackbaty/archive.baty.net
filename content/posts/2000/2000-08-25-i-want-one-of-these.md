@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-08-25T13:13:35+00:00
-title: I want one of these!
-url: /2000/i-want-one-of-these/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-08-25T13:13:35+00:00"
+title = "I want one of these!"
+url = "/2000/i-want-one-of-these/"
+
++++
 
 [I want one of these!][1]
 

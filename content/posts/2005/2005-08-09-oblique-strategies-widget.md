@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-08-09T22:32:26+00:00
-title: Oblique Strategies Widget
-url: /2005/oblique-strategies-widget/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-08-09T22:32:26+00:00"
+title = "Oblique Strategies Widget"
+url = "/2005/oblique-strategies-widget/"
+
++++
 
 ![][1]
 

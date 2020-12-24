@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2009-11-21T23:45:08+00:00
-tags:
-- photography
-title: In a Dark Room
-url: /2009/in-a-dark-room/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2009-11-21T23:45:08+00:00"
+tags = ["photography"]
+title = "In a Dark Room"
+url = "/2009/in-a-dark-room/"
+
++++
 
 I have a darkroom. This has happened before.
 

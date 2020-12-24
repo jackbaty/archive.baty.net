@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-07-10T18:45:14+00:00
-title: Don’t be a sharecropper
-url: /2003/dont-be-a-sharecropper/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-07-10T18:45:14+00:00"
+title = "Don’t be a sharecropper"
+url = "/2003/dont-be-a-sharecropper/"
+
++++
 
 [Tim
   

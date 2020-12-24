@@ -1,8 +1,9 @@
----
-title: "Peanuts Gang Singing '2112' by Rush"
-date: 2018-07-17
-tags: ["fun","music"]
----
++++
+date = "2018-07-17"
+tags = ["fun", "music"]
+title = "Peanuts Gang Singing '2112' by Rush"
+
++++
 
 {{< youtube "-IOKT_sC9ac" >}}
 

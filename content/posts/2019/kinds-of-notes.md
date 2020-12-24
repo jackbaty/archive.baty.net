@@ -1,9 +1,9 @@
----
-title: "Kinds of Notes"
-date: 2019-10-08T15:23:33-04:00
-draft: true
-tags: [""]
----
++++
+date = "2019-10-08T15:23:33-04:00"
+draft = true
+title = "Kinds of Notes"
+
++++
 
 - Current notes. Need to be immediately useful, searched, organized, edited, and "around"
 - Logs. Easy to capture and search later. No need to edit. Appearance doesn't matter

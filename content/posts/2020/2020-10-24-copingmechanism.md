@@ -1,10 +1,11 @@
----
-title: "I'll be at copingmechanism.com for a while"
-date:  2020-10-24
-tags: ["Blogging"]
-categories: ["Misc"]
-slug: "see-you-at-copingmechanism"
----
++++
+categories = ["Misc"]
+date = "2020-10-24"
+slug = "see-you-at-copingmechanism"
+tags = ["Blogging"]
+title = "I'll be at copingmechanism.com for a while"
+
++++
 
 When I grow weary of dealing with plain text files and Hugo-based publishing, I fire up a ~~WordPress~~ Ghost blog.
 

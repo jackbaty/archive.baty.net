@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-03-03T17:22:36+00:00
-title: Rockin’ the Casbah
-url: /2004/rockin-the-casbah/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-03-03T17:22:36+00:00"
+title = "Rockin’ the Casbah"
+url = "/2004/rockin-the-casbah/"
+
++++
 
 Spent the first part of the evening watching _School of Rock_ with Jess and it was even better the second time.
 

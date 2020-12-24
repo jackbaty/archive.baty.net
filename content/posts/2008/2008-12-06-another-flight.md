@@ -1,15 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-12-06T15:48:49+00:00
-tags:
-- Jess
-- personal
-- tattoo
-title: Another Flight
-url: /2008/another-flight/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-12-06T15:48:49+00:00"
+tags = ["Jess", "personal", "tattoo"]
+title = "Another Flight"
+url = "/2008/another-flight/"
+
++++
 
 <img src="/files/jess-daddy-tattoo.jpg" alt="jess-daddy-tatto.jpg" border="0" width="500" height="375" class="frame" />
 

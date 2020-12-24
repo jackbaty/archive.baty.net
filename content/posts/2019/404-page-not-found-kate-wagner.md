@@ -1,7 +1,8 @@
 +++
-title = "404 Page Not Found - Kate Wagner"
-date = 2019-11-12T08:21:00-05:00
+date = "2019-11-12T08:21:00-05:00"
 draft = false
+title = "404 Page Not Found - Kate Wagner"
+
 +++
 
 [Kate Wagner - The Baffler](https://thebaffler.com/salvos/404-page-not-found-wagner):

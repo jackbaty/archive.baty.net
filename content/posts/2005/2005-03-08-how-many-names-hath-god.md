@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-03-08T13:39:39+00:00
-title: How Many Names Hath God?
-url: /2005/how-many-names-hath-god/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-03-08T13:39:39+00:00"
+title = "How Many Names Hath God?"
+url = "/2005/how-many-names-hath-god/"
+
++++
 
 From The Morning News, [How Many Names Hath God?][1]"
 

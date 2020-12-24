@@ -1,16 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-10-18T18:45:02+00:00
-dsq_thread_id:
-- 3131229504
-tags:
-- personal
-- Zim
-title: Zim’s Favorite Things
-url: /2014/zims-favorite-things/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-10-18T18:45:02+00:00"
+dsq_thread_id = [3131229504]
+tags = ["personal", "Zim"]
+title = "Zim’s Favorite Things"
+url = "/2014/zims-favorite-things/"
+
++++
 
 It's been a week since [Zim died][1] and I still miss him terribly. It's hit me
 harder than I expected. I find myself briefly forgetting he's gone, then being

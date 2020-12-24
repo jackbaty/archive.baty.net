@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2016-04-09T11:43:24+00:00
-tags:
-- Analog
-title: David Rees is winding down his pencil sharpening service
-url: /2016/david-rees-closing-his-pencil-sharpening-service/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2016-04-09T11:43:24+00:00"
+tags = ["Analog"]
+title = "David Rees is winding down his pencil sharpening service"
+url = "/2016/david-rees-closing-his-pencil-sharpening-service/"
+
++++
 
 David Rees started an [Artisanal Pencil Sharpening][1] service and kept a mostly straight face about it the entire time. The execution was brilliant. Of course I bought one:
 

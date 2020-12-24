@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-11-18T16:42:38+00:00
-title: 1st major iMac gripe
-url: /2004/1st-major-imac-gripe/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-11-18T16:42:38+00:00"
+title = "1st major iMac gripe"
+url = "/2004/1st-major-imac-gripe/"
+
++++
 
 Window resizing sucks all the way &#8216;round. First, I have to hit one little tiny corner way down there in order to resize a window. Windows does this better. Second, it takes _forever_ for windows to redraw after resizing. Seek, click, drag,&#8230; wait for it&#8230;, window resizes. Some apps are worse than others, but sheesh.
 

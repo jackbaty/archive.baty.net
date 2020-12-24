@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-08-07T23:30:57+00:00
-title: Anil Dash is this close to switching to Firebird
-url: /2003/anil-dash-is-this-close-to-switching-to-firebird/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-08-07T23:30:57+00:00"
+title = "Anil Dash is this close to switching to Firebird"
+url = "/2003/anil-dash-is-this-close-to-switching-to-firebird/"
+
++++
 
 Anil Dash lists [What Firebird Needs][1] before becoming his default browser.
   

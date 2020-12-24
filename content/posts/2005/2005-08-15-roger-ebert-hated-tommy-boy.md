@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-08-15T20:53:26+00:00
-title: Roger Ebert hated Tommy Boy
-url: /2005/roger-ebert-hated-tommy-boy/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-08-15T20:53:26+00:00"
+title = "Roger Ebert hated Tommy Boy"
+url = "/2005/roger-ebert-hated-tommy-boy/"
+
++++
 
 As a big fan of Roger Ebert (and yes, he's smarter than you and I put together) I was delighted to find a list of [his most hated movies][1]
 

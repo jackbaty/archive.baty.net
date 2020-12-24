@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-13T03:15:13+00:00
-title: PHPetal in maintenance mode
-url: /2003/phpetal-in-maintenance-mode/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-13T03:15:13+00:00"
+title = "PHPetal in maintenance mode"
+url = "/2003/phpetal-in-maintenance-mode/"
+
++++
 
 I’m officially putting [PHPetal][1] in maintenance
 

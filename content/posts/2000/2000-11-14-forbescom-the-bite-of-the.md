@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-11-14T23:06:59+00:00
-title: 'Forbes.com: The Bite of the'
-url: /2000/forbescom-the-bite-of-the/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-11-14T23:06:59+00:00"
+title = "Forbes.com: The Bite of the"
+url = "/2000/forbescom-the-bite-of-the/"
+
++++
 
 [][1] 
 

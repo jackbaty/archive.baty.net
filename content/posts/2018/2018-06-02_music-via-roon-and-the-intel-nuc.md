@@ -1,8 +1,9 @@
 +++
-title = "The Intel NUC and Roon as My Music System"
-date = 2018-06-02T11:05:00-04:00
-slug = "music-via-roon-and-the-intel-nuc"
+date = "2018-06-02T11:05:00-04:00"
 draft = false
+slug = "music-via-roon-and-the-intel-nuc"
+title = "The Intel NUC and Roon as My Music System"
+
 +++
 
 {{< figure src="/img/2018/2018-06-02_NUC-running-roon-core.jpg" caption="Figure 1: Intel NUC running Roon Core" >}}

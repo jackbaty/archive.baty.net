@@ -1,15 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2009-01-04T19:36:29+00:00
-dsq_thread_id:
-- 3131254965
-tags:
-- photography
-title: I Shoot Film
-url: /2009/i-shoot-film/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2009-01-04T19:36:29+00:00"
+dsq_thread_id = [3131254965]
+tags = ["photography"]
+title = "I Shoot Film"
+url = "/2009/i-shoot-film/"
+
++++
 
 In 2005 I sold a nice Leica M6 TTL with a mint Summicron ASPH 35mm to some random stranger on eBay. Last week I corrected that mistake by buying another M6.
 

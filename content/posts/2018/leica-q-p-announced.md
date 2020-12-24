@@ -1,8 +1,9 @@
----
-title: "Leica Q-P Announced"
-date: 2018-11-06T12:38:09-05:00
-tags: ["leica","photography"]
----
++++
+date = "2018-11-06T12:38:09-05:00"
+tags = ["leica", "photography"]
+title = "Leica Q-P Announced"
+
++++
 
 ![Leica Q-P](/img/2018/leica-q-p-1.jpg)
 

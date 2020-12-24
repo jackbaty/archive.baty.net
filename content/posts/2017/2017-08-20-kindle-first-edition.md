@@ -1,8 +1,9 @@
----
-title: "Kindle 1st Edition"
-date: 2017-08-20
-tags: ["kindle"]
----
++++
+date = "2017-08-20"
+tags = ["kindle"]
+title = "Kindle 1st Edition"
+
++++
 
 ![][image-1]
 

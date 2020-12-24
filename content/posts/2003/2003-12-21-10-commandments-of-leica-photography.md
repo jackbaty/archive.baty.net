@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-12-21T09:18:03+00:00
-title: 10 Commandments of Leica Photography
-url: /2003/10-commandments-of-leica-photography/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-12-21T09:18:03+00:00"
+title = "10 Commandments of Leica Photography"
+url = "/2003/10-commandments-of-leica-photography/"
+
++++
 
 I want a Leica. Do I have to have a reason? Okay, so far the best one I can come up with is the Philadelphia Leica User Group's [The Ten Commandments of Leica Photography][1]
 

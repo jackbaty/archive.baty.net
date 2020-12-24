@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-02-19T17:56:39+00:00
-title: 'Learned Today: Don’t shake it like a Polaroid Picture'
-url: /2004/learned-today-dont-shake-it-like-a-polaroid-picture/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-02-19T17:56:39+00:00"
+title = "Learned Today: Don’t shake it like a Polaroid Picture"
+url = "/2004/learned-today-dont-shake-it-like-a-polaroid-picture/"
+
++++
 
 According to the [Polaroid FAQ][1] and contrary to what the OutKast song suggests, you really shouldn't shake your polaroids.
 

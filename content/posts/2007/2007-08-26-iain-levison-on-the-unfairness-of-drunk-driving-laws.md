@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-08-26T09:45:58+00:00
-title: Iain Levison on the unfairness of drunk driving laws
-url: /2007/iain-levison-on-the-unfairness-of-drunk-driving-laws/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-08-26T09:45:58+00:00"
+title = "Iain Levison on the unfairness of drunk driving laws"
+url = "/2007/iain-levison-on-the-unfairness-of-drunk-driving-laws/"
+
++++
 
 Iain Levison has an interesting take on Drunk Driving and its enforcement 
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:12+00:00
-title: Resolving Conflicting Usability Guidelines
-url: /2003/resolving-conflicting-usability-guidelines/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:12+00:00"
+title = "Resolving Conflicting Usability Guidelines"
+url = "/2003/resolving-conflicting-usability-guidelines/"
+
++++
 
 Employee Directory Search: Resolving Conflicting Usability Guidelines
 

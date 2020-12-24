@@ -1,9 +1,9 @@
----
-title: "Eve: Programming designed for humans"
-date: 2016-11-05T12:26:50-04:00
-tags: [""]
-slug: "eve-programming-designed-for-humans"
----
++++
+date = "2016-11-05T12:26:50-04:00"
+slug = "eve-programming-designed-for-humans"
+title = "Eve: Programming designed for humans"
+
++++
 
 [Eve](http://programming.witheve.com/):
 

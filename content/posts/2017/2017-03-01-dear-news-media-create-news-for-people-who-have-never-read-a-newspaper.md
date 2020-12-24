@@ -1,9 +1,10 @@
----
-title: "Dear News Media: Create News For People Who Have Never Read A Newspaper"
-slug: "dear-news-media-create-news-for-people-who-have-never-read-a-newspaper"
-date: "2017-02-25T20:49:24-05:00"
-tags: ["News", "Analog"]
----
++++
+date = "2017-02-25T20:49:24-05:00"
+slug = "dear-news-media-create-news-for-people-who-have-never-read-a-newspaper"
+tags = ["News", "Analog"]
+title = "Dear News Media: Create News For People Who Have Never Read A Newspaper"
+
++++
 
 
 [Media Center

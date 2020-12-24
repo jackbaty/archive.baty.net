@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-12-05T22:03:01+00:00
-title: Tomorrow May Never Come
-url: /2005/tomorrow-may-never-come/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-12-05T22:03:01+00:00"
+title = "Tomorrow May Never Come"
+url = "/2005/tomorrow-may-never-come/"
+
++++
 
 From [Lifehack][1]
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-02-06T23:23:27+00:00
-title: The Cool Art of Planet Hunting
-url: /2006/the-cool-art-of-planet-hunting/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-02-06T23:23:27+00:00"
+title = "The Cool Art of Planet Hunting"
+url = "/2006/the-cool-art-of-planet-hunting/"
+
++++
 
 From 3QD, a little background on how scientists look for new planets. 
 

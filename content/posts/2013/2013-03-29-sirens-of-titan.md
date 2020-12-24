@@ -1,16 +1,13 @@
----
-author: Jack
-categories:
-- Books
-- Journal
-date: 2013-03-29T04:00:00+00:00
-dsq_thread_id:
-- 3595601
-tags:
-- book
-title: 'Book: Sirens of Titan'
-url: /2013/sirens-of-titan/
----
++++
+author = "Jack"
+categories = ["Books", "Journal"]
+date = "2013-03-29T04:00:00+00:00"
+dsq_thread_id = [3595601]
+tags = ["book"]
+title = "Book: Sirens of Titan"
+url = "/2013/sirens-of-titan/"
+
++++
 
 <aside> <img src="/img/2013/sirens-of-titan-book.jpg" alt="Sirens of Titan" class="postimage" />
   

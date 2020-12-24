@@ -1,16 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-05-03T16:15:24+00:00
-tags:
-- 35mm
-- film
-- Olympus
-- photography
-title: Around the yard with the OM-2n
-url: /2015/around-the-yard-with-the-om-2n/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-05-03T16:15:24+00:00"
+tags = ["35mm", "film", "Olympus", "photography"]
+title = "Around the yard with the OM-2n"
+url = "/2015/around-the-yard-with-the-om-2n/"
+
++++
 
 I was cleaning out a closet and found my bag of unused Olympus gear. I couldn't remember why it was unused so I grabbed one of the OM-2n bodies with a "silver nose" Zuiko 85mm f/2.0 and shot a roll of Tri-X. I've found the 85 to be a bit prone to flare. Like this&#8230;
 

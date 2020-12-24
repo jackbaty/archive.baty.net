@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Art
-date: 2008-02-02T12:49:00+00:00
-tags:
-- Art
-title: Frozen Grand Central at Improv Everywhere
-url: /2008/frozen-grand-central-at-improv-everywhere/
----
++++
+author = "Jack"
+categories = ["Art"]
+date = "2008-02-02T12:49:00+00:00"
+tags = ["Art"]
+title = "Frozen Grand Central at Improv Everywhere"
+url = "/2008/frozen-grand-central-at-improv-everywhere/"
+
++++
 
 This is wonderful&#8230; 
 

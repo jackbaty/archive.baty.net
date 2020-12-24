@@ -1,26 +1,18 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-09-14T12:10:25+00:00
-tags:
-- food
-- fun
-title: Nah, I Wasn&#039;t Evolved for It.
-tz_audio_format:
-- mp3
-tz_gallery_captions:
-- "true"
-tz_gallery_format:
-- -=set slideshow type=-
-tz_gallery_margins:
-- 10
-tz_gallery_randomize:
-- "false"
-tz_gallery_targetheight:
-- 200
-url: /2014/nah-i-wasnt-evolved-for-it/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-09-14T12:10:25+00:00"
+tags = ["food", "fun"]
+title = "Nah, I Wasn&#039;t Evolved for It."
+tz_audio_format = ["mp3"]
+tz_gallery_captions = ["true"]
+tz_gallery_format = ["-=set slideshow type=-"]
+tz_gallery_margins = [10]
+tz_gallery_randomize = ["false"]
+tz_gallery_targetheight = [200]
+url = "/2014/nah-i-wasnt-evolved-for-it/"
+
++++
 
 <img title="20140914_wondermarkfeed_want a cookie.png" src="/img/2014/09/20140914_wondermarkfeed_want-a-cookie.png" alt="20140914 wondermarkfeed want a cookie" width="600" height="469" border="0" />
 

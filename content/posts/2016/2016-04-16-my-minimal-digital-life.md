@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Software
-date: 2016-04-16T14:15:46+00:00
-title: My Minimal Digital Life – Linus Edwards
-url: /2016/my-minimal-digital-life/
----
++++
+author = "Jack"
+categories = ["Software"]
+date = "2016-04-16T14:15:46+00:00"
+title = "My Minimal Digital Life – Linus Edwards"
+url = "/2016/my-minimal-digital-life/"
+
++++
 
 [Linus Edwards][1]:
 

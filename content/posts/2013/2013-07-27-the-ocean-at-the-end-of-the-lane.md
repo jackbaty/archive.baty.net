@@ -1,16 +1,13 @@
----
-author: Jack
-categories:
-- Books
-- Journal
-date: 2013-07-27T04:00:00+00:00
-dsq_thread_id:
-- 3595629
-tags:
-- book
-title: 'Book: The Ocean at the End of the Lane'
-url: /2013/the-ocean-at-the-end-of-the-lane/
----
++++
+author = "Jack"
+categories = ["Books", "Journal"]
+date = "2013-07-27T04:00:00+00:00"
+dsq_thread_id = [3595629]
+tags = ["book"]
+title = "Book: The Ocean at the End of the Lane"
+url = "/2013/the-ocean-at-the-end-of-the-lane/"
+
++++
 
 <aside> <img src="/img/2013/ocean-at-the-end-cover.jpg" alt="The Ocean at the End of the Lane" class="postimage" />
   

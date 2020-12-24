@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-05-27T13:05:42+00:00
-title: Parallels sure is handy
-url: /2006/parallels-sure-is-handy/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-05-27T13:05:42+00:00"
+title = "Parallels sure is handy"
+url = "/2006/parallels-sure-is-handy/"
+
++++
 
 When I first installed [Parallels](<http://www.parallels.com/en/products/workstation/>) on my MacBook Pro I wasn't sure what I'd do with it. Neat, but useless? Nope. Since installing it I've found all sorts of reasons&#8230; 
 

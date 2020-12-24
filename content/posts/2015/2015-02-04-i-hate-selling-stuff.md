@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-02-04T22:50:15+00:00
-title: I hate selling stuff
-url: /2015/i-hate-selling-stuff/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-02-04T22:50:15+00:00"
+title = "I hate selling stuff"
+url = "/2015/i-hate-selling-stuff/"
+
++++
 
 I change my mind about gear quite often. This means I end up with things that I no longer need. What I should do when that happens is sell those things.
 

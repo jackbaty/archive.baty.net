@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:12+00:00
-title: New Scientist interview with Don Norman
-url: /2003/new-scientist-interview-with-don-norman/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:12+00:00"
+title = "New Scientist interview with Don Norman"
+url = "/2003/new-scientist-interview-with-don-norman/"
+
++++
 
 Don's still the man when it comes to usable things. New Scientist [interviewed him][1].
 

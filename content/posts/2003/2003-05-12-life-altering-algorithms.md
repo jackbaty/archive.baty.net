@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-12T16:18:13+00:00
-title: Life-altering algorithms
-url: /2003/life-altering-algorithms/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-12T16:18:13+00:00"
+title = "Life-altering algorithms"
+url = "/2003/life-altering-algorithms/"
+
++++
 
 Mary just reminded me that if it had been up to online dating services,
   

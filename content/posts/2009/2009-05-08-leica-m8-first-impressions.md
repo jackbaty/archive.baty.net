@@ -1,16 +1,13 @@
----
-author: Jack
-categories:
-- Hardware
-date: 2009-05-08T16:49:56+00:00
-tags:
-- gear
-- photography
-thesis_post_image:
-- /files/20090509_013-20090509-124857.jpg
-title: Leica M8 First Impressions
-url: /2009/leica-m8-first-impressions/
----
++++
+author = "Jack"
+categories = ["Hardware"]
+date = "2009-05-08T16:49:56+00:00"
+tags = ["gear", "photography"]
+thesis_post_image = ["/files/20090509_013-20090509-124857.jpg"]
+title = "Leica M8 First Impressions"
+url = "/2009/leica-m8-first-impressions/"
+
++++
 
 After 3 years of pretending I didn't want an M8, I now have one. Much has already been written about Leica's first digital M so I will stick to a few personal observations based on first impressions using the camera.
 

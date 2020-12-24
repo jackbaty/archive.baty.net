@@ -1,17 +1,14 @@
----
-title: Streaming Services and the End of Music Collection – Variety
-author: Jack
-date: 2017-12-27T15:14:28+00:00
-url: /2017/streaming-services-and-the-end-of-music-collection-variety/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Books and Media
-tags:
-  - music
-format: link
++++
+author = "Jack"
+categories = ["Books and Media"]
+date = "2017-12-27T15:14:28+00:00"
+format = "link"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["music"]
+title = "Streaming Services and the End of Music Collection – Variety"
+url = "/2017/streaming-services-and-the-end-of-music-collection-variety/"
 
----
++++
 <img title="2015 LF002.jpg" src="/img/2017/12/2015-LF002-1.jpg" alt="2015 LF002" width="1023" height="788" border="0" />
 
 [Janko Roettgers in Variety][1]:

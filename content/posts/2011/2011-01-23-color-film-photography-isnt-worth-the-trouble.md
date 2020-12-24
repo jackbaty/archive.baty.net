@@ -1,15 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2011-01-23T18:43:27+00:00
-tags:
-- color
-- film
-- photography
-title: Color Film Photography Isn&#039;t Worth The Trouble
-url: /2011/color-film-photography-isnt-worth-the-trouble/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2011-01-23T18:43:27+00:00"
+tags = ["color", "film", "photography"]
+title = "Color Film Photography Isn&#039;t Worth The Trouble"
+url = "/2011/color-film-photography-isnt-worth-the-trouble/"
+
++++
 
 [<img class="size-full wp-image-4444" src="/img/2015/04/2011-01-22-Scan-110122-0006-1.jpg" alt="Tractor. Kodachrome" width="600" height="408" srcset="/img/2015/04/2011-01-22-Scan-110122-0006-1.jpg 600w, /img/2015/04/2011-01-22-Scan-110122-0006-1-300x204.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />][1]
 

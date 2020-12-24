@@ -1,18 +1,13 @@
----
-title: Deciding whether to keep shooting 35mm film
-author: Jack
-date: 2018-07-01T18:45:21+00:00
-url: /2018/deciding-whether-to-keep-shooting-35mm-film/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Photography
-tags:
-  - canon
-  - film
-  - portra400
++++
+author = "Jack"
+categories = ["Photography"]
+date = "2018-07-01T18:45:21+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["canon", "film", "portra400"]
+title = "Deciding whether to keep shooting 35mm film"
+url = "/2018/deciding-whether-to-keep-shooting-35mm-film/"
 
----
++++
 Should I continue shooting 35mm film? I ask myself this question regularly, but never make a decision. Last week I thought I had decided I was going to shoot only medium and large format film, leaving the every day stuff to digital. And I certainly wasn&#8217;t going to shoot 35mm _color_ film, since why would I do that if I can&#8217;t use it to make darkroom prints?
 
 Then yesterday I went to a pool party and brought the Canon EOS-1v loaded with Portra 400. The 1v is a rugged, fast, weatherproof, professional-level camera. I forget how nice it is to use. I shot a roll of random snapshots, self-processed the roll in the JOBO, and scanned it using the Pakon. It&#8217;s really all quite easy when it works.

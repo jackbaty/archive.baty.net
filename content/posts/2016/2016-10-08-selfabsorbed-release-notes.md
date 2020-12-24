@@ -1,10 +1,10 @@
----
-date: 2016-10-08T15:31:22-04:00
-slug: selfabsorbed-release-notes
-tags:
-- Software
-title: Self-absorbed Release Notes
----
++++
+date = "2016-10-08T15:31:22-04:00"
+slug = "selfabsorbed-release-notes"
+tags = ["Software"]
+title = "Self-absorbed Release Notes"
+
++++
 
 [Kirk McElhern](http://www.mcelhearn.com/developers-stop-with-the-stupid-pretentious-self-absorbed-release-notes/):
 

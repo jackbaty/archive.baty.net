@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-08-14T10:30:26+00:00
-title: Kung Fu Hustle
-url: /2005/kung-fu-hustle/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-08-14T10:30:26+00:00"
+title = "Kung Fu Hustle"
+url = "/2005/kung-fu-hustle/"
+
++++
 
 And speaking of Kung Fu. Please see [Kung Fu Hustle][1]. Yes, it's silly and completely over the top. It's also an absolute blast from start to finish. Roger Ebert sums it up nicely:
 

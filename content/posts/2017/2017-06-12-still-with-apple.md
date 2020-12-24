@@ -1,9 +1,10 @@
----
-date: 2017-06-12T21:28:38-04:00
-slug: "still-with-apple"
-tags: ["Apple"]
-title: "Sticking with Apple"
----
++++
+date = "2017-06-12T21:28:38-04:00"
+slug = "still-with-apple"
+tags = ["Apple"]
+title = "Sticking with Apple"
+
++++
 
 It has become trendy to question our allegiance to Apple.
 

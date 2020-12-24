@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-07-14T04:00:00+00:00
-tags:
-- emacs
-- sysadmin
-title: Repairing Emacs after installing El Capitan
-url: /2015/upgraded-emacs-mac-for-el-capitan/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-07-14T04:00:00+00:00"
+tags = ["emacs", "sysadmin"]
+title = "Repairing Emacs after installing El Capitan"
+url = "/2015/upgraded-emacs-mac-for-el-capitan/"
+
++++
 
 Another issue after installing the El Capitan beta yesterday: Emacs became slow and had font issues. Recording my fix here for future reference.
 

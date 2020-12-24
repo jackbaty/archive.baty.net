@@ -1,14 +1,12 @@
----
-title: I need to get away from the computer
-author: Jack
-date: 2018-10-22T21:45:31+00:00
-url: /2018/i-need-to-get-away-from-the-computer/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Analog
++++
+author = "Jack"
+categories = ["Analog"]
+date = "2018-10-22T21:45:31+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+title = "I need to get away from the computer"
+url = "/2018/i-need-to-get-away-from-the-computer/"
 
----
++++
 Is there such a thing as an addiction to &#8220;being on the computer&#8221;? If there is, I suffer from it.
 
 I sit here staring at a screen for hours with no real goal or plan. I just click things and read things and move things around.

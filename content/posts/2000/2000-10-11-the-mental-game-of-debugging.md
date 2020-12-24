@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-10-11T10:02:46+00:00
-title: The Mental Game of Debugging
-url: /2000/the-mental-game-of-debugging/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-10-11T10:02:46+00:00"
+title = "The Mental Game of Debugging"
+url = "/2000/the-mental-game-of-debugging/"
+
++++
 
 [The Mental Game of Debugging][1]
 

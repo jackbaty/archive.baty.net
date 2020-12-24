@@ -1,9 +1,10 @@
----
-title: "Pausing my experiment with WithKnown"
-date: 2017-06-04T13:15:44-04:00
-tags: ["Blogging","Known","IndieWeb"]
-slug: "pausing-my-experiment-with-withknown"
----
++++
+date = "2017-06-04T13:15:44-04:00"
+slug = "pausing-my-experiment-with-withknown"
+tags = ["Blogging", "Known", "IndieWeb"]
+title = "Pausing my experiment with WithKnown"
+
++++
 
 Known (https://withknown.com/) is described as "a social learning platform," but
 it seems to work pretty well for publishing a microblog (or any blog for that

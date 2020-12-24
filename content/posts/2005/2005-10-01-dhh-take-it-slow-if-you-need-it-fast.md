@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-10-01T09:38:31+00:00
-title: 'DHH: Take it slow if you need it fast'
-url: /2005/dhh-take-it-slow-if-you-need-it-fast/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-10-01T09:38:31+00:00"
+title = "DHH: Take it slow if you need it fast"
+url = "/2005/dhh-take-it-slow-if-you-need-it-fast/"
+
++++
 
 Some [good advice][1] about doing it right the first time, even when we "don't have time right now," from David Heinemeier Hansson&#8230;
 

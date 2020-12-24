@@ -1,15 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-07-21T00:00:00+00:00
-tags:
-- 4x5
-- film
-- photography
-title: Large Format Color
-url: /2013/large-format-color/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-07-21T00:00:00+00:00"
+tags = ["4x5", "film", "photography"]
+title = "Large Format Color"
+url = "/2013/large-format-color/"
+
++++
 
 {{< figure src="/img/2013/07/2013-LF022-processed-768x604.jpg" title="Ron Baty (2013). Crown Graphic. Self-processed. "  >}}
 

@@ -1,15 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-10-30T23:50:25+00:00
-dsq_thread_id:
-- 473556913
-tags:
-- photography
-title: A Photography Workflow
-url: /2008/a-photography-workflow/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-10-30T23:50:25+00:00"
+dsq_thread_id = [473556913]
+tags = ["photography"]
+title = "A Photography Workflow"
+url = "/2008/a-photography-workflow/"
+
++++
 
 <span class="drop_cap">A</span> photographic workflow is important to professional photographers. Not being a professional photographer, I don't need one. And yet, I tweak mine constantly, and never seem to get it right. With so many good options, I just end up confused.
 

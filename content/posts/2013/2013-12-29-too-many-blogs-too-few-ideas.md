@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-12-29T00:00:00+00:00
-tags:
-- Writing
-title: Too many blogs, too few ideas
-url: /2013/too-many-blogs-too-few-ideas/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-12-29T00:00:00+00:00"
+tags = ["Writing"]
+title = "Too many blogs, too few ideas"
+url = "/2013/too-many-blogs-too-few-ideas/"
+
++++
 
 I tend to start a new blog so I can try blogging software. There&#x2019;s nothing wrong with that other than I&#x2019;ve ended up with many places to write but not enough to say. I suppose I should just pick a venue already and be done with it, but I can&#x2019;t seem to decide where I want to &#x201c;live&#x201d; online.
 

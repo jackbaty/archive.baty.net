@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-03-26T09:03:55+00:00
-title: Another reason I don’t like Ballmer
-url: /2004/another-reason-i-dont-like-ballmer/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-03-26T09:03:55+00:00"
+title = "Another reason I don’t like Ballmer"
+url = "/2004/another-reason-i-dont-like-ballmer/"
+
++++
 
 Ballmer:
 

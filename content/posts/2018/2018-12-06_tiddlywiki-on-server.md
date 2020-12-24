@@ -1,9 +1,10 @@
----
-title: "Running Tiddlywiki on a server"
-date: 2018-12-06
-tags: ["tiddlywiki","wiki"]
-slug: "tiddlywiki-on-server"
----
++++
+date = "2018-12-06"
+slug = "tiddlywiki-on-server"
+tags = ["tiddlywiki", "wiki"]
+title = "Running Tiddlywiki on a server"
+
++++
 
 I'm still tinkering with [Tiddlywiki](https://tiddlywiki.com) because I'm convinced there's something to it. [Version 5.1.18 was released](https://tiddlywiki.com/#Releases) recently and included improvements to the web server features.
 

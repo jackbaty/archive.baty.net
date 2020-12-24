@@ -1,8 +1,9 @@
----
-title: "Fixing Easy Hugo"
-date: 2019-01-16T13:20:50-05:00
-tags: ["hugo","emacs"]
----
++++
+date = "2019-01-16T13:20:50-05:00"
+tags = ["hugo", "emacs"]
+title = "Fixing Easy Hugo"
+
++++
 
 I'd been fighting with what I thought was a [bug in easy-hugo](https://github.com/masasam/emacs-easy-hugo/issues/47), but when I stopped posting with Hugo I sort of forgot about it.
 

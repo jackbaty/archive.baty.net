@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-12-28T14:51:03+00:00
-title: User-Unfriendly Welcome to the 21st
-url: /2000/user-unfriendly-welcome-to-the-21st/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-12-28T14:51:03+00:00"
+title = "User-Unfriendly Welcome to the 21st"
+url = "/2000/user-unfriendly-welcome-to-the-21st/"
+
++++
 
 <span class="removed_link" title="http://www.latimes.com/business/cutting/20001228/t000123518.html">User-Unfriendly</span>
   

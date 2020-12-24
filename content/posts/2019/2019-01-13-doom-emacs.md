@@ -1,8 +1,9 @@
----
-title: "Doom Emacs"
-date: 2019-01-13T15:34:41-05:00
-tags: ["emacs"]
----
++++
+date = "2019-01-13T15:34:41-05:00"
+tags = ["emacs"]
+title = "Doom Emacs"
+
++++
 
 Well [this](https://www.baty.net/2019/mastering-emacs-again/) was a terrible
 idea.

@@ -1,14 +1,12 @@
----
-title: The Moleskine Artist
-author: Jack
-date: 2018-12-31T14:23:42+00:00
-url: /2018/the-moleskine-artist/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Analog
++++
+author = "Jack"
+categories = ["Analog"]
+date = "2018-12-31T14:23:42+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+title = "The Moleskine Artist"
+url = "/2018/the-moleskine-artist/"
 
----
++++
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
 <div class="wp-block-embed__wrapper">

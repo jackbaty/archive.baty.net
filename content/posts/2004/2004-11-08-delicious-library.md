@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-11-08T15:46:22+00:00
-title: Delicious Library
-url: /2004/delicious-library/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-11-08T15:46:22+00:00"
+title = "Delicious Library"
+url = "/2004/delicious-library/"
+
++++
 
 ![][1]
 

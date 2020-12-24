@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2001-01-22T08:11:43+00:00
-title: 'U.S. News: Some gadgets aimed'
-url: /2001/us-news-some-gadgets-aimed/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2001-01-22T08:11:43+00:00"
+title = "U.S. News: Some gadgets aimed"
+url = "/2001/us-news-some-gadgets-aimed/"
+
++++
 
 [U.S. News: Some gadgets aimed at simplifying life just drive us crazy (1/15/01)][1]
 

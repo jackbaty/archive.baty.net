@@ -1,10 +1,11 @@
----
-title: "Forklift as a Finder replacement"
-date: 2018-06-21T09:24:00-04:00 
-draft: false
-description: "I've set Forklift as my default file manager"
-tags: ["macos","app"]
----
++++
+date = "2018-06-21T09:24:00-04:00"
+description = "I've set Forklift as my default file manager"
+draft = false
+tags = ["macos", "app"]
+title = "Forklift as a Finder replacement"
+
++++
 
 <img src="/img/2018/2018-06-21-forklift.png" alt="forklift" />
 

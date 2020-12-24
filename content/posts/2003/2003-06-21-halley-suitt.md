@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-06-22T02:49:14+00:00
-title: Halley Suitt
-url: /2003/halley-suitt/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-06-22T02:49:14+00:00"
+title = "Halley Suitt"
+url = "/2003/halley-suitt/"
+
++++
 
 Halley gets blogrolled for pointing me to a wonderful Emerson essay:
   

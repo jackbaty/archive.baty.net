@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-11-14T16:44:53+00:00
-title: User Interface Design for Web Applications
-url: /2003/user-interface-design-for-web-applications/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-11-14T16:44:53+00:00"
+title = "User Interface Design for Web Applications"
+url = "/2003/user-interface-design-for-web-applications/"
+
++++
 
 Digital Web Magazine [article][1] on some of the different challenges between creating web applications and web sites.
 

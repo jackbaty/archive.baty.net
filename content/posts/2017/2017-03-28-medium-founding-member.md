@@ -1,10 +1,11 @@
----
-title: "Paying for Medium"
-slug: "paying-for-medium"
-date: "2017-03-28T17:58:41-04:00"
-tags: ["Medium", "Publishing"]
-draft: false
----
++++
+date = "2017-03-28T17:58:41-04:00"
+draft = false
+slug = "paying-for-medium"
+tags = ["Medium", "Publishing"]
+title = "Paying for Medium"
+
++++
 
 ![Medium Profile](/img/2017/medium-profile.jpg)
 

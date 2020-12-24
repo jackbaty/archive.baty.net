@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-03-05T04:31:39+00:00
-title: Baby you can drive my tank
-url: /2005/baby-you-can-drive-my-tank/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-03-05T04:31:39+00:00"
+title = "Baby you can drive my tank"
+url = "/2005/baby-you-can-drive-my-tank/"
+
++++
 
 It doesn't matter that [this article about SUV ownership][1] is satirical. What's disturbing is that it could easily have been serious.
 

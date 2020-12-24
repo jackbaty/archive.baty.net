@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-08-26T20:45:14+00:00
-title: Yahoo Mail Beta
-url: /2007/yahoo-mail-beta/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-08-26T20:45:14+00:00"
+title = "Yahoo Mail Beta"
+url = "/2007/yahoo-mail-beta/"
+
++++
 
 As an almost fanatical Gmail user, I've always ignored Yahoo mail. The new Yahoo interface must be worth a look though, eh? I'm usually up for something new so let's give it a whirl&#8230;. 
 

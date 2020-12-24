@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-03-16T19:43:00+00:00
-tags:
-- geek
-title: Twitter in Plain English
-url: /2008/twitter-in-plain-english/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-03-16T19:43:00+00:00"
+tags = ["geek"]
+title = "Twitter in Plain English"
+url = "/2008/twitter-in-plain-english/"
+
++++
 
 Another great video from the [commoncraft][1] folks.
 

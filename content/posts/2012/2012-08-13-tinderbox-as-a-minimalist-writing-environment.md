@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2012-08-13T00:00:00+00:00
-tags:
-- Tinderbox
-title: Tinderbox as a Minimalist Writing Environment
-url: /2012/tinderbox-as-a-minimalist-writing-environment/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2012-08-13T00:00:00+00:00"
+tags = ["Tinderbox"]
+title = "Tinderbox as a Minimalist Writing Environment"
+url = "/2012/tinderbox-as-a-minimalist-writing-environment/"
+
++++
 
 Eastgate's <a href="http://www.eastgate.com/Tinderbox/index.html">Tinderbox</a> is a deep, complex, and significant piece of software that I have been using daily for years. It's an outlining, mindmapping, blog-publishing, timeline-generating, text-analyzing, agent-using, note-taking everything tool.
 

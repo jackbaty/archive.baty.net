@@ -1,8 +1,9 @@
----
-title: "Still (maybe) sticking with Dropbox"
-date: 2019-10-21T16:56:59-04:00
-tags: ["sync"]
----
++++
+date = "2019-10-21T16:56:59-04:00"
+tags = ["sync"]
+title = "Still (maybe) sticking with Dropbox"
+
++++
 
 In July I wrote that I'd be [Sticking with Dropbox](https://www.baty.net/2019/sticking-with-dropbox/). This is still true, but a couple things happened recently that have me thinking about it again.
 

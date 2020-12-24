@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-05-25T20:46:53+00:00
-title: Intelligent Design unstuck
-url: /2005/intelligent-design-unstuck/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-05-25T20:46:53+00:00"
+title = "Intelligent Design unstuck"
+url = "/2005/intelligent-design-unstuck/"
+
++++
 
 Someone has come to their senses and forced the goofballs in Cobb County GA to remove those unintentionally hilarious evolution disclaimer stickers from the science textbooks. I mean after all, they are "science" textbooks right? Since when did we start referring to metaphysical nonsense like "Intelligent Design" as science?
 

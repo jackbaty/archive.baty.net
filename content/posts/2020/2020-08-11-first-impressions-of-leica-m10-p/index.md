@@ -1,10 +1,11 @@
----
-title: "First impressions of the Leica M10-P"
-date:  2020-08-11
-tags: ["Leica"]
-categories: ["Photography"]
-featuredImage: m10-p.jpg
----
++++
+categories = ["Photography"]
+date = "2020-08-11"
+featuredImage = "m10-p.jpg"
+tags = ["Leica"]
+title = "First impressions of the Leica M10-P"
+
++++
 
 I am so thrilled to be the new owner of a Leica M10-P. I can hardly believe it. An M10 has been a dream camera since they were announced. I never imagined I’d actually own one. But, circumstances have allowed me to begin putting together what I consider the ultimate “kit” for me, and the M10 is at its center. I couldn’t be happier.
 

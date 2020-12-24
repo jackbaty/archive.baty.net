@@ -1,8 +1,9 @@
----
-title: "Being Basic as a Virtue - Nadia Eghbal"
-date: 2019-09-17T06:52:19-04:00
-tags: ["social"]
----
++++
+date = "2019-09-17T06:52:19-04:00"
+tags = ["social"]
+title = "Being Basic as a Virtue - Nadia Eghbal"
+
++++
 
 [Nadia Eghbal](https://nadiaeghbal.com/basic):
 

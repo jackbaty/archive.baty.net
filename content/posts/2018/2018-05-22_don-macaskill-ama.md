@@ -1,8 +1,9 @@
 +++
-title = "Don MacAskill's AMA Reinforces My Optimism About Flickr"
-date = 2018-05-22T08:48:00-04:00
-tags = ["flickr", "photography"]
+date = "2018-05-22T08:48:00-04:00"
 draft = false
+tags = ["flickr", "photography"]
+title = "Don MacAskill's AMA Reinforces My Optimism About Flickr"
+
 +++
 
 [Don MacAskill, Reddit](https://www.reddit.com/r/photography/comments/8l0pet/im_don_macaskill_ceo_chief_geek_of_smugmug_we/):

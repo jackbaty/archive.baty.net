@@ -1,17 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-02-10T00:00:00+00:00
-dsq_thread_id:
-- 3595697
-tags:
-- productivity
-- software
-- Tinderbox
-title: Digital Recordkeeping
-url: /2013/digital-recordkeeping/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-02-10T00:00:00+00:00"
+dsq_thread_id = [3595697]
+tags = ["productivity", "software", "Tinderbox"]
+title = "Digital Recordkeeping"
+url = "/2013/digital-recordkeeping/"
+
++++
 
 Keeping track of All the Things(&trade;) isn't that difficult. Or at least it shouldn't be, but I find it nearly impossible. 
 

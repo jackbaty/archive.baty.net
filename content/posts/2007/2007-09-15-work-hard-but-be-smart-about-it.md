@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-09-15T10:21:08+00:00
-tags:
-- Jess
-title: Work hard, but be smart about it.
-url: /2007/work-hard-but-be-smart-about-it/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-09-15T10:21:08+00:00"
+tags = ["Jess"]
+title = "Work hard, but be smart about it."
+url = "/2007/work-hard-but-be-smart-about-it/"
+
++++
 
 In my 30s I did almost nothing but work. I loved it. For a long time I didn't have a laptop or a computer at home so I carried my desktop home \*every night\*. [Fusionary][1] was new and wonderful and nothing else mattered. Okay, Fusionary is _still_ new and wonderful, but you know what I mean. 
 

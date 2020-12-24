@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:11+00:00
-title: The client is not the customer
-url: /2003/the-client-is-not-the-customer/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:11+00:00"
+title = "The client is not the customer"
+url = "/2003/the-client-is-not-the-customer/"
+
++++
 
 We've been having conversations around the office recently regarding making the client happy. It sounds like such a good idea, but unless clients agree, at least on some level other than lip-service, with the objectives and philosophy of what we're trying to do for them, it often fails.
 

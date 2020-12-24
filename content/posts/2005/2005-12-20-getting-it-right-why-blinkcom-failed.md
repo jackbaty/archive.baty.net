@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-12-20T13:21:04+00:00
-dsq_thread_id:
-- 3131254516
-title: 'Getting it Right: Why Blink.com failed'
-url: /2005/getting-it-right-why-blinkcom-failed/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-12-20T13:21:04+00:00"
+dsq_thread_id = [3131254516]
+title = "Getting it Right: Why Blink.com failed"
+url = "/2005/getting-it-right-why-blinkcom-failed/"
+
++++
 
 Ara Paparo writes a very [insightful post](<http://www.aripaparo.com/archive/001456.html>) on why Blink.com failed and perhaps why del.ico.us didn't.&nbsp; Main point that I took away: Don't try so damn hard right out of the gate. 
 

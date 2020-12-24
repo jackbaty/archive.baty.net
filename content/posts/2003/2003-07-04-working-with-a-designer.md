@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-07-04T12:13:14+00:00
-title: working with a designer
-url: /2003/working-with-a-designer/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-07-04T12:13:14+00:00"
+title = "working with a designer"
+url = "/2003/working-with-a-designer/"
+
++++
 
 Daniel Will-Harris writes a [great piece][1] about working with a designer. It nicely describes how a client should manage it's relationship to a design firm.
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-12-24T14:58:42+00:00
-title: Taking back the music
-url: /2014/taking-back-the-music/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-12-24T14:58:42+00:00"
+title = "Taking back the music"
+url = "/2014/taking-back-the-music/"
+
++++
 
 [Rian van der Merwe][1]:
 

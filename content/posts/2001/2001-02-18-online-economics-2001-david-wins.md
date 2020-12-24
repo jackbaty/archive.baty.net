@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2001-02-18T12:31:22+00:00
-title: 'Online Economics 2001: David Wins,'
-url: /2001/online-economics-2001-david-wins/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2001-02-18T12:31:22+00:00"
+title = "Online Economics 2001: David Wins,"
+url = "/2001/online-economics-2001-david-wins/"
+
++++
 
 [Online Economics 2001: David Wins, Goliath Loses][1]
 

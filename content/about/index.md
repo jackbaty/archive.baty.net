@@ -1,8 +1,9 @@
----
-title: "About"
-date: 2019-07-04T11:18:00-04:00
-draft: false
----
++++
+date = "2019-07-04T11:18:00-04:00"
+draft = false
+title = "About"
+
++++
 
 ## A little about me
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-08-15T17:16:08+00:00
-title: What Microsoft
-url: /2000/what-microsoftaaes-net-doesnaaet-get/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-08-15T17:16:08+00:00"
+title = "What Microsoft"
+url = "/2000/what-microsoftaaes-net-doesnaaet-get/"
+
++++
 
 [What Microsoft&#194;'s .NET Doesn&#194;'t Get:][1]
 

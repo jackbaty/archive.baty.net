@@ -1,12 +1,10 @@
----
-title: "Leica: To M-D or not to M-D? - Adam Singer"
-date: 2016-12-03T10:24:46-05:00
-tags: 
-- Leica
-- analog
-- film
-slug: "leica-to-md-or-not-to-md--adam-singer"
----
++++
+date = "2016-12-03T10:24:46-05:00"
+slug = "leica-to-md-or-not-to-md--adam-singer"
+tags = ["Leica"]
+title = "Leica: To M-D or not to M-D? - Adam Singer"
+
++++
 
 [Adam Singer - 35mmc](http://www.35mmc.com/03/12/2016/leica-to-m-d-or-not-to-m-d/#comments):
 

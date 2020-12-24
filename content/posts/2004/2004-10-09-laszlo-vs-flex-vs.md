@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-10-09T11:09:22+00:00
-title: Laszlo vs Flex vs ???
-url: /2004/laszlo-vs-flex-vs/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-10-09T11:09:22+00:00"
+title = "Laszlo vs Flex vs ???"
+url = "/2004/laszlo-vs-flex-vs/"
+
++++
 
 [Laszlo][1] is cool. I've been playing with it a bit and for me, the idea of using my text editor of choice to develop Flash apps, ehem, Rich Internet Applications&#8482; is pretty compelling. The main competitor in this space seems to be Macromedia's [Flex][2]. Both look like decent products. I see that Macromedia released a free non-commercial licens for Flex, perhaps in response to the recent decision by Laszlo to open-source their product and make it free.
 

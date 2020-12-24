@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:11+00:00
-title: Not another blogging tool I want to try!
-url: /2003/not-another-blogging-tool-i-want-to-try/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:11+00:00"
+title = "Not another blogging tool I want to try!"
+url = "/2003/not-another-blogging-tool-i-want-to-try/"
+
++++
 
 [raelity bytes][1]
 

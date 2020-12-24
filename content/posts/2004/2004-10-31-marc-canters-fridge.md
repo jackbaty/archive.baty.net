@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-10-31T17:27:22+00:00
-title: Marc Canter’s Fridge
-url: /2004/marc-canters-fridge/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-10-31T17:27:22+00:00"
+title = "Marc Canter’s Fridge"
+url = "/2004/marc-canters-fridge/"
+
++++
 
 [Marc][1] posts a [photo of his fridge][2] (or some UI thing resembling a fridge) to my Flickr group [The Refrigerator Project][3]
 

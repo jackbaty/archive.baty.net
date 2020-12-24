@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-12-12T07:36:23+00:00
-title: On and off the radar
-url: /2004/on-and-off-the-radar/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-12-12T07:36:23+00:00"
+title = "On and off the radar"
+url = "/2004/on-and-off-the-radar/"
+
++++
 
 A fella can only care deeply about a limited number of topics at any given time. I tend to jump around quite a lot when it comes to what I'm interested in, so I thought I'd take a snapshot of what interests (and doesn't interest) me right now&#8230;
 

@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-02-21T00:16:28+00:00
-dsq_thread_id:
-- 3131255434
-title: Programmers and Trauma Surgeons
-url: /2006/programmers-and-trauma-surgeons/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-02-21T00:16:28+00:00"
+dsq_thread_id = [3131255434]
+title = "Programmers and Trauma Surgeons"
+url = "/2006/programmers-and-trauma-surgeons/"
+
++++
 
 An old Philip Greenspun quote I just ran into&#8230; 
 

@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-04-06T00:00:00+00:00
-tags:
-- Tinderbox
-title: Day One to Tinderbox
-url: /2014/day-one-to-tinderbox/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-04-06T00:00:00+00:00"
+tags = ["Tinderbox"]
+title = "Day One to Tinderbox"
+url = "/2014/day-one-to-tinderbox/"
+
++++
 
 <img class="postimage" src="/img/2014/dayone-to-tinderbox.png" alt="Day One to Tinderbox" />
 

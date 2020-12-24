@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-04-14T19:57:47+00:00
-tags:
-- Web
-title: Urgency is poisonous
-url: /2008/urgency-is-poisonous/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-04-14T19:57:47+00:00"
+tags = ["Web"]
+title = "Urgency is poisonous"
+url = "/2008/urgency-is-poisonous/"
+
++++
 
 I find myself agreeing (mostly) with Jason Fried's post, [Urgency is poisonous][1]
 

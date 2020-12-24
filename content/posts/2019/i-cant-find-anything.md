@@ -1,8 +1,9 @@
----
-title: "Why can't I find anything?"
-date: 2019-10-06T09:18:58-04:00
-tags: ["PIM"]
----
++++
+date = "2019-10-06T09:18:58-04:00"
+tags = ["PIM"]
+title = "Why can't I find anything?"
+
++++
 
 It's amazing, and frustrating, to me when I can't find some bit of information. It's not as if I don't have a place to keep things. Oh, no, it's definitely not that. I'm well aware that it's having _too many_ places to keep things that makes it so hard to find stuff.
 

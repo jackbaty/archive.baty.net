@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-09-04T19:17:52+00:00
-title: Get Clicky
-url: /2007/get-clicky/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-09-04T19:17:52+00:00"
+title = "Get Clicky"
+url = "/2007/get-clicky/"
+
++++
 
 <img src="/files/logo-clicky.png" alt="logo-clicky.png" border="0" width="298" height="47" /> 
 

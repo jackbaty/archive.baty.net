@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-07-13T02:33:14+00:00
-title: Zim vom Schafer see
-url: /2003/zim-vom-schafer-see/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-07-13T02:33:14+00:00"
+title = "Zim vom Schafer see"
+url = "/2003/zim-vom-schafer-see/"
+
++++
 
 ![][1]
   

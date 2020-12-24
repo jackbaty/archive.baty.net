@@ -1,8 +1,9 @@
----
-title: "Culling Apps Because of the iPad"
-date: 2017-08-11
-tags: ["apps","ipad","workflow"]
----
++++
+date = "2017-08-11"
+tags = ["apps", "ipad", "workflow"]
+title = "Culling Apps Because of the iPad"
+
++++
 
 The more I use my iPad for “work” the more I like it. This is unexpected, and the trend does not seem to be slowing. In other words, maybe it’s not just novelty. 
 

@@ -1,17 +1,14 @@
----
-title: The Places I Can Write
-author: Jack
-date: 2017-09-09T16:46:16+00:00
-url: /2017/the-places-i-can-write/
-featured_image: /img/2017/09/commonplace-book.jpg
-mf2_syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Misc
-tags:
-  - blogging
++++
+author = "Jack"
+categories = ["Misc"]
+date = "2017-09-09T16:46:16+00:00"
+featured_image = "/img/2017/09/commonplace-book.jpg"
+mf2_syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["blogging"]
+title = "The Places I Can Write"
+url = "/2017/the-places-i-can-write/"
 
----
++++
 People make fun of me for having too many blogs. I don&#8217;t blame them. I just like to try things. I love a Saturday morning with nothing going on other than installing some new app and running with it. It&#8217;s fun!
 
 The trouble begins when I say to myself, &#8220;That&#8217;s it, _this_ is where I&#8217;m writing from now on!&#8221; Of course that never lasts, and I look flighty and a little foolish. I no longer believe myself when I say those things. I&#8217;m never going to be the guy who&#8217;s been using the same platform in the same place for years, and that&#8217;s ok.

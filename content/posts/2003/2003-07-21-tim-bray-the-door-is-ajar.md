@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-07-22T00:57:41+00:00
-title: 'Tim Bray: The Door is Ajar'
-url: /2003/tim-bray-the-door-is-ajar/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-07-22T00:57:41+00:00"
+title = "Tim Bray: The Door is Ajar"
+url = "/2003/tim-bray-the-door-is-ajar/"
+
++++
 
 Tim Bray, once again [worth the read][1]&#8230;
   

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2001-01-04T07:54:50+00:00
-title: 'The Wal-Mart Future: The fundamental'
-url: /2001/the-wal-mart-future-the-fundamental/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2001-01-04T07:54:50+00:00"
+title = "The Wal-Mart Future: The fundamental"
+url = "/2001/the-wal-mart-future-the-fundamental/"
+
++++
 
 [The Wal-Mart Future:][1]
   

@@ -1,15 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-09-15T01:41:02+00:00
-image:
-- /files/rogue-scene-1.jpg
-tags:
-- film
-title: 'Review: Rogue'
-url: /2008/review-rogue/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-09-15T01:41:02+00:00"
+image = ["/files/rogue-scene-1.jpg"]
+tags = ["film"]
+title = "Review: Rogue"
+url = "/2008/review-rogue/"
+
++++
 
 [<img src="/files//rogue-cover.jpg" alt="" title="rogue-cover" width="144" height="207" class="alignleft size-full wp-image-2680" />][1]
 

@@ -1,15 +1,13 @@
----
-title: Curio 14 public beta
-author: Jack
-type: posts
-date: 2020-04-18T18:08:00+00:00
-url: /2020/curio-14-public-beta/
-categories:
-  - Software
-tags:
-  - Curio
++++
+author = "Jack"
+categories = ["Software"]
+date = "2020-04-18T18:08:00+00:00"
+tags = ["Curio"]
+title = "Curio 14 public beta"
+type = "posts"
+url = "/2020/curio-14-public-beta/"
 
----
++++
 [Curio][1] is one of the nicest, best-looking, useful, and thoughtful apps I’ve used. George, the developer, is insanely responsive and helpful.
 
 I started using Curio in 2006 and never stopped for more than a month or two at a time. Here’s why I sometimes stop using Curio:

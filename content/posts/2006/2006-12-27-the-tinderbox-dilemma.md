@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-12-28T04:08:44+00:00
-tags:
-- Tinderbox
-title: The Tinderbox Dilemma
-url: /2006/the-tinderbox-dilemma/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-12-28T04:08:44+00:00"
+tags = ["Tinderbox"]
+title = "The Tinderbox Dilemma"
+url = "/2006/the-tinderbox-dilemma/"
+
++++
 
 **UPDATE 2017-11-09** My complaints below have been addressed since this was first written in 2006. And my positive reactions have done nothing but increase.
 

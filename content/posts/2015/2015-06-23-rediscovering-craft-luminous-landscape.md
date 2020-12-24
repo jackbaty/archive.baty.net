@@ -1,15 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-06-23T21:35:18+00:00
-format: link
-tags:
-- film
-- photography
-title: Rediscovering Craft – Luminous Landscape
-url: /2015/rediscovering-craft-luminous-landscape/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-06-23T21:35:18+00:00"
+format = "link"
+tags = ["film", "photography"]
+title = "Rediscovering Craft – Luminous Landscape"
+url = "/2015/rediscovering-craft-luminous-landscape/"
+
++++
 
 > [<img class="alignnone size-full" src="//luminous-landscape.com/img/2015/03/fx.jpg" alt="" />][1]
 

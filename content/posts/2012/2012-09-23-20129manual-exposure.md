@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2012-09-23T13:20:24+00:00
-tags:
-- photography
-title: Manual Exposure with the Hasselblad
-url: /2012/20129manual-exposure/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2012-09-23T13:20:24+00:00"
+tags = ["photography"]
+title = "Manual Exposure with the Hasselblad"
+url = "/2012/20129manual-exposure/"
+
++++
 
 The Hasselblad 500C/M is a favorite camera of mine. I love the images I get from those gigantic square negatives. It's great on a tripod with motionless subjects when I can carefully meter at my leisure and don't mind that it takes 10 seconds to move the focus ring from one extreme to the other. 
 

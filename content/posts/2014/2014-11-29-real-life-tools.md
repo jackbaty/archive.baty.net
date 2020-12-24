@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-11-29T18:10:15+00:00
-title: Real Life Tools
-url: /2014/real-life-tools/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-11-29T18:10:15+00:00"
+title = "Real Life Tools"
+url = "/2014/real-life-tools/"
+
++++
 
 [<img class="aligncenter wp-image-4004" src="/img/2014/11/IMG_0467.jpg" alt="IMG_0467" width="493" height="370" srcset="/img/2014/11/IMG_0467.jpg 1024w, /img/2014/11/IMG_0467-300x225.jpg 300w, /img/2014/11/IMG_0467-768x576.jpg 768w" sizes="(max-width: 493px) 100vw, 493px" />][1] [<img class="aligncenter wp-image-4005" src="/img/2014/11/IMG_0466.jpg" alt="IMG_0466" width="493" height="370" srcset="/img/2014/11/IMG_0466.jpg 1024w, /img/2014/11/IMG_0466-300x225.jpg 300w, /img/2014/11/IMG_0466-768x576.jpg 768w" sizes="(max-width: 493px) 100vw, 493px" />][2]
 

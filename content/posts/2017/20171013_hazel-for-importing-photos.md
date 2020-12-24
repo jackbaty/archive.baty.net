@@ -1,9 +1,10 @@
----
-title: "Using Hazel to Automatically Import Photos"
-date: 2017-10-13T17:18:47-04:00
-tags: ["hazel","photography","workflow"]
-description: A handy tip for moving photos exported from Lightroom into Apple Photos
----
++++
+date = "2017-10-13T17:18:47-04:00"
+description = "A handy tip for moving photos exported from Lightroom into Apple Photos"
+tags = ["hazel", "photography", "workflow"]
+title = "Using Hazel to Automatically Import Photos"
+
++++
 
 [Thomas Fitzgerald's photo management workflow][1] is reasonably similar to mine. I also process my photos using Lightroom and export them to Photos. I've been manually importing the exported Lightroom photos into Apple Photos and hadn't spent the time to simplify that process. Thomas did it for me!
 

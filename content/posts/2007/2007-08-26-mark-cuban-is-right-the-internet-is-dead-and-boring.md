@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-08-26T09:28:42+00:00
-title: Mark Cuban is right, the internet is Dead and Boring
-url: /2007/mark-cuban-is-right-the-internet-is-dead-and-boring/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-08-26T09:28:42+00:00"
+title = "Mark Cuban is right, the internet is Dead and Boring"
+url = "/2007/mark-cuban-is-right-the-internet-is-dead-and-boring/"
+
++++
 
 So Mark Cuban thinks that "The Internet is Dead and Boring":http://www.blogmaverick.com/2007/08/24/the-internet-is-dead-and-boring/. 
 

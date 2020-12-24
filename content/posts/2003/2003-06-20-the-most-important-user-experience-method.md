@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-06-20T19:27:14+00:00
-title: The Most Important User Experience Method
-url: /2003/the-most-important-user-experience-method/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-06-20T19:27:14+00:00"
+title = "The Most Important User Experience Method"
+url = "/2003/the-most-important-user-experience-method/"
+
++++
 
 From Good Experience:  [The
   

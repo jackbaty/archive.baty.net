@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-07-24T00:33:28+00:00
-title: Firebird 0.6.1 or whatever
-url: /2003/firebird-061-or-whatever/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-07-24T00:33:28+00:00"
+title = "Firebird 0.6.1 or whatever"
+url = "/2003/firebird-061-or-whatever/"
+
++++
 
 [Firebird 0.6.1 rsn][1]
 

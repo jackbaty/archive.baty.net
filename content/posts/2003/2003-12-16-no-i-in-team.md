@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-12-16T17:00:58+00:00
-title: No “I” in TEAM
-url: /2003/no-i-in-team/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-12-16T17:00:58+00:00"
+title = "No “I” in TEAM"
+url = "/2003/no-i-in-team/"
+
++++
 
 [T.M. writes][1]:
 

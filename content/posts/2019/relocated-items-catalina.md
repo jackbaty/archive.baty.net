@@ -1,8 +1,9 @@
----
-title: "Relocated Items, Catalina"
-date: 2019-10-09T13:25:24-04:00
-tags: ["Apple"]
----
++++
+date = "2019-10-09T13:25:24-04:00"
+tags = ["Apple"]
+title = "Relocated Items, Catalina"
+
++++
 
 From a "Relocated Items" folder (alias, actually) on my MBP desktop after upgrading...
 

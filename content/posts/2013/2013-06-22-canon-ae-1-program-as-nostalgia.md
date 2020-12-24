@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-06-22T00:00:00+00:00
-tags:
-- film
-- photography
-title: Canon AE-1 Program as Nostalgia
-url: /2013/canon-ae-1-program-as-nostalgia/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-06-22T00:00:00+00:00"
+tags = ["film", "photography"]
+title = "Canon AE-1 Program as Nostalgia"
+url = "/2013/canon-ae-1-program-as-nostalgia/"
+
++++
 
 When I think of my introduction to photography, the Canon AE-1 Program is what I remember. It was my first real camera. I received it as a gift from my parents at my high school graduation in 1982. I loved that camera. First thing I did was load it up with Kodachrome and take a photo of a flower. As one does. I believe this next photo is the first taken with the camera
 

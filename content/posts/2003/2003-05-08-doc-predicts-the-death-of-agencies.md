@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:11+00:00
-title: Doc predicts the death of agencies
-url: /2003/doc-predicts-the-death-of-agencies/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:11+00:00"
+title = "Doc predicts the death of agencies"
+url = "/2003/doc-predicts-the-death-of-agencies/"
+
++++
 
 [Doc
   

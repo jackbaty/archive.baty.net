@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-07-01T19:26:30+00:00
-title: The flashier foe
-url: /2007/the-flashier-foe/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-07-01T19:26:30+00:00"
+title = "The flashier foe"
+url = "/2007/the-flashier-foe/"
+
++++
 
 Scoble, in [this Fast Company piece][1]&#8230;
 

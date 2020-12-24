@@ -1,17 +1,13 @@
----
-title: Ephemera – Andrew Kurjata
-author: Jack
-date: 2018-12-23T13:39:38+00:00
-url: /2018/ephemera-andrew-kurjata/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Analog
-tags:
-  - ephemera
-  - paper
++++
+author = "Jack"
+categories = ["Analog"]
+date = "2018-12-23T13:39:38+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["ephemera", "paper"]
+title = "Ephemera – Andrew Kurjata"
+url = "/2018/ephemera-andrew-kurjata/"
 
----
++++
 <blockquote class="wp-block-quote">
   <p>
     Seriously: try and figure out what was happening around town on May 25, 2017 using Facebook’s search feature. I can’t. I can, however tell you that on May 25, 1962, plans were underway for a cross-country ski trail cleanup at Hickory Wing, the high school was hosting an open house, and Prime Ministerial candidates John Diefenbaker and Lester Pearson were set to make dueling appearances in town for the ever-important Prince George vote. Plus, I learned by glancing around the page, rain was holding off wildfires, folks were having doubts about Saskatchewan’s plan for state medical care, and it was possible to have Lucky Lager delivered to your home for free.

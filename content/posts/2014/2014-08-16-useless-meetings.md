@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-08-16T13:41:00+00:00
-tags:
-- productivity
-title: Useless Meetings
-url: /2014/useless-meetings/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-08-16T13:41:00+00:00"
+tags = ["productivity"]
+title = "Useless Meetings"
+url = "/2014/useless-meetings/"
+
++++
 
 <div>
   <a href="/img/2014/08/1408196305_thumb.png"><img class="alignnone size-full wp-image-1442" src="/img/2014/08/1408196305_thumb.png" alt="1408196305_thumb.png" width="599" height="809" srcset="/img/2014/08/1408196305_thumb.png 599w, /img/2014/08/1408196305_thumb-222x300.png 222w" sizes="(max-width: 599px) 100vw, 599px" /></a>

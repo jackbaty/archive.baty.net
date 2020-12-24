@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-10-09T18:27:13+00:00
-title: Do one thing first
-url: /2007/do-one-thing-first/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-10-09T18:27:13+00:00"
+title = "Do one thing first"
+url = "/2007/do-one-thing-first/"
+
++++
 
 I've been trying out a new rule lately. It goes like this&#8230; 
 

@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-01-01T08:00:04+00:00
-dsq_thread_id:
-- 3131253690
-title: Mona Lisa Phone Home
-url: /2006/mona-lisa-phone-home/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-01-01T08:00:04+00:00"
+dsq_thread_id = [3131253690]
+title = "Mona Lisa Phone Home"
+url = "/2006/mona-lisa-phone-home/"
+
++++
 
 I find the following photo (by [Philip Freedman](<http://www.photo.net/shared/community-member?user_id=844952>)) a little depressing. 
 

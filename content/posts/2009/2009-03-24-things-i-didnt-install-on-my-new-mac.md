@@ -1,16 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2009-03-25T04:12:27+00:00
-tags:
-- geek
-- productivity
-thesis_post_image:
-- /files/appzapper-icon-20090324-213045.jpg
-title: Things I didn&#039;t install on my new Mac
-url: /2009/things-i-didnt-install-on-my-new-mac/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2009-03-25T04:12:27+00:00"
+tags = ["geek", "productivity"]
+thesis_post_image = ["/files/appzapper-icon-20090324-213045.jpg"]
+title = "Things I didn&#039;t install on my new Mac"
+url = "/2009/things-i-didnt-install-on-my-new-mac/"
+
++++
 
 When I wrote last year about the first things I install on a new computer I forgot what seems now to be another important list&#8230; the things I don't install on a new computer.
 

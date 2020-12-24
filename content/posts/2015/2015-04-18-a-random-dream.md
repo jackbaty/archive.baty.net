@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-04-18T19:26:31+00:00
-tags:
-- dream
-title: A Random Dream
-url: /2015/a-random-dream/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-04-18T19:26:31+00:00"
+tags = ["dream"]
+title = "A Random Dream"
+url = "/2015/a-random-dream/"
+
++++
 
 Last night was full of dreams. The one I remember went like this.
 

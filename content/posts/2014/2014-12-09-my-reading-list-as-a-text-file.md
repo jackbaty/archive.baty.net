@@ -1,15 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-12-10T00:50:42+00:00
-tags:
-- book
-- reading
-- textfiles
-title: My reading list as a text file
-url: /2014/my-reading-list-as-a-text-file/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-12-10T00:50:42+00:00"
+tags = ["book", "reading", "textfiles"]
+title = "My reading list as a text file"
+url = "/2014/my-reading-list-as-a-text-file/"
+
++++
 
 For years now I’ve maintained a list of books I've read and have stored it in many different formats using many different tools. It started as a simple text file. Then I got fancy with [Delicious Library][1], which was a lot of fun for a while, but eventually the novelty wore off and I started looking for something easier and cloud-based. I ended up importing the list into [LibraryThing][2]. That was nice, but soon after I went through an anti-web app phase so I wanted something local. I was already keeping notes in [Tinderbox][3], so I started logging books there and that’s worked great.
 

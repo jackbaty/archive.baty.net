@@ -1,18 +1,13 @@
----
-title: TiddlyWiki is changing how I think about writing online
-author: Jack
-date: 2019-01-05T13:52:49+00:00
-url: /2019/tiddlywiki-is-changing-how-i-think-about-writing-online/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Tech
-tags:
-  - blogging
-  - tiddlywiki
-  - writing
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2019-01-05T13:52:49+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["blogging", "tiddlywiki", "writing"]
+title = "TiddlyWiki is changing how I think about writing online"
+url = "/2019/tiddlywiki-is-changing-how-i-think-about-writing-online/"
 
----
++++
 I remain infatuated with [TiddlyWiki][1]. There&#8217;s a certain genius in its design that has captured my imagination.
 
 As an experiment, I started a new wiki and published it at [rudimentarylathe.org][2]. I&#8217;m easily distracted by shiny new things, so I spent a few days learning my way around TiddlyWiki by posting notes and miscellaneous snippets there.

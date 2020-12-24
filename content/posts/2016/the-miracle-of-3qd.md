@@ -1,10 +1,10 @@
----
-date: 2016-07-13T17:20:06-04:00
-description: ""
-tags: []
-title: The Miracle of 3QD
-topics: []
----
++++
+date = "2016-07-13T17:20:06-04:00"
+description = ""
+title = "The Miracle of 3QD"
+topics = []
+
++++
 
 [The Wire](http://thewire.in/50451/why-the-web-needs-3quarksdaily/):
 

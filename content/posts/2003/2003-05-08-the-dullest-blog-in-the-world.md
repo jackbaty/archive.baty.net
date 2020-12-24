@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:11+00:00
-title: The dullest blog in the world
-url: /2003/the-dullest-blog-in-the-world/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:11+00:00"
+title = "The dullest blog in the world"
+url = "/2003/the-dullest-blog-in-the-world/"
+
++++
 
 The self-proclaimed [dullest blog in the
   

@@ -1,9 +1,10 @@
----
-title: "Now that I've deleted [Social Network]..."
-date: 2019-01-19T12:14:25-05:00
-tags: ["social"]
-slug: "now-that-ive-deleted-social-network"
----
++++
+date = "2019-01-19T12:14:25-05:00"
+slug = "now-that-ive-deleted-social-network"
+tags = ["social"]
+title = "Now that I've deleted [Social Network]..."
+
++++
 Talking about quitting things is sapping my energy.
 
 There are of course valid reasons to stop using a service, platform,

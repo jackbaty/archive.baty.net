@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:11+00:00
-title: LA Times inteview with David Foster Wallace
-url: /2003/la-times-inteview-with-david-foster-wallace/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:11+00:00"
+title = "LA Times inteview with David Foster Wallace"
+url = "/2003/la-times-inteview-with-david-foster-wallace/"
+
++++
 
 There are people who really don't care for David Foster Wallace,
   

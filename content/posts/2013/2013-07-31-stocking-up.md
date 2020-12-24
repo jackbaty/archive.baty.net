@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-07-31T00:00:00+00:00
-tags:
-- film
-- photography
-title: Stocking Up
-url: /2013/stocking-up/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-07-31T00:00:00+00:00"
+tags = ["film", "photography"]
+title = "Stocking Up"
+url = "/2013/stocking-up/"
+
++++
 
 <div>
   <div>

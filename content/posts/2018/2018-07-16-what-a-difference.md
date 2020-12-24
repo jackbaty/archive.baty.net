@@ -1,7 +1,8 @@
----
-title: "What a Difference a Generation Makes"
-date: 2018-07-16
----
++++
+date = "2018-07-16"
+title = "What a Difference a Generation Makes"
+
++++
 
 My dad told me a story about a broken latch on the tailgate of his pickup.
 

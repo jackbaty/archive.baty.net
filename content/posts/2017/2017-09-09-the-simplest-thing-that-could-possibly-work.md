@@ -1,16 +1,13 @@
----
-title: The simplest thing that could possibly work
-author: Jack
-date: 2017-09-09T16:00:52+00:00
-url: /2017/the-simplest-thing-that-could-possibly-work/
-mf2_syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Tech
-tags:
-  - blogging
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2017-09-09T16:00:52+00:00"
+mf2_syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["blogging"]
+title = "The simplest thing that could possibly work"
+url = "/2017/the-simplest-thing-that-could-possibly-work/"
 
----
++++
 I always begin by following the advice I first read on the XP portion of Ward Cunningham&#8217;s wiki, and that is, &#8220;[Do the simplest thing that could possibly work][1]&#8221;
 
 Good intentions give way to analysis which gives way to changing my mind about what every word in that quote actually means.

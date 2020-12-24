@@ -1,17 +1,13 @@
----
-title: Apple is really bad at design – Topolsky
-author: Jack
-date: 2017-09-30T11:56:35+00:00
-url: /2017/apple-is-really-bad-at-design-topolsky/
-mf2_syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Tech
-tags:
-  - apple
-  - design
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2017-09-30T11:56:35+00:00"
+mf2_syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["apple", "design"]
+title = "Apple is really bad at design – Topolsky"
+url = "/2017/apple-is-really-bad-at-design-topolsky/"
 
----
++++
 [Joshua Topolsky, in an unabashedly clickbaity article][1]:
 
 <img class="alignnone size-full wp-image-330" src="/img/2017/09/visually-disgusting.gif" alt="" width="643" height="228" />

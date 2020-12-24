@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-06-28T03:37:14+00:00
-title: Connecting Flash and PHP
-url: /2003/connecting-flash-and-php/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-06-28T03:37:14+00:00"
+title = "Connecting Flash and PHP"
+url = "/2003/connecting-flash-and-php/"
+
++++
 
 I've been watching the [amfphp
   

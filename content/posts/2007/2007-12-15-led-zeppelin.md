@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Art
-date: 2007-12-15T13:24:00+00:00
-tags:
-- Art
-- personal
-title: Led Zeppelin
-url: /2007/led-zeppelin/
----
++++
+author = "Jack"
+categories = ["Art"]
+date = "2007-12-15T13:24:00+00:00"
+tags = ["Art", "personal"]
+title = "Led Zeppelin"
+url = "/2007/led-zeppelin/"
+
++++
 
 In the fall of 1980 I was a junior in high school. I was a good student, but had recently discovered girls, whiskey, and loud rock music. Girls were seldom available and drinking whiskey was illegal, so my time and attention was taken over by the music. 1980 was a great year to be a metal fan. We had Ozzy, Judas Priest, Iron Maiden and others all really hitting their strides. 
 

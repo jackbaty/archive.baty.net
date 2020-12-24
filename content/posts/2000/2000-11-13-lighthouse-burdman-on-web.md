@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-11-13T09:31:18+00:00
-title: Lighthouse – Burdman on Web
-url: /2000/lighthouse-burdman-on-web/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-11-13T09:31:18+00:00"
+title = "Lighthouse – Burdman on Web"
+url = "/2000/lighthouse-burdman-on-web/"
+
++++
 
 [Lighthouse &#8211; Burdman on Web development's central challenge][1]
 

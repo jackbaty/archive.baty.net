@@ -1,9 +1,10 @@
----
-title: "Bear is a Very Nice Note-taking App"
-slug: "bear-is-a-very-nice-notetaking-app"
-date: "2016-12-10T19:10:55-05:00"
-tags: ["App", "Note-taking"]
----
++++
+date = "2016-12-10T19:10:55-05:00"
+slug = "bear-is-a-very-nice-notetaking-app"
+tags = ["App", "Note-taking"]
+title = "Bear is a Very Nice Note-taking App"
+
++++
 
 
 Recent versions of Apple’s Notes app have been pretty good. Still, I

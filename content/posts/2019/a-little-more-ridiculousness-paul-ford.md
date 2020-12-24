@@ -1,8 +1,9 @@
 +++
-title = "A little more ridiculousness - Paul Ford"
-date = 2019-08-07T08:50:00-04:00
-tags = ["web"]
+date = "2019-08-07T08:50:00-04:00"
 draft = false
+tags = ["web"]
+title = "A little more ridiculousness - Paul Ford"
+
 +++
 
 [Paul Ford, Vergecast](https://www.theverge.com/2019/8/6/20751655/paul-ford-interview-web-writer-programmer-vergecast-podcast):

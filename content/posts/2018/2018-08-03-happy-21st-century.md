@@ -1,9 +1,10 @@
----
-title: "Happy 21st Century! - antipope"
-date: 2018-08-03
-tags: ["life"]
-slug: ""
----
++++
+date = "2018-08-03"
+slug = ""
+tags = ["life"]
+title = "Happy 21st Century! - antipope"
+
++++
 
 [Charlie Stross](http://www.antipope.org/charlie/blog-static/2018/05/happy-21st-century.html)
 

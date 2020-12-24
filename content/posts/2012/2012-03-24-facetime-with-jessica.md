@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2012-03-24T00:00:00+00:00
-tags:
-- family
-- Jess
-title: Facetime With Jessica
-url: /2012/facetime-with-jessica/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2012-03-24T00:00:00+00:00"
+tags = ["family", "Jess"]
+title = "Facetime With Jessica"
+url = "/2012/facetime-with-jessica/"
+
++++
 
 <div>
   <div>

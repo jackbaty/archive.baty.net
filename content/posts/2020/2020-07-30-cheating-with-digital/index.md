@@ -1,14 +1,13 @@
----
-title: Cheating with digital
-author: Jack
-type: posts
-date: 2020-07-30T15:58:00+00:00
-url: /2020/cheating-with-digital/
-featuredImagePreview: edit-preview.jpg
-categories:
-  - Photography
++++
+author = "Jack"
+categories = ["Photography"]
+date = "2020-07-30T15:58:00+00:00"
+featuredImagePreview = "edit-preview.jpg"
+title = "Cheating with digital"
+type = "posts"
+url = "/2020/cheating-with-digital/"
 
----
++++
 Photographs should not be significantly altered in post. It&#8217;s cheating. This is how I feel. I suppose if you consider yourself a &#8220;digital illustrator&#8221; rather than photographer, then sure, but otherwise, it&#8217;s cheating.
 
 And oh my how easy it is to cheat these days. Here&#8217;s an example. I took the following photo yesterday during a walk at the beach with my daughter.

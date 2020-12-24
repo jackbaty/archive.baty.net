@@ -1,9 +1,10 @@
----
-title: "Moom removed from sale"
-date: 2017-05-13
-tags: ["patent","software"]
-slug: "moom-removed-from-sale"
----
++++
+date = "2017-05-13"
+slug = "moom-removed-from-sale"
+tags = ["patent", "software"]
+title = "Moom removed from sale"
+
++++
 
 [Many Tricks Blog][1]
 

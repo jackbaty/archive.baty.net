@@ -1,9 +1,10 @@
----
-title: "Using Flickr for my blog images"
-date: 2018-09-18T20:06:22-04:00
-lastmod: 2018-09-18T20:06:22-04:00
-tags: ["flickr","blogging"]
----
++++
+date = "2018-09-18T20:06:22-04:00"
+lastmod = "2018-09-18T20:06:22-04:00"
+tags = ["flickr", "blogging"]
+title = "Using Flickr for my blog images"
+
++++
 
 I'm considering reversing my "no external dependencies" policy when it comes to my blog. The difficulty of dealing with images when using a static site generator (e.g. [Hugo](https://gohugo.io)) deters me from posting.
 

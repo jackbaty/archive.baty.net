@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-08-05T19:03:40+00:00
-title: Sticking with MySQL
-url: /2003/sticking-with-mysql/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-08-05T19:03:40+00:00"
+title = "Sticking with MySQL"
+url = "/2003/sticking-with-mysql/"
+
++++
 
 While some would call it a bit early, I'm sticking with and moving to MySQL for everything I possibly can. Just like the [press release says][1], "it will now be easier for you to obtain approval from your
   

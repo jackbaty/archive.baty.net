@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2016-03-13T15:57:42+00:00
-tags:
-- Blogging
-- Medium
-title: How to Win at Medium (and ruin it at the same time)
-url: /2016/how-to-win-at-medium-and-ruin-it-at-the-same-time/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2016-03-13T15:57:42+00:00"
+tags = ["Blogging", "Medium"]
+title = "How to Win at Medium (and ruin it at the same time)"
+url = "/2016/how-to-win-at-medium-and-ruin-it-at-the-same-time/"
+
++++
 
 [Elizabeth Tobey][1]:
 

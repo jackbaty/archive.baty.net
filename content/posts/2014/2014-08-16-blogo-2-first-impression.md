@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-08-16T11:56:00+00:00
-tags:
-- Blogging
-- software
-title: Blogo 2 first impression
-url: /2014/blogo-2-first-impression/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-08-16T11:56:00+00:00"
+tags = ["Blogging", "software"]
+title = "Blogo 2 first impression"
+url = "/2014/blogo-2-first-impression/"
+
++++
 
 <div>
    <a href="/img/2014/08/1408189519_thumb.png"><img class="alignnone size-full wp-image-1436" src="/img/2014/08/1408189519_thumb.png" alt="1408189519_thumb.png" width="500" height="417" srcset="/img/2014/08/1408189519_thumb.png 500w, /img/2014/08/1408189519_thumb-300x250.png 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>

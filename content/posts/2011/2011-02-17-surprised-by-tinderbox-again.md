@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2011-02-17T18:40:05+00:00
-tags:
-- Tinderbox
-title: Surprised by Tinderbox Again
-url: /2011/surprised-by-tinderbox-again/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2011-02-17T18:40:05+00:00"
+tags = ["Tinderbox"]
+title = "Surprised by Tinderbox Again"
+url = "/2011/surprised-by-tinderbox-again/"
+
++++
 
 It's no secret that I'm a huge fan of [Tinderbox][1]. I'm always finding some new trick or useful feature. Today, I discovered "$NameStrike."
 

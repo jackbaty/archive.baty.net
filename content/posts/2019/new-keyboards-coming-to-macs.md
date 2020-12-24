@@ -1,7 +1,8 @@
 +++
-title = "New keyboards coming to Macs"
-date = 2019-07-04T09:13:00-04:00
+date = "2019-07-04T09:13:00-04:00"
 draft = false
+title = "New keyboards coming to Macs"
+
 +++
 
 [Kuo: Apple to include new scissor switch keyboard in 2019 MacBook Air](https://9to5mac.com/2019/07/04/kuo-new-keyboard-macbook-air-pro/)

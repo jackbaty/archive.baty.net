@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-04-06T08:30:26+00:00
-tags:
-- news
-title: 'Strange Maps: An Absolut Mexico'
-url: /2008/strange-maps-an-absolut-mexico/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-04-06T08:30:26+00:00"
+tags = ["news"]
+title = "Strange Maps: An Absolut Mexico"
+url = "/2008/strange-maps-an-absolut-mexico/"
+
++++
 
 Absolut Vodka ad released in Mexico has me feeling all defensive, for honestly no good reason.
 

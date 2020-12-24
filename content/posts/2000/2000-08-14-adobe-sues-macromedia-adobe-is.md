@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-08-14T12:30:01+00:00
-title: Adobe sues Macromedia Adobe is
-url: /2000/adobe-sues-macromedia-adobe-is/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-08-14T12:30:01+00:00"
+title = "Adobe sues Macromedia Adobe is"
+url = "/2000/adobe-sues-macromedia-adobe-is/"
+
++++
 
 [Adobe sues Macromedia][1]
 

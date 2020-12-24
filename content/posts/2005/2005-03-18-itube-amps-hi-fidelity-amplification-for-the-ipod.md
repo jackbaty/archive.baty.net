@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-03-18T17:11:58+00:00
-title: 'iTube Amps: Hi Fidelity Amplification for the iPod'
-url: /2005/itube-amps-hi-fidelity-amplification-for-the-ipod/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-03-18T17:11:58+00:00"
+title = "iTube Amps: Hi Fidelity Amplification for the iPod"
+url = "/2005/itube-amps-hi-fidelity-amplification-for-the-ipod/"
+
++++
 
 I must confess to a recent infatuation with the idea of "Audiophile-grade" gear. I don't necessarily want to _own_ the stuff (that would be just crazy, right?) but I would like to understand the unbelievable lengths people will go (and money they'll spend) on listening to music.
 

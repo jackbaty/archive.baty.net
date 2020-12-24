@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-07-05T21:25:14+00:00
-title: Slewpop Reboot
-url: /2003/slewpop-reboot/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-07-05T21:25:14+00:00"
+title = "Slewpop Reboot"
+url = "/2003/slewpop-reboot/"
+
++++
 
 It's no suprise to anyone that I love [RSS Aggregators][1]. One of
   

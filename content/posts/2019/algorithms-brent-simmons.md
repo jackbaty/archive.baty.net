@@ -1,8 +1,9 @@
 +++
-title = "Algorithms in NetNewsWire - Brent Simmons"
-date = 2019-07-04T08:14:00-04:00
-tags = ["social"]
+date = "2019-07-04T08:14:00-04:00"
 draft = false
+tags = ["social"]
+title = "Algorithms in NetNewsWire - Brent Simmons"
+
 +++
 
 [Brent Simmons](https://inessential.com/2019/07/03/no%5Falgorithms%5Ffollow%5Fup):

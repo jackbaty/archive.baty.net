@@ -1,9 +1,10 @@
----
-title: "A public Roam database is my new wiki"
-date:  2020-08-26
-tags: ["Roam","Wiki"]
-categories: ["Software"]
----
++++
+categories = ["Software"]
+date = "2020-08-26"
+tags = ["Roam", "Wiki"]
+title = "A public Roam database is my new wiki"
+
++++
 
 Sometimes a [new thing](https://roamresearch.com/) comes along and replaces the [old thing](https://tiddlywiki.com/).
 

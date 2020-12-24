@@ -1,26 +1,18 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-09-09T02:54:29+00:00
-tags:
-- dog
-- personal
-title: Katie, the One-Eyed Wonder Dog
-tz_audio_format:
-- mp3
-tz_gallery_captions:
-- "true"
-tz_gallery_format:
-- -=set slideshow type=-
-tz_gallery_margins:
-- 10
-tz_gallery_randomize:
-- "false"
-tz_gallery_targetheight:
-- 200
-url: /2014/katie-the-one-eyed-wonder-dog/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-09-09T02:54:29+00:00"
+tags = ["dog", "personal"]
+title = "Katie, the One-Eyed Wonder Dog"
+tz_audio_format = ["mp3"]
+tz_gallery_captions = ["true"]
+tz_gallery_format = ["-=set slideshow type=-"]
+tz_gallery_margins = [10]
+tz_gallery_randomize = ["false"]
+tz_gallery_targetheight = [200]
+url = "/2014/katie-the-one-eyed-wonder-dog/"
+
++++
 
 [<img class="alignnone size-full wp-image-3512" src="/img/2014/09/20140908_katie-with-baby.jpg" alt="20140908_katie with baby" width="1200" height="960" srcset="/img/2014/09/20140908_katie-with-baby.jpg 1200w, /img/2014/09/20140908_katie-with-baby-300x240.jpg 300w, /img/2014/09/20140908_katie-with-baby-768x614.jpg 768w, /img/2014/09/20140908_katie-with-baby-1024x819.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" />][1]
 

@@ -1,17 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2012-07-21T14:53:57+00:00
-tags:
-- 6x6
-- film
-- Hasselblad
-- Medium Format
-- Zim
-title: Zim with the Hasselblad
-url: /2012/20127zim-with-the-hasselblad/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2012-07-21T14:53:57+00:00"
+tags = ["6x6", "film", "Hasselblad", "Medium Format", "Zim"]
+title = "Zim with the Hasselblad"
+url = "/2012/20127zim-with-the-hasselblad/"
+
++++
 
 ![][1] 
 

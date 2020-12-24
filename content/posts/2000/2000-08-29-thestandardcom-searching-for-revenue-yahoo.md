@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-08-29T16:07:15+00:00
-title: 'TheStandard.com: Searching for Revenue Yahoo'
-url: /2000/thestandardcom-searching-for-revenue-yahoo/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-08-29T16:07:15+00:00"
+title = "TheStandard.com: Searching for Revenue Yahoo"
+url = "/2000/thestandardcom-searching-for-revenue-yahoo/"
+
++++
 
 [TheStandard.com: Searching for Revenue][1]
 

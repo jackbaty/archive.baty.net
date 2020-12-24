@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-10-11T09:44:09+00:00
-title: Estimating software costs If you
-url: /2000/estimating-software-costs-if-you/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-10-11T09:44:09+00:00"
+title = "Estimating software costs If you"
+url = "/2000/estimating-software-costs-if-you/"
+
++++
 
 [Estimating software costs][1]
 

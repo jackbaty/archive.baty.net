@@ -1,9 +1,10 @@
----
-title: "Letterboxd Film Diary"
-slug: "letterboxd-film-diary"
-date: "2017-03-01T21:45:01-05:00"
-tags: ["Movies"]
----
++++
+date = "2017-03-01T21:45:01-05:00"
+slug = "letterboxd-film-diary"
+tags = ["Movies"]
+title = "Letterboxd Film Diary"
+
++++
 
 
 {{< figure src="/img/2017/letterboxd.jpg" title="" >}}

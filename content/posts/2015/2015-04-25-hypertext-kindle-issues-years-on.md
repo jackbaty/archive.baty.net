@@ -1,16 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-04-25T21:13:22+00:00
-format: link
-tags:
-- gadget
-- Kindle
-- reading
-title: 'Hypertext: Kindle issues, years on'
-url: /2015/hypertext-kindle-issues-years-on/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-04-25T21:13:22+00:00"
+format = "link"
+tags = ["gadget", "Kindle", "reading"]
+title = "Hypertext: Kindle issues, years on"
+url = "/2015/hypertext-kindle-issues-years-on/"
+
++++
 
 [Justin Blanton][1]
 

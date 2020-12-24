@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-08-06T22:02:39+00:00
-title: 'Rageboy: Girl can Rock'
-url: /2003/rageboy-girl-can-rock/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-08-06T22:02:39+00:00"
+title = "Rageboy: Girl can Rock"
+url = "/2003/rageboy-girl-can-rock/"
+
++++
 
 Y'all may not believe it after several recent "episodes", but [Rageboy is still cool][1].
 

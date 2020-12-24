@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-08-30T19:38:44+00:00
-tags:
-- photography
-title: Script for renaming photos
-url: /2015/script-for-renaming-photos/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-08-30T19:38:44+00:00"
+tags = ["photography"]
+title = "Script for renaming photos"
+url = "/2015/script-for-renaming-photos/"
+
++++
 
 <div id="attachment_4860" style="width: 310px" class="wp-caption alignnone">
   <img class="size-medium wp-image-4860" src="/img/2016/03/20150829_Wall_with_painted_stones-300x225.jpg" alt="Wall with painted stones" width="300" height="225" srcset="/wp-content/uploads/2016/03/20150829_Wall_with_painted_stones-300x225.jpg 300w, /wp-content/uploads/2016/03/20150829_Wall_with_painted_stones-768x576.jpg 768w, /wp-content/uploads/2016/03/20150829_Wall_with_painted_stones.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />

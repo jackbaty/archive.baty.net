@@ -1,6 +1,7 @@
-
-Date: 2017-08-30 08:01 PM
-Tags: josie,photography,analog
++++
+date = "2017-08-30"
+title = "Josie contact sheet"
++++
 
 # Contact Sheets as Art
 ![][image-1]

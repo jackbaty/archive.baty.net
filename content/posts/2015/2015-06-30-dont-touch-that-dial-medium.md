@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-06-30T21:51:31+00:00
-tags:
-- apple
-- music
-title: Don’t Touch That Dial — Medium
-url: /2015/dont-touch-that-dial-medium/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-06-30T21:51:31+00:00"
+tags = ["apple", "music"]
+title = "Don’t Touch That Dial — Medium"
+url = "/2015/dont-touch-that-dial-medium/"
+
++++
 
 [Dave Pell][1]
 

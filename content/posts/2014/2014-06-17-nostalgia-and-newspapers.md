@@ -1,15 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-06-17T19:00:00+00:00
-dsq_thread_id:
-- 3595717
-tags:
-- nostalgia
-title: Nostalgia and Newspapers
-url: /2014/nostalgia-and-newspapers/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-06-17T19:00:00+00:00"
+dsq_thread_id = [3595717]
+tags = ["nostalgia"]
+title = "Nostalgia and Newspapers"
+url = "/2014/nostalgia-and-newspapers/"
+
++++
 
 * * *
 

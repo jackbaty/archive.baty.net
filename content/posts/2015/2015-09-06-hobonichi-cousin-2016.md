@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-09-06T19:41:10+00:00
-tags:
-- Analog
-- notebook
-title: Hobonichi Cousin 2016
-url: /2015/hobonichi-cousin-2016/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-09-06T19:41:10+00:00"
+tags = ["Analog", "notebook"]
+title = "Hobonichi Cousin 2016"
+url = "/2015/hobonichi-cousin-2016/"
+
++++
 
 For the past three years I’ve used the highly-regarded [Hobonichi Techo planner][1]. It’s a great little planner, but perhaps _too_ little.
 

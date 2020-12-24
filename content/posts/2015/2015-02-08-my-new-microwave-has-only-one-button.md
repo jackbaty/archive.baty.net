@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-02-08T22:32:24+00:00
-title: My new microwave has only one button
-url: /2015/my-new-microwave-has-only-one-button/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-02-08T22:32:24+00:00"
+title = "My new microwave has only one button"
+url = "/2015/my-new-microwave-has-only-one-button/"
+
++++
 
 The microwave I bought 13 years ago (a Sharp Carousel) finally died last week, so I started shopping for a replacement. I wanted something simple. The simpler the better. I mostly just need to reheat leftovers.
 

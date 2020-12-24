@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-04-12T17:19:34+00:00
-title: Are Women Human?
-url: /2006/are-women-human/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-04-12T17:19:34+00:00"
+title = "Are Women Human?"
+url = "/2006/are-women-human/"
+
++++
 
 I hate Catharine MacKinnon. A lot. I know, that's not a very nice thing to say, but The Guardian has published [an interview with her][1] to talk about her new book. I read it, so I can't help but really despise her. 
 

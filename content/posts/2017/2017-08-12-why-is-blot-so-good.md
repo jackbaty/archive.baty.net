@@ -1,11 +1,12 @@
----
-title: "Why Did Blot Have to Be So Good?"
-slug: "why-did-blot-have-to-be-so-good"
-date: "2017-08-12T10:22:29-04:00"
-tags: ["blogging","hugo","blot"]
-draft: false
-description: "Blot.im is a great publishing tool for Markdown"
----
++++
+date = "2017-08-12T10:22:29-04:00"
+description = "Blot.im is a great publishing tool for Markdown"
+draft = false
+slug = "why-did-blot-have-to-be-so-good"
+tags = ["blogging", "hugo", "blot"]
+title = "Why Did Blot Have to Be So Good?"
+
++++
 
 My blog is a bunch of Markdown files in folders. I like it that way. I have
 thousands of posts going back to 2000, all rendered quickly and nicely with

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-08-08T06:22:21+00:00
-title: The Science of Word Recognition
-url: /2004/the-science-of-word-recognition/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-08-08T06:22:21+00:00"
+title = "The Science of Word Recognition"
+url = "/2004/the-science-of-word-recognition/"
+
++++
 
 The [article][1] argues that&#8230;
 

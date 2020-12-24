@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2009-10-21T22:39:41+00:00
-title: David Alan Harvey on Launching a Photo-j Magazine
-url: /2009/david-alan-harvey-on-launching-a-photo-j-magazine/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2009-10-21T22:39:41+00:00"
+title = "David Alan Harvey on Launching a Photo-j Magazine"
+url = "/2009/david-alan-harvey-on-launching-a-photo-j-magazine/"
+
++++
 
 > You've got to have something to say. It could be conceptual, or you can try to save the world as a photojournalist. But you can't just be a technician. Everybody's a technician. You've got to have an idea.
 

@@ -1,15 +1,12 @@
----
-author: Jack
-categories:
-- Photography
-date: 2016-05-28T17:43:23+00:00
-tags:
-- film
-- Leica
-- nikon
-title: Leica M3 vs Nikon F3
-url: /2016/leica-m3-vs-nikon-f3/
----
++++
+author = "Jack"
+categories = ["Photography"]
+date = "2016-05-28T17:43:23+00:00"
+tags = ["film", "Leica", "nikon"]
+title = "Leica M3 vs Nikon F3"
+url = "/2016/leica-m3-vs-nikon-f3/"
+
++++
 
 <div id="attachment_5239" style="width: 710px" class="wp-caption alignright">
   <img class="size-large wp-image-5239" src="/img/2016/05/m3-vs-f3-1024x624.jpg" alt="Leica M3 and Nikon F3" width="700" height="427" srcset="/img/2016/05/m3-vs-f3.jpg 1024w, /img/2016/05/m3-vs-f3-300x183.jpg 300w, /img/2016/05/m3-vs-f3-768x468.jpg 768w, /img/2016/05/m3-vs-f3-700x427.jpg 700w" sizes="(max-width: 700px) 100vw, 700px" />

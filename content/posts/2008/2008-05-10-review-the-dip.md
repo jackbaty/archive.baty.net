@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-05-10T09:10:38+00:00
-title: 'Review: The Dip'
-url: /2008/review-the-dip/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-05-10T09:10:38+00:00"
+title = "Review: The Dip"
+url = "/2008/review-the-dip/"
+
++++
 
 Quick review of Seth Godin's [The Dip][1].
 

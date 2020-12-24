@@ -1,9 +1,11 @@
----
-title: "About that Ari Marcopoulos Camera Bag | The Machine Planet"
-date: 2017-05-07T10:51:06-04:00
-tags: ["photography"]
-slug: "about-that-ari-marcopoulos-camera-bag-the-machine-planet"
---- 
++++
+date = "2017-05-07T10:51:06-04:00"
+slug = "about-that-ari-marcopoulos-camera-bag-the-machine-planet"
+tags = ["photography"]
+title = "About that Ari Marcopoulos Camera Bag | The Machine Planet"
+
++++
+ 
 
 [Dante Stella][1]:
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-01-15T07:42:34+00:00
-title: Referrer spamming
-url: /2005/referrer-spamming/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-01-15T07:42:34+00:00"
+title = "Referrer spamming"
+url = "/2005/referrer-spamming/"
+
++++
 
 It never ends. Now folks are spoofing the HTTP "referer" field so that links to their sites show up in log reports. Here's an example from my log report&#8230;
 

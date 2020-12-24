@@ -1,8 +1,9 @@
----
-title: "100 Best Notebooks 2019 - The Strategist"
-date: 2019-09-12T16:32:56-04:00
-tags: ["analog","paper"]
----
++++
+date = "2019-09-12T16:32:56-04:00"
+tags = ["analog", "paper"]
+title = "100 Best Notebooks 2019 - The Strategist"
+
++++
 
 Lots of neat notebooks [listed and briefly reviewed](http://nymag.com/strategist/article/best-notebooks-and-notepads.html) in New York Magazine.
 

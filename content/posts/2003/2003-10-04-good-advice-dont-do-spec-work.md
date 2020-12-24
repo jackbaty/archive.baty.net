@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-10-04T11:48:36+00:00
-title: 'Good advice: Don’t do spec work'
-url: /2003/good-advice-dont-do-spec-work/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-10-04T11:48:36+00:00"
+title = "Good advice: Don’t do spec work"
+url = "/2003/good-advice-dont-do-spec-work/"
+
++++
 
 [Andy Budd writes][1] a piece on doing spec work for clients, and why it's nearly always a bad idea. He's right, but the tough part is resisting that (mistaken) feeling that if you don't give a potential client exactly what they ask for, you'll lose the work. I'll bet that getting over that fear would be worth the risk.
 

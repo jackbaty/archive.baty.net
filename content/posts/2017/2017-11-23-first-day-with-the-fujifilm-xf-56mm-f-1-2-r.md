@@ -1,14 +1,12 @@
----
-title: First day with the Fujifilm XF 56mm f/1.2 R
-author: Jack
-date: 2017-11-23T00:38:43+00:00
-url: /2017/first-day-with-the-fujifilm-xf-56mm-f-1-2-r/
-categories:
-  - Photography
-tags:
-  - Fuji
++++
+author = "Jack"
+categories = ["Photography"]
+date = "2017-11-23T00:38:43+00:00"
+tags = ["Fuji"]
+title = "First day with the Fujifilm XF 56mm f/1.2 R"
+url = "/2017/first-day-with-the-fujifilm-xf-56mm-f-1-2-r/"
 
----
++++
 I&#8217;ve only had the [Fujifilm XF 56mm f/1.2 R][1] for a few hours and I can already tell we&#8217;re going to become fine friends.
 
 <img class="alignnone size-full wp-image-113" src="/img/2017/11/IMG_0242-edit.jpg" alt="" width="1024" height="848" srcset="/img/2017/11/IMG_0242-edit.jpg 1024w, /img/2017/11/IMG_0242-edit-300x248.jpg 300w, /img/2017/11/IMG_0242-edit-768x636.jpg 768w, /img/2017/11/IMG_0242-edit-750x621.jpg 750w" sizes="(max-width: 1024px) 100vw, 1024px" />

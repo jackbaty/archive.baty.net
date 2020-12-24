@@ -1,9 +1,10 @@
----
-title: "Keeping my Medium membership -- for now"
-date: 2017-06-11T08:41:48-04:00
-tags: ["Medium"]
-slug: "keeping-my-medium-subscription-for-now"
----
++++
+date = "2017-06-11T08:41:48-04:00"
+slug = "keeping-my-medium-subscription-for-now"
+tags = ["Medium"]
+title = "Keeping my Medium membership -- for now"
+
++++
 
 [Colin Walker](https://colinwalker.blog/2017/06/10/10062017-0932/):
 

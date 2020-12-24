@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-08-12T13:26:09+00:00
-title: The dot com graveyard Upside’s
-url: /2000/the-dot-com-graveyard-upsides/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-08-12T13:26:09+00:00"
+title = "The dot com graveyard Upside’s"
+url = "/2000/the-dot-com-graveyard-upsides/"
+
++++
 
 [The dot com graveyard][1]
 

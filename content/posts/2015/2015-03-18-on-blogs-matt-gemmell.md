@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-03-19T01:50:12+00:00
-tags:
-- Blogging
-title: On blogs – Matt Gemmell
-url: /2015/on-blogs-matt-gemmell/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-03-19T01:50:12+00:00"
+tags = ["Blogging"]
+title = "On blogs – Matt Gemmell"
+url = "/2015/on-blogs-matt-gemmell/"
+
++++
 
 [On blogs &#8211; Matt Gemmell][1]:
 

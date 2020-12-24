@@ -1,14 +1,12 @@
----
-title: Westworld Season 2, aka “Bernard wanders around looking flummoxed”
-author: Jack
-date: 2018-06-29T17:33:23+00:00
-url: /2018/westworld-season-2-aka-bernard-wanders-around-looking-flummoxed/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Books and Media
++++
+author = "Jack"
+categories = ["Books and Media"]
+date = "2018-06-29T17:33:23+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+title = "Westworld Season 2, aka “Bernard wanders around looking flummoxed”"
+url = "/2018/westworld-season-2-aka-bernard-wanders-around-looking-flummoxed/"
 
----
++++
 I&#8217;ve given it a few days but I&#8217;ve decided that <del>I hated</del> I&#8217;m angry with Westworld Season 2.
 
 Bernard&#8217;s constant bewilderment aligned nicely with mine. I should have known better, given its dumb-ass messed up timeline and &#8220;Lost&#8221;-like &#8220;Rules, what rules?&#8221; behavior.

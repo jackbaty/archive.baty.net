@@ -1,12 +1,11 @@
----
-date: 2016-09-18T15:49:50-04:00
-description: ""
-tags:
-- Canon
-- Digital
-title: Canon EOS-1DS
-topics: []
----
++++
+date = "2016-09-18T15:49:50-04:00"
+description = ""
+tags = ["Canon", "Digital"]
+title = "Canon EOS-1DS"
+topics = []
+
++++
 
 {{< figure src="/img/2016/canon-1ds.jpg" title="Canon EOS-1DS from 2002" >}}
 

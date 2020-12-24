@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2001-01-02T09:40:44+00:00
-title: Context Magazine — Smart Homes?
-url: /2001/context-magazine-smart-homes/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2001-01-02T09:40:44+00:00"
+title = "Context Magazine — Smart Homes?"
+url = "/2001/context-magazine-smart-homes/"
+
++++
 
 [Context Magazine—Smart Homes? a stupid idea.][1]
 

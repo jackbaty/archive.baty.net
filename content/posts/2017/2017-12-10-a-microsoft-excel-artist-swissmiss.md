@@ -1,15 +1,12 @@
----
-title: A Microsoft Excel Artist – swissmiss
-author: Jack
-date: 2017-12-10T12:22:45+00:00
-url: /2017/a-microsoft-excel-artist-swissmiss/
-categories:
-  - Misc
-tags:
-  - art
-  - microsoft
++++
+author = "Jack"
+categories = ["Misc"]
+date = "2017-12-10T12:22:45+00:00"
+tags = ["art", "microsoft"]
+title = "A Microsoft Excel Artist – swissmiss"
+url = "/2017/a-microsoft-excel-artist-swissmiss/"
 
----
++++
 [swissmiss][1]:
 
 > For over 15 years, Japanese artist Tatsuo Horiuchi has rendered the subtle details of mountains, cherry blossoms, and dense forests with the most unlikely tool: Microsoft Excel. 

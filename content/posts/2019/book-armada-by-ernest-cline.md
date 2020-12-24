@@ -1,8 +1,9 @@
 +++
-title = "Book: Armada by Ernest Cline 📚"
-date = 2019-07-26T07:56:00-04:00
-tags = ["book"]
+date = "2019-07-26T07:56:00-04:00"
 draft = false
+tags = ["book"]
+title = "Book: Armada by Ernest Cline 📚"
+
 +++
 
 <a href="https://www.goodreads.com/book/show/16278318-armada" style="float: left; padding-right: 20px"><img border="0" alt="Armada" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377284428l/16278318._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/16278318-armada">Armada</a> by <a href="https://www.goodreads.com/author/show/31712.Ernest_Cline">Ernest Cline</a><br/>

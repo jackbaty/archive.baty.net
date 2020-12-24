@@ -1,11 +1,10 @@
----
-date: 2014-05-12T19:00:00+00:00
-tags:
-- software
-- vim
-title: Damian Conwayss vmath.vim Plugin
-url: /2014/damian-conways-vmath-vim-plugin/
----
++++
+date = "2014-05-12T19:00:00+00:00"
+tags = ["software", "vim"]
+title = "Damian Conwayss vmath.vim Plugin"
+url = "/2014/damian-conways-vmath-vim-plugin/"
+
++++
 
 I'm experiencing my annual urge to return to using Vim full-time. Even though it usually only lasts a week or two, I always have a lot of fun and learn all sorts of new tricks.
 

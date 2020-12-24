@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-03-02T00:00:00+00:00
-tags:
-- music
-title: Rowland S. Howard
-url: /2013/rowland-s-howard/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-03-02T00:00:00+00:00"
+tags = ["music"]
+title = "Rowland S. Howard"
+url = "/2013/rowland-s-howard/"
+
++++
 
 <aside> <img src="/img/rowland-s.-howard-teenage-snuff-film-cover.jpg" alt="Rowland S. Howard" class="postimage" />
   

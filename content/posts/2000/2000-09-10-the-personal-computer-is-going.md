@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-09-11T00:45:48+00:00
-title: The personal computer is going
-url: /2000/the-personal-computer-is-going/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-09-11T00:45:48+00:00"
+title = "The personal computer is going"
+url = "/2000/the-personal-computer-is-going/"
+
++++
 
 The personal computer is going away. It's being replaced by a whole bunch (that's any number more than 5 or 6, in case you were wondering) of other types of devices. [Phones][1], [PDAs][2], [Clothing][3] and hell, even [furniture][4].
   

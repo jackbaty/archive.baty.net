@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2016-03-13T16:20:21+00:00
-tags:
-- vinyl
-title: Turn cremated remains into a vinyl record
-url: /2016/turn-cremated-remains-into-a-vinyl-record/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2016-03-13T16:20:21+00:00"
+tags = ["vinyl"]
+title = "Turn cremated remains into a vinyl record"
+url = "/2016/turn-cremated-remains-into-a-vinyl-record/"
+
++++
 
 <img src="/img/2016/03/2016-03-13_vinyl.jpg" alt="2016 03 13 vinyl" title="2016-03-13_vinyl.jpg" border="0" width="399" height="266" />
   

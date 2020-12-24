@@ -1,7 +1,8 @@
 +++
-title = "How my editor looks is important to me"
-date = 2019-07-13T09:15:00-04:00
+date = "2019-07-13T09:15:00-04:00"
 draft = false
+title = "How my editor looks is important to me"
+
 +++
 
 [This post at irreal](https://irreal.org/blog/?p=8166) laments the fact that people make such a big deal out of how their text editor looks, suggesting that it's only the functionality that matters.

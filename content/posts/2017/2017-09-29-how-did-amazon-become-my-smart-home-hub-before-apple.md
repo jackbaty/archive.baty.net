@@ -1,10 +1,11 @@
----
-title: "How did Amazon become my Smart Home hub before Apple?"
-date: 2017-09-29T09:40:46-04:00
-tags: ["amazon", "apple", "hardware"]
-slug: "how-did-amazon-become-my-smart-home-hub-before-apple"
-description: "C'mon Apple!"
----
++++
+date = "2017-09-29T09:40:46-04:00"
+description = "C'mon Apple!"
+slug = "how-did-amazon-become-my-smart-home-hub-before-apple"
+tags = ["amazon", "apple", "hardware"]
+title = "How did Amazon become my Smart Home hub before Apple?"
+
++++
 
 How many years are we going to continue saying, “Well, Apple is going to do something amazing with Siri and Homekit any day now.” I’m not seeing any signs of that happening. An over-priced speaker with an under-powered voice assistant certainly isn’t what I’ve been dreaming of. I’ve tried. I have a Series 2 Apple Watch, an Apple TV, an iPhone, newer Macs, and a number of “smart” devices. I try, but Siri kind of sucks. Maybe I’m doing it wrong, but she just doesn’t get me.
 A few years ago Amazon sort of quietly lobbed the Echo at us and I’ve used a phrase starting with “Alexa…” many times a day ever since. Alexa isn’t perfect, but my frustration with her never reaches the fever pitch that it does when arguing with Siri. With an original Echo and a couple of inexpensive Dots, Alexa is always within earshot. No battery and nothing has to be on my wrist or in my pocket. And she seems to always hear me when I talk to her.

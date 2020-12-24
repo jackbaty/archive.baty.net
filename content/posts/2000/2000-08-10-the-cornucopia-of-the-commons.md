@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-08-10T11:24:55+00:00
-title: 'The Cornucopia of the Commons:'
-url: /2000/the-cornucopia-of-the-commons/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-08-10T11:24:55+00:00"
+title = "The Cornucopia of the Commons:"
+url = "/2000/the-cornucopia-of-the-commons/"
+
++++
 
 [The Cornucopia of the Commons: How to get volunteer labor][1]
 

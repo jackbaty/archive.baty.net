@@ -1,10 +1,10 @@
----
-title: "Richard Baty Photos"
-slug: "richard-baty"
-date: "2017-03-19T13:54:09-04:00"
-tags: [""]
-draft: false
----
++++
+date = "2017-03-19T13:54:09-04:00"
+draft = false
+slug = "richard-baty"
+title = "Richard Baty Photos"
+
++++
 
 My grandfather's photo albums are stacked in my basement. There are 24 of them. My plan has been to scan, caption, and upload everthing. It's been slow going, but I'm picking away at it. 
 

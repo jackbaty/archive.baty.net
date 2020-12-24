@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-04-01T15:24:36+00:00
-title: Pick two – scope, timeframe, or budget
-url: /2005/pick-two-scope-timeframe-or-budget/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-04-01T15:24:36+00:00"
+title = "Pick two – scope, timeframe, or budget"
+url = "/2005/pick-two-scope-timeframe-or-budget/"
+
++++
 
 From Jason Fried of [37 Signals][1]&#8230;
 

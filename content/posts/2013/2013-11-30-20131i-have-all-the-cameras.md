@@ -1,25 +1,18 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-11-30T05:00:00+00:00
-dsq_thread_id:
-- 3131253146
-title: I have all the cameras
-tz_audio_format:
-- mp3
-tz_gallery_captions:
-- "true"
-tz_gallery_format:
-- -=set slideshow type=-
-tz_gallery_margins:
-- 10
-tz_gallery_randomize:
-- "false"
-tz_gallery_targetheight:
-- 200
-url: /2013/20131i-have-all-the-cameras/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-11-30T05:00:00+00:00"
+dsq_thread_id = [3131253146]
+title = "I have all the cameras"
+tz_audio_format = ["mp3"]
+tz_gallery_captions = ["true"]
+tz_gallery_format = ["-=set slideshow type=-"]
+tz_gallery_margins = [10]
+tz_gallery_randomize = ["false"]
+tz_gallery_targetheight = [200]
+url = "/2013/20131i-have-all-the-cameras/"
+
++++
 
 This weekend a Canon EOS-1V showed up on Craigslist for $300. No one in their right mind would pass up the chance at Canon's ultimate film SLR at that price, right? Right? I certainly didn't.
 

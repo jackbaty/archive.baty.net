@@ -1,9 +1,10 @@
----
-title: "Micro-services are the future - CircleCI"
-date: 2017-06-17T10:04:54-04:00
-tags: ["Microservices"]
-slug: "microservices-are-the-future--circleci"
----
++++
+date = "2017-06-17T10:04:54-04:00"
+slug = "microservices-are-the-future--circleci"
+tags = ["Microservices"]
+title = "Micro-services are the future - CircleCI"
+
++++
 
 [Paul Biggar](https://medium.com/circleci/its-the-future-90d0e5361b44):
 

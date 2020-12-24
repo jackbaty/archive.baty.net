@@ -1,14 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-08-17T22:34:38+00:00
-format: link
-tags:
-- photography
-title: Please Don’t Buy a Digital SLR — The Brooks Review
-url: /2015/please-dont-buy-a-digital-slr-the-brooks-review/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-08-17T22:34:38+00:00"
+format = "link"
+tags = ["photography"]
+title = "Please Don’t Buy a Digital SLR — The Brooks Review"
+url = "/2015/please-dont-buy-a-digital-slr-the-brooks-review/"
+
++++
 
 [Please Don’t Buy a Digital SLR — The Brooks Review][1]
 

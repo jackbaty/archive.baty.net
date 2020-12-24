@@ -1,9 +1,10 @@
----
-title: "A Privacy Choice - Rands"
-date: 2017-07-24T17:11:54-04:00
-tags: ["browser","privacy","google","apple"]
-slug: "a-privacy-choice--rands"
----
++++
+date = "2017-07-24T17:11:54-04:00"
+slug = "a-privacy-choice--rands"
+tags = ["browser", "privacy", "google", "apple"]
+title = "A Privacy Choice - Rands"
+
++++
 
 [Rands](http://randsinrepose.com/archives/a-privacy-choice/):
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-09-11T19:20:26+00:00
-title: Gmail Notifier + Growl
-url: /2005/gmail-notifier-growl/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-09-11T19:20:26+00:00"
+title = "Gmail Notifier + Growl"
+url = "/2005/gmail-notifier-growl/"
+
++++
 
 ![][1]
 

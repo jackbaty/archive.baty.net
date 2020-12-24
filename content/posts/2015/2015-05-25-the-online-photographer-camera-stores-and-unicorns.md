@@ -1,14 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-05-25T19:16:06+00:00
-format: link
-tags:
-- photography
-title: 'The Online Photographer: Camera Stores and Unicorns'
-url: /2015/the-online-photographer-camera-stores-and-unicorns/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-05-25T19:16:06+00:00"
+format = "link"
+tags = ["photography"]
+title = "The Online Photographer: Camera Stores and Unicorns"
+url = "/2015/the-online-photographer-camera-stores-and-unicorns/"
+
++++
 
 [Mike Johnston][1]:
 

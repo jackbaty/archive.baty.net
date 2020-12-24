@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-01-23T22:44:41+00:00
-title: David’s friend Goliath
-url: /2006/davids-friend-goliath/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-01-23T22:44:41+00:00"
+title = "David’s friend Goliath"
+url = "/2006/davids-friend-goliath/"
+
++++
 
 Michael Mandelbaum takes a look at America's global role. It's significantly more positive than much of what we hear lately. 
 

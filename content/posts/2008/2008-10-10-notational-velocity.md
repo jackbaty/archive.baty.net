@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-10-11T03:10:53+00:00
-tags:
-- app
-- notes
-title: Notational Velocity
-url: /2008/notational-velocity/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-10-11T03:10:53+00:00"
+tags = ["app", "notes"]
+title = "Notational Velocity"
+url = "/2008/notational-velocity/"
+
++++
 
 <img src="/files//nv.jpg" alt="" title="nv" width="162" height="134" class="alignright size-full wp-image-2727" />
 

@@ -1,9 +1,10 @@
----
-title: "Living with only Emacs and a browser"
-date: 2019-01-21T12:47:30-04:00
-tags: ["emacs"]
-slug: "emacs-and-a-browser"
----
++++
+date = "2019-01-21T12:47:30-04:00"
+slug = "emacs-and-a-browser"
+tags = ["emacs"]
+title = "Living with only Emacs and a browser"
+
++++
 
 I was [thinking
 earlier](https://rudimentarylathe.org/#2019.01.21%20-%20Possible%20experiment%3A%20Emacs%20and%20a%20browser)

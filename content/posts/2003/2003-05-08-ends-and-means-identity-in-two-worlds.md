@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:12+00:00
-title: 'Ends and Means: Identity in Two Worlds'
-url: /2003/ends-and-means-identity-in-two-worlds/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:12+00:00"
+title = "Ends and Means: Identity in Two Worlds"
+url = "/2003/ends-and-means-identity-in-two-worlds/"
+
++++
 
 Everyone will be linking to [Ends
   

@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2016-03-26T19:37:43+00:00
-tags:
-- music
-title: Bought Some Music
-url: /2016/bought-some-music/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2016-03-26T19:37:43+00:00"
+tags = ["music"]
+title = "Bought Some Music"
+url = "/2016/bought-some-music/"
+
++++
 
 That's right, _bought_. I prefer owning things to renting, but I've been lazy and it's been a while since I've bought anything digital. Here's what I picked up today.
 

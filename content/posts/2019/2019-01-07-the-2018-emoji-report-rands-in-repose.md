@@ -1,12 +1,11 @@
----
-title: The 2018 Emoji Report – Rands in Repose
-author: Jack
-date: 2019-01-08T01:59:01+00:00
-url: /2019/the-2018-emoji-report-rands-in-repose/
-categories:
-  - Tech
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2019-01-08T01:59:01+00:00"
+title = "The 2018 Emoji Report – Rands in Repose"
+url = "/2019/the-2018-emoji-report-rands-in-repose/"
 
----
++++
 [Rands][1]:
 
 > Lastly, and most importantly, yes, I’m an adult, and I can use my words. But each emoji I use is an email not sent.

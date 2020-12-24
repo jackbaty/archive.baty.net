@@ -1,9 +1,10 @@
----
-title: "Facebook vs the Open Web"
-date: 2017-06-02
-tags: ["social","facebook"]
-slug: "facebook-vs-the-open-web"
----
++++
+date = "2017-06-02"
+slug = "facebook-vs-the-open-web"
+tags = ["social", "facebook"]
+title = "Facebook vs the Open Web"
+
++++
 
 Lots of discussion this week around Facebook vs the Open Web.
 

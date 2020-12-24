@@ -1,14 +1,12 @@
----
-title: Productivity is dangerous | The Outline
-author: Jack
-date: 2018-01-20T14:18:04+00:00
-url: /2018/productivity-is-dangerous-the-outline/
-categories:
-  - Misc
-tags:
-  - productivity
++++
+author = "Jack"
+categories = ["Misc"]
+date = "2018-01-20T14:18:04+00:00"
+tags = ["productivity"]
+title = "Productivity is dangerous | The Outline"
+url = "/2018/productivity-is-dangerous-the-outline/"
 
----
++++
 [Vincent Bevins, The Outline][1]:
 
 > If you’re waking up at 4 a.m. to write 1,000 words about how you write 1,000 words every day, what are you actually getting done? Just stay in bed. 

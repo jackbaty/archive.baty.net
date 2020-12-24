@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-07-07T21:04:26+00:00
-title: The AIR installer scares the crap outta me
-url: /2007/the-air-installer-scares-the-crap-outta-me/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-07-07T21:04:26+00:00"
+title = "The AIR installer scares the crap outta me"
+url = "/2007/the-air-installer-scares-the-crap-outta-me/"
+
++++
 
 Went to install the Pownce desktop client, which is an Adobe AIR app. Cool right? And like all AIR apps, I'm presented with the following&#8230;
 

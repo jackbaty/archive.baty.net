@@ -1,12 +1,10 @@
----
-title: "Three Notebooks"
-date: 2016-11-12T15:55:50-05:00
-tags: 
-- analog
-- notebook
-- journaling
-slug: "three-notebooks"
----
++++
+date = "2016-11-12T15:55:50-05:00"
+slug = "three-notebooks"
+tags = ["analog", "notebook", "journaling"]
+title = "Three Notebooks"
+
++++
 
 I have taken to carrying three notebooks. Here's how (or better, when) I use them. 
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-09-05T01:10:12+00:00
-title: 'AskTog: Denial in Web Design:'
-url: /2000/asktog-denial-in-web-design/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-09-05T01:10:12+00:00"
+title = "AskTog: Denial in Web Design:"
+url = "/2000/asktog-denial-in-web-design/"
+
++++
 
 [AskTog: Denial in Web Design: Elephants in the Living Room][1]
 

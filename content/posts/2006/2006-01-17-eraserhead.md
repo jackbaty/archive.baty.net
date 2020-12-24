@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-01-17T03:55:04+00:00
-title: Eraserhead
-url: /2006/eraserhead/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-01-17T03:55:04+00:00"
+title = "Eraserhead"
+url = "/2006/eraserhead/"
+
++++
 
 ![eraserhead](/files/eraserhead1.jpg) 
 

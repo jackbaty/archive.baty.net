@@ -1,17 +1,14 @@
----
-author: Jack
-categories:
-- Hardware
-date: 2009-08-26T22:55:32+00:00
-dsq_thread_id:
-- 3131255203
-tags:
-- gear
-thesis_post_image:
-- /files/das-keyboard-professional.jpg
-title: Das Keyboard Professional
-url: /2009/das-keyboard-professional/
----
++++
+author = "Jack"
+categories = ["Hardware"]
+date = "2009-08-26T22:55:32+00:00"
+dsq_thread_id = [3131255203]
+tags = ["gear"]
+thesis_post_image = ["/files/das-keyboard-professional.jpg"]
+title = "Das Keyboard Professional"
+url = "/2009/das-keyboard-professional/"
+
++++
 
 My [Das Keyboard Professional][1] arrived today and I'm typing on it right now. I didn't need a new keyboard. I was perfectly content with the Apple Aluminum keyboards I use at home and office. But you know how it goes, someone on the Interwebs starts talking about a cool new Das Keyboard and how much they like the old clicky sounding keys and so on. Next thing you know, WANT! At $130, it's not cheap, but my hands are on or near a keyboard for 8+ hours every day &#8211; why would I go cheap? I ordered one, and a set of Mac (Command and Option) keys to replace the default Windows keys. Replacing the keys was simple and quick.
 

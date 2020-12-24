@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2009-03-08T17:54:30+00:00
-thesis_post_image_frame:
-- 1
-title: Stumutilation
-url: /2009/stumutilation/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2009-03-08T17:54:30+00:00"
+thesis_post_image_frame = [1]
+title = "Stumutilation"
+url = "/2009/stumutilation/"
+
++++
 
 [Stumutilation][1]:
 

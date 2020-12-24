@@ -1,11 +1,12 @@
----
-title: "Static Blogging from the iPad"
-slug: "static-blogging-fro—ipad"
-date: "2017-08-10T12:34:38-04:00"
-tags: ["ipad","blogging","static"]
-draft: false
-description: "Updating this site using Blink.sh and Netlify from my iPad"
----
++++
+date = "2017-08-10T12:34:38-04:00"
+description = "Updating this site using Blink.sh and Netlify from my iPad"
+draft = false
+slug = "static-blogging-fro—ipad"
+tags = ["ipad", "blogging", "static"]
+title = "Static Blogging from the iPad"
+
++++
 
 [baty.net](https://baty.net) is currently a static site, built using
 [Hugo](https://gohugo.io) and served by Netlify. In order to publish, I have to

@@ -1,16 +1,13 @@
----
-title: I don’t think I need a smart speaker
-author: Jack
-date: 2018-01-27T13:12:09+00:00
-url: /2018/i-dont-think-i-need-a-smart-speaker/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Tech
-tags:
-  - music
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2018-01-27T13:12:09+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["music"]
+title = "I don’t think I need a smart speaker"
+url = "/2018/i-dont-think-i-need-a-smart-speaker/"
 
----
++++
 <img title="homepod-top.png" src="/img/2018/01/homepod-top.png" alt="Homepod top" width="800" height="809" border="0" />
   
 Lots of chatter this week around Apple’s (belated) release of the [HomePod][1]. It’s mostly the usual wild speculation and punditry, but of course I’ve been following along, as I’m interested in whether or not I should buy one.

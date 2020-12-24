@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-06-30T13:49:16+00:00
-title: I hate iTunes. And I think Apple does, too – Quartz
-url: /2015/i-hate-itunes-and-i-think-apple-does-too-quartz/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-06-30T13:49:16+00:00"
+title = "I hate iTunes. And I think Apple does, too – Quartz"
+url = "/2015/i-hate-itunes-and-i-think-apple-does-too-quartz/"
+
++++
 
 > How many times have you heard someone say that they need a new phone or laptop because their current one was full?
 

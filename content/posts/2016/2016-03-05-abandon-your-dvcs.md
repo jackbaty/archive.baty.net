@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2016-03-05T19:57:16+00:00
-title: Abandon your DVCS
-url: /2016/abandon-your-dvcs/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2016-03-05T19:57:16+00:00"
+title = "Abandon your DVCS"
+url = "/2016/abandon-your-dvcs/"
+
++++
 
 [Benjamin Pollacks][1]:
 

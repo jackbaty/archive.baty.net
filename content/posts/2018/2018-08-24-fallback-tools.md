@@ -1,16 +1,13 @@
----
-title: Fallback Tools
-author: Jack
-date: 2018-08-24T12:01:12+00:00
-url: /2018/fallback-tools/
-categories:
-  - Tech
-tags:
-  - software
-  - Workflow
-format: link
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2018-08-24T12:01:12+00:00"
+format = "link"
+tags = ["software", "Workflow"]
+title = "Fallback Tools"
+url = "/2018/fallback-tools/"
 
----
++++
 It&#8217;s fun to try new things. I experience a strong fear of missing out when it comes to gear and software, so I try almost everything. What if that other thing is better? I should try it!
 
 The New Thing is always fun and interesting, and it some cases I decide that I no longer need the Old Thing and go all in.

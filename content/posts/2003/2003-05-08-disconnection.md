@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:11+00:00
-title: Disconnection
-url: /2003/disconnection/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:11+00:00"
+title = "Disconnection"
+url = "/2003/disconnection/"
+
++++
 
 Craig Hughes (Deersoft) seems to be going through something similar
   

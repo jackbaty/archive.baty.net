@@ -1,14 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-07-13T20:47:07+00:00
-format: link
-tags:
-- social
-title: Screen addiction (or why Grandma&#039;s sad) – Kottke
-url: /2015/screen-addiction-or-why-grandmas-sad-kottke/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-07-13T20:47:07+00:00"
+format = "link"
+tags = ["social"]
+title = "Screen addiction (or why Grandma' sad) – Kottke"
+url = "/2015/screen-addiction-or-why-grandmas-sad-kottke/"
+
++++
 
 [Kottke][1]
 

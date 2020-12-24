@@ -1,16 +1,13 @@
----
-title: Thoughts vs Records
-author: Jack
-type: posts
-date: 2020-03-26T15:01:00+00:00
-url: /2020/thoughts-vs-records/
-categories:
-  - General
-tags:
-  - Notetaking
-  - Roam
++++
+author = "Jack"
+categories = ["General"]
+date = "2020-03-26T15:01:00+00:00"
+tags = ["Notetaking", "Roam"]
+title = "Thoughts vs Records"
+type = "posts"
+url = "/2020/thoughts-vs-records/"
 
----
++++
 _**UPDATE:&nbsp;**After writing this I realized what a jumbled mess it became. I’m posting it anyway because it really is intended as a way for me to think this through. I apologize for the rambling you’re about to be subjected to._
 
 I work mostly with two kinds of notes: Thoughts and Records.&nbsp;

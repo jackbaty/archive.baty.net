@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-11-08T00:02:26+00:00
-title: 'Flazoom.com – Attention Macromedia: I'
-url: /2000/flazoomcom-attention-macromedia-i/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-11-08T00:02:26+00:00"
+title = "Flazoom.com – Attention Macromedia: I"
+url = "/2000/flazoomcom-attention-macromedia-i/"
+
++++
 
 [Flazoom.com &#8211; Attention Macromedia: I Will not be Your Scapegoat][1]
 

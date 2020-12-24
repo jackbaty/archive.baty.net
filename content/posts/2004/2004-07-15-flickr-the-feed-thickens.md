@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-07-15T20:13:21+00:00
-title: 'Flickr: The Feed Thickens'
-url: /2004/flickr-the-feed-thickens/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-07-15T20:13:21+00:00"
+title = "Flickr: The Feed Thickens"
+url = "/2004/flickr-the-feed-thickens/"
+
++++
 
 So far, [Flickr][1] rocks. It's still officially in beta, and things change/improve almost daily. The site is a great combination of easy to use and geek-friendly. The developers are focused on all the right things. There seems to be a core set of ideals that touch on things like standards-compliance, ease of use, extensibility, accessibility and other goodies.
 

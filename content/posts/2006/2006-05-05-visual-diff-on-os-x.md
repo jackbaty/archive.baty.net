@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-05-05T15:16:33+00:00
-title: Visual Diff on OS X
-url: /2006/visual-diff-on-os-x/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-05-05T15:16:33+00:00"
+title = "Visual Diff on OS X"
+url = "/2006/visual-diff-on-os-x/"
+
++++
 
 I just found a python script that will take the output from `svn diff` and run it through FileMerge.app so there's a nice pretty visual diff to look at. 
 

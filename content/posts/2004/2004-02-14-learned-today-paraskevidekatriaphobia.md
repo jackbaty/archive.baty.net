@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-02-14T06:09:29+00:00
-title: 'Learned today: Paraskevidekatriaphobia'
-url: /2004/learned-today-paraskevidekatriaphobia/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-02-14T06:09:29+00:00"
+title = "Learned today: Paraskevidekatriaphobia"
+url = "/2004/learned-today-paraskevidekatriaphobia/"
+
++++
 
 _Paraskevidekatriaphobia_ , in some dictionaries, means an irrational, morbid fear of Friday the 13th.
 

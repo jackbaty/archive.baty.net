@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-03-01T02:42:05+00:00
-title: Apple today
-url: /2006/apple-today/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-03-01T02:42:05+00:00"
+title = "Apple today"
+url = "/2006/apple-today/"
+
++++
 
 I've gotta say, as much as I like Apple stuff, today's showing was a little disappointing. I know, it was a small event, not meant to thrill anyone, but they did say it was about some "fun" products. What we got was a couple of overpriced iPod accessories that should've been left to third parties. The Mac Mini is a nice step, but still short of the PVR I \*really\* want. 
 

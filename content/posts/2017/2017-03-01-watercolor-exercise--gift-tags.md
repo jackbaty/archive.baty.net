@@ -1,9 +1,10 @@
----
-title: "Watercolor Exercise - Gift Tags"
-slug: "watercolor-exercise--gift-tags"
-date: "2016-12-25T19:32:19-05:00"
-tags: ["Art"]
----
++++
+date = "2016-12-25T19:32:19-05:00"
+slug = "watercolor-exercise--gift-tags"
+tags = ["Art"]
+title = "Watercolor Exercise - Gift Tags"
+
++++
 
 {{< figure src="/img/2016/gift-tags.jpg" title="" >}}
 

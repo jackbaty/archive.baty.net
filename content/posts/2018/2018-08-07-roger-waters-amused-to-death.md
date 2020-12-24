@@ -1,14 +1,12 @@
----
-title: Roger Waters – Amused to Death
-author: Jack
-date: 2018-08-08T00:56:35+00:00
-url: /2018/roger-waters-amused-to-death/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Misc
++++
+author = "Jack"
+categories = ["Misc"]
+date = "2018-08-08T00:56:35+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+title = "Roger Waters – Amused to Death"
+url = "/2018/roger-waters-amused-to-death/"
 
----
++++
 Sometimes I pour a dram of Scotch or two, put on Roger Waters&#8217; &#8220;Amused To Death&#8221;, turn it up loud, and just listen to the entire thing with my eyes closed.<figure class="wp-block-image">
 
 <img src="/img/2018/08/AmusedToDeath.jpg" alt="" class="wp-image-1669" srcset="/img/2018/08/AmusedToDeath.jpg 500w, /img/2018/08/AmusedToDeath-150x150.jpg 150w, /img/2018/08/AmusedToDeath-300x300.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></figure> 

@@ -1,16 +1,13 @@
----
-title: A Remaining Problem with Title-less Posts
-author: Jack
-date: 2018-07-14T19:58:09+00:00
-url: /2018/a-remaining-problem-with-title-less-posts/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Tech
-tags:
-  - blogging
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2018-07-14T19:58:09+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["blogging"]
+title = "A Remaining Problem with Title-less Posts"
+url = "/2018/a-remaining-problem-with-title-less-posts/"
 
----
++++
 <figure class="wp-block-image"><img src="/img/2018/07/2018-07-14-archives.png" alt="" class="wp-image-1589" srcset="/img/2018/07/2018-07-14-archives.png 400w, /img/2018/07/2018-07-14-archives-300x183.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></figure> 
 
 When showing title-less posts in the archives, I would prefer to show the first few words of the post rather than nothing. Is there an easy way to do that?

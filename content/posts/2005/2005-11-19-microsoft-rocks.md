@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-11-19T20:51:51+00:00
-title: Microsoft Rocks
-url: /2005/microsoft-rocks/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-11-19T20:51:51+00:00"
+title = "Microsoft Rocks"
+url = "/2005/microsoft-rocks/"
+
++++
 
 This [funky little Microsoft ad][1] fills me with either hope or dread &#8211; I'm not sure which.
   

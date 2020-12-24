@@ -1,12 +1,11 @@
----
-date: 2016-09-24T09:37:54-04:00
-description: ""
-tags:
-- iPhone
-- Analog
-title: Dictation using Apple Watch vs Sony Microcassette
-topics: []
----
++++
+date = "2016-09-24T09:37:54-04:00"
+description = ""
+tags = ["iPhone", "Analog"]
+title = "Dictation using Apple Watch vs Sony Microcassette"
+topics = []
+
++++
 
 {{< figure src="/img/2016/iphone-vs-sony.jpg" title="" >}}
 

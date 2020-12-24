@@ -1,8 +1,9 @@
----
-title: "See you at baty.blog"
-date: 2018-11-13T18:42:04-05:00
-tags: ["blogging","blot"]
----
++++
+date = "2018-11-13T18:42:04-05:00"
+tags = ["blogging", "blot"]
+title = "See you at baty.blog"
+
++++
 
 I'm having so much fun using [Blot.im](https://blot.im) for blogging at [baty.blog](https://www.baty.blog) that I'll
 be posting almost entirely either there or at [micro.blog](https://micro.baty.net).

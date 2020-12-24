@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-16T02:43:13+00:00
-title: The Family Guy
-url: /2003/the-family-guy/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-16T02:43:13+00:00"
+title = "The Family Guy"
+url = "/2003/the-family-guy/"
+
++++
 
 ![][1]
 

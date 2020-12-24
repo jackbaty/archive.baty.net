@@ -1,11 +1,12 @@
----
-title: "My Photos are a Disorganized Mess"
-date: 2018-05-09T18:05:31-04:00
-lastmod: 2018-05-09T18:05:31-04:00
-draft: false
-description: "My photos are a mess"
-tags: ["photography","workflow"]
----
++++
+date = "2018-05-09T18:05:31-04:00"
+description = "My photos are a mess"
+draft = false
+lastmod = "2018-05-09T18:05:31-04:00"
+tags = ["photography", "workflow"]
+title = "My Photos are a Disorganized Mess"
+
++++
 
 <img src="/img/2018/huge-mistake.jpg" alt="I've made a huge mistake" />
 

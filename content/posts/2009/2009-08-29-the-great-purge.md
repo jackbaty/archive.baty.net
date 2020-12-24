@@ -1,15 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2009-08-29T13:05:10+00:00
-tags:
-- personal
-thesis_post_image:
-- /files/the-great-purge.gif
-title: The Great Purge
-url: /2009/the-great-purge/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2009-08-29T13:05:10+00:00"
+tags = ["personal"]
+thesis_post_image = ["/files/the-great-purge.gif"]
+title = "The Great Purge"
+url = "/2009/the-great-purge/"
+
++++
 
 > As you simplify your life, the laws of the universe will be simpler; solitude will not be solitude, poverty will not be poverty, nor weakness weakness. &#8212; Thoreau
 

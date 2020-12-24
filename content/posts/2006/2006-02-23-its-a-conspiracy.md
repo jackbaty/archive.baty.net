@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-02-23T00:08:04+00:00
-dsq_thread_id:
-- 3131255513
-title: It’s a conspiracy
-url: /2006/its-a-conspiracy/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-02-23T00:08:04+00:00"
+dsq_thread_id = [3131255513]
+title = "It’s a conspiracy"
+url = "/2006/its-a-conspiracy/"
+
++++
 
 I'll start by saying that I don't believe for a second that the 9-11 attacks were some sort of scheme cooked up by a group of Bush's buddies in order to hang onto the petroleum economy. However, the conversation at lunch today did reveal a few interesting points in favor of something being not quite right with the whole thing. 
 

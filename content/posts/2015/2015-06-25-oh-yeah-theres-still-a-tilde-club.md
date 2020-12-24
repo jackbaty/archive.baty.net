@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-06-25T17:41:31+00:00
-tags:
-- Blogging
-- Linux
-title: Oh yeah, there's still a Tilde.club!
-url: /2015/oh-yeah-theres-still-a-tilde-club/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-06-25T17:41:31+00:00"
+tags = ["Blogging", "Linux"]
+title = "Oh yeah, there's still a Tilde.club!"
+url = "/2015/oh-yeah-theres-still-a-tilde-club/"
+
++++
 
 Back in October, 2014 Paul Ford did something amazing and wrote about it: [I had a couple drinks and woke up with 1,000 nerds][1]
 

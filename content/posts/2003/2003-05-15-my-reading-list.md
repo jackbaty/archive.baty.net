@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-16T02:57:13+00:00
-title: My reading list
-url: /2003/my-reading-list/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-16T02:57:13+00:00"
+title = "My reading list"
+url = "/2003/my-reading-list/"
+
++++
 
 And speaking of To Do lists, I've got that list of books listed over
   

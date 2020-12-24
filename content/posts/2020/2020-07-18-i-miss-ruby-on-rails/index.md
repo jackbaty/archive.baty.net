@@ -1,18 +1,15 @@
----
-title: I miss Ruby on Rails
-author: Jack
-type: posts
-date: 2020-07-18T15:09:00+00:00
-url: /2020/i-miss-ruby-on-rails/
-featuredImage: Jack-wearing-Rails-Conf-2006-T-Shirt.jpg
-featuredImagePreview: preview.jpg
-categories:
-  - Software
-tags:
-  - Programming
-  - Ruby
++++
+author = "Jack"
+categories = ["Software"]
+date = "2020-07-18T15:09:00+00:00"
+featuredImage = "Jack-wearing-Rails-Conf-2006-T-Shirt.jpg"
+featuredImagePreview = "preview.jpg"
+tags = ["Programming", "Ruby"]
+title = "I miss Ruby on Rails"
+type = "posts"
+url = "/2020/i-miss-ruby-on-rails/"
 
----
++++
 I shipped my first [Ruby On Rails][1] app&#8212;an ecommerce website&#8212;in 2007. I had been writing PHP apps for a few years and working with Rails was a revelation. In fact, I was half finished writing that ecommerce site using PHP when I discovered Rails. I was so sure about Rails that I convinced the CEO to let me trash the PHP version and start over in Rails. It was worth it.
 
 A few years later I drifted from writing code into more of a project management role. Of course I still work with developers every day, and have watched them chase newer, &#8220;better&#8221; technologies for years. They seem to have collectively decided that a full-on JavaScript stack (Node/React/Vue/Nuxt/etc) is where we should be. Is it though?

@@ -1,9 +1,10 @@
----
-title: "Apps I Installed On The 9.7-inch iPad Pro"
-slug: "apps-i-installed-on-the-97inch-ipad-pro"
-date: "2016-12-12T19:16:40-05:00"
-tags: ["Apple", "iPad"]
----
++++
+date = "2016-12-12T19:16:40-05:00"
+slug = "apps-i-installed-on-the-97inch-ipad-pro"
+tags = ["Apple", "iPad"]
+title = "Apps I Installed On The 9.7-inch iPad Pro"
+
++++
 
 
 Whenever I get a new device I set it up “from scratch”. In doing so, I

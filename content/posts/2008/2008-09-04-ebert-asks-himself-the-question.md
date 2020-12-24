@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-09-05T01:28:07+00:00
-tags:
-- Blogging
-- film
-title: Ebert asks himself the question.
-url: /2008/ebert-asks-himself-the-question/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-09-05T01:28:07+00:00"
+tags = ["Blogging", "film"]
+title = "Ebert asks himself the question."
+url = "/2008/ebert-asks-himself-the-question/"
+
++++
 
 If you've not been reading "Roger Ebert's blog":http://blogs.suntimes.com/ebert/, you should. He writes well, writes passionately, and best of all, writes about things I'm interested in.
 

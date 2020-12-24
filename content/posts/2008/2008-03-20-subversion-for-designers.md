@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-03-20T20:13:01+00:00
-tags:
-- geek
-title: Subversion for Designers
-url: /2008/subversion-for-designers/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-03-20T20:13:01+00:00"
+tags = ["geek"]
+title = "Subversion for Designers"
+url = "/2008/subversion-for-designers/"
+
++++
 
 [Subversion for Designers][1].
 

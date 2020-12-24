@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-10-06T15:25:58+00:00
-title: Iron Maiden Days
-url: /2003/iron-maiden-days/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-10-06T15:25:58+00:00"
+title = "Iron Maiden Days"
+url = "/2003/iron-maiden-days/"
+
++++
 
 You may not know this, but I discovered Iron Maiden. Okay, maybe not, but I was the first of all my little headbanger friends to notice them back in oh, 1980 or so.
 

@@ -1,8 +1,9 @@
 +++
-title = "Resurrecting baty.net (for now)"
-date = 2019-07-04T08:14:00-04:00
-tags = ["meta", "blogging", "hugo"]
+date = "2019-07-04T08:14:00-04:00"
 draft = false
+tags = ["meta", "blogging", "hugo"]
+title = "Resurrecting baty.net (for now)"
+
 +++
 
 There are two things that cause me to occasionally abandon this blog at baty.net for something else.

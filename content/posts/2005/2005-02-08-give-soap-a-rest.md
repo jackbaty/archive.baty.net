@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-02-08T14:35:41+00:00
-title: Give SOAP a REST
-url: /2005/give-soap-a-rest/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-02-08T14:35:41+00:00"
+title = "Give SOAP a REST"
+url = "/2005/give-soap-a-rest/"
+
++++
 
 I've had opportunity recently to help spec and design a rather complex web service API. The choices are usually SOAP, XML-RPC or REST. REST has always been my favorite. Why? It's just so damn simple to write apps against it. When I've got to create a web service client it's always disappointing to find that the only interface is SOAP. While SOAP has a few advantages, they seem academic and mostly unnecessary for my purposes, so I politely nod and keep on walkin'.
 

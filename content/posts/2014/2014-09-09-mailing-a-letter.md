@@ -1,27 +1,18 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-09-10T00:51:33+00:00
-tags:
-- Analog
-- paper
-- Writing
-title: Mailing a letter
-tz_audio_format:
-- mp3
-tz_gallery_captions:
-- "true"
-tz_gallery_format:
-- -=set slideshow type=-
-tz_gallery_margins:
-- 10
-tz_gallery_randomize:
-- "false"
-tz_gallery_targetheight:
-- 200
-url: /2014/mailing-a-letter/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-09-10T00:51:33+00:00"
+tags = ["Analog", "paper", "Writing"]
+title = "Mailing a letter"
+tz_audio_format = ["mp3"]
+tz_gallery_captions = ["true"]
+tz_gallery_format = ["-=set slideshow type=-"]
+tz_gallery_margins = [10]
+tz_gallery_randomize = ["false"]
+tz_gallery_targetheight = [200]
+url = "/2014/mailing-a-letter/"
+
++++
 
 I pull the chair up to my desk and prepare to write another letter. She likes to receive letters and I like to send them.
 

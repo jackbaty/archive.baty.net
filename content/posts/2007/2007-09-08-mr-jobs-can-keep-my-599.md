@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-09-08T17:23:57+00:00
-title: Mr. Jobs can keep my $599
-url: /2007/mr-jobs-can-keep-my-599/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-09-08T17:23:57+00:00"
+title = "Mr. Jobs can keep my $599"
+url = "/2007/mr-jobs-can-keep-my-599/"
+
++++
 
 I bought an iPhone the day after it was released. Paid $599, and love almost everything about it. It was worth the money I paid for it or I wouldn't have bought it. It's now a couple months later and Jobs drops the price to $399. I would rather have paid $200 less than I did, but at the time there was no other option, so I made a choice and bought one. 
 

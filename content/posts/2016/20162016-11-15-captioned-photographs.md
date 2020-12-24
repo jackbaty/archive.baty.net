@@ -1,10 +1,10 @@
----
-title: "Caption your photographs"
-date: 2016-11-16T18:16:37-05:00
-tags: 
-- photography
-slug: "captioned-photographs"
----
++++
+Category = "Photography"
+date = "2016-11-16T18:16:37-05:00"
+slug = "captioned-photographs"
+title = "Caption your photographs"
+
++++
 
 {{< figure src="/img/2016/ron-baptized-1941.jpg" title="Dick Gordon Dorothy Ronald Nov. 16, 1941 the Sunday Ronald was Baptized." >}}
 

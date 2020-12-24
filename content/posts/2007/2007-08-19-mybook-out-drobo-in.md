@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-08-19T19:54:47+00:00
-title: MyBook out, Drobo In
-url: /2007/mybook-out-drobo-in/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-08-19T19:54:47+00:00"
+title = "MyBook out, Drobo In"
+url = "/2007/mybook-out-drobo-in/"
+
++++
 
 Someday I'll probably write something more about the "Drobo":http://www.datarobotics.com/ but in the meantime, I'll jump the gun a little show you how I pulled the 500Gb drive from a MyBook in order to use it in my Drobo. This is in no way meant to be a how-to. More like a "how-did." Make sense? Good. 
 

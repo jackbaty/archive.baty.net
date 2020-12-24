@@ -1,10 +1,10 @@
----
-date: 2016-08-31T16:51:14-04:00
-description: ""
-tags: []
-title: Cloudinary
-topics: []
----
++++
+date = "2016-08-31T16:51:14-04:00"
+description = ""
+title = "Cloudinary"
+topics = []
+
++++
 
 [Cloudinary](http://cloudinary.com) is pretty impressive. I've only used it in
 small doses recently but so far it's been a very nice image

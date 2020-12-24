@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-12-08T19:41:51+00:00
-title: Chasing my tail – photographically, that is
-url: /2003/chasing-my-tail-photographically-that-is/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-12-08T19:41:51+00:00"
+title = "Chasing my tail – photographically, that is"
+url = "/2003/chasing-my-tail-photographically-that-is/"
+
++++
 
 So what happened was&#8230;I just bought another camera.
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-12-18T14:23:12+00:00
-title: Expose Blob
-url: /2004/expose-blob/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-12-18T14:23:12+00:00"
+title = "Expose Blob"
+url = "/2004/expose-blob/"
+
++++
 
 <img src="/images/blog/images/blog/exposeblob.jpg" border="0" height="111" width="192" alt="exposeblob.jpg" align="right" />
   

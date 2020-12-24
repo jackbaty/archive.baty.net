@@ -1,9 +1,10 @@
----
-title: "More Shooting With The Hasselblad And A Flash"
-slug: "more-shooting-with-the-hasselblad-and-a-flash"
-date: "2017-02-04T20:24:28-05:00"
-tags: ["Hasselblad","Photography"]
----
++++
+date = "2017-02-04T20:24:28-05:00"
+slug = "more-shooting-with-the-hasselblad-and-a-flash"
+tags = ["Hasselblad", "Photography"]
+title = "More Shooting With The Hasselblad And A Flash"
+
++++
 
 
 While many move toward carrying only an iPhone or small, mirrorless

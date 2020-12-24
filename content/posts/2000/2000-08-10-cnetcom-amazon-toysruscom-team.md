@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-08-10T12:27:05+00:00
-title: 'CNET.com : Amazon, Toysrus.com team'
-url: /2000/cnetcom-amazon-toysruscom-team/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-08-10T12:27:05+00:00"
+title = "CNET.com : Amazon, Toysrus.com team"
+url = "/2000/cnetcom-amazon-toysruscom-team/"
+
++++
 
 [CNET.com : Amazon, Toysrus.com team on toy e-commerce play][1]
 

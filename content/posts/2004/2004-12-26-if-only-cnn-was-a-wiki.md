@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-12-26T18:11:39+00:00
-title: If only CNN was a Wiki…
-url: /2004/if-only-cnn-was-a-wiki/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-12-26T18:11:39+00:00"
+title = "If only CNN was a Wiki…"
+url = "/2004/if-only-cnn-was-a-wiki/"
+
++++
 
 From a [CNN Story][1] about the recent earthquake&#8230;
 

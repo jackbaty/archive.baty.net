@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-10-03T19:48:09+00:00
-tags:
-- food
-title: Blue Apron
-url: /2015/blue-apron/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-10-03T19:48:09+00:00"
+tags = ["food"]
+title = "Blue Apron"
+url = "/2015/blue-apron/"
+
++++
 
 <figure><a class="fancybox" title="" href="https://www.baty.net/img/2015/20151003_Blue_Apron_box.jpg" rel="article0"><img src="https://www.baty.net/img/2015/20151003_Blue_Apron_box.jpg" alt="" /></a></p> <figcaption> 
 

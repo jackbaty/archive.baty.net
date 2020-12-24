@@ -1,14 +1,12 @@
----
-title: Tracking my weight using Org-mode and R
-author: Jack
-date: 2017-12-17T16:45:46+00:00
-url: /2017/tracking-my-weight-using-org-mode-and-r/
-categories:
-  - Tech
-tags:
-  - orgmode
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2017-12-17T16:45:46+00:00"
+tags = ["orgmode"]
+title = "Tracking my weight using Org-mode and R"
+url = "/2017/tracking-my-weight-using-org-mode-and-r/"
 
----
++++
 <img title="weight.png" src="/img/2017/12/weight.png" alt="Weight" width="480" height="480" border="0" />
 
 I record my weight nearly every day. My bathroom scale uploads the data to a couple of tracking sites, but I also record it in a CSV file, like this…

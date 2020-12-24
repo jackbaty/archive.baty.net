@@ -1,11 +1,10 @@
----
-date: 2016-11-02T20:00:18-04:00
-slug: see-you-after-the-election-twitter
-tags:
-- social
-- Twitter
-title: See You After the Election, Twitter
----
++++
+date = "2016-11-02T20:00:18-04:00"
+slug = "see-you-after-the-election-twitter"
+tags = ["social", "Twitter"]
+title = "See You After the Election, Twitter"
+
++++
 
 I've been doing my best to stay calm during the past few months of this insane
 election season. My Twitter feed is mostly filled with sensible people like me

@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-10-26T19:44:04+00:00
-dsq_thread_id:
-- 3159116777
-title: Preparing for a new iMac
-url: /2014/preparing-for-a-new-imac/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-10-26T19:44:04+00:00"
+dsq_thread_id = [3159116777]
+title = "Preparing for a new iMac"
+url = "/2014/preparing-for-a-new-imac/"
+
++++
 
 A beautiful new 27&#8243; Retina iMac is arriving tomorrow for use in my home office. This affords an opportunity to start fresh.
 

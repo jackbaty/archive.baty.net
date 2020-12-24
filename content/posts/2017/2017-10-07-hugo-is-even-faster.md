@@ -1,11 +1,12 @@
----
-title: "Hugo gets even faster"
-slug: "hugo-gets-even-faster"
-date: "2017-10-07T11:56:49-04:00"
-tags: ["static","hugo"]
-draft: false
-description: I didn't think it was possible
----
++++
+date = "2017-10-07T11:56:49-04:00"
+description = "I didn't think it was possible"
+draft = false
+slug = "hugo-gets-even-faster"
+tags = ["static", "hugo"]
+title = "Hugo gets even faster"
+
++++
 
 I slimmed down the templates and Hugo renders my site even faster:
 

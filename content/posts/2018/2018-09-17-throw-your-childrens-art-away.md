@@ -1,8 +1,9 @@
----
-title: "Throw Your Children's Art Away - The Atlantic"
-date: "2018-09-17T15:42:31-04:00"
-tags: ["art","nostalgia"]
----
++++
+date = "2018-09-17T15:42:31-04:00"
+tags = ["art", "nostalgia"]
+title = "Throw Your Children's Art Away - The Atlantic"
+
++++
 
 [Why It's Okay to Throw Your Children's Art Away - The Atlantic](https://www.theatlantic.com/family/archive/2018/09/throw-your-childrens-art-away/570379/?utm_source=nextdraft&utm_medium=email”):
 

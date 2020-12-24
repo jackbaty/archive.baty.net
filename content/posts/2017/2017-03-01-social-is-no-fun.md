@@ -1,9 +1,10 @@
----
-title: "Social Is No Fun"
-slug: "social-is-no-fun"
-date: "2017-02-11T20:29:32-05:00"
-tags: ["Social"]
----
++++
+date = "2017-02-11T20:29:32-05:00"
+slug = "social-is-no-fun"
+tags = ["Social"]
+title = "Social Is No Fun"
+
++++
 
 
 I recently re-activated my Facebook account after a few months away. I

@@ -1,17 +1,13 @@
----
-title: I’ll be sticking with the HHKB
-author: Jack
-date: 2019-01-01T22:40:49+00:00
-url: /2019/ill-be-sticking-with-the-hhkb/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Tech
-tags:
-  - hardware
-  - keyboard
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2019-01-01T22:40:49+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["hardware", "keyboard"]
+title = "I’ll be sticking with the HHKB"
+url = "/2019/ill-be-sticking-with-the-hhkb/"
 
----
++++
 I thought I&#8217;d try a 60%, split layout keyboard, so I ordered an [Ultimate Hacking Keyboard][1]
 
 TL;DR I&#8217;m not keeping it.

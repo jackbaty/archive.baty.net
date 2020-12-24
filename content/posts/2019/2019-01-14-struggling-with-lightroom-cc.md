@@ -1,8 +1,9 @@
----
-title: "Struggling with Lightroom CC"
-date: 2019-01-14T20:46:31-05:00 
-tags: ["photography"]
----
++++
+date = "2019-01-14T20:46:31-05:00"
+tags = ["photography"]
+title = "Struggling with Lightroom CC"
+
++++
 
 I've been trying to use Lightroom CC exclusively for managing and editing
 photos. The intention was to go all-in for a while and determine if I could live there.

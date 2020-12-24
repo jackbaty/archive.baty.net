@@ -1,9 +1,10 @@
----
-title: "Deep Work by Cal Newport (Book)"
-slug: "deep-work-by-cal-newport-book"
-date: "2017-03-04T07:48:18-05:00"
-tags: ["Book"]
----
++++
+date = "2017-03-04T07:48:18-05:00"
+slug = "deep-work-by-cal-newport-book"
+tags = ["Book"]
+title = "Deep Work by Cal Newport (Book)"
+
++++
 
 ![](/img/2017/deep-work.jpg)
 

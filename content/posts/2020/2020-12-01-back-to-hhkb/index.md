@@ -1,11 +1,12 @@
----
-title: "Back to the HHKB (for now)"
-date:  2020-12-01
-tags: ["Keyboard"]
-categories: ["Hardware"]
-featuredImagePreview:  preview.jpg
-slug: back-to-hhkb-for-now
----
++++
+categories = ["Hardware"]
+date = "2020-12-01"
+featuredImagePreview = "preview.jpg"
+slug = "back-to-hhkb-for-now"
+tags = ["Keyboard"]
+title = "Back to the HHKB (for now)"
+
++++
 
 I've tried. Several times I've tried, but I just keep coming back to the 
 [Happy Hacking Keyboard Professional](https://hhkeyboard.us/happyhacking/), commonly referred to as the "HHKB".

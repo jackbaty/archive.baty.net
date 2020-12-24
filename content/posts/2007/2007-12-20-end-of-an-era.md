@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-12-20T21:54:59+00:00
-tags:
-- personal
-title: End of an Era
-url: /2007/end-of-an-era/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-12-20T21:54:59+00:00"
+tags = ["personal"]
+title = "End of an Era"
+url = "/2007/end-of-an-era/"
+
++++
 
 Growing up, we didn't live near water but we spent much of our time seeking it out. Every weekend and 4 weeks every summer were spent traveling, camping or boating. Usually all three. 
 

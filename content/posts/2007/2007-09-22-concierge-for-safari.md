@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-09-22T08:43:21+00:00
-title: Concierge for Safari
-url: /2007/concierge-for-safari/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-09-22T08:43:21+00:00"
+title = "Concierge for Safari"
+url = "/2007/concierge-for-safari/"
+
++++
 
 I use Safari for day to day browsing. The only thing I miss about Firefox is the ability to load it up with useful extensions. Safari does have a few nifty add-ons available though. One of those is [Concierge][1]. 
 

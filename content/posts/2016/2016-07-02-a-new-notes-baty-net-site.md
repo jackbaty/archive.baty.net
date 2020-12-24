@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Software
-date: 2016-07-02T13:22:47+00:00
-title: A new notes.baty.net site
-url: /2016/a-new-notes-baty-net-site/
----
++++
+author = "Jack"
+categories = ["Software"]
+date = "2016-07-02T13:22:47+00:00"
+title = "A new notes.baty.net site"
+url = "/2016/a-new-notes-baty-net-site/"
+
++++
 
 My fascination with static websites continues. I've sworn that this blog would remain in WordPress and so far I'm sticking with it, but I still like publishing static sites, so I've created a new version of my Notes blog: [notes.baty.net][1].
 

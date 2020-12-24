@@ -1,11 +1,12 @@
----
-title: "Sacrificing Convenience"
-date: 2018-02-17T14:27:54-05:00
-lastmod: 2018-02-17T14:27:54-05:00
-draft: false
-description: ""
-tags: ["blogging"]
----
++++
+date = "2018-02-17T14:27:54-05:00"
+description = ""
+draft = false
+lastmod = "2018-02-17T14:27:54-05:00"
+tags = ["blogging"]
+title = "Sacrificing Convenience"
+
++++
 
 Publishing a blog with WordPress is something I do, not because it's the best option, but because it's the most convenient. What I'd prefer is a fast, secure static site published using [Hugo](http://gohugo.io/). I have often moved away from Hugo because it's not convenient enough and I become fatigued.
 

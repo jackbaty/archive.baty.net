@@ -1,14 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-07-12T12:49:58+00:00
-format: link
-tags:
-- social
-title: Reddit’s Terrorists Have Won – The Daily Beast
-url: /2015/reddits-terrorists-have-won-the-daily-beast/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-07-12T12:49:58+00:00"
+format = "link"
+tags = ["social"]
+title = "Reddit’s Terrorists Have Won – The Daily Beast"
+url = "/2015/reddits-terrorists-have-won-the-daily-beast/"
+
++++
 
 [Reddit’s Terrorists Have Won: Ellen Pao and the Failure to Rebrand Web 2.0 &#8211; The Daily Beast][1]
 

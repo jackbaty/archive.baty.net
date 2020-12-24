@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-12-11T21:43:31+00:00
-tags:
-- film
-title: Rescue Dawn ***
-url: /2007/rescue-dawn/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-12-11T21:43:31+00:00"
+tags = ["film"]
+title = "Rescue Dawn ***"
+url = "/2007/rescue-dawn/"
+
++++
 
 <img src="/files/rescue-dawn.jpg" alt="rescue-dawn.jpg" border="0" width="500" height="270" />
 

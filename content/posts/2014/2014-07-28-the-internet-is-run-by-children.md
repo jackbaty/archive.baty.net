@@ -1,27 +1,19 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-07-28T21:22:14+00:00
-format: aside
-tags:
-- social
-- Web
-title: The Internet is run by children
-tz_audio_format:
-- mp3
-tz_gallery_captions:
-- "true"
-tz_gallery_format:
-- -=set slideshow type=-
-tz_gallery_margins:
-- 10
-tz_gallery_randomize:
-- "false"
-tz_gallery_targetheight:
-- 200
-url: /2014/the-internet-is-run-by-children/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-07-28T21:22:14+00:00"
+format = "aside"
+tags = ["social", "Web"]
+title = "The Internet is run by children"
+tz_audio_format = ["mp3"]
+tz_gallery_captions = ["true"]
+tz_gallery_format = ["-=set slideshow type=-"]
+tz_gallery_margins = [10]
+tz_gallery_randomize = ["false"]
+tz_gallery_targetheight = [200]
+url = "/2014/the-internet-is-run-by-children/"
+
++++
 
 <a href="https://baty.net/2014/the-internet-is-run-by-children/" rel="bookmark" title="Permalink to The Internet is run by children">
 

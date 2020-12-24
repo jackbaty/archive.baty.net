@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-09-07T18:18:11+00:00
-title: Lou Rosenfeld interviews Mark Hurst
-url: /2000/lou-rosenfeld-interviews-mark-hurst/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-09-07T18:18:11+00:00"
+title = "Lou Rosenfeld interviews Mark Hurst"
+url = "/2000/lou-rosenfeld-interviews-mark-hurst/"
+
++++
 
 [Lou Rosenfeld interviews Mark Hurst][1]
 

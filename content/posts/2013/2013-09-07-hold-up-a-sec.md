@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-09-07T00:00:00+00:00
-title: Hold up a sec
-url: /2013/hold-up-a-sec/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-09-07T00:00:00+00:00"
+title = "Hold up a sec"
+url = "/2013/hold-up-a-sec/"
+
++++
 
 I've always been an early adopter. Trying the latest gadgets is practically my specialty. Software, computers, phones, music, cameras, all of it. The excitement of new-shiny draws me in every time. It's fun to try cool new stuff. I don't even bother asking why I need whatever nifty device I just preordered; I just order it because it's going to be better. Right?
 

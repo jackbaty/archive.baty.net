@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-11-23T17:34:58+00:00
-dsq_thread_id:
-- 3131254399
-title: Chinese Democracy
-url: /2008/chinese-democracy/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-11-23T17:34:58+00:00"
+dsq_thread_id = [3131254399]
+title = "Chinese Democracy"
+url = "/2008/chinese-democracy/"
+
++++
 
 [<img src="/files//20081123-064nef.jpg"  alt="" title="GNR_Chinese_Democracy" width="500" height="323" class="aligncenter size-full wp-image-2766 frame" />][1]
 

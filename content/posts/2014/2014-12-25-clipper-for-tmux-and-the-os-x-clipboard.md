@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-12-25T17:54:53+00:00
-tags:
-- cli
-title: Clipper for tmux and the OS X clipboard
-url: /2014/clipper-for-tmux-and-the-os-x-clipboard/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-12-25T17:54:53+00:00"
+tags = ["cli"]
+title = "Clipper for tmux and the OS X clipboard"
+url = "/2014/clipper-for-tmux-and-the-os-x-clipboard/"
+
++++
 
 [wincent/clipper][1]:
 

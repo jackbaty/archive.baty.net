@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-09-18T23:02:01+00:00
-title: Apple licenses Amazon’s 1-Click Sort
-url: /2000/apple-licenses-amazons-1-click-sort/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-09-18T23:02:01+00:00"
+title = "Apple licenses Amazon’s 1-Click Sort"
+url = "/2000/apple-licenses-amazons-1-click-sort/"
+
++++
 
 [Apple licenses Amazon's 1-Click][1]
 

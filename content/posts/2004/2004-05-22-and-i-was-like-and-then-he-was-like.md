@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-05-22T20:49:11+00:00
-title: And I was like… And then he was like…
-url: /2004/and-i-was-like-and-then-he-was-like/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-05-22T20:49:11+00:00"
+title = "And I was like… And then he was like…"
+url = "/2004/and-i-was-like-and-then-he-was-like/"
+
++++
 
 Some advice&#8230; never offer to pick up your daughter and four of her teenage friends from a teen dance club. The were like, crazy and were like, bouncing off the ceiling and like, giggling like Soooo&#8230;.Much.&nbsp; And like, saying things like&#8230;
 

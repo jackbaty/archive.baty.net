@@ -1,15 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-06-16T15:28:32+00:00
-tags:
-- family
-- film
-- Leica
-title: Crystal&#039;s Birthday with the Dogs
-url: /2013/20136crystals-birthday/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-06-16T15:28:32+00:00"
+tags = ["family", "film", "Leica"]
+title = "Crystal' Birthday with the Dogs"
+url = "/2013/20136crystals-birthday/"
+
++++
 
 My house was being taken over by a bridal shower, so my sister Crystal was nice enough to invite me and the dogs over to celebrate her birthday.&nbsp;
 

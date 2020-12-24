@@ -1,18 +1,14 @@
----
-title: 'Photo: The Chip'
-author: Jack
-type: posts
-date: 2020-08-16T11:10:38+00:00
-url: /2020/photo-the-chip/
-featuredImagePreview: shelley-and-jeff-preview.jpg
-categories:
-  - Photography
-tags:
-  - 50mm
-  - Leica
-  - LeicaM10p
++++
+author = "Jack"
+categories = ["Photography"]
+date = "2020-08-16T11:10:38+00:00"
+featuredImagePreview = "shelley-and-jeff-preview.jpg"
+tags = ["50mm", "Leica", "LeicaM10p"]
+title = "Photo: The Chip"
+type = "posts"
+url = "/2020/photo-the-chip/"
 
----
++++
 {{< figure src="shelley-and-jeff.jpg" title="Shelly and Jeff at JT's" >}}
 
 Our friends Shelley and Jeff are two of the very few people we&#8217;ll (carefully) meet with during the pandemic.

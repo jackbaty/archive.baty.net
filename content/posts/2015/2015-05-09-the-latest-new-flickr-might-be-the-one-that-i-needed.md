@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-05-09T16:28:59+00:00
-tags:
-- flickr
-- photography
-title: The latest New Flickr might be the one that I needed
-url: /2015/the-latest-new-flickr-might-be-the-one-that-i-needed/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-05-09T16:28:59+00:00"
+tags = ["flickr", "photography"]
+title = "The latest New Flickr might be the one that I needed"
+url = "/2015/the-latest-new-flickr-might-be-the-one-that-i-needed/"
+
++++
 
 I've been uploading photos to [Flickr][1] since 2004. It's always been my favorite way to share images, even during its dark years when things languished for way too long.
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-04-12T13:41:52+00:00
-title: The things I don’t know
-url: /2005/the-things-i-dont-know/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-04-12T13:41:52+00:00"
+title = "The things I don’t know"
+url = "/2005/the-things-i-dont-know/"
+
++++
 
 Hoo boy. Every day I am, like it or not, reminded that I really don't know sh*t about a lot of things. Most things, if we're being honest. For example, I just want to be able to take a decent photo, interesting to me, and make a nice digital print out of it. To this end, I follow a number of mailing lists and news groups, such as the DigitalBlackAndWhite Yahoo group. Today, there was this&#8230;
 

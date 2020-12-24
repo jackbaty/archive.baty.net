@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-07-10T08:49:21+00:00
-title: All you can eat, er, watch
-url: /2004/all-you-can-eat-er-watch/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-07-10T08:49:21+00:00"
+title = "All you can eat, er, watch"
+url = "/2004/all-you-can-eat-er-watch/"
+
++++
 
 I've been a member of Netflix since sometime in 2002 and they've been good to me. The thought of switching to Blockbuster's (or anyone else's) version of movie-rental-via-internet never crossed my mind, and still hasn't.
 

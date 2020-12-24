@@ -1,16 +1,13 @@
----
-title: I Quit Twitter and It Feels Great – Lindsey West (NYT)
-author: Jack
-date: 2018-02-01T22:22:47+00:00
-url: /2018/i-quit-twitter-and-it-feels-great-lindsey-west-nyt/
-categories:
-  - Tech
-tags:
-  - social
-  - twitter
-format: image
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2018-02-01T22:22:47+00:00"
+format = "image"
+tags = ["social", "twitter"]
+title = "I Quit Twitter and It Feels Great – Lindsey West (NYT)"
+url = "/2018/i-quit-twitter-and-it-feels-great-lindsey-west-nyt/"
 
----
++++
 [Lindsey West (NYT)][1]:
 
 > I no longer feel like my brain is trapped in a centrifuge filled with swastikas and Alex Jones’s spittle. Time is finite, and now I have more of it.

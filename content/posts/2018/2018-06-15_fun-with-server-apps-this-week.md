@@ -1,8 +1,9 @@
----
-title: "Fun With Server Apps This Week"
-date: 2018-06-15T08:55:00-04:00
-toc: false
----
++++
+date = "2018-06-15T08:55:00-04:00"
+title = "Fun With Server Apps This Week"
+toc = false
+
++++
 
 I've been having fun with a few new, and new to me, servers and apps this week.
 Here's a quick summary.

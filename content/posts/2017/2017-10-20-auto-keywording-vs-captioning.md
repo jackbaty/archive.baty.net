@@ -1,10 +1,11 @@
----
-title: "Auto-keywording vs. Captioning Photos"
-slug: "auto-keywording-vs-captioning"
-date: "2017-10-20T11:24:19-04:00"
-tags: ["photography"]
-description: Why you need more than just automatic keywording for your photos
----
++++
+date = "2017-10-20T11:24:19-04:00"
+description = "Why you need more than just automatic keywording for your photos"
+slug = "auto-keywording-vs-captioning"
+tags = ["photography"]
+title = "Auto-keywording vs. Captioning Photos"
+
++++
 
 The new version of Lightroom CC will automatically keyword photos so that I can search for things in them like "Car" or "Tree" or "Dog". Apple Photos and Google Photos do something similar. Here's how Adobe describes "Sensei":
 

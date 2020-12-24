@@ -1,12 +1,13 @@
----
-title: "Moving to Amazon S3"
-date: 2018-03-18T13:43:11-04:00 
-lastmod: 2018-03-18T13:43:11-04:00 
-draft: false
-description: "baty.net is now hosted via an Amazon S3 bucket and Cloudfront"
-tags: ["aws"]
-toc: false
----
++++
+date = "2018-03-18T13:43:11-04:00"
+description = "baty.net is now hosted via an Amazon S3 bucket and Cloudfront"
+draft = false
+lastmod = "2018-03-18T13:43:11-04:00"
+tags = ["aws"]
+title = "Moving to Amazon S3"
+toc = false
+
++++
 
 <img src="/img/2018/aws_logo_smile.png" alt="AWS Logo" />
 

@@ -1,10 +1,10 @@
----
-title: "Wait Until I'm At a Mac"
-slug: "wait-until-im-at-my-mac"
-date: "2017-03-25T13:33:35-04:00"
-tags: [""]
-draft: false
----
++++
+date = "2017-03-25T13:33:35-04:00"
+draft = false
+slug = "wait-until-im-at-my-mac"
+title = "Wait Until I'm At a Mac"
+
++++
 
 [John Gruber](http://daringfireball.net/linked/2017/03/22/apple-workflow):
 

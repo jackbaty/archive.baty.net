@@ -1,19 +1,15 @@
----
-author: Jack
-categories:
-- Journal
-date: 2009-08-08T17:54:04+00:00
-dsq_thread_id:
-- 3131255075
-tags:
-- photography
-thesis_post_image:
-- /files/RenzemaReunion006.jpg
-thesis_post_image_alt:
-- Renzema Reunion group portrait
-title: Lessons from an Informal Family Portrait
-url: /2009/lessons-from-an-informal-family-portrait/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2009-08-08T17:54:04+00:00"
+dsq_thread_id = [3131255075]
+tags = ["photography"]
+thesis_post_image = ["/files/RenzemaReunion006.jpg"]
+thesis_post_image_alt = ["Renzema Reunion group portrait"]
+title = "Lessons from an Informal Family Portrait"
+url = "/2009/lessons-from-an-informal-family-portrait/"
+
++++
 
 Once every summer the entire family (on my mother's side) gets together for what we call "Christmas in August." This way we avoid the whole issue of multi-family and ex-family scheduling that normally plagues the holiday season. I'm not a terribly social person, but it's always good to see everyone and it's also a great opportunity to take photos.
 

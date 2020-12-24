@@ -1,10 +1,11 @@
----
-title: "A new editor, Nova, from Panic"
-date:  2020-09-16
-tags: ["Editor"]
-categories: ["Software"]
-featuredImage: nova.png
----
++++
+categories = ["Software"]
+date = "2020-09-16"
+featuredImage = "nova.png"
+tags = ["Editor"]
+title = "A new editor, Nova, from Panic"
+
++++
 
 Editors. I try them all, so now I'm trying [Nova](https://nova.app), from the artists at [Panic](https://panic.com).
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-09-27T12:36:45+00:00
-title: Who Says Design Should Be
-url: /2000/who-says-design-should-be/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-09-27T12:36:45+00:00"
+title = "Who Says Design Should Be"
+url = "/2000/who-says-design-should-be/"
+
++++
 
 [Who Says Design Should Be Simple?][1]
 

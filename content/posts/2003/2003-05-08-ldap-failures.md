@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:12+00:00
-title: LDAP failures
-url: /2003/ldap-failures/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:12+00:00"
+title = "LDAP failures"
+url = "/2003/ldap-failures/"
+
++++
 
 I must've spend 4 hours trying to install, configure and connect to an
   

@@ -1,16 +1,13 @@
----
-title: One side effect of using titles on “micro” posts
-author: Jack
-date: 2018-06-21T01:12:46+00:00
-url: /2018/one-side-effect-of-using-titles-on-micro-posts/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Tech
-tags:
-  - blogging
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2018-06-21T01:12:46+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["blogging"]
+title = "One side effect of using titles on “micro” posts"
+url = "/2018/one-side-effect-of-using-titles-on-micro-posts/"
 
----
++++
 Blog posts with a title are not displayed in full on the [micro.blog][1] feed. Micro.blog will only show the title and a link to the post.
 
 I love the interaction that takes place on Micro.blog and worry that if only links to my short posts show there, people won&#8217;t bother to click through and the conversations won&#8217;t happen. And, if they _do_ click through, it won&#8217;t be worth it just for a 240-character snippet I just fired off without much thought. I don&#8217;t want to waste people&#8217;s time that way.

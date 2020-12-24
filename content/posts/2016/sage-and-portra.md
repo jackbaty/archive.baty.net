@@ -1,13 +1,11 @@
----
-date: 2016-09-25T16:31:19-04:00
-description: ""
-tags:
-- Film
-- EOS-1v
-- Portra
-title: Sage and Portra
-topics: []
----
++++
+date = "2016-09-25T16:31:19-04:00"
+description = ""
+tags = ["Film", "EOS-1v", "Portra"]
+title = "Sage and Portra"
+topics = []
+
++++
 
 I put a roll of Portra through the Canon 1v. I haven't shot much color film
 lately, so this was fun. The roll was processed at Meijer and scanned using the Pakon.

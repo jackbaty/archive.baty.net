@@ -1,8 +1,9 @@
----
-title: "Getting the iPad to Pro — by Craig Mod"
-date: 2018-11-08T11:52:25-05:00
-tags: ["apple","hardware"]
----
++++
+date = "2018-11-08T11:52:25-05:00"
+tags = ["apple", "hardware"]
+title = "Getting the iPad to Pro — by Craig Mod"
+
++++
 
 [Craig Mod](https://craigmod.com/essays/ipad_pro/):
 

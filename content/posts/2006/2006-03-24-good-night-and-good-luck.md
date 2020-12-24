@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-03-24T04:26:05+00:00
-title: Good night, and Good Luck
-url: /2006/good-night-and-good-luck/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-03-24T04:26:05+00:00"
+title = "Good night, and Good Luck"
+url = "/2006/good-night-and-good-luck/"
+
++++
 
 ![][1] 
 

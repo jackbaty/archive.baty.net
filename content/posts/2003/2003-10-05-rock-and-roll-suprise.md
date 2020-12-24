@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-10-05T10:23:47+00:00
-title: Rock and Roll Suprise
-url: /2003/rock-and-roll-suprise/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-10-05T10:23:47+00:00"
+title = "Rock and Roll Suprise"
+url = "/2003/rock-and-roll-suprise/"
+
++++
 
 I saw a trailer some time ago for a movie about a bunch of kids being taught by Jack Black and, although a closet Jack Black fan, I immediately dismissed it. "That **has** to suck!" I think I said.
 

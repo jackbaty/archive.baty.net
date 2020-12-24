@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-09-04T21:08:45+00:00
-title: Twitter Rules
-url: /2007/twitter-rules/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-09-04T21:08:45+00:00"
+title = "Twitter Rules"
+url = "/2007/twitter-rules/"
+
++++
 
 [Twitter Rules][1]. No, not as in "Twitter Rulz Dude!" but as in, "Here are a few nice guidelines on how to Twitter effectively and not annoy the shit out of those following you". 
 

@@ -1,9 +1,10 @@
----
-title: "Evergreen: A new feed reader from Brent Simmons"
-date: 2017-06-01
-tags: ["rss"]
-slug: "evergreen-a-new-feed-reader-from-brent-simmons" 
----
++++
+date = "2017-06-01"
+slug = "evergreen-a-new-feed-reader-from-brent-simmons"
+tags = ["rss"]
+title = "Evergreen: A new feed reader from Brent Simmons"
+
++++
 
 _[Ranchero Software: Evergreen][1]_
 

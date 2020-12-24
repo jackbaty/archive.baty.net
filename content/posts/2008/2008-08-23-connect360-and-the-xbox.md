@@ -1,18 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-08-23T17:24:43+00:00
-dsq_thread_id:
-- 3594552
-tags:
-- game
-- geek
-- osx
-- xbox
-title: Connect360 and the XBox
-url: /2008/connect360-and-the-xbox/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-08-23T17:24:43+00:00"
+dsq_thread_id = [3594552]
+tags = ["game", "geek", "osx", "xbox"]
+title = "Connect360 and the XBox"
+url = "/2008/connect360-and-the-xbox/"
+
++++
 
 <img src="/files/connect360.jpg" alt="connect360.jpg" border="0" width="97" height="94" />
 

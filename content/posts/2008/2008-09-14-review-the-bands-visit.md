@@ -1,15 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-09-15T02:24:15+00:00
-image:
-- /files/bands-visit-scene.jpg
-tags:
-- film
-title: 'Review: The Band&#039;s Visit'
-url: /2008/review-the-bands-visit/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-09-15T02:24:15+00:00"
+image = ["/files/bands-visit-scene.jpg"]
+tags = ["film"]
+title = "Review: The Band' Visit"
+url = "/2008/review-the-bands-visit/"
+
++++
 
 [<img src="/files//bands-visit-cover.jpg" alt="" title="bands-visit-cover" width="144" height="208" class="alignleft size-full wp-image-2686" />][1]
   

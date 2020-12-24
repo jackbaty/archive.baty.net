@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Software
-date: 2016-05-08T12:55:50+00:00
-title: I don’t like what’s happening with Apple
-url: /2016/i-dont-like-whats-happening-with-apple/
----
++++
+author = "Jack"
+categories = ["Software"]
+date = "2016-05-08T12:55:50+00:00"
+title = "I don’t like what’s happening with Apple"
+url = "/2016/i-dont-like-whats-happening-with-apple/"
+
++++
 
 As a long-time Apple fan, I’ve been discouraged by what I’m reading lately. The Arments and Grubers of the Mac community have been spending much of their time writing about where and how Apple has been lacking. I’ve been wondering the same thing.
 

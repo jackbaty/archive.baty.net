@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-08-19T20:21:56+00:00
-title: More keyboard, less crumbs
-url: /2007/more-keyboard-less-crumbs/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-08-19T20:21:56+00:00"
+title = "More keyboard, less crumbs"
+url = "/2007/more-keyboard-less-crumbs/"
+
++++
 
 [<img src="https://farm2.static.flickr.com/1033/1176203319_eb7a7ad1ed.jpg" width="500" height="197" alt="New Apple Keyboard" />][1] 
 

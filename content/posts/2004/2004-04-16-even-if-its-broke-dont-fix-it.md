@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-04-16T19:06:52+00:00
-title: Even if it’s broke, don’t fix it
-url: /2004/even-if-its-broke-dont-fix-it/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-04-16T19:06:52+00:00"
+title = "Even if it’s broke, don’t fix it"
+url = "/2004/even-if-its-broke-dont-fix-it/"
+
++++
 
 Eric Meyer thinks that [Weblogs are broken][1], in that they show the most recent entries first, and of course that's not how we read books, so we should switch things around to read "normally"
 

@@ -1,15 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2009-09-06T03:24:17+00:00
-dsq_thread_id:
-- 3131254998
-tags:
-- photography
-title: Viewfinders – Olympus OM-1n vs Panasonic GF1
-url: /2009/viefinders-olympus-om-1n-vs-panasonic-gf1/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2009-09-06T03:24:17+00:00"
+dsq_thread_id = [3131254998]
+tags = ["photography"]
+title = "Viewfinders – Olympus OM-1n vs Panasonic GF1"
+url = "/2009/viefinders-olympus-om-1n-vs-panasonic-gf1/"
+
++++
 
 Not really a fair comparison, but you get the idea.
 

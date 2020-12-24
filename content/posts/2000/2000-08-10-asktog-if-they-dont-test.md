@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-08-11T00:35:38+00:00
-title: 'AskTog: If They Don’t Test,'
-url: /2000/asktog-if-they-dont-test/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-08-11T00:35:38+00:00"
+title = "AskTog: If They Don’t Test,"
+url = "/2000/asktog-if-they-dont-test/"
+
++++
 
 [AskTog: If They Don't Test, Don't Hire Them][1]
 

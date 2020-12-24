@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:12+00:00
-title: If Macromedia can’t do it, who can?
-url: /2003/if-macromedia-cant-do-it-who-can/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:12+00:00"
+title = "If Macromedia can’t do it, who can?"
+url = "/2003/if-macromedia-cant-do-it-who-can/"
+
++++
 
 Macromedia introduces their [new
   

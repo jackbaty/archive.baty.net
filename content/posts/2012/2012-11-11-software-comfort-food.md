@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2012-11-11T00:00:00+00:00
-tags:
-- software
-- Tinderbox
-title: Software Comfort Food
-url: /2012/software-comfort-food/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2012-11-11T00:00:00+00:00"
+tags = ["software", "Tinderbox"]
+title = "Software Comfort Food"
+url = "/2012/software-comfort-food/"
+
++++
 
 I find trying new software, reading manuals, and browsing release notes to be a perfectly fine way of enjoying a Saturday afternoon. It's fun, but can lead to a certain amount of confusion. Where did I put that file? What should I use to edit this document?
 

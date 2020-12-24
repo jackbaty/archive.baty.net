@@ -1,9 +1,10 @@
----
-title: "Netflix’s DVD Subscription Is Still Great, Dammit"
-date: 2017-06-06T16:46:53-04:00
-tags: ["Media","Netflix"]
-slug: "netflixs-dvd-subscription-is-still-great-dammit"
----
++++
+date = "2017-06-06T16:46:53-04:00"
+slug = "netflixs-dvd-subscription-is-still-great-dammit"
+tags = ["Media", "Netflix"]
+title = "Netflix’s DVD Subscription Is Still Great, Dammit"
+
++++
 
 [Andrew Karcher](https://medium.com/the-brothers-geek/netflixs-dvd-subscription-is-still-great-dammit-7048912cb690):
 

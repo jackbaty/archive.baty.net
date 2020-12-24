@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2012-06-13T22:18:03+00:00
-title: Things I Like Right Now
-url: /2012/20126things-i-like-right-now/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2012-06-13T22:18:03+00:00"
+title = "Things I Like Right Now"
+url = "/2012/20126things-i-like-right-now/"
+
++++
 
 I change my mind. I try things and then don't. I bore easily. Before everything changes again, I thought I'd jot down a quick, random, off-the-cuff list of the things I'm currently enjoying.
 

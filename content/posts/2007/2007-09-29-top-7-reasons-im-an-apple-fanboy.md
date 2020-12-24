@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-09-29T08:44:01+00:00
-title: Top 7 Reasons I’m an Apple Fanboy
-url: /2007/top-7-reasons-im-an-apple-fanboy/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-09-29T08:44:01+00:00"
+title = "Top 7 Reasons I’m an Apple Fanboy"
+url = "/2007/top-7-reasons-im-an-apple-fanboy/"
+
++++
 
 1. They make best computer hardware/OS combination in the world. Always have. A Macbook Pro running OS X is wonderful. 
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-12-15T17:12:17+00:00
-title: Why I want to learn Python
-url: /2004/why-i-want-to-learn-python/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-12-15T17:12:17+00:00"
+title = "Why I want to learn Python"
+url = "/2004/why-i-want-to-learn-python/"
+
++++
 
 [TinyP2P][1]
 

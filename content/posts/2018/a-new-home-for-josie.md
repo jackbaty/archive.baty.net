@@ -1,11 +1,12 @@
----
-title: "A New Home for Josie"
-date: 2018-02-28T16:05:00-05:00
-lastmod: 2018-02-28T16:05:00-05:00
-draft: false
-description: ""
-tags: []
----
++++
+date = "2018-02-28T16:05:00-05:00"
+description = ""
+draft = false
+lastmod = "2018-02-28T16:05:00-05:00"
+tags = []
+title = "A New Home for Josie"
+
++++
 
 {{< figure src="/img/2018/2017-Roll-041_29-Josie.jpg"  title="Josie (2017)" >}}
 

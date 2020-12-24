@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-06-22T00:00:00+00:00
-tags:
-- film
-- photography
-title: Keep the Nikons or the Canons?
-url: /2013/keep-the-nikons-or-the-canons/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-06-22T00:00:00+00:00"
+tags = ["film", "photography"]
+title = "Keep the Nikons or the Canons?"
+url = "/2013/keep-the-nikons-or-the-canons/"
+
++++
 
 I find myself with a collection of some of the finest film SLRs ever made (and one really nice Digital). 
 

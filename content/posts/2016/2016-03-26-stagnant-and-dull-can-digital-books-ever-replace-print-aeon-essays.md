@@ -1,16 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2016-03-26T14:44:49+00:00
-tags:
-- Analog
-- books
-- Kindle
-- reading
-title: Stagnant and dull, can digital books ever replace print?
-url: /2016/stagnant-and-dull-can-digital-books-ever-replace-print-aeon-essays/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2016-03-26T14:44:49+00:00"
+tags = ["Analog", "books", "Kindle", "reading"]
+title = "Stagnant and dull, can digital books ever replace print?"
+url = "/2016/stagnant-and-dull-can-digital-books-ever-replace-print-aeon-essays/"
+
++++
 
 [Craig Mod][1]:
 

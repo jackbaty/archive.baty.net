@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-07-26T16:20:08+00:00
-title: 'Anil Dash: Many years of sucking'
-url: /2003/anil-dash-many-years-of-sucking/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-07-26T16:20:08+00:00"
+title = "Anil Dash: Many years of sucking"
+url = "/2003/anil-dash-many-years-of-sucking/"
+
++++
 
 [anil dash on the Windows Add Font dialog][1]. Here's an excerpt from his note to Microsoft&#8230;
 

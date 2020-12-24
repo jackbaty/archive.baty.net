@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-07-29T00:26:42+00:00
-title: Peter tops Leno and Letterman
-url: /2003/peter-tops-leno-and-letterman/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-07-29T00:26:42+00:00"
+title = "Peter tops Leno and Letterman"
+url = "/2003/peter-tops-leno-and-letterman/"
+
++++
 
 Speaking of the Family Guy, check this bit from a [Newsweek article][1]:
   

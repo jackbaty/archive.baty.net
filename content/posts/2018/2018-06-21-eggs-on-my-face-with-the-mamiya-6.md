@@ -1,19 +1,13 @@
----
-title: Egg on my face with the Mamiya 6
-author: Jack
-date: 2018-06-21T14:36:38+00:00
-url: /2018/eggs-on-my-face-with-the-mamiya-6/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Photography
-tags:
-  - film
-  - mamiya
-  - MediumFormat
-  - photo
++++
+author = "Jack"
+categories = ["Photography"]
+date = "2018-06-21T14:36:38+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["film", "mamiya", "MediumFormat", "photo"]
+title = "Egg on my face with the Mamiya 6"
+url = "/2018/eggs-on-my-face-with-the-mamiya-6/"
 
----
++++
 
 {{< figure src="/img/2018/06/2018-06-21-eggs-in-eyes.jpg" title="Self Portrait (2013). Mamiya 6, HP5+, D-76" >}}
 

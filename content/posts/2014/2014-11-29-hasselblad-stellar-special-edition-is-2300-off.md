@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-11-29T13:20:35+00:00
-tags:
-- Hasselblad
-- photography
-title: Hasselblad Stellar Special Edition is $2,300 off
-url: /2014/hasselblad-stellar-special-edition-is-2300-off/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-11-29T13:20:35+00:00"
+tags = ["Hasselblad", "photography"]
+title = "Hasselblad Stellar Special Edition is $2,300 off"
+url = "/2014/hasselblad-stellar-special-edition-is-2300-off/"
+
++++
 
 <img title="NewImage.png" src="/img/2014/11/NewImage.png" alt="NewImage" width="500" height="500" border="0" />
 

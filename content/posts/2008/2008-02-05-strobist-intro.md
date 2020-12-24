@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-02-05T18:23:41+00:00
-tags:
-- photography
-title: Strobist Intro
-url: /2008/strobist-intro/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-02-05T18:23:41+00:00"
+tags = ["photography"]
+title = "Strobist Intro"
+url = "/2008/strobist-intro/"
+
++++
 
 [Strobist Preliminaries][1] by Paul Duncan is a nice video intro to doing things the [strobist][2] way.
 

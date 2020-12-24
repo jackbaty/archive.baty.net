@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-05-16T22:44:36+00:00
-title: Subversion
-url: /2004/subversion/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-05-16T22:44:36+00:00"
+title = "Subversion"
+url = "/2004/subversion/"
+
++++
 
 I hadn't noticed, but [Subversion][1] went 1.0 a few months ago. This is meant to be a replacement for the aging CVS version control system. The idea is to "fix" the long-standing problems with CVS without completely abandoning its concepts. It has directory versioning, common-sense branching, file renaming support and efficient handling of binary files. Sounds great! Let's try it out&#8230;
 

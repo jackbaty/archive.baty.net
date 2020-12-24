@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-03-13T19:22:22+00:00
-tags:
-- photography
-title: Your Camera
-url: /2008/your-camera/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-03-13T19:22:22+00:00"
+tags = ["photography"]
+title = "Your Camera"
+url = "/2008/your-camera/"
+
++++
 
 Ken Rockwell says [Your Camera Doesn't Matter][1]
 

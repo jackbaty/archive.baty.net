@@ -1,9 +1,10 @@
----
-title: "The Slack letter to Microsoft is built on meaningless platitudes"
-date: 2016-11-05T14:44:07-04:00
-tags: ["Slack"]
-slug: "the-slack-letter-to-microsoft-is-built-on-meaningless-platitudes"
----
++++
+date = "2016-11-05T14:44:07-04:00"
+slug = "the-slack-letter-to-microsoft-is-built-on-meaningless-platitudes"
+tags = ["Slack"]
+title = "The Slack letter to Microsoft is built on meaningless platitudes"
+
++++
 
 [without bullshit](http://withoutbullshit.com/blog/slack-letter-microsoft-built-meaningless-platitudes):
 

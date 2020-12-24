@@ -1,14 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-03-11T23:17:19+00:00
-format: link
-tags:
-- apple
-title: Switching to Smaller iPhones
-url: /2015/michael-tsai-switching-to-smaller-iphones/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-03-11T23:17:19+00:00"
+format = "link"
+tags = ["apple"]
+title = "Switching to Smaller iPhones"
+url = "/2015/michael-tsai-switching-to-smaller-iphones/"
+
++++
 
 Michael Tsai's collection of people [Switching to Smaller iPhones][1]:
 

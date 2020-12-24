@@ -1,15 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2009-08-16T02:56:16+00:00
-tags:
-- photography
-thesis_post_image:
-- /files/3823436230_be9df3439b.jpg
-title: Olympus OM-1n
-url: /2009/olympus-om-1n/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2009-08-16T02:56:16+00:00"
+tags = ["photography"]
+thesis_post_image = ["/files/3823436230_be9df3439b.jpg"]
+title = "Olympus OM-1n"
+url = "/2009/olympus-om-1n/"
+
++++
 
 When you think of SLR cameras what's the first manufacturer that pops into your head? That's right, it's Nikon or Canon. It's been that way for a long time. Today, though, we're talking about one of the minor players &#8211; Olympus.
 

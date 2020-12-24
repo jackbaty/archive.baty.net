@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-06-29T18:21:14+00:00
-title: Tom Robbins at it again
-url: /2003/tom-robbins-at-it-again/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-06-29T18:21:14+00:00"
+title = "Tom Robbins at it again"
+url = "/2003/tom-robbins-at-it-again/"
+
++++
 
 "It has been reported that Tanuki fell from the sky using his scrotum
   

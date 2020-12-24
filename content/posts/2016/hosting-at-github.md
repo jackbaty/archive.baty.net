@@ -1,11 +1,10 @@
----
-date: 2016-01-09T12:37:54-05:00
-description: ""
-tags:
-- blogging
-- Github
-title: Hosting My Blog Using Github Pages
----
++++
+date = "2016-01-09T12:37:54-05:00"
+description = ""
+tags = ["blogging", "Github"]
+title = "Hosting My Blog Using Github Pages"
+
++++
 
 Baty.net is now using [Github Pages](https://pages.github.com) for hosting. This
 might be the only hosting option I _haven't_ tried.

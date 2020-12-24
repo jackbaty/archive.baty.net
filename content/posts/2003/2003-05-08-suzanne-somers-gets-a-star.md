@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:11+00:00
-title: Suzanne Somers gets a star
-url: /2003/suzanne-somers-gets-a-star/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:11+00:00"
+title = "Suzanne Somers gets a star"
+url = "/2003/suzanne-somers-gets-a-star/"
+
++++
 
 Chrissy has her own [walk of fame star][1]
   

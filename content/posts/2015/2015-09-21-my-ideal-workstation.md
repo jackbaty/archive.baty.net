@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-09-21T19:43:59+00:00
-tags:
-- Analog
-title: My Ideal Workstation
-url: /2015/my-ideal-workstation/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-09-21T19:43:59+00:00"
+tags = ["Analog"]
+title = "My Ideal Workstation"
+url = "/2015/my-ideal-workstation/"
+
++++
 
 <figure><a class="fancybox" title="" href="https://www.baty.net/img/2015/old-desk.jpg" rel="article0"><img src="https://www.baty.net/img/2015/old-desk.jpg" alt="" /></a>
   

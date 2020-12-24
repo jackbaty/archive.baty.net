@@ -1,11 +1,10 @@
----
-date: 2016-10-23T14:14:38-04:00
-slug: publishing-to-google-photos
-tags:
-- Photography
-- Workflow
-title: Publishing to Google Photos Using Lightroom
----
++++
+date = "2016-10-23T14:14:38-04:00"
+slug = "publishing-to-google-photos"
+tags = ["Photography", "Workflow"]
+title = "Publishing to Google Photos Using Lightroom"
+
++++
 
 I've really come to like Google Photos[^1]. 
 I've been syncing my entire photos folder and it's seamless.

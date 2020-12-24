@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:11+00:00
-title: That’s the spirit! (the Onion)
-url: /2003/thats-the-spirit-the-onion/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:11+00:00"
+title = "That’s the spirit! (the Onion)"
+url = "/2003/thats-the-spirit-the-onion/"
+
++++
 
 The Onion: [Community Rallies Behind Struggling Corporation][1]
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:11+00:00
-title: Broccoli and the spectrum of art.
-url: /2003/broccoli-and-the-spectrum-of-art/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:11+00:00"
+title = "Broccoli and the spectrum of art."
+url = "/2003/broccoli-and-the-spectrum-of-art/"
+
++++
 
 Thomas Kinkade sucks! Or at least that was the basic idea behind Mary's subtle review of his work. It seems that she and a number of her friends feel the same way. I of course called her a snob and immediately returned to our conversation about laundry detergent.
 

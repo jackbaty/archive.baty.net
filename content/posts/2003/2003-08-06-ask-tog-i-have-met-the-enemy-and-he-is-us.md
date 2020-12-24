@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-08-06T22:12:13+00:00
-title: 'Ask Tog: I have met the enemy and he is us.'
-url: /2003/ask-tog-i-have-met-the-enemy-and-he-is-us/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-08-06T22:12:13+00:00"
+title = "Ask Tog: I have met the enemy and he is us."
+url = "/2003/ask-tog-i-have-met-the-enemy-and-he-is-us/"
+
++++
 
 Tog says that this is [the most important column he has ever written][1].
   

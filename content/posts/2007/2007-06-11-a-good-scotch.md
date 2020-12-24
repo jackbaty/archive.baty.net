@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-06-11T22:25:26+00:00
-title: A good Scotch
-url: /2007/a-good-scotch/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-06-11T22:25:26+00:00"
+title = "A good Scotch"
+url = "/2007/a-good-scotch/"
+
++++
 
 ![aberlour-abunadh-cask-strength.jpg][1]
 

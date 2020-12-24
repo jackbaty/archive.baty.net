@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-07-20T19:16:04+00:00
-title: I want to own a movie theater
-url: /2005/i-want-to-own-a-movie-theater/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-07-20T19:16:04+00:00"
+title = "I want to own a movie theater"
+url = "/2005/i-want-to-own-a-movie-theater/"
+
++++
 
 Someday, when I have an extra mountain of cash just sitting around, I'm going to buy a movie theater. A nice one, with just one screen. I'm going to keep everything clean and shiny and probably throw down some velvet.&nbsp; I'm going to show quality films that I think folks will enjoy. You'll never see a single commercial and the films will always start on time. You'll be able to buy popcorn and soda &#8211; cheap, because it really doesn't cost $6.00 to make a bucket of the stuff.
 

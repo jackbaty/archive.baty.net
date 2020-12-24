@@ -1,9 +1,10 @@
----
-title: "hello advertising, my old friend - Kottke"
-date: 2017-05-08
-tags: ["kottke"]
-slug: "hello-advertising-my-old-friend-kottke"
----
++++
+date = "2017-05-08"
+slug = "hello-advertising-my-old-friend-kottke"
+tags = ["kottke"]
+title = "hello advertising, my old friend - Kottke"
+
++++
 
 [Kottke][1]
 

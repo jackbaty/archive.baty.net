@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-02-23T22:10:12+00:00
-tags:
-- book
-title: The Life-Changing Magic of Tidying Up
-url: /2015/the-life-changing-magic-of-tidying-up/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-02-23T22:10:12+00:00"
+tags = ["book"]
+title = "The Life-Changing Magic of Tidying Up"
+url = "/2015/the-life-changing-magic-of-tidying-up/"
+
++++
 
 <img class=" alignleft" title="tidyingup.jpg" src="/img/2015/02/tidyingup.jpg" alt="Tidyingup" width="150" height="214" border="0" />
 

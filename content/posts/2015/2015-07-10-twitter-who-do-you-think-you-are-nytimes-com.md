@@ -1,15 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-07-10T17:44:51+00:00
-format: link
-tags:
-- social
-- twitter
-title: .@Twitter. Who Do You Think You Are? – NYTimes.com
-url: /2015/twitter-who-do-you-think-you-are-nytimes-com/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-07-10T17:44:51+00:00"
+format = "link"
+tags = ["social", "twitter"]
+title = ".@Twitter. Who Do You Think You Are? – NYTimes.com"
+url = "/2015/twitter-who-do-you-think-you-are-nytimes-com/"
+
++++
 
 [.@Twitter. Who Do You Think You Are? &#8211; NYTimes.com][1]
 

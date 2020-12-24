@@ -1,12 +1,11 @@
----
-date: 2016-08-14T12:56:25-04:00
-description: ""
-tags:
-- finance
-- ledger
-title: Plain Text Accounting with Ledger
-topics: []
----
++++
+date = "2016-08-14T12:56:25-04:00"
+description = ""
+tags = ["finance", "ledger"]
+title = "Plain Text Accounting with Ledger"
+topics = []
+
++++
 
 I dropped out of accounting in college. I hated every minute of it and could not
 make two columns balance under any circumstances. 

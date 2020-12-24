@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-05-15T16:49:03+00:00
-tags:
-- poem
-title: the nibbling and gnawing
-url: /2004/the-nibbling-and-gnawing/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-05-15T16:49:03+00:00"
+tags = ["poem"]
+title = "the nibbling and gnawing"
+url = "/2004/the-nibbling-and-gnawing/"
+
++++
 
 the nibbling and gnawing
   

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-09-29T14:36:34+00:00
-title: The Jakob Nielsen Drinking Game
-url: /2000/the-jakob-nielsen-drinking-game/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-09-29T14:36:34+00:00"
+title = "The Jakob Nielsen Drinking Game"
+url = "/2000/the-jakob-nielsen-drinking-game/"
+
++++
 
 [The Jakob Nielsen Drinking Game][1]
 

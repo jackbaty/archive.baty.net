@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Books
-date: 2016-07-31T19:30:11+00:00
-title: 'Review: The Typewriter Revolution: A Typist’s Companion for the 21st Century'
-url: /2016/review-the-typewriter-revolution-a-typists-companion-for-the-21st-century/
----
++++
+author = "Jack"
+categories = ["Books"]
+date = "2016-07-31T19:30:11+00:00"
+title = "Review: The Typewriter Revolution: A Typist’s Companion for the 21st Century"
+url = "/2016/review-the-typewriter-revolution-a-typists-companion-for-the-21st-century/"
+
++++
 
 <a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/25058061"><img src="https://d.gr-assets.com/books/1425339546m/25058061.jpg" alt="The Typewriter Revolution: A Typist's Companion for the 21st Century" border="0" /></a>
   

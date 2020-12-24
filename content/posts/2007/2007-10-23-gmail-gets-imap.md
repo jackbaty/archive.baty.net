@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-10-23T21:37:20+00:00
-title: Gmail gets IMAP!
-url: /2007/gmail-gets-imap/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-10-23T21:37:20+00:00"
+title = "Gmail gets IMAP!"
+url = "/2007/gmail-gets-imap/"
+
++++
 
 Fan-frickin-tabulous! 
 

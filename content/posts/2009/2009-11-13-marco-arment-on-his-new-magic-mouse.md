@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Hardware
-date: 2009-11-13T19:47:17+00:00
-tags:
-- gear
-title: Marco Arment on his new Magic Mouse
-url: /2009/marco-arment-on-his-new-magic-mouse/
----
++++
+author = "Jack"
+categories = ["Hardware"]
+date = "2009-11-13T19:47:17+00:00"
+tags = ["gear"]
+title = "Marco Arment on his new Magic Mouse"
+url = "/2009/marco-arment-on-his-new-magic-mouse/"
+
++++
 
 Marco Arment on Apple's Magic Mouse:
 

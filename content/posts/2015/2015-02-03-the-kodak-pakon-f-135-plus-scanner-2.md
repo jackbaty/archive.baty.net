@@ -1,18 +1,13 @@
----
-aliases:
-- /2015/02/the-kodak-pakon-f-135-plus-scanner/
-- /2015/the-kodak-pakon-f-135-plus-scanner/
-author: Jack
-categories:
-- Journal
-date: 2015-02-04T00:33:04+00:00
-tags:
-- film
-- gear
-- photography
-title: The Kodak Pakon F-135 Plus Scanner
-url: /2015/the-kodak-pakon-f-135-plus-scanner-2/
----
++++
+aliases = ["/2015/02/the-kodak-pakon-f-135-plus-scanner/", "/2015/the-kodak-pakon-f-135-plus-scanner/"]
+author = "Jack"
+categories = ["Journal"]
+date = "2015-02-04T00:33:04+00:00"
+tags = ["film", "gear", "photography"]
+title = "The Kodak Pakon F-135 Plus Scanner"
+url = "/2015/the-kodak-pakon-f-135-plus-scanner-2/"
+
++++
 
 I've always hated scanning color 35mm film. It's fiddly to work with and no matter what I've tried the color is always off. Then I met the Kodak Pakon F-135 Plus Film Scanner.
 

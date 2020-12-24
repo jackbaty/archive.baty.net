@@ -1,16 +1,13 @@
----
-title: Private Git hosting using Gogs on Amazon Lightsail
-author: Jack
-date: 2017-12-29T15:42:00+00:00
-url: /2017/private-git-hosting-using-gogs-on-amazon-lightsail/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Tech
-tags:
-  - git aws
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2017-12-29T15:42:00+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["git aws"]
+title = "Private Git hosting using Gogs on Amazon Lightsail"
+url = "/2017/private-git-hosting-using-gogs-on-amazon-lightsail/"
 
----
++++
 There are many options for &#8220;private&#8221; Git hosting. I put &#8220;private&#8221; in quotes because private repos on Gitlab, Github, Bitbucket, etc. are still sitting on a server to which people I don&#8217;t know have access, so I considered other options.
 
 I&#8217;ve been watching [Gogs][1] for a while and thought it would be fun to set up a server running Gogs for my private Git repos.

@@ -1,9 +1,10 @@
----
-title: "Leonard Cohen - The Future"
-slug: leonard-cohen--the-future""
-date: "2016-12-10T18:37:38-05:00"
-tags: ["Music"]
----
++++
+date = "2016-12-10T18:37:38-05:00"
+slug = "leonard-cohen--the-future\"\""
+tags = ["Music"]
+title = "Leonard Cohen - The Future"
+
++++
 
 [Leonard Cohen - "The
 Future"](http://genius.com/Leonard-cohen-the-future-lyrics):

@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-04-23T21:43:46+00:00
-tags:
-- Blogging
-- workflow
-title: Blogging Tools
-url: /2015/blogging-tools/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-04-23T21:43:46+00:00"
+tags = ["Blogging", "workflow"]
+title = "Blogging Tools"
+url = "/2015/blogging-tools/"
+
++++
 
 [Chris Bowler][1]:
 

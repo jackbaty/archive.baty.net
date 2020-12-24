@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-09-25T19:34:22+00:00
-title: Testing my Flickr Textpattern Plugin
-url: /2004/testing-my-flickr-textpattern-plugin/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-09-25T19:34:22+00:00"
+title = "Testing my Flickr Textpattern Plugin"
+url = "/2004/testing-my-flickr-textpattern-plugin/"
+
++++
 
 My work-in-progress gallery using the Flickr API took a bit of turn tonight, as I quickly converted it into a simple [Textpattern][1] plugin. The thumbnails below are generated using following tag:
   

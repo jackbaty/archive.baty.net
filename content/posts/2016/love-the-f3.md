@@ -1,11 +1,11 @@
----
-date: 2016-08-17T16:09:46-04:00
-description: ""
-tags:
-- Nikon
-title: Love the F3
-topics: []
----
++++
+date = "2016-08-17T16:09:46-04:00"
+description = ""
+tags = ["Nikon"]
+title = "Love the F3"
+topics = []
+
++++
 
 {{< figure src="/img/2016/nikon-f3.jpg" title="Nikon F3" >}}
 

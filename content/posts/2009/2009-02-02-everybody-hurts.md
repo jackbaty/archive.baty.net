@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2009-02-02T23:42:15+00:00
-tags:
-- news
-title: Everybody Hurts
-url: /2009/everybody-hurts/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2009-02-02T23:42:15+00:00"
+tags = ["news"]
+title = "Everybody Hurts"
+url = "/2009/everybody-hurts/"
+
++++
 
 [Everybody Hurts](http://davenetics.com/2009/02/everybody-hurts/)
 

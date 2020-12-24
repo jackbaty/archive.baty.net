@@ -1,14 +1,12 @@
----
-title: My blog is a mess and I’m fine with that
-author: Jack
-date: 2018-09-03T12:35:52+00:00
-url: /2018/my-blog-is-a-mess-and-im-fine-with-that/
-categories:
-  - Tech
-tags:
-  - blogging
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2018-09-03T12:35:52+00:00"
+tags = ["blogging"]
+title = "My blog is a mess and I’m fine with that"
+url = "/2018/my-blog-is-a-mess-and-im-fine-with-that/"
 
----
++++
 I wonder how much time I&#8217;ve spent worrying about my various blogs. So much time, is how much.
 
 Should I include short posts on the main timeline? Should I always use titles? Is it too cluttered if there&#8217;s a sidebar with recent posts and whatnot? Serif or no? Static HTML is cool, but I wonder if I should just make things easy and use WordPress.

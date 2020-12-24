@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:11+00:00
-title: Spring is here, right?
-url: /2003/spring-is-here-right/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:11+00:00"
+title = "Spring is here, right?"
+url = "/2003/spring-is-here-right/"
+
++++
 
 Am I not supposed to feel great? All goofy and optimistic? Spring is here, love is in the air, tulips are blooming and all that. These things are supposed to make a fella feel pretty good, even if he refuses to admit it.
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-10-03T19:04:55+00:00
-title: Gruber defends Apple – and should.
-url: /2007/gruber-defends-apple-and-should/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-10-03T19:04:55+00:00"
+title = "Gruber defends Apple – and should."
+url = "/2007/gruber-defends-apple-and-should/"
+
++++
 
 [Gruber][1]: 
 

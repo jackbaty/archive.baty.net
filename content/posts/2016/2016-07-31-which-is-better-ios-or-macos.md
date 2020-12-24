@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Software
-date: 2016-07-31T11:43:45+00:00
-tags:
-- iOS
-- macOS
-title: Which is better, iOS or macOS?
-url: /2016/which-is-better-ios-or-macos/
----
++++
+author = "Jack"
+categories = ["Software"]
+date = "2016-07-31T11:43:45+00:00"
+tags = ["iOS", "macOS"]
+title = "Which is better, iOS or macOS?"
+url = "/2016/which-is-better-ios-or-macos/"
+
++++
 
 It's a silly question, but I know the answer.
 

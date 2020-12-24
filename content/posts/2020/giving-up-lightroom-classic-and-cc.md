@@ -1,10 +1,11 @@
----
-title: "Giving up trying to use both Lightroom Classic and Lightroom CC"
-date:  2020-09-08
-tags: ["Lightroom","Workflow"]
-categories: ["Photography"]
-slug: "giving-up-lightroom-classic-and-cc"
----
++++
+categories = ["Photography"]
+date = "2020-09-08"
+slug = "giving-up-lightroom-classic-and-cc"
+tags = ["Lightroom", "Workflow"]
+title = "Giving up trying to use both Lightroom Classic and Lightroom CC"
+
++++
 
 The new Lightroom is too simple, and Capture One Pro is too disconnected from everything, so I _want_ to use Lightroom Classic, which kind of falls in the middle. 
 

@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-02-15T23:33:46+00:00
-dsq_thread_id:
-- 3595577
-title: 'Godin: The Reason'
-url: /2006/godin-the-reason/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-02-15T23:33:46+00:00"
+dsq_thread_id = [3595577]
+title = "Godin: The Reason"
+url = "/2006/godin-the-reason/"
+
++++
 
 I like Seth Godin because he always makes me consider or reconsider something previously assumed. His latest piece lists a number of _reasons_ for the way things are. Some obvious, some not. Some are funny, like this one&#8230; 
 

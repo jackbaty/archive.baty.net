@@ -1,17 +1,13 @@
----
-title: Decline and return of indie blogs – Manton Reece
-author: Jack
-date: 2017-09-08T21:57:22+00:00
-url: /2017/decline-and-return-of-indie-blogs-manton-reece/
-categories:
-  - Tech
-tags:
-  - blogging
-  - indieweb
-  - social
-format: link
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2017-09-08T21:57:22+00:00"
+format = "link"
+tags = ["blogging", "indieweb", "social"]
+title = "Decline and return of indie blogs – Manton Reece"
+url = "/2017/decline-and-return-of-indie-blogs-manton-reece/"
 
----
++++
 [Manton Reece][1]:
 
 > The solution isn’t fewer link blogs, but more of them. By taking microblogging back from Twitter, we create a natural place for traditional blogs to grow. Indie microblogging is the gateway drug for long-form content.

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-10-10T19:16:24+00:00
-title: Shibboleth
-url: /2007/shibboleth/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-10-10T19:16:24+00:00"
+title = "Shibboleth"
+url = "/2007/shibboleth/"
+
++++
 
 I **love** [this][1] 
 

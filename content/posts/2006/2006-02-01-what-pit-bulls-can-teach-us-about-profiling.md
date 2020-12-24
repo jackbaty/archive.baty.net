@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-02-01T23:50:04+00:00
-title: What pit bulls can teach us about profiling
-url: /2006/what-pit-bulls-can-teach-us-about-profiling/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-02-01T23:50:04+00:00"
+title = "What pit bulls can teach us about profiling"
+url = "/2006/what-pit-bulls-can-teach-us-about-profiling/"
+
++++
 
 <div>
   <p>

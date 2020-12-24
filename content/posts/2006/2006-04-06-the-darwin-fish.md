@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-04-06T18:52:53+00:00
-title: The Darwin Fish
-url: /2006/the-darwin-fish/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-04-06T18:52:53+00:00"
+title = "The Darwin Fish"
+url = "/2006/the-darwin-fish/"
+
++++
 
 You know that funny little fish with legs that smartass evolutionists use to make fun of the funny little legless fish used by the creationists? 
 

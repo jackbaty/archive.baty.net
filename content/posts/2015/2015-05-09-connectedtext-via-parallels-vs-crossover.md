@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-05-09T12:11:40+00:00
-tags:
-- connectedtext
-title: ConnectedText via Parallels vs Crossover
-url: /2015/connectedtext-via-parallels-vs-crossover/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-05-09T12:11:40+00:00"
+tags = ["connectedtext"]
+title = "ConnectedText via Parallels vs Crossover"
+url = "/2015/connectedtext-via-parallels-vs-crossover/"
+
++++
 
 I love [ConnectedText][1] but have been struggling with using it via Parallels on my Mac. Everything works fine, but requires many moving parts in order to make it something I can live in.
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-05-15T16:44:03+00:00
-title: It never had occured to me
-url: /2004/it-never-had-occured-to-me/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-05-15T16:44:03+00:00"
+title = "It never had occured to me"
+url = "/2004/it-never-had-occured-to-me/"
+
++++
 
 It never had occured to me 
 

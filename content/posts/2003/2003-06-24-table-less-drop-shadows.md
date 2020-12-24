@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-06-25T04:15:14+00:00
-title: Table-less drop shadows
-url: /2003/table-less-drop-shadows/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-06-25T04:15:14+00:00"
+title = "Table-less drop shadows"
+url = "/2003/table-less-drop-shadows/"
+
++++
 
 I totally lifted this from [Tom
   

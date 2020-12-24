@@ -1,16 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-08-18T00:00:00+00:00
-dsq_thread_id:
-- 3595632
-tags:
-- darkroom
-- photography
-title: Print sizes
-url: /2013/print-sizes/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-08-18T00:00:00+00:00"
+dsq_thread_id = [3595632]
+tags = ["darkroom", "photography"]
+title = "Print sizes"
+url = "/2013/print-sizes/"
+
++++
 
 <div>
   <div>

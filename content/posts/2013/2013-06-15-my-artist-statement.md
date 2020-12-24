@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-06-15T00:00:00+00:00
-dsq_thread_id:
-- 3595615
-title: My Artist Statement
-url: /2013/my-artist-statement/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-06-15T00:00:00+00:00"
+dsq_thread_id = [3595615]
+title = "My Artist Statement"
+url = "/2013/my-artist-statement/"
+
++++
 
 <div>
   <div>

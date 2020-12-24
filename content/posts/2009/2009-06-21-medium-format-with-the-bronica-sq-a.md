@@ -1,16 +1,13 @@
----
-author: Jack
-categories:
-- Hardware
-date: 2009-06-22T04:21:01+00:00
-tags:
-- gear
-- photography
-thesis_post_image:
-- /files/bronica_sq-a.jpg
-title: Medium Format with the Bronica SQ-A
-url: /2009/medium-format-with-the-bronica-sq-a/
----
++++
+author = "Jack"
+categories = ["Hardware"]
+date = "2009-06-22T04:21:01+00:00"
+tags = ["gear", "photography"]
+thesis_post_image = ["/files/bronica_sq-a.jpg"]
+title = "Medium Format with the Bronica SQ-A"
+url = "/2009/medium-format-with-the-bronica-sq-a/"
+
++++
 
 As a kid, I would notice when someone on T.V. was taking photographs with a Hasselblad. I had no idea what it meant, just that it looked cool and I wanted one. Medium format photography is one of those things I've always regarded with respect, but not much interest. The gear is terribly expensive and everyone is using digital now anyway. The Hasselblad was something rich landscape photographers used, but now they all have 5Ds instead.
 

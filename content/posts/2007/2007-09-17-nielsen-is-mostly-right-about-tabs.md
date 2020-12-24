@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-09-17T20:57:43+00:00
-title: Nielsen is mostly right about tabs
-url: /2007/nielsen-is-mostly-right-about-tabs/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-09-17T20:57:43+00:00"
+title = "Nielsen is mostly right about tabs"
+url = "/2007/nielsen-is-mostly-right-about-tabs/"
+
++++
 
 Jakob Nielsen has been back in the game lately with relevant, useful articles in his [Alertbox][1] column. And most of the time he's right. His latest is [Tabs, Used Right][2]. 
 

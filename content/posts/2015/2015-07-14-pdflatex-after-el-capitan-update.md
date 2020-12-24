@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-07-14T04:00:00+00:00
-tags:
-- LaTeX
-- sysadmin
-title: Fixing pdflatex after El Capitan update
-url: /2015/pdflatex-after-el-capitan-update/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-07-14T04:00:00+00:00"
+tags = ["LaTeX", "sysadmin"]
+title = "Fixing pdflatex after El Capitan update"
+url = "/2015/pdflatex-after-el-capitan-update/"
+
++++
 
 I upgraded both my Macs to the El Capitan beta and could no longer convert Org Mode or Markdown files to PDFs. My scripts were returning an error: "command not found: pdflatex". Where could it be?
 

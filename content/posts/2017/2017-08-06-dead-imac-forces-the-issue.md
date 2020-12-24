@@ -1,8 +1,9 @@
----
-title: "Dead iMac forces an iPad-only experiment"
-date: 2017-08-06
-tags: ["workflow","ipad","ios"]
----
++++
+date = "2017-08-06"
+tags = ["workflow", "ipad", "ios"]
+title = "Dead iMac forces an iPad-only experiment"
+
++++
 
 I spent the morning trying to make it easier to get things done using my iPad. It went pretty well. I now have a workable Vim setup using [Blink Shell][1]. I have [Bear][2] all synced and organized. Tasks are back in [OmniFocus][3]. And so on.
 

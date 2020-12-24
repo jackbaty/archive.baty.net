@@ -1,12 +1,11 @@
----
-date: 2016-07-13T17:55:48-04:00
-description: ""
-tags:
-- app
-- development
-title: Solving All The Wrong Problems - NYT
-topics: []
----
++++
+date = "2016-07-13T17:55:48-04:00"
+description = ""
+tags = ["app", "development"]
+title = "Solving All The Wrong Problems - NYT"
+topics = []
+
++++
 
 [NYT](http://www.nytimes.com/2016/07/10/opinion/sunday/solving-all-the-wrong-problems.html?nytmobile=0&_r=2):
 

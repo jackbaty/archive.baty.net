@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-08-17T16:45:00+00:00
-tags:
-- Blogging
-- Writing
-title: Blog consolidation
-url: /2014/blog-consolidation/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-08-17T16:45:00+00:00"
+tags = ["Blogging", "Writing"]
+title = "Blog consolidation"
+url = "/2014/blog-consolidation/"
+
++++
 
 <div>
 </div>

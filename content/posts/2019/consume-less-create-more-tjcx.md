@@ -1,7 +1,8 @@
 +++
-title = "Consume Less, Create More - TJCX"
-date = 2019-08-26T08:24:00-04:00
+date = "2019-08-26T08:24:00-04:00"
 draft = false
+title = "Consume Less, Create More - TJCX"
+
 +++
 
 [TJCX](https://tjcx.me/posts/consumption-distraction/):

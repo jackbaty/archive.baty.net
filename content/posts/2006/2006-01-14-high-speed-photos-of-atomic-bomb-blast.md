@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-01-14T10:49:04+00:00
-title: High speed photos of Atomic bomb blast
-url: /2006/high-speed-photos-of-atomic-bomb-blast/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-01-14T10:49:04+00:00"
+title = "High speed photos of Atomic bomb blast"
+url = "/2006/high-speed-photos-of-atomic-bomb-blast/"
+
++++
 
 <img src="/files/atom1.jpg" alt="Atom1" width="386" height="296" border="1" hspace="4" vspace="4" />
 

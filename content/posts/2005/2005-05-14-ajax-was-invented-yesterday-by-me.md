@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-05-14T12:49:37+00:00
-title: Ajax was invented yesterday, by me
-url: /2005/ajax-was-invented-yesterday-by-me/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-05-14T12:49:37+00:00"
+title = "Ajax was invented yesterday, by me"
+url = "/2005/ajax-was-invented-yesterday-by-me/"
+
++++
 
 When Jesse James Garrett wrote [ajax: a new approach to web applications][1], he was coining a new term, not creating a new technology. While the term is arguably inaccurate, it certainly has folks talking. This is good. But for now, the best advice I can give is to not pay attention until the current hoo-ha has subsided a bit. The signal to noise ratio is way off right now, because there are too many of us geeks jumping up and down screaming "What the hell? I've been doing this for years! This is just a fancy marketing term for stuff I wrote back in 2001!" Guess what, no one cares what we did then, or now for that matter, if it sucks.
 

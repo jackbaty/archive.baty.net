@@ -1,15 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-06-08T19:00:00+00:00
-dsq_thread_id:
-- 3595750
-tags:
-- television
-title: Silicon Valley
-url: /2014/silicon-valley/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-06-08T19:00:00+00:00"
+dsq_thread_id = [3595750]
+tags = ["television"]
+title = "Silicon Valley"
+url = "/2014/silicon-valley/"
+
++++
 
 I've been asked many times over recent months, "Have you seen &#8216;Silicon
   

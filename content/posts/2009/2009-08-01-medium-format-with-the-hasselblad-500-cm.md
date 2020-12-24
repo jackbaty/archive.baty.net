@@ -1,18 +1,14 @@
----
-author: Jack
-categories:
-- Hardware
-date: 2009-08-01T20:07:50+00:00
-dsq_thread_id:
-- 3131255050
-tags:
-- gear
-- photography
-thesis_post_image:
-- /files/hasselblad-500cm-01.jpg
-title: Medium Format with the Hasselblad 500 C/M
-url: /2009/medium-format-with-the-hasselblad-500-cm/
----
++++
+author = "Jack"
+categories = ["Hardware"]
+date = "2009-08-01T20:07:50+00:00"
+dsq_thread_id = [3131255050]
+tags = ["gear", "photography"]
+thesis_post_image = ["/files/hasselblad-500cm-01.jpg"]
+title = "Medium Format with the Hasselblad 500 C/M"
+url = "/2009/medium-format-with-the-hasselblad-500-cm/"
+
++++
 
 About a month ago I bought a [Bronica SQ-A kit](2009/06/medium-format-with-the-bronica-sq-a/) after spotting it on Craigslist. I wanted to try medium format film and I've always liked the square 6&#215;6 shape. The big negatives are amazing, and the camera works just fine.
 

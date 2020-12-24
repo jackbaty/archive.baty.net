@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-13T03:04:13+00:00
-title: Gardening the ToDo list
-url: /2003/gardening-the-todo-list/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-13T03:04:13+00:00"
+title = "Gardening the ToDo list"
+url = "/2003/gardening-the-todo-list/"
+
++++
 
 A few folks were somehow inspired by Tantek's [What to do with
   

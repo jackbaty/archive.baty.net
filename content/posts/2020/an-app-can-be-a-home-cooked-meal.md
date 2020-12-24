@@ -1,8 +1,9 @@
----
-title: "An app can be a home-cooked meal - Robin Sloan"
-date: 2020-02-15T13:09:00-05:00
-draft: false
----
++++
+date = "2020-02-15T13:09:00-05:00"
+draft = false
+title = "An app can be a home-cooked meal - Robin Sloan"
+
++++
 
 [Robin Sloan](https://www.robinsloan.com/notes/home-cooked-app/#cooking-at-home):
 

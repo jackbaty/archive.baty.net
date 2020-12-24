@@ -1,10 +1,11 @@
----
-title: "From TextExpander to Alfred"
-date: 2017-07-22T10:05:10-04:00
-tags: ["Software"]
-slug: "from-textexpander-to-alfred"
-description: "Subscription fatigue strikes again"
----
++++
+date = "2017-07-22T10:05:10-04:00"
+description = "Subscription fatigue strikes again"
+slug = "from-textexpander-to-alfred"
+tags = ["Software"]
+title = "From TextExpander to Alfred"
+
++++
 
 One side effect of an app developer's decision to move to a subscription model is that the monthly charge is a regular reminder for me to re-evaluate that app's value. Sometimes I decide the value is no longer worth the monthly overhead in both money and friction.
 

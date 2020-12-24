@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-10-25T00:21:26+00:00
-title: No more posts here
-url: /2005/no-more-posts-here/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-10-25T00:21:26+00:00"
+title = "No more posts here"
+url = "/2005/no-more-posts-here/"
+
++++
 
 I think I'll try something a little different for a while.
 

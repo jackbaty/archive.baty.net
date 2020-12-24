@@ -1,8 +1,9 @@
 +++
-title = "Gregory Heisler: 50 Portraits"
-date = 2019-08-13T08:08:00-04:00
-tags = ["book"]
+date = "2019-08-13T08:08:00-04:00"
 draft = false
+tags = ["book"]
+title = "Gregory Heisler: 50 Portraits"
+
 +++
 
 <a href="https://www.goodreads.com/book/show/17934955-gregory-heisler" style="float: left; padding-right: 20px"><img border="0" alt="Gregory Heisler: 50 Portraits: Stories and Techniques from a Photographer's Photographer" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393788096l/17934955._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/17934955-gregory-heisler">Gregory Heisler: 50 Portraits: Stories and Techniques from a Photographer's Photographer</a> by <a href="https://www.goodreads.com/author/show/3883194.Gregory_Heisler">Gregory Heisler</a><br/>

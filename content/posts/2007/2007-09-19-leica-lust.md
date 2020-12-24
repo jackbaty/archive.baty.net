@@ -1,23 +1,17 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-09-19T20:57:44+00:00
-title: Leica Lust
-tz_audio_format:
-- mp3
-tz_gallery_captions:
-- "true"
-tz_gallery_format:
-- -=set slideshow type=-
-tz_gallery_margins:
-- 10
-tz_gallery_randomize:
-- "false"
-tz_gallery_targetheight:
-- 200
-url: /2007/leica-lust/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-09-19T20:57:44+00:00"
+title = "Leica Lust"
+tz_audio_format = ["mp3"]
+tz_gallery_captions = ["true"]
+tz_gallery_format = ["-=set slideshow type=-"]
+tz_gallery_margins = [10]
+tz_gallery_randomize = ["false"]
+tz_gallery_targetheight = [200]
+url = "/2007/leica-lust/"
+
++++
 
 Just when I think I'm over my Leica fetish, there's [this][1]. 
 

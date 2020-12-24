@@ -1,9 +1,10 @@
----
-title: "Love you, Mom!"
-date: 2017-05-14
-tags: ["family"]
-slug: "love-you-mom"
----
++++
+date = "2017-05-14"
+slug = "love-you-mom"
+tags = ["family"]
+title = "Love you, Mom!"
+
++++
 
 Wishing my mom a very happy Mother's Day. She's the best.
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-05-24T17:42:11+00:00
-title: Tom Waits when it’s hot
-url: /2004/tom-waits-when-its-hot/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-05-24T17:42:11+00:00"
+title = "Tom Waits when it’s hot"
+url = "/2004/tom-waits-when-its-hot/"
+
++++
 
 T.M. is [absolutely right][1] about Tom Waits when it's hot.
 

@@ -1,15 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2012-11-11T00:00:00+00:00
-dsq_thread_id:
-- 3595571
-tags:
-- Writing
-title: Birds Hanging – Midair
-url: /2012/birds-hanging-midair/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2012-11-11T00:00:00+00:00"
+dsq_thread_id = [3595571]
+tags = ["Writing"]
+title = "Birds Hanging – Midair"
+url = "/2012/birds-hanging-midair/"
+
++++
 
 <div>
   <div>

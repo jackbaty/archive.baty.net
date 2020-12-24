@@ -1,9 +1,10 @@
----
-title: "Going Smaller With a New 9.7-inch iPad Pro"
-slug: "going-smaller-with-a-new-97inch-ipad-pro"
-date: "2016-12-11T19:14:38-05:00"
-tags: ["Apple", "iPad"]
----
++++
+date = "2016-12-11T19:14:38-05:00"
+slug = "going-smaller-with-a-new-97inch-ipad-pro"
+tags = ["Apple", "iPad"]
+title = "Going Smaller With a New 9.7-inch iPad Pro"
+
++++
 
 When the original iPad Pro was released I bought one right away and I
 loved it. It was so big and fast that I thought it might replace my

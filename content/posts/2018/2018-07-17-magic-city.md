@@ -1,8 +1,9 @@
----
-title: "The Magic City. A Portfolio of Original Photographic Views of the Great World's Fair"
-date: 2018-07-17
-tags: ["history","photography"]
----
++++
+date = "2018-07-17"
+tags = ["history", "photography"]
+title = "The Magic City. A Portfolio of Original Photographic Views of the Great World's Fair"
+
++++
 
 1894. I have no idea where I got these, but I love them. 
 

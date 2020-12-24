@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:11+00:00
-title: Dan Gillmor – Terms of Disservice
-url: /2003/dan-gillmor-terms-of-disservice/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:11+00:00"
+title = "Dan Gillmor – Terms of Disservice"
+url = "/2003/dan-gillmor-terms-of-disservice/"
+
++++
 
 There's been some buzz about the new spam-fighting service, [Mailblocks][1]. Dan Gillmor [comments][2]
   

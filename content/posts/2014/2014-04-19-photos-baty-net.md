@@ -1,15 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-04-19T00:00:00+00:00
-dsq_thread_id:
-- 3595691
-tags:
-- photography
-title: photos.baty.net
-url: /2014/photos-baty-net/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-04-19T00:00:00+00:00"
+dsq_thread_id = [3595691]
+tags = ["photography"]
+title = "photos.baty.net"
+url = "/2014/photos-baty-net/"
+
++++
 
 <div>
   <div>

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-08-11T00:23:25+00:00
-title: Flazoom.com – Making Sure Usability
-url: /2000/flazoomcom-making-sure-usability/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-08-11T00:23:25+00:00"
+title = "Flazoom.com – Making Sure Usability"
+url = "/2000/flazoomcom-making-sure-usability/"
+
++++
 
 [Flazoom.com &#8211; Making Sure Usability &#8216;Fitts' Flash][1]
 

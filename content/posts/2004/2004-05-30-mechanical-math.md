@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-05-30T10:37:11+00:00
-title: Mechanical Math
-url: /2004/mechanical-math/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-05-30T10:37:11+00:00"
+title = "Mechanical Math"
+url = "/2004/mechanical-math/"
+
++++
 
 I love simple mechanical devices. Being a computer nerd makes one appreciate simple things that just work, since most of our time is spent dealing with things that regularly and inexplicably [don't work][1].
 

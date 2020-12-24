@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-02-20T23:21:16+00:00
-title: The Clueless Manifesto
-url: /2006/the-clueless-manifesto/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-02-20T23:21:16+00:00"
+title = "The Clueless Manifesto"
+url = "/2006/the-clueless-manifesto/"
+
++++
 
 From Creating Passionate Users, a tribute to the clueless&#8230; 
 

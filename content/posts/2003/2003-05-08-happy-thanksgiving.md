@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:11+00:00
-title: Happy Thanksgiving
-url: /2003/happy-thanksgiving/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:11+00:00"
+title = "Happy Thanksgiving"
+url = "/2003/happy-thanksgiving/"
+
++++
 
 Happy Thanksgiving all!
 

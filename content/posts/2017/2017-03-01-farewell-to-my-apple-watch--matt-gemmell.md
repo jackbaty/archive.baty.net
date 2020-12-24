@@ -1,9 +1,10 @@
----
-title: "Farewell To My Apple Watch - Matt Gemmell"
-slug: "farewell-to-my-apple-watch--matt-gemmell"
-date: "2016-12-21T19:29:03-05:00"
-tags: ["Apple", "Watch"]
----
++++
+date = "2016-12-21T19:29:03-05:00"
+slug = "farewell-to-my-apple-watch--matt-gemmell"
+tags = ["Apple", "Watch"]
+title = "Farewell To My Apple Watch - Matt Gemmell"
+
++++
 
 
 [Matt Gemmell](http://mattgemmell.com/farewell-to-the-apple-watch/)

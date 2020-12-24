@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-04-14T17:21:38+00:00
-title: GreaseMonkey
-url: /2005/greasemonkey/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-04-14T17:21:38+00:00"
+title = "GreaseMonkey"
+url = "/2005/greasemonkey/"
+
++++
 
 I started using [OmniWeb][1] instead of Firefox a couple months ago and so completely missed [GreaseMonkey][2] for Firefox. In case you've been living in my neighborhood (ie a cave) then you should really try it. From the site&#8230;
 

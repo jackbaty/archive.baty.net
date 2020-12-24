@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-01-08T16:48:11+00:00
-title: Fondle This
-url: /2004/fondle-this/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-01-08T16:48:11+00:00"
+title = "Fondle This"
+url = "/2004/fondle-this/"
+
++++
 
 Today, I officially stopped wanting a better camera.
 

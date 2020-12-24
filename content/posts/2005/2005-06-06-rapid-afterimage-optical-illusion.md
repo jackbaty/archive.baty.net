@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-06-06T21:25:03+00:00
-title: Rapid afterimage (optical illusion)
-url: /2005/rapid-afterimage-optical-illusion/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-06-06T21:25:03+00:00"
+title = "Rapid afterimage (optical illusion)"
+url = "/2005/rapid-afterimage-optical-illusion/"
+
++++
 
 Woah. Nifty [optical illusion][1].
 

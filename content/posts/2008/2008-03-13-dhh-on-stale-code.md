@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-03-13T20:18:37+00:00
-tags:
-- geek
-title: DHH on Stale Code
-url: /2008/dhh-on-stale-code/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-03-13T20:18:37+00:00"
+tags = ["geek"]
+title = "DHH on Stale Code"
+url = "/2008/dhh-on-stale-code/"
+
++++
 
 <span class="caps"><span class="caps">DHH</span></span> writes a piece I can agree with whole-heartedly.[All code will eventually go stale][1] 
 

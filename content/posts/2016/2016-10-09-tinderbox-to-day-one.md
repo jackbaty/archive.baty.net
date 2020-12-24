@@ -1,11 +1,10 @@
----
-date: 2016-10-09T11:27:22-04:00
-slug: tinderbox-to-day-one
-tags:
-- Tinderbox
-- Day One
-title: Tinderbox to Day One
----
++++
+date = "2016-10-09T11:27:22-04:00"
+slug = "tinderbox-to-day-one"
+tags = ["Tinderbox", "Day One"]
+title = "Tinderbox to Day One"
+
++++
 
 I use both [Day One](http://dayoneapp.com)
 and [Tinderbox](http://www.eastgate.com/Tinderbox/) for journaling.

@@ -1,11 +1,11 @@
----
-date: 2016-08-21T09:14:55-04:00
-description: ""
-tags:
-- photography
-title: 20 frames
-topics: []
----
++++
+date = "2016-08-21T09:14:55-04:00"
+description = ""
+tags = ["photography"]
+title = "20 frames"
+topics = []
+
++++
 
 I took a few days off and headed to Traverse City. I didn't spend time deciding
 which camera to bring, I just grabbed the Nikon F3 and 28mm lens along with a

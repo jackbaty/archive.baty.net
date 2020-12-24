@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-10-22T19:13:54+00:00
-title: 'Personas: Setting the Stage for Building Usable Information Sites'
-url: /2003/personas-setting-the-stage-for-building-usable-information-sites/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-10-22T19:13:54+00:00"
+title = "Personas: Setting the Stage for Building Usable Information Sites"
+url = "/2003/personas-setting-the-stage-for-building-usable-information-sites/"
+
++++
 
 [Personas: Setting the Stage for Building Usable Information Sites][1]
   

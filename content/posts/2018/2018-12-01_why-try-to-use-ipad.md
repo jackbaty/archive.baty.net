@@ -1,9 +1,10 @@
----
-title: "Why do I try so hard to use an iPad for everything?"
-date: 2018-12-02
-tags: ["ipad","ios"]
-slug: "why-try-to-use-an-ipad"
----
++++
+date = "2018-12-02"
+slug = "why-try-to-use-an-ipad"
+tags = ["ipad", "ios"]
+title = "Why do I try so hard to use an iPad for everything?"
+
++++
 
 I've been trying _very_ hard to adopt the iPad as a tool for Serious Work since [at least 2013](https://notes.baty.net/posts/2013/02/WorkingonaniPad.html).
 

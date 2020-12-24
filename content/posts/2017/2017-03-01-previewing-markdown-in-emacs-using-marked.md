@@ -1,9 +1,10 @@
----
-title: "Previewing Markdown in Emacs using Marked"
-slug: "previewing-markdown-in-emacs-using-marked"
-date: "2016-12-30T19:59:49-05:00"
-tags: ["Emacs","Markdown"]
----
++++
+date = "2016-12-30T19:59:49-05:00"
+slug = "previewing-markdown-in-emacs-using-marked"
+tags = ["Emacs", "Markdown"]
+title = "Previewing Markdown in Emacs using Marked"
+
++++
 
 
 In some cases I prefer to edit files using Markdown rather than Org

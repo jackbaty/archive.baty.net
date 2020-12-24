@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-12-30T17:23:57+00:00
-title: MT-Textile
-url: /2003/mt-textile/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-12-30T17:23:57+00:00"
+title = "MT-Textile"
+url = "/2003/mt-textile/"
+
++++
 
 Testing the _MT-Textile_ Movable Type plugin.
 

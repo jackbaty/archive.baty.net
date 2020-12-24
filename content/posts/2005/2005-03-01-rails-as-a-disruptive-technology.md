@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-03-01T16:09:51+00:00
-title: Rails as a disruptive technology
-url: /2005/rails-as-a-disruptive-technology/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-03-01T16:09:51+00:00"
+title = "Rails as a disruptive technology"
+url = "/2005/rails-as-a-disruptive-technology/"
+
++++
 
 [David Heinemeier Hansson writes][1] about Ruby on Rails as "disruptive technology"
 

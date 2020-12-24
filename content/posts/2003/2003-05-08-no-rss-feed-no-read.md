@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:12+00:00
-title: No RSS Feed, No Read
-url: /2003/no-rss-feed-no-read/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:12+00:00"
+title = "No RSS Feed, No Read"
+url = "/2003/no-rss-feed-no-read/"
+
++++
 
 I read a large and growing number of weblogs every day, but only
   

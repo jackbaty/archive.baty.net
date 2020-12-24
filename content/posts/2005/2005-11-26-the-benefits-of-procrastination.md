@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-11-26T20:59:26+00:00
-title: The benefits of procrastination
-url: /2005/the-benefits-of-procrastination/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-11-26T20:59:26+00:00"
+title = "The benefits of procrastination"
+url = "/2005/the-benefits-of-procrastination/"
+
++++
 
 One of my more famous sayings has always been some form of "If you wait long enough, someone will do it for you."
 

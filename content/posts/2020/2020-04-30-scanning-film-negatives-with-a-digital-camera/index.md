@@ -1,13 +1,12 @@
----
-title: Scanning film negatives with a digital camera
-author: Jack
-type: posts
-date: 2020-04-30T18:03:00+00:00
-url: /2020/scanning-film-negatives-with-a-digital-camera/
-categories:
-  - Photography
++++
+author = "Jack"
+categories = ["Photography"]
+date = "2020-04-30T18:03:00+00:00"
+title = "Scanning film negatives with a digital camera"
+type = "posts"
+url = "/2020/scanning-film-negatives-with-a-digital-camera/"
 
----
++++
 Scanning film negatives with a flatbed scanner is a pain. All scanning software sucks. Every one of them. Fidgeting with negative holders is a joyless, tedious drag. And the whole process is slow. So very slow.
 
 I’ve been experimenting with scanning film using a digital camera. I’ve processed a few rolls this way and it’s working quite well. Here’s my setup: a combination of the MK1 Film Carrier and Negative Lab Pro.

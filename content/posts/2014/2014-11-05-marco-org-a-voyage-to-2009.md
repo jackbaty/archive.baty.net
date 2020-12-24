@@ -1,15 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-11-06T01:06:28+00:00
-dsq_thread_id:
-- 3197625258
-tags:
-- gear
-title: 'Marco.org: A Voyage to 2009'
-url: /2014/marco-org-a-voyage-to-2009/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-11-06T01:06:28+00:00"
+dsq_thread_id = [3197625258]
+tags = ["gear"]
+title = "Marco.org: A Voyage to 2009"
+url = "/2014/marco-org-a-voyage-to-2009/"
+
++++
 
 [A Voyage to 2009][1]:
 

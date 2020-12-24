@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-05-17T18:50:11+00:00
-title: Winogrand, Passion and 432,000 photos
-url: /2004/winogrand-passion-and-432000-photos/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-05-17T18:50:11+00:00"
+title = "Winogrand, Passion and 432,000 photos"
+url = "/2004/winogrand-passion-and-432000-photos/"
+
++++
 
 Garry Winogrand didn't just talk about being a street photographer. He didn't dream about it while his camera grew old in his bag. Winogrand **was** a street photographer &#8211; and a damn good one. Some notable examples&#8230;
 

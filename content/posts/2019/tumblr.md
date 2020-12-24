@@ -1,8 +1,9 @@
 +++
-title = "Tumblr"
-date = 2019-08-18T11:53:00-04:00
-tags = ["blogging", "social", "tumblr"]
+date = "2019-08-18T11:53:00-04:00"
 draft = false
+tags = ["blogging", "social", "tumblr"]
+title = "Tumblr"
+
 +++
 
 Yep, I'm [posting to Tumblr again](https://jackbaty.tumblr.com/). It could just be nostalgia, but I've been thinking about Tumblr ever since Matt [announced the purchase](https://photomatt.tumblr.com/post/186964618222/automattic-tumblr).

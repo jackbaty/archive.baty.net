@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-07-05T04:06:14+00:00
-title: KNOPPIX  Install
-url: /2003/knoppix-install/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-07-05T04:06:14+00:00"
+title = "KNOPPIX  Install"
+url = "/2003/knoppix-install/"
+
++++
 
 [Knoppix][1] is
   

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-11-20T17:51:10+00:00
-title: MySQL pronunciation
-url: /2003/mysql-pronunciation/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-11-20T17:51:10+00:00"
+title = "MySQL pronunciation"
+url = "/2003/mysql-pronunciation/"
+
++++
 
 Just for the record, [section 1.2 of the MySQL Manual][1] states&#8230;
 

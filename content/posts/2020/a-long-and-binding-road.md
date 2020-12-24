@@ -1,9 +1,10 @@
----
-title: "A long and binding road"
-date: 2020-03-03T15:31:00-05:00
-tags: ["emacs"]
-draft: false
----
++++
+date = "2020-03-03T15:31:00-05:00"
+draft = false
+tags = ["emacs"]
+title = "A long and binding road"
+
++++
 
 My muscle memory is a mess. I spent years in Vim and then learned
 Emacs. I started with Spacemacs so that I wouldn't be too distracted

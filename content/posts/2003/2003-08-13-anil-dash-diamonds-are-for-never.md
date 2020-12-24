@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-08-14T00:37:45+00:00
-title: 'Anil Dash: Diamonds are for never'
-url: /2003/anil-dash-diamonds-are-for-never/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-08-14T00:37:45+00:00"
+title = "Anil Dash: Diamonds are for never"
+url = "/2003/anil-dash-diamonds-are-for-never/"
+
++++
 
 We were talking today about the [Wired article on synthetic diamonds][1]. I've never been a big fan of the diamond industry's (aka the De Beers cartel) tactics. Anil Dash, back in January, does a [pretty good job of explaining][2] why we can do without the current diamond "industry."
 

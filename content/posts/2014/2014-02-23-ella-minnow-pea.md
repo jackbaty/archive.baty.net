@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Books
-- Journal
-date: 2014-02-23T05:00:00+00:00
-tags:
-- book
-title: 'Book: Ella Minnow Pea'
-url: /2014/ella-minnow-pea/
----
++++
+author = "Jack"
+categories = ["Books", "Journal"]
+date = "2014-02-23T05:00:00+00:00"
+tags = ["book"]
+title = "Book: Ella Minnow Pea"
+url = "/2014/ella-minnow-pea/"
+
++++
 
 <aside> <img src="/img/2014/ella-minnow-pea.jpg" alt="Ella Minnow Pea" class="postimage" />
   

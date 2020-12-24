@@ -1,10 +1,10 @@
----
-date: 2016-01-29T13:57:56-05:00
-description: ""
-tags:
-- blogging
-title: Deploying My Blog Using make
----
++++
+date = "2016-01-29T13:57:56-05:00"
+description = ""
+tags = ["blogging"]
+title = "Deploying My Blog Using make"
+
++++
 
 I can now deploy this site (currently built using [Hugo](http://gohugo.io/)) by typing `make` in a terminal.
 

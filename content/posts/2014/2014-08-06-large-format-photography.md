@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-08-07T03:00:42+00:00
-tags:
-- photography
-title: Large Format Photography
-url: /2014/large-format-photography/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-08-07T03:00:42+00:00"
+tags = ["photography"]
+title = "Large Format Photography"
+url = "/2014/large-format-photography/"
+
++++
 
 [Fotografia de gran formato, 20&#215;25 (8&#215;10&#8243;), large format photography][1] from [Ledicia Audiovisual][2] on [Vimeo][3].
 

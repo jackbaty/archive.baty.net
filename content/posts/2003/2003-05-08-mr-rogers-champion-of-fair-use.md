@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:11+00:00
-title: Mr Rogers, champion of fair use
-url: /2003/mr-rogers-champion-of-fair-use/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:11+00:00"
+title = "Mr Rogers, champion of fair use"
+url = "/2003/mr-rogers-champion-of-fair-use/"
+
++++
 
 I'd have never guessed that Fred Rogers was an early, vocal proponent of fair use rights. Here's an excerpt from his testimony during the Sony Betamax trial.
 

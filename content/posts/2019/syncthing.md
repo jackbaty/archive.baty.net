@@ -1,8 +1,9 @@
 +++
-title = "Syncthing"
-date = 2018-05-20T12:14:00-04:00
-tags = ["sync", "dropbox"]
+date = "2018-05-20T12:14:00-04:00"
 draft = false
+tags = ["sync", "dropbox"]
+title = "Syncthing"
+
 +++
 
 <img src="/img/2018/2018-05-20-syncthing-logo.svg" alt="Syncthing"" width="300"/>

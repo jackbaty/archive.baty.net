@@ -1,15 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2012-05-08T22:47:54+00:00
-tags:
-- gtd
-- paper
-- productivity
-title: The Filofax Experiment
-url: /2012/20125the-filofax-experiment/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2012-05-08T22:47:54+00:00"
+tags = ["gtd", "paper", "productivity"]
+title = "The Filofax Experiment"
+url = "/2012/20125the-filofax-experiment/"
+
++++
 
 ![][1] 
 

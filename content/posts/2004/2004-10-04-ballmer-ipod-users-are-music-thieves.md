@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-10-04T18:45:47+00:00
-title: 'Ballmer: iPod users are music thieves'
-url: /2004/ballmer-ipod-users-are-music-thieves/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-10-04T18:45:47+00:00"
+title = "Ballmer: iPod users are music thieves"
+url = "/2004/ballmer-ipod-users-are-music-thieves/"
+
++++
 
 Ballmer says: "&#8230;The most common format of music on an iPod is &#8216;stolen'."
 

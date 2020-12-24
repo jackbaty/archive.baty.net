@@ -1,11 +1,11 @@
----
-date: 2016-09-06T17:12:27-04:00
-description: ""
-tags:
-- life
-title: Since Living Alone - Durga Chew-Bose
-topics: []
----
++++
+date = "2016-09-06T17:12:27-04:00"
+description = ""
+tags = ["life"]
+title = "Since Living Alone - Durga Chew-Bose"
+topics = []
+
++++
 
 [Durga Chew-Bose](https://thehairpin.com/since-living-alone-1aea8db77494#.5nucb5623):
 

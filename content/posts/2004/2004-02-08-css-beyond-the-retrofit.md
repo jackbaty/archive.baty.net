@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-02-08T14:52:21+00:00
-title: CSS Beyond the Retrofit
-url: /2004/css-beyond-the-retrofit/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-02-08T14:52:21+00:00"
+title = "CSS Beyond the Retrofit"
+url = "/2004/css-beyond-the-retrofit/"
+
++++
 
 Molly Holzschlag writes [Integrated Web Design: CSS Beyond the Retrofit at InformIT.com][1]
 

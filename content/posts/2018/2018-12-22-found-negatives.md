@@ -1,15 +1,12 @@
----
-title: Found Negatives
-author: Jack
-date: 2018-12-22T15:28:35+00:00
-url: /2018/found-negatives/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Analog
-  - Photography
++++
+author = "Jack"
+categories = ["Analog", "Photography"]
+date = "2018-12-22T15:28:35+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+title = "Found Negatives"
+url = "/2018/found-negatives/"
 
----
++++
 I&#8217;ve finally created a gallery of scans including all of the old negatives given to me several years ago. There are so many fun images in there, including the one [from which I made my avatar][1].
 
 You can see the complete gallery here:

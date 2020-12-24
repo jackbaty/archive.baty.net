@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-06-12T10:11:09+00:00
-title: Snoop and Zeppelin Mashup
-url: /2005/snoop-and-zeppelin-mashup/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-06-12T10:11:09+00:00"
+title = "Snoop and Zeppelin Mashup"
+url = "/2005/snoop-and-zeppelin-mashup/"
+
++++
 
 Snoop Dogg's _Drop it Like it's Hot_ and Led Zeppelin's _Whole Lotta Love_ make for the best mashup ever.
 

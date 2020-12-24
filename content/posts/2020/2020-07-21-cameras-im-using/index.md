@@ -1,16 +1,14 @@
----
-title: Cameras I’m using and cameras I want
-author: Jack
-type: posts
-date: 2020-07-21T15:37:00+00:00
-url: /2020/cameras-im-using/
-featuredImage: recently-viewed.png
-categories:
-  - Photography
-tags:
-  - Leica
++++
+author = "Jack"
+categories = ["Photography"]
+date = "2020-07-21T15:37:00+00:00"
+featuredImage = "recently-viewed.png"
+tags = ["Leica"]
+title = "Cameras I’m using and cameras I want"
+type = "posts"
+url = "/2020/cameras-im-using/"
 
----
++++
 Here are the cameras I use regularly enough to claim that they are &#8220;being used&#8221;, in order of most-to-least used.
 
 **Digital**

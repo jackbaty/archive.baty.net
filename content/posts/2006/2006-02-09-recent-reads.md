@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-02-09T03:36:04+00:00
-title: Recent Reads
-url: /2006/recent-reads/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-02-09T03:36:04+00:00"
+title = "Recent Reads"
+url = "/2006/recent-reads/"
+
++++
 
 Thought I'd share a one or two word opinion of a few recently read items&#8230; 
 

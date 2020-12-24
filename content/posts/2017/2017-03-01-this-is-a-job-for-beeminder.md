@@ -1,9 +1,10 @@
----
-title: "This Is a Job for Beeminder"
-slug: "this-is-a-job-for-beeminder"
-date: "2017-01-03T20:02:29-05:00"
-tags: ["Habits","Health"]
----
++++
+date = "2017-01-03T20:02:29-05:00"
+slug = "this-is-a-job-for-beeminder"
+tags = ["Habits", "Health"]
+title = "This Is a Job for Beeminder"
+
++++
 
 
 I ran into the word Akrasia again recently and it reminded me of myself:

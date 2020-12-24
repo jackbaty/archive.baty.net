@@ -1,9 +1,10 @@
----
-title: "Workflow Automation"
-slug: "workflow-automation"
-date: "2017-03-11T11:10:25-05:00"
-tags: ["Workflow","Scripting"]
----
++++
+date = "2017-03-11T11:10:25-05:00"
+slug = "workflow-automation"
+tags = ["Workflow", "Scripting"]
+title = "Workflow Automation"
+
++++
 
 {{< tweet 840393341611130880 >}}
 

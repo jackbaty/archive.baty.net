@@ -1,11 +1,12 @@
----
-title: "Editing Digital Photos Is Fun"
-date: 2018-10-01T17:14:50-04:00
-lastmod: 2018-10-01T17:14:50-04:00
-description: ""
-tags: ["photography"]
-categories: ["Photography"]
----
++++
+categories = ["Photography"]
+date = "2018-10-01T17:14:50-04:00"
+description = ""
+lastmod = "2018-10-01T17:14:50-04:00"
+tags = ["photography"]
+title = "Editing Digital Photos Is Fun"
+
++++
 
 {{< figure src="/img/2018/2018-09-30_iMac-with-photo-of-Ella.jpg" title="Editing photos on the iMac" >}}
 

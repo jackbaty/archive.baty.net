@@ -1,9 +1,9 @@
----
-date: 2016-01-14T15:01:49-05:00
-tags:
-- eorld
-title: The Reductive Seduction of Other People's Problems
----
++++
+date = "2016-01-14T15:01:49-05:00"
+tags = ["eorld"]
+title = "The Reductive Seduction of Other People's Problems"
+
++++
 
 [Courtney Martin on Medium](https://medium.com/the-development-set/the-reductive-seduction-of-other-people-s-problems-3c07b307732d#.78rgw5uyv):
 

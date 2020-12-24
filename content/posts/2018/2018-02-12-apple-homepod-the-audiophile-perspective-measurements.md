@@ -1,17 +1,13 @@
----
-title: Apple HomePod – The Audiophile Perspective + Measurements!
-author: Jack
-date: 2018-02-12T17:56:30+00:00
-url: /2018/apple-homepod-the-audiophile-perspective-measurements/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Tech
-tags:
-  - apple
-  - hardware
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2018-02-12T17:56:30+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["apple", "hardware"]
+title = "Apple HomePod – The Audiophile Perspective + Measurements!"
+url = "/2018/apple-homepod-the-audiophile-perspective-measurements/"
 
----
++++
 [WinterCharm (reddit)][1]:
 
 > Apple has managed to extract peak performance from a pint sized speaker, a feat that deserves a standing ovation. _The HomePod is 100% an Audiophile grade Speaker._

@@ -1,10 +1,11 @@
----
-title: "Alexa and Sonos"
-date: 2017-10-07T14:37:37-04:00
-tags: ["amazon","sonos"]
-slug: "alexa-and-sonos"
-description: "Using Alexa to control Sonos speakers"
----
++++
+date = "2017-10-07T14:37:37-04:00"
+description = "Using Alexa to control Sonos speakers"
+slug = "alexa-and-sonos"
+tags = ["amazon", "sonos"]
+title = "Alexa and Sonos"
+
++++
 
 I have several Sonos speakers in my house. I also have several Amazon Echos. I've always wanted them to work together, and [now they can](http://www.sonos.com/en-us/alexa-on-sonos). 
 

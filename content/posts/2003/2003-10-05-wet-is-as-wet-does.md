@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-10-05T19:37:10+00:00
-title: Wet is as wet does
-url: /2003/wet-is-as-wet-does/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-10-05T19:37:10+00:00"
+title = "Wet is as wet does"
+url = "/2003/wet-is-as-wet-does/"
+
++++
 
 Kevin has drawn [the sexiest thing][1] I've seen in a long time.
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-08-14T17:41:21+00:00
-title: 'FEED: Christopher Locke interview with'
-url: /2000/feed-christopher-locke-interview-with/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-08-14T17:41:21+00:00"
+title = "FEED: Christopher Locke interview with"
+url = "/2000/feed-christopher-locke-interview-with/"
+
++++
 
 [FEED: Christopher Locke interview with Ian Clarke of Freenet fame.][1]
 

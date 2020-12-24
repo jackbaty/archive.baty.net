@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-04-23T07:53:01+00:00
-title: Resource altering GETs
-url: /2005/resource-altering-gets/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-04-23T07:53:01+00:00"
+title = "Resource altering GETs"
+url = "/2005/resource-altering-gets/"
+
++++
 
 I've seen a number of rants recently complaining about HTTP misuse, many of which were triggered by Jon Udell's [End HTTP abuse][1]. The problem isn't that they're wrong, the problem is that much of the real world doesn't care. I've written APIs which use HTTP GET to alter server resources. Guess what, it worked! It's not technically correct (at least not read-the-RFC correct), but it got the job done, and continues to do so. The folks a Bloglines, Flickr, and del.icio.us did the same thing &#8211; and those services and APIs work also &#8211; for a whole lot of folks. From the Udell article&#8230;
 

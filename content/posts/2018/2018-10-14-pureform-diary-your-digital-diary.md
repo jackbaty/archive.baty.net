@@ -1,15 +1,12 @@
----
-title: 'PureForm: Diary – Your Digital Diary'
-author: Jack
-date: 2018-10-14T23:31:15+00:00
-url: /2018/pureform-diary-your-digital-diary/
-categories:
-  - Tech
-tags:
-  - journaling
-  - software
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2018-10-14T23:31:15+00:00"
+tags = ["journaling", "software"]
+title = "PureForm: Diary – Your Digital Diary"
+url = "/2018/pureform-diary-your-digital-diary/"
 
----
++++
 [PureForm: Diary &#8211; Your Digital Diary][1]:
 
 <img src="/img/2018/10/diary-screen-1.png" alt="Diary screen 1" title="diary-screen-1.png" border="0" width="599" height="411" />

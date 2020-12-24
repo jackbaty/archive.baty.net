@@ -1,9 +1,10 @@
----
-title: "Silicon Valley: A Reality Check - Slate Star Codex"
-date: 2017-05-14
-tags: ["tech"]
-slug: "silicon-valley-a-reality-check-slate-star-codex"
----
++++
+date = "2017-05-14"
+slug = "silicon-valley-a-reality-check-slate-star-codex"
+tags = ["tech"]
+title = "Silicon Valley: A Reality Check - Slate Star Codex"
+
++++
 
 [Scott Alexander][1]:
 

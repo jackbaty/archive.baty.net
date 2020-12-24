@@ -1,17 +1,13 @@
----
-title: Today’s Productivity Tip
-author: Jack
-date: 2018-07-12T11:38:17+00:00
-url: /2018/todays-productivity-tip/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Tech
-tags:
-  - productivity
-  - twitter
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2018-07-12T11:38:17+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["productivity", "twitter"]
+title = "Today’s Productivity Tip"
+url = "/2018/todays-productivity-tip/"
 
----
++++
 <pre class="wp-block-code"><code>$ sudo vi /etc/hosts</code></pre>
 
 Then&#8230;

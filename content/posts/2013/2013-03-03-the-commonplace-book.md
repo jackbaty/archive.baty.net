@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-03-03T00:00:00+00:00
-tags:
-- paper
-title: The Commonplace Book
-url: /2013/the-commonplace-book/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-03-03T00:00:00+00:00"
+tags = ["paper"]
+title = "The Commonplace Book"
+url = "/2013/the-commonplace-book/"
+
++++
 
 Here's what [Wikipedia says][1] about the Commonplace book.
 

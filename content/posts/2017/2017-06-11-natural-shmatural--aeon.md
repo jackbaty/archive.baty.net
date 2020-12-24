@@ -1,9 +1,10 @@
----
-title: "Natural, shmatural - Aeon"
-date: 2017-06-11T09:30:02-04:00
-tags: ["Science"]
-slug: "natural-shmatural--aeon"
----
++++
+date = "2017-06-11T09:30:02-04:00"
+slug = "natural-shmatural--aeon"
+tags = ["Science"]
+title = "Natural, shmatural - Aeon"
+
++++
 
 [Molly Hodgdon in Aeon](https://aeon.co/essays/mother-nature-might-be-lovely-but-moral-she-is-not):
 

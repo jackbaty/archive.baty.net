@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-08-28T16:27:42+00:00
-title: Internet Companies Learn How to
-url: /2000/internet-companies-learn-how-to/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-08-28T16:27:42+00:00"
+title = "Internet Companies Learn How to"
+url = "/2000/internet-companies-learn-how-to/"
+
++++
 
 [Internet Companies Learn How to Personalize Service][1]
 

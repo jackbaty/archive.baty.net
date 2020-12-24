@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-01-03T19:01:37+00:00
-title: G
-url: /2005/godel-and-einstein-friendship-and-relativity/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-01-03T19:01:37+00:00"
+title = "G"
+url = "/2005/godel-and-einstein-friendship-and-relativity/"
+
++++
 
 Long, but [fascinating piece][1] describing the relatively (no pun) unknown relationship between Einstein and G&ouml;del.
 

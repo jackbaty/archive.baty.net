@@ -1,17 +1,14 @@
----
-author: Jack
-categories:
-- Journal
-date: 2009-02-21T16:46:45+00:00
-tags:
-- photography
-thesis_post_image:
-- /files/biogont-35mmzmsilver.jpg
-thesis_post_image_alt:
-- Zeiss Biogon 35
-title: Trying the Zeiss Biogon 35mm
-url: /2009/trying-the-zeiss-biogon-35mm/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2009-02-21T16:46:45+00:00"
+tags = ["photography"]
+thesis_post_image = ["/files/biogont-35mmzmsilver.jpg"]
+thesis_post_image_alt = ["Zeiss Biogon 35"]
+title = "Trying the Zeiss Biogon 35mm"
+url = "/2009/trying-the-zeiss-biogon-35mm/"
+
++++
 
 The problem with being exposed to the best of anything is that everything else becomes, well, not the best. A few years ago I owned a [Leica Summicron 35mm ASPH](http://en.leica-camera.com/photography/m_system/lenses/2181.html). Best 35mm lens on the planet. Then I sold it with the rest of the film gear when I went <strike>insane</strike> digital.
 

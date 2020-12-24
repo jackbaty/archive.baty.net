@@ -1,10 +1,11 @@
----
-title: "Keeping things updated is wearing me out"
-date: 2017-12-10T09:46:11-05:00
-tags: ["social"]
-slug: "keeping-things-updated-is-wearing-me-out"
-description: I grow weary of having to record, update, and maintain things
----
++++
+date = "2017-12-10T09:46:11-05:00"
+description = "I grow weary of having to record, update, and maintain things"
+slug = "keeping-things-updated-is-wearing-me-out"
+tags = ["social"]
+title = "Keeping things updated is wearing me out"
+
++++
 It seems like everything I do requires additional, mostly unnecessary work after I do it.
 
 For example:

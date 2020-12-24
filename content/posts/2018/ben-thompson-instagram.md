@@ -1,10 +1,11 @@
----
-title: "Ben Thompson on Instagram after Systrom"
-date: 2018-09-26T07:25:35-04:00
-lastmod: 2018-09-26T07:25:35-04:00
-description: ""
-tags: ["instagram","facebook"]
----
++++
+date = "2018-09-26T07:25:35-04:00"
+description = ""
+lastmod = "2018-09-26T07:25:35-04:00"
+tags = ["instagram", "facebook"]
+title = "Ben Thompson on Instagram after Systrom"
+
++++
 
 Ben Thompson - Stratechery
 

@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-01-24T23:24:08+00:00
-tags:
-- Analog
-- film
-title: Movie Club Transfers
-url: /2015/movie-club-transfers/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-01-24T23:24:08+00:00"
+tags = ["Analog", "film"]
+title = "Movie Club Transfers"
+url = "/2015/movie-club-transfers/"
+
++++
 
 When my grandfather left me the entire Grand Rapids Amateur Movie Club library I promised I would work to preserve them and some day transfer them to digital. As you can see, there are quite a few films, in both 8, Super 8, and 16mm formats.
 

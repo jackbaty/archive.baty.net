@@ -1,8 +1,9 @@
----
-title: "Using the Emacs Deft package for topic journals"
-date: 2019-10-19T09:00:43-04:00
-tags: ["emacs","orgmode","journaling"]
----
++++
+date = "2019-10-19T09:00:43-04:00"
+tags = ["emacs", "orgmode", "journaling"]
+title = "Using the Emacs Deft package for topic journals"
+
++++
 
 One of the first Emacs packages I tried was [Deft](https://jblevins.org/projects/deft/). As a long-time nvAlt user, Deft felt like home, except in Emacs.
 

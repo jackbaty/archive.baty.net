@@ -1,9 +1,10 @@
----
-title: "Hobonichi Techo For Years"
-date: 2018-09-15T13:55:53-04:00
-description: "Coming up on seven years with the Hobonichi"
-tags: ["analog","paper"]
----
++++
+date = "2018-09-15T13:55:53-04:00"
+description = "Coming up on seven years with the Hobonichi"
+tags = ["analog", "paper"]
+title = "Hobonichi Techo For Years"
+
++++
 
 2019 will be my seventh year using a [Hobonichi Techo](https://www.1101.com/store/techo/en/).
 

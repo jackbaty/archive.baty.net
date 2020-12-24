@@ -1,15 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2016-03-26T21:10:21+00:00
-tags:
-- Analog
-- books
-- digital
-title: Making library miscellaneousness awesome
-url: /2016/joho-the-blogmaking-library-miscellaneousness-awesome-joho-the-blog/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2016-03-26T21:10:21+00:00"
+tags = ["Analog", "books", "digital"]
+title = "Making library miscellaneousness awesome"
+url = "/2016/joho-the-blogmaking-library-miscellaneousness-awesome-joho-the-blog/"
+
++++
 
 [David Weinberger on the Sitterwerk Art Library][1]:
 

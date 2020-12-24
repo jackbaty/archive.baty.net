@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-05-27T19:00:00+00:00
-tags:
-- nostalgia
-- software
-title: The Old Frontier
-url: /2014/the-old-frontier/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-05-27T19:00:00+00:00"
+tags = ["nostalgia", "software"]
+title = "The Old Frontier"
+url = "/2014/the-old-frontier/"
+
++++
 
 In the late 90s the [fusionary.com][1] website was built and
   

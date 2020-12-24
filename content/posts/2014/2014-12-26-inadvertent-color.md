@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-12-27T03:00:23+00:00
-title: Inadvertent Color
-url: /2014/inadvertent-color/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-12-27T03:00:23+00:00"
+title = "Inadvertent Color"
+url = "/2014/inadvertent-color/"
+
++++
 
 <img style="max-height: none; max-width: 100%;" src="/img/2014/12/1_16113737601_a353134703_k.jpg" alt="" width="600" height="400" />
 

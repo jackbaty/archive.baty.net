@@ -1,9 +1,10 @@
----
-title: "Arq for Backups On My Macs"
-slug: "arq-for-backups-on-my-macs"
-date: "2017-01-21T20:21:20-05:00"
-tags: ["Backups", "Arq"]
----
++++
+date = "2017-01-21T20:21:20-05:00"
+slug = "arq-for-backups-on-my-macs"
+tags = ["Backups", "Arq"]
+title = "Arq for Backups On My Macs"
+
++++
 
 ![Arq](/img/2017/arq_icon.png)
 

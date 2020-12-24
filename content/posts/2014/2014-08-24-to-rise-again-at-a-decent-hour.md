@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Books
-- Journal
-date: 2014-08-25T03:06:18+00:00
-tags:
-- book
-title: 'Book: To Rise Again at a Decent Hour'
-url: /2014/to-rise-again-at-a-decent-hour/
----
++++
+author = "Jack"
+categories = ["Books", "Journal"]
+date = "2014-08-25T03:06:18+00:00"
+tags = ["book"]
+title = "Book: To Rise Again at a Decent Hour"
+url = "/2014/to-rise-again-at-a-decent-hour/"
+
++++
 
 [<img class="alignnone size-full wp-image-3439" src="/img/2014/08/NewImage.png" alt="NewImage.png" width="221" height="346" srcset="/img/2014/08/NewImage.png 221w, /img/2014/08/NewImage-192x300.png 192w" sizes="(max-width: 221px) 100vw, 221px" />][1]
 

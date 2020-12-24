@@ -1,8 +1,9 @@
 +++
-title = "Where did all the glitter go?"
-date = 2019-07-21T06:59:00-04:00
-tags = ["internet", "nostalgia"]
+date = "2019-07-21T06:59:00-04:00"
 draft = false
+tags = ["internet", "nostalgia"]
+title = "Where did all the glitter go?"
+
 +++
 
 From a [post by Jared Sumner](https://jarredsumner.com/codeblog/?source=post%5Fpage---------------------------):

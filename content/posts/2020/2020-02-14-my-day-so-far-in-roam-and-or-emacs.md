@@ -1,16 +1,13 @@
----
-title: My day so far in Roam and/or Emacs
-author: Jack
-type: posts
-date: 2020-02-14T14:55:00+00:00
-url: /2020/my-day-so-far-in-roam-and-or-emacs/
-categories:
-  - Software
-tags:
-  - Emacs
-  - Roam
++++
+author = "Jack"
+categories = ["Software"]
+date = "2020-02-14T14:55:00+00:00"
+tags = ["Emacs", "Roam"]
+title = "My day so far in Roam and/or Emacs"
+type = "posts"
+url = "/2020/my-day-so-far-in-roam-and-or-emacs/"
 
----
++++
 A quick rundown the chaos in my head around&nbsp;[Roam][1]&nbsp;and Emacs and how it has affected my day so far.
 
 **6:00am**&nbsp;Realize on the way to work that Roam just isn’t a great idea for holding my (hopefully) long-term “second brain”. $30/month forever in a proprietery blah-de-blah? Nope, and by the way&nbsp;[org-roam][2]&nbsp;is perfectly suited for this. I want long-term stability and control for this sort of thing and what could be more long-term-stable than Emacs and plain text files, right?

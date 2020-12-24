@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-08-31T00:33:56+00:00
-title: Summoner Geeks T.M. brought this
-url: /2000/summoner-geeks-tm-brought-this/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-08-31T00:33:56+00:00"
+title = "Summoner Geeks T.M. brought this"
+url = "/2000/summoner-geeks-tm-brought-this/"
+
++++
 
 [Summoner Geeks][1]
 

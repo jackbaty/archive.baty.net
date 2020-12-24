@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-12-30T15:52:04+00:00
-title: 3 Quarks Daily
-url: /2005/3-quarks-daily/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-12-30T15:52:04+00:00"
+title = "3 Quarks Daily"
+url = "/2005/3-quarks-daily/"
+
++++
 
 [3QD](<http://www.3quarksdaily.com/>) is one the most interesting sites/blogs I've run into in a very long time. 
 

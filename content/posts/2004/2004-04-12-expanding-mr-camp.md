@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-04-12T19:20:11+00:00
-title: Expanding Mr. Camp
-url: /2004/expanding-mr-camp/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-04-12T19:20:11+00:00"
+title = "Expanding Mr. Camp"
+url = "/2004/expanding-mr-camp/"
+
++++
 
 How [T.M.][1] and I sometimes tend to think alike is beyond me, but it happens. Earlier posts by said Mr. Camp are particularly relevant.
 

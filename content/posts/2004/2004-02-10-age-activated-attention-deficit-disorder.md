@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-02-10T04:53:23+00:00
-title: Age Activated Attention Deficit Disorder
-url: /2004/age-activated-attention-deficit-disorder/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-02-10T04:53:23+00:00"
+title = "Age Activated Attention Deficit Disorder"
+url = "/2004/age-activated-attention-deficit-disorder/"
+
++++
 
 I usually ignore those all-too-cute forwards that I regularly get , but the following hit so close to home that I thought I'd share. Apologies in advance if you've seen it already&#8230;.
 

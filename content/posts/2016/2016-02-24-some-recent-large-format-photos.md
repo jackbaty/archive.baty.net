@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2016-02-24T20:09:39+00:00
-tags:
-- large format
-- photography
-title: Some Recent Large Format Photos
-url: /2016/some-recent-large-format-photos/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2016-02-24T20:09:39+00:00"
+tags = ["large format", "photography"]
+title = "Some Recent Large Format Photos"
+url = "/2016/some-recent-large-format-photos/"
+
++++
 
 I’ve been having a lot of fun with my 4&#215;5 cameras lately. Most of the images have been made using a Crown Graphic set on a tripod in my basement “studio”. I quoted “studio” because it’s really just a bedsheet hung as a backdrop and a couple of floor lamps for lighting. Not an ideal setup by any stretch but it works for now. I don’t have a way to trigger flashes with the Crown Graphic so I’m using poor-man’s continuous lighting.
 

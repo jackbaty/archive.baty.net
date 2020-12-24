@@ -1,11 +1,11 @@
----
-date: 2016-08-28T07:58:44-04:00
-description: ""
-tags:
-- music
-title: Discord in the Music Business
-topics: []
----
++++
+date = "2016-08-28T07:58:44-04:00"
+description = ""
+tags = ["music"]
+title = "Discord in the Music Business"
+topics = []
+
++++
 
 [NYT](http://wow.nytimes.com/2016/08/26/business/media/frank-oceans-blonde-amplifies-discord-in-the-music-business.html?_r=1):
 

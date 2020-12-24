@@ -1,12 +1,11 @@
----
-date: 2016-09-05T09:48:05-04:00
-description: ""
-tags:
-- photography
-- preservation
-title: Imaging, Snapchat and mobile — Benedict Evans
-topics: []
----
++++
+date = "2016-09-05T09:48:05-04:00"
+description = ""
+tags = ["photography", "preservation"]
+title = "Imaging, Snapchat and mobile — Benedict Evans"
+topics = []
+
++++
 
 [Benedict Evans](http://ben-evans.com/benedictevans/2016/8/15/imaging-snapchat-and-mobile):
 

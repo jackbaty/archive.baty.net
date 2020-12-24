@@ -1,8 +1,9 @@
----
-title: "A terrible case for not reading paper books"
-date: 2017-08-05
-tags: ["reading","analog","books","kindle"]
----
++++
+date = "2017-08-05"
+tags = ["reading", "analog", "books", "kindle"]
+title = "A terrible case for not reading paper books"
+
++++
 
 In “[Why you should quit reading paper books][1]”, Andy Sparks writes:
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:12+00:00
-title: What is a controlled vocabulary?
-url: /2003/what-is-a-controlled-vocabulary/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:12+00:00"
+title = "What is a controlled vocabulary?"
+url = "/2003/what-is-a-controlled-vocabulary/"
+
++++
 
 [Boxes and Arrows: What Is A Controlled Vocabulary?][1]
   

@@ -1,16 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-09-13T17:19:25+00:00
-image:
-- /files/the-big-lebowski-3.jpg
-tags:
-- film
-- politics
-title: The prescient politics of The Big Lebowski
-url: /2008/the-prescient-politics-of-the-big-lebowski/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-09-13T17:19:25+00:00"
+image = ["/files/the-big-lebowski-3.jpg"]
+tags = ["film", "politics"]
+title = "The prescient politics of The Big Lebowski"
+url = "/2008/the-prescient-politics-of-the-big-lebowski/"
+
++++
 
 <img src="/files//biglebowski.jpg" alt="BigLebowski.jpg" border="0" width="105" height="155" class="alignleft" />
 

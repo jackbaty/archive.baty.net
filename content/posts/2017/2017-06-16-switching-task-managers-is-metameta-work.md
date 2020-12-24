@@ -1,9 +1,10 @@
----
-title: "Switching task managers is meta-meta work"
-date: 2017-06-16T09:41:58-04:00
-tags: ["Productivity"]
-slug: "switching-task-managers-is-metameta-work"
----
++++
+date = "2017-06-16T09:41:58-04:00"
+slug = "switching-task-managers-is-metameta-work"
+tags = ["Productivity"]
+title = "Switching task managers is meta-meta work"
+
++++
 
 [Rob Milanowski](http://robmalanowski.com/task-managers.html):
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-08-24T23:33:15+00:00
-title: Guardian Unlimited | Second sight
-url: /2000/guardian-unlimited-second-sight/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-08-24T23:33:15+00:00"
+title = "Guardian Unlimited | Second sight"
+url = "/2000/guardian-unlimited-second-sight/"
+
++++
 
 [Guardian Unlimited | Second sight][1]
 

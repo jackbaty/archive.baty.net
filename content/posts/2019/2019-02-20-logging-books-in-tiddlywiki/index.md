@@ -1,16 +1,11 @@
----
-title: Logging books in TiddlyWiki
-author: Jack
-type: posts
-date: 2019-02-20T14:42:27+00:00
-url: /2019/logging-books-in-tiddlywiki/
-categories:
-  - Software
-tags:
-  - Books
-  - TiddlyWiki
++++
+categories = ["Software"]
+date = 2019-02-20
+tags = ["Books", "TiddlyWiki"]
+title = "Logging books in TiddlyWiki"
+url = "/2019/logging-books-in-tiddlywiki/"
++++
 
----
 For the past several years I’ve maintained [a text file listing all of the books that I’ve read][1]. The simple text format makes it easy to, for example, quickly see that I read 27 books in 2017 by doing something like…
 
 `grep "2017-" books.md | wc -l`

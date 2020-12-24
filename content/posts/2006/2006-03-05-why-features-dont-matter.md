@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-03-05T13:58:05+00:00
-title: Why Features Don’t Matter
-url: /2006/why-features-dont-matter/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-03-05T13:58:05+00:00"
+title = "Why Features Don’t Matter"
+url = "/2006/why-features-dont-matter/"
+
++++
 
 Andreas Pfeiffer writes a piece on [Why Features Don't Matter][1] using Apple's iPod as a leading 
 

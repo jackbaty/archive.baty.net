@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-07-06T22:23:14+00:00
-title: Mozillafirebird.org and standards-compliance
-url: /2003/mozillafirebirdorg-and-standards-compliance/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-07-06T22:23:14+00:00"
+title = "Mozillafirebird.org and standards-compliance"
+url = "/2003/mozillafirebirdorg-and-standards-compliance/"
+
++++
 
 A week or so ago I registered and created [mozillafirebird.org][1] . It
   

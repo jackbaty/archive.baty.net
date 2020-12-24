@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-19T16:16:13+00:00
-title: 'Nielsen: Convincing Clients to Pay for Usability'
-url: /2003/nielsen-convincing-clients-to-pay-for-usability/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-19T16:16:13+00:00"
+title = "Nielsen: Convincing Clients to Pay for Usability"
+url = "/2003/nielsen-convincing-clients-to-pay-for-usability/"
+
++++
 
 Nielsen's [latest
   

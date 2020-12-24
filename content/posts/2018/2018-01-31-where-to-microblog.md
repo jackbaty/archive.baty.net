@@ -1,15 +1,13 @@
----
-title: Where to Microblog?
-author: Jack
-date: 2018-02-01T00:45:38+00:00
-url: /2018/where-to-microblog/
-categories:
-  - Tech
-tags:
-  - blogging
-format: image
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2018-02-01T00:45:38+00:00"
+format = "image"
+tags = ["blogging"]
+title = "Where to Microblog?"
+url = "/2018/where-to-microblog/"
 
----
++++
 Where should I keep a microblog? I have gone back and forth on this since the early days of Tumblr and I&#8217;m still not sure I&#8217;ve resolved it. Pardon me while I think this through.
 
 I define a &#8220;microblog&#8221; post as something that does not need a title: short, Twitter-like bursts or snapshot images with a brief caption are perfect examples. Link posts are somewhere in between, as they benefit from a title but don&#8217;t need one.

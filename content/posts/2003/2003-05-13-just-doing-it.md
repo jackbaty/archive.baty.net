@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-14T02:01:13+00:00
-title: Just doing it
-url: /2003/just-doing-it/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-14T02:01:13+00:00"
+title = "Just doing it"
+url = "/2003/just-doing-it/"
+
++++
 
 There must be something in the air. Jeremy Zawodny [writes about  
 procrastination][1] and managing things to do.

@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-02-06T13:41:00+00:00
-tags:
-- personal
-title: When Should You Keep Your Ideas to Yourself?
-url: /2008/when-should-you-keep-your-ideas-to-yourself/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-02-06T13:41:00+00:00"
+tags = ["personal"]
+title = "When Should You Keep Your Ideas to Yourself?"
+url = "/2008/when-should-you-keep-your-ideas-to-yourself/"
+
++++
 
 [When Should You Keep Your Ideas to Yourself?][1] &#8211; Marshall Goldsmith
 

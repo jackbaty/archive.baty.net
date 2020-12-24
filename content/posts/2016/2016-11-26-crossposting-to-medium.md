@@ -1,12 +1,10 @@
----
-title: "Cross-posting to Medium"
-date: 2016-11-26T16:31:56-05:00
-tags: 
-- Medium
-- blogging
-- ifttt
-slug: "crossposting-to-medium"
----
++++
+date = "2016-11-26T16:31:56-05:00"
+slug = "crossposting-to-medium"
+tags = ["Medium", "blogging"]
+title = "Cross-posting to Medium"
+
++++
 
 This post is mostly to test whether or not my new [IFTTT](https://ifttt.com/)
 recipe is working.

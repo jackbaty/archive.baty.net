@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-09-03T00:20:17+00:00
-title: Speaking of console nuts
-url: /2003/speaking-of-console-nuts/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-09-03T00:20:17+00:00"
+title = "Speaking of console nuts"
+url = "/2003/speaking-of-console-nuts/"
+
++++
 
 Console apps get a bad rap. Things like, "What kind of geek idiot would want to remember all of those keyboard commands?" and "Oh, how very 70's of you."
 

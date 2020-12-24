@@ -1,12 +1,11 @@
----
-date: 2016-07-01T15:24:16-04:00
-description: ""
-tags:
-- Markdown
-- Org Mode
-title: Using Markdown instead of Org Mode
-topics: []
----
++++
+date = "2016-07-01T15:24:16-04:00"
+description = ""
+tags = ["Markdown", "Org Mode"]
+title = "Using Markdown instead of Org Mode"
+topics = []
+
++++
 
 I have recently abandoned using [Org Mode](http://orgmode.org), even though I
 love nearly everything about it.

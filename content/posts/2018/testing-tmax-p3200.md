@@ -1,11 +1,12 @@
----
-title: "Testing the Re-released Kodak T-MAX P3200 Film"
-date: 2018-03-21T20:42:14-04:00 
-lastmod: 2018-03-21T20:42:16-04:00 
-draft: false
-description: "Using a roll of the recently re-released T-MAX P3200 film"
-tags: ["photography", "kodak", "Nikon"]
----
++++
+date = "2018-03-21T20:42:14-04:00"
+description = "Using a roll of the recently re-released T-MAX P3200 film"
+draft = false
+lastmod = "2018-03-21T20:42:16-04:00"
+tags = ["photography", "kodak", "Nikon"]
+title = "Testing the Re-released Kodak T-MAX P3200 Film"
+
++++
 
 When Kodak discontinued T-MAX P3200 film back in 2012, I had never shot any so
 didn't really miss it. They recently brought it back so I

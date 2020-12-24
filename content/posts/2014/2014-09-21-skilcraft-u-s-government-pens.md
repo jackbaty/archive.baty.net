@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-09-22T00:08:09+00:00
-tags:
-- Analog
-title: Skilcraft U.S. Government pens
-url: /2014/skilcraft-u-s-government-pens/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-09-22T00:08:09+00:00"
+tags = ["Analog"]
+title = "Skilcraft U.S. Government pens"
+url = "/2014/skilcraft-u-s-government-pens/"
+
++++
 
 <img title="20140921_DSCF0343.jpg" src="/img/2014/09/20140921_DSCF0343.jpg" alt="20140921 DSCF0343" width="600" height="399" border="0" />
 

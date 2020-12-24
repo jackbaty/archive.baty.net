@@ -1,11 +1,12 @@
----
-title: Logseq is a private, local-first Roam alternative
-excerpt: This is a pretty compelling local-first option. Written in Clojure and feels more Roam-like than, say, Obsidian.
-date:  2020-12-06
-tags: ["Roam", "Clojure"]
-categories: ["Software"]
-slug: logseq-a-private-local-first-roam-alternative
----
++++
+categories = ["Software"]
+date = "2020-12-06"
+excerpt = "This is a pretty compelling local-first option. Written in Clojure and feels more Roam-like than, say, Obsidian."
+slug = "logseq-a-private-local-first-roam-alternative"
+tags = ["Roam", "Clojure"]
+title = "Logseq is a private, local-first Roam alternative"
+
++++
 
 I continue to follow development of [Logseq](https://logseq.com).
 

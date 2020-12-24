@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-07-30T22:30:50+00:00
-title: Mary’s Violet Eyes…
-url: /2005/marys-violet-eyes/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-07-30T22:30:50+00:00"
+title = "Mary’s Violet Eyes…"
+url = "/2005/marys-violet-eyes/"
+
++++
 
 "Mary's Violet Eyes Makes John Stay Up Nights, Period."
 

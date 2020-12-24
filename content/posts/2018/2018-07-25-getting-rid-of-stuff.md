@@ -1,8 +1,9 @@
----
-title: "Getting Rid of Stuff"
-date: 2018-07-25
-tags: ["minimalism"]
----
++++
+date = "2018-07-25"
+tags = ["minimalism"]
+title = "Getting Rid of Stuff"
+
++++
 
 ![Dumpster](/img/2018/2018-07-25-dumpster-dive.jpg)
 

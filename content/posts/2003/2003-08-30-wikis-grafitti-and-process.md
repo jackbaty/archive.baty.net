@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-08-30T13:56:22+00:00
-title: Wikis, Grafitti, and Process
-url: /2003/wikis-grafitti-and-process/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-08-30T13:56:22+00:00"
+title = "Wikis, Grafitti, and Process"
+url = "/2003/wikis-grafitti-and-process/"
+
++++
 
 Clay Shirky on [Wikis, Graffiti, and Process:][1]
   

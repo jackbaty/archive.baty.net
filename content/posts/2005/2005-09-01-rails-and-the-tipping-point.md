@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-09-01T18:01:26+00:00
-title: Rails and the Tipping Point
-url: /2005/rails-and-the-tipping-point/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-09-01T18:01:26+00:00"
+title = "Rails and the Tipping Point"
+url = "/2005/rails-and-the-tipping-point/"
+
++++
 
 Another Java guy, [David Geary][1] is loving Rails and suspects that [Rails has reached a tipping point][2]. He explains this in the context of Malcom Gladwell's book, [The Tipping Point][3]. This quote stand out&#8230;
 

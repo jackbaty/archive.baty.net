@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-09-04T18:14:21+00:00
-title: 'Review: Dogville'
-url: /2004/review-dogville/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-09-04T18:14:21+00:00"
+title = "Review: Dogville"
+url = "/2004/review-dogville/"
+
++++
 
 ![][1]
 

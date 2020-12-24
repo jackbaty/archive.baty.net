@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-08-20T11:13:26+00:00
-title: Urgent vs. Important
-url: /2005/urgent-vs-important/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-08-20T11:13:26+00:00"
+title = "Urgent vs. Important"
+url = "/2005/urgent-vs-important/"
+
++++
 
 In a post titled [Hurry!][1] Seth Godin discusses the common failing of doing what's urgent rather than what's important.
 

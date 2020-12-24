@@ -1,16 +1,13 @@
----
-title: Working with the Roterfaden Taschenbegleiter
-author: Jack
-date: 2017-12-31T14:21:04+00:00
-url: /2017/working-with-the-roterfaden-taschenbegleiter/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Analog
-tags:
-  - notebook
++++
+author = "Jack"
+categories = ["Analog"]
+date = "2017-12-31T14:21:04+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["notebook"]
+title = "Working with the Roterfaden Taschenbegleiter"
+url = "/2017/working-with-the-roterfaden-taschenbegleiter/"
 
----
++++
 My [Notebook intentions for 2018][1] didn’t take into account my work projects, so I&#8217;ve been reviewing my options for note taking and project planning at [work][2]. I’ve been using the big [Boorum & Pease][3] at work, but it’s pretty bulky, so I have been considering using a daily planner instead.
 
 Enter the [Hobonichi Techo Cousin][4] and [Roterfaden Taschenbegleiter][5]

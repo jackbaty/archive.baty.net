@@ -1,17 +1,13 @@
----
-title: Back to MailMate
-author: Jack
-date: 2018-10-16T17:53:37+00:00
-url: /2018/back-to-mailmate/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Tech
-tags:
-  - email
-  - Workflow
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2018-10-16T17:53:37+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["email", "Workflow"]
+title = "Back to MailMate"
+url = "/2018/back-to-mailmate/"
 
----
++++
 What I _wanted_ to do was to use Apple Mail on my Macs. I even did it for a while. Mail&#8217;s simplicity is comforting and it makes mail look nice.
 
 What I ended up doing instead is to go back to [MailMate][1].

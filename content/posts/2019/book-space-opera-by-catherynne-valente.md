@@ -1,8 +1,9 @@
 +++
-title = "Book: Space Opera, by Catherynne Valente 📚"
-date = 2019-07-22T08:17:00-04:00
-tags = ["book"]
+date = "2019-07-22T08:17:00-04:00"
 draft = false
+tags = ["book"]
+title = "Book: Space Opera, by Catherynne Valente 📚"
+
 +++
 
 <a href="https://www.goodreads.com/book/show/24100285-space-opera" style="float: left; padding-right: 20px"><img border="0" alt="Space Opera" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518017807l/24100285._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/24100285-space-opera">Space Opera</a> by <a href="https://www.goodreads.com/author/show/338705.Catherynne_M_Valente">Catherynne M. Valente</a><br/>

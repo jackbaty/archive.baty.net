@@ -1,8 +1,9 @@
----
-title: "The sad state of RSS on the Mac"
-date: 2018-07-24
-tags: ["rss"]
----
++++
+date = "2018-07-24"
+tags = ["rss"]
+title = "The sad state of RSS on the Mac"
+
++++
 
 [Philipp][1]:
 

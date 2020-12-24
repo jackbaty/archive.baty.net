@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-07-03T16:10:00+00:00
-tags:
-- Blogging
-- org-mode
-title: Posting to WordPress via Org2Blog
-url: /2015/posting-to-wordpress-via-org2blog/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-07-03T16:10:00+00:00"
+tags = ["Blogging", "org-mode"]
+title = "Posting to WordPress via Org2Blog"
+url = "/2015/posting-to-wordpress-via-org2blog/"
+
++++
 
 Today I discovered [Org2Blog][1], which is "a tool to publish directly from Emacs’ org-mode to WordPress blogs". I've been learning Org Mode for the past few weeks so this seemed useful.
 

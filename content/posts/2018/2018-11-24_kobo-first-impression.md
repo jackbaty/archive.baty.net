@@ -1,9 +1,10 @@
----
-title: "First impressions of the Kobo Forma eReader"
-date: 2018-11-24
-tags: ["hardware","kobo","kindle"]
-slug: "kobo-ereader-1st-impression"
----
++++
+date = "2018-11-24"
+slug = "kobo-ereader-1st-impression"
+tags = ["hardware", "kobo", "kindle"]
+title = "First impressions of the Kobo Forma eReader"
+
++++
 
 I tend to try each new generation of Kindle from Amazon and that remained true with the newest model, the 7" [Oasis][1]. 
 

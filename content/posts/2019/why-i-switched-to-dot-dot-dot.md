@@ -1,8 +1,9 @@
 +++
-title = "Why I switched to…"
-date = 2019-08-25T10:00:00-04:00
-tags = ["productivity"]
+date = "2019-08-25T10:00:00-04:00"
 draft = false
+tags = ["productivity"]
+title = "Why I switched to…"
+
 +++
 
 I could write a post every day titled "Why I switched to [INSERT TOOL HERE]."

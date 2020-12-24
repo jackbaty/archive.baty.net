@@ -1,13 +1,12 @@
----
-title: Dynamicland
-author: Jack
-date: 2017-12-19T22:40:23+00:00
-url: /2017/dynamicland/
-categories:
-  - Analog
-format: link
++++
+author = "Jack"
+categories = ["Analog"]
+date = "2017-12-19T22:40:23+00:00"
+format = "link"
+title = "Dynamicland"
+url = "/2017/dynamicland/"
 
----
++++
 [Dynamicland][1]:
 
 > No screens, no devices. Just ordinary physical materials —

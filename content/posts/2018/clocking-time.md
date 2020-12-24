@@ -1,10 +1,11 @@
----
-title: "Tracking my Time with Org-mode"
-date: 2018-05-18T11:46:32-04:00 
-draft: false
-description: "Clock in and Clock out"
-tags: ["workflow","productivity","org-mode","emacs"]
----
++++
+date = "2018-05-18T11:46:32-04:00"
+description = "Clock in and Clock out"
+draft = false
+tags = ["workflow", "productivity", "org-mode", "emacs"]
+title = "Tracking my Time with Org-mode"
+
++++
 
 Org-mode has time tracking built in. Of course it does. 
 

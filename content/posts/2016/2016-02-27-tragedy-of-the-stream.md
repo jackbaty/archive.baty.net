@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2016-02-27T20:04:27+00:00
-tags:
-- social
-title: Tragedy of the Stream
-url: /2016/tragedy-of-the-stream/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2016-02-27T20:04:27+00:00"
+tags = ["social"]
+title = "Tragedy of the Stream"
+url = "/2016/tragedy-of-the-stream/"
+
++++
 
 [Mike Caulfield][1]
 

@@ -1,15 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-05-07T21:06:37+00:00
-tags:
-- Analog
-- film
-- photography
-title: First attempt using New55&#039;s R3 Monobath Developer
-url: /2015/first-attempt-using-r3-monobath/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-05-07T21:06:37+00:00"
+tags = ["Analog", "film", "photography"]
+title = "First attempt using New55' R3 Monobath Developer"
+url = "/2015/first-attempt-using-r3-monobath/"
+
++++
 
 <img title="rawscan0001.jpg" src="/img/2015/05/rawscan0001.jpg" alt="Rawscan0001" width="598" height="465" border="0" />
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-07-16T11:41:21+00:00
-title: American People Ruled Unfit to Govern
-url: /2004/american-people-ruled-unfit-to-govern/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-07-16T11:41:21+00:00"
+title = "American People Ruled Unfit to Govern"
+url = "/2004/american-people-ruled-unfit-to-govern/"
+
++++
 
 Another great one from [The Onion][1]
 

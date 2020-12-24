@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-09-04T21:23:10+00:00
-title: 'Things that Rock: ZOE'
-url: /2003/things-that-rock-zoe/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-09-04T21:23:10+00:00"
+title = "Things that Rock: ZOE"
+url = "/2003/things-that-rock-zoe/"
+
++++
 
 Want Google-like access to every email you get and send, cross-referenced and filed automatically, all the time? I did, it's called [ZO&Euml;][1]
   

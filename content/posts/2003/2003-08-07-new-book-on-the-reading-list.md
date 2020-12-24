@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-08-07T23:53:53+00:00
-title: New book on the reading list
-url: /2003/new-book-on-the-reading-list/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-08-07T23:53:53+00:00"
+title = "New book on the reading list"
+url = "/2003/new-book-on-the-reading-list/"
+
++++
 
 David Foster Wallace: [Everything and More: A Compact History of Infinity][1]
   

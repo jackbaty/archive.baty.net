@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-09-01T05:34:21+00:00
-title: Software Shopping List
-url: /2004/software-shopping-list/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-09-01T05:34:21+00:00"
+title = "Software Shopping List"
+url = "/2004/software-shopping-list/"
+
++++
 
 When and if I switch back to a Mac, I'll probably need some software. I'm compiling a list of neato-peachy-keen utilities I'd like to have and try&#8230;
 

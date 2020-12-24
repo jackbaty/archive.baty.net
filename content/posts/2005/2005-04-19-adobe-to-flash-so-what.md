@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-04-19T11:11:34+00:00
-title: 'Adobe to Flash: “So what?”'
-url: /2005/adobe-to-flash-so-what/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-04-19T11:11:34+00:00"
+title = "Adobe to Flash: “So what?”"
+url = "/2005/adobe-to-flash-so-what/"
+
++++
 
 I don't think the Adobe buyout of Macromedia has anything to do with Flash. Does Flash actually generate any significant revenue? I admit that I don't really know, but I doubt it. I don't think Adobe gives a tin shit about Flash. It's not like they'll **ignore** it, I just don't think Flash is the reason they're here. Same for Dreamweaver. They were never that interested in making GoLive any better, why will it be any different with Dreamweaver?
 

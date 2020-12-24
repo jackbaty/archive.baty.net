@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-10-29T15:30:10+00:00
-title: The Movie Cliches List, part 1
-url: /2003/the-movie-cliches-list-part-1/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-10-29T15:30:10+00:00"
+title = "The Movie Cliches List, part 1"
+url = "/2003/the-movie-cliches-list-part-1/"
+
++++
 
 [The Movie Cliches List, part 1][1]
 

@@ -1,15 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-05-06T21:21:26+00:00
-format: link
-tags:
-- Analog
-- Writing
-title: A Primer on Fountain Pens | The Art of Manliness
-url: /2015/a-primer-on-fountain-pens-the-art-of-manliness/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-05-06T21:21:26+00:00"
+format = "link"
+tags = ["Analog", "Writing"]
+title = "A Primer on Fountain Pens | The Art of Manliness"
+url = "/2015/a-primer-on-fountain-pens-the-art-of-manliness/"
+
++++
 
 [A Primer on Fountain Pens | The Art of Manliness][1]:
 

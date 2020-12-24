@@ -1,12 +1,12 @@
----
-title: "Acros 100 in the Hasselblad"
-date:  2020-09-24
-tags: ["Hasselblad","Film","Acros"]
-categories: ["Photography"]
-featuredImagePreview:  preview.jpg
-slug: acros-100-hasselblad
++++
+categories = ["Photography"]
+date = "2020-09-24"
+featuredImagePreview = "preview.jpg"
+slug = "acros-100-hasselblad"
+tags = ["Hasselblad", "Film", "Acros"]
+title = "Acros 100 in the Hasselblad"
 
----
++++
 
 
 {{< image src="kelly-jess.jpg" caption="Kelly and Jess (2009). Hasselblad 501C/M Acros 100" width="90%">}}

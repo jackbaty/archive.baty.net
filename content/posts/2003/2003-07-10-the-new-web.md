@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-07-11T01:12:14+00:00
-title: The new web
-url: /2003/the-new-web/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-07-11T01:12:14+00:00"
+title = "The new web"
+url = "/2003/the-new-web/"
+
++++
 
 Like it or not, [this][1] is how
 

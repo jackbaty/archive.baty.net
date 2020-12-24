@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-07-07T16:41:14+00:00
-title: This is Zim
-url: /2003/this-is-zim/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-07-07T16:41:14+00:00"
+title = "This is Zim"
+url = "/2003/this-is-zim/"
+
++++
 
 ![][1]
 

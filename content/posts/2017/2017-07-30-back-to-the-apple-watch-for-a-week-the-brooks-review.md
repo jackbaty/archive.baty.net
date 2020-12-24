@@ -1,9 +1,10 @@
----
-title: "Back to the Apple Watch for a Week – The Brooks Review"
-date: 2017-05-20
-tags: ["apple","hardware"]
-slug: "back-to-the-apple-watch-for-a-week-the-brooks-review"
----
++++
+date = "2017-05-20"
+slug = "back-to-the-apple-watch-for-a-week-the-brooks-review"
+tags = ["apple", "hardware"]
+title = "Back to the Apple Watch for a Week – The Brooks Review"
+
++++
 
 [Ben Brooks][1]:
 

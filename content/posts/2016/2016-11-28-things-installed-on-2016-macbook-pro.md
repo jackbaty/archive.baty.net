@@ -1,10 +1,10 @@
----
-title: "Things installed on 2016 MacBook Pro"
-date: 2016-11-28T21:57:03-05:00
-tags: 
-- Apple
-slug: "things-installed-on-2016-macbook-pro"
----
++++
+date = "2016-11-28T21:57:03-05:00"
+slug = "things-installed-on-2016-macbook-pro"
+tags = ["Apple"]
+title = "Things installed on 2016 MacBook Pro"
+
++++
 
 I get a new laptop every few years. I always start fresh and install everything
 from scratch. It's interesting to see what changes and what doesn't. Most of the

@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Books
-- Journal
-date: 2013-10-02T04:00:00+00:00
-tags:
-- book
-title: 'Book: Odds Against Tomorrow'
-url: /2013/odds-against-tomorrow/
----
++++
+author = "Jack"
+categories = ["Books", "Journal"]
+date = "2013-10-02T04:00:00+00:00"
+tags = ["book"]
+title = "Book: Odds Against Tomorrow"
+url = "/2013/odds-against-tomorrow/"
+
++++
 
 <aside> <img src="/img/2013/odds-against-tomorrow-book.jpg" alt="Odds Against Tomorrow" class="postimage" />
   

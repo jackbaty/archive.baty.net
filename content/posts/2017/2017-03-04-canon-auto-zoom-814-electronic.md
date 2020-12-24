@@ -1,9 +1,10 @@
----
-title: "Canon Auto Zoom 814 Electronic Super8 Film Camera"
-slug: "canon-auto-zoom-814-electronic"
-date: "2017-03-04T12:30:00-05:00"
-tags: ["Super8","8mm","Film","Canon"]
----
++++
+date = "2017-03-04T12:30:00-05:00"
+slug = "canon-auto-zoom-814-electronic"
+tags = ["Super8", "8mm", "Film", "Canon"]
+title = "Canon Auto Zoom 814 Electronic Super8 Film Camera"
+
++++
 
 
 ![](/img/2017/2017-03-04_Canon-814-2.jpg)

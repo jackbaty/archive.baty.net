@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-03-28T15:01:02+00:00
-tags:
-- health
-- productivity
-title: Why Standing Doesn&#039;t Work
-url: /2015/why-standing-doesnt-work/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-03-28T15:01:02+00:00"
+tags = ["health", "productivity"]
+title = "Why Standing Doesn&#039;t Work"
+url = "/2015/why-standing-doesnt-work/"
+
++++
 
 [Rishabh R. Dassani][1]:
 

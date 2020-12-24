@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-03-15T21:39:43+00:00
-tags:
-- personal
-title: Busy vs. Productive
-url: /2008/busy-vs-productive/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-03-15T21:39:43+00:00"
+tags = ["personal"]
+title = "Busy vs. Productive"
+url = "/2008/busy-vs-productive/"
+
++++
 
 [Busy vs. Productive][1]
 

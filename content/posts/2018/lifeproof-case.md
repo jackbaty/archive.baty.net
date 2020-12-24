@@ -1,10 +1,11 @@
----
-title: "Lifeproof Case for iPhone"
-date: 2018-09-17T19:18:46-04:00
-lastmod: 2018-09-17T19:18:46-04:00
-description: "I didn't like the Lifeproof case"
-tags: ["apple"]
----
++++
+date = "2018-09-17T19:18:46-04:00"
+description = "I didn't like the Lifeproof case"
+lastmod = "2018-09-17T19:18:46-04:00"
+tags = ["apple"]
+title = "Lifeproof Case for iPhone"
+
++++
 
 I've been going without a case on my iPhone X for a while now. I love a caseless phone. However, I felt I needed to baby it too much so I did a 180 and ordered a [Lifeproof FRĒ](https://www.lifeproof.com/en-us/iphone-x/fre-for-iphone-x/lpfr-apl-iphn17.html). I thought it would be nice to play more fast and loose with the phone, and the Lifeproof is supposed to be all sorts of tough. And it's waterproof to boot.
 

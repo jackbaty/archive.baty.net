@@ -1,16 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2012-01-28T00:00:00+00:00
-dsq_thread_id:
-- 3595551
-tags:
-- story
-- Writing
-title: Sex and Pancakes
-url: /2012/sex-and-pancakes/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2012-01-28T00:00:00+00:00"
+dsq_thread_id = [3595551]
+tags = ["story", "Writing"]
+title = "Sex and Pancakes"
+url = "/2012/sex-and-pancakes/"
+
++++
 
 <span>A story about sex</span>
 

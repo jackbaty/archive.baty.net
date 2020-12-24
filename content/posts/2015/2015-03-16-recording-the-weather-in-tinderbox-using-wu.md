@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-03-16T22:13:17+00:00
-tags:
-- Tinderbox
-title: Recording the weather in Tinderbox
-url: /2015/recording-the-weather-in-tinderbox-using-wu/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-03-16T22:13:17+00:00"
+tags = ["Tinderbox"]
+title = "Recording the weather in Tinderbox"
+url = "/2015/recording-the-weather-in-tinderbox-using-wu/"
+
++++
 
 Each day I create a note called "Doing" in my [Tinderbox][1] daybook. This note is a dumping ground for little things I want to record during the day. I wanted to include the day's weather, just for fun. Here's how I did it.
 

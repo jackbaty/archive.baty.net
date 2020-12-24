@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:12+00:00
-title: Please test PHPetal 0.5
-url: /2003/please-test-phpetal-05/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:12+00:00"
+title = "Please test PHPetal 0.5"
+url = "/2003/please-test-phpetal-05/"
+
++++
 
 I have a new build of PHPetal available [here][1]
 

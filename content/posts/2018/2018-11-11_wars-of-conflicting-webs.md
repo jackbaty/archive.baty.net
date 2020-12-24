@@ -1,9 +1,10 @@
----
-title: "Wars of Conflicting Webs - Kicks Condor"
-date: 2018-11-11
-tags: ["blogging","indieweb"]
-slug: "wars-of-conflicting-webs"
----
++++
+date = "2018-11-11"
+slug = "wars-of-conflicting-webs"
+tags = ["blogging", "indieweb"]
+title = "Wars of Conflicting Webs - Kicks Condor"
+
++++
 
 [Kicks Condor](https://www.kickscondor.com/wars-of-conflicting-webs/):
 

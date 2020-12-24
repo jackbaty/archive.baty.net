@@ -1,15 +1,13 @@
----
-title: Keeping a Digital Print Archive
-author: Jack
-type: posts
-date: 2019-07-07T14:20:18+00:00
-url: /2019/keeping-a-digital-print-archive/
-categories:
-  - Photography
-tags:
-  - Workflow
++++
+author = "Jack"
+categories = ["Photography"]
+date = "2019-07-07T14:20:18+00:00"
+tags = ["Workflow"]
+title = "Keeping a Digital Print Archive"
+type = "posts"
+url = "/2019/keeping-a-digital-print-archive/"
 
----
++++
 I shoot&nbsp;RAW&nbsp;with my digital cameras, and edit in Lightroom&nbsp;CC. Non-destructive&nbsp;RAW&nbsp;editing is awesome, but the only good way to actually see the edits is by using Lightroom (or whichever app was used to do the editing). What happens if one day I stop using it?
 
 Historically, I’ve exported each processed jpg file right next to the original&nbsp;RAW&nbsp;file. Switching to Lightroom&nbsp;CC&nbsp;has made this tricky because the originals are kept in Adobe’s cloud and&nbsp;CC’s export features are rather basic.

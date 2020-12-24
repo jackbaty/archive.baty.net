@@ -1,9 +1,10 @@
----
-title: "Deleting Adobe"
-date:  2020-09-13
-tags: ["Workflow","Adobe"]
-categories: ["Photography"]
----
++++
+categories = ["Photography"]
+date = "2020-09-13"
+tags = ["Workflow", "Adobe"]
+title = "Deleting Adobe"
+
++++
 
 Today, I deleted the Adobe apps from my devices.
 

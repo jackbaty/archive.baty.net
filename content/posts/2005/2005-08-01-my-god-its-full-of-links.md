@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-08-01T21:49:53+00:00
-title: My God. It’s full of links!
-url: /2005/my-god-its-full-of-links/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-08-01T21:49:53+00:00"
+title = "My God. It’s full of links!"
+url = "/2005/my-god-its-full-of-links/"
+
++++
 
 Shirky has a great article, [Ontology is Overrated&#8212;Categories, Links, and Tags][1] which describes some of the advantages of tagging systems versus a typical hierarchical ontology. I love the Dewey Decimal System example categorization for religions of the world&#8230;
 

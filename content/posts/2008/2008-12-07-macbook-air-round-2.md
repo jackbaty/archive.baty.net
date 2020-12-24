@@ -1,17 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-12-07T23:15:03+00:00
-dsq_thread_id:
-- 469627314
-tags:
-- apple
-- gadget
-- geek
-title: MacBook Air, Round 2
-url: /2008/macbook-air-round-2/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-12-07T23:15:03+00:00"
+dsq_thread_id = [469627314]
+tags = ["apple", "gadget", "geek"]
+title = "MacBook Air, Round 2"
+url = "/2008/macbook-air-round-2/"
+
++++
 
 Can we all agree right up front that the MacBook Air is the thinnest, sweetest-looking laptop ever conceived by man? Yes? Good. That's what I think too.
 

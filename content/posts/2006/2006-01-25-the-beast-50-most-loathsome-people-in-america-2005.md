@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-01-25T02:47:04+00:00
-title: 'The BEAST: 50 Most Loathsome People in America, 2005'
-url: /2006/the-beast-50-most-loathsome-people-in-america-2005/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-01-25T02:47:04+00:00"
+title = "The BEAST: 50 Most Loathsome People in America, 2005"
+url = "/2006/the-beast-50-most-loathsome-people-in-america-2005/"
+
++++
 
 The BEAST has a compiled its list of the 50 Most Loathsome People in America for last year. It's funny, and a little sad. Yes, Pat Robertson is still #1. Here are a couple of clips&#8230; 
 

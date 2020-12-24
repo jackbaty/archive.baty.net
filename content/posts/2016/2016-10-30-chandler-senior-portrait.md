@@ -1,12 +1,10 @@
----
-date: 2016-10-30T18:09:54-04:00
-slug: chandler-senior-portrait
-tags:
-- Photography
-- Canon
-- 1DS
-title: Chandler Senior Portrait
----
++++
+date = "2016-10-30T18:09:54-04:00"
+slug = "chandler-senior-portrait"
+tags = ["Photography", "Canon", "1DS"]
+title = "Chandler Senior Portrait"
+
++++
 
 A friend of mine asked me to do a last-minute photo shoot for her son's senior
 portrait. The only digital portrait-making camera I have is the 14-year-old

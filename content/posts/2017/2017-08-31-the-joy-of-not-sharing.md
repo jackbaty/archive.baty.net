@@ -1,9 +1,10 @@
----
-title: "The Joy of Not Sharing"
-date: 2017-08-31
-tags: ["photography","analog","social"]
-slug: ""
----
++++
+date = "2017-08-31"
+slug = ""
+tags = ["photography", "analog", "social"]
+title = "The Joy of Not Sharing"
+
++++
 
 ![Gail and I - Manistee (2017)][1]
 

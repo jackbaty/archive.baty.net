@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:13+00:00
-title: Content requirements here
-url: /2003/content-requirements-here/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:13+00:00"
+title = "Content requirements here"
+url = "/2003/content-requirements-here/"
+
++++
 
 Originally, I was only going to post "important" development or
   

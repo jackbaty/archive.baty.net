@@ -1,15 +1,12 @@
----
-title: Ethics in news consumption | The Outline
-author: Jack
-date: 2018-10-25T18:35:03+00:00
-url: /2018/ethics-in-news-consumption-the-outline/
-categories:
-  - Misc
-tags:
-  - news
-  - social
++++
+author = "Jack"
+categories = ["Misc"]
+date = "2018-10-25T18:35:03+00:00"
+tags = ["news", "social"]
+title = "Ethics in news consumption | The Outline"
+url = "/2018/ethics-in-news-consumption-the-outline/"
 
----
++++
 [Leah Finnegan, The Outline][1]:
 
 > &#8230;more and more I am questioning the news cycle and my relationship to it. There is so much news, and almost none of it is important, but you would not know that from a visit to social media, the grotesque excuse for a piazza where we are supposed to connect with people who are yelling at us, or any of the 24-hour websites that provide us with an overwhelming deluge of inanity.

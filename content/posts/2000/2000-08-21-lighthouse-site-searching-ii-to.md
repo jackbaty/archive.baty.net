@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-08-21T14:45:47+00:00
-title: 'Lighthouse: Site searching II “To'
-url: /2000/lighthouse-site-searching-ii-to/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-08-21T14:45:47+00:00"
+title = "Lighthouse: Site searching II “To"
+url = "/2000/lighthouse-site-searching-ii-to/"
+
++++
 
 [Lighthouse: Site searching II][1]
 

@@ -1,15 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-09-06T13:26:08+00:00
-tags:
-- fun
-- news
-- politics
-title: Jon Stewart on the gender card
-url: /2008/jon-stewart-on-the-gender-card/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-09-06T13:26:08+00:00"
+tags = ["fun", "news", "politics"]
+title = "Jon Stewart on the gender card"
+url = "/2008/jon-stewart-on-the-gender-card/"
+
++++
 
 I love Jon Stewart. This video is everywhere, but on the slim chance you haven't seen it&#8230;
 

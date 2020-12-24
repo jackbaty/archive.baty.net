@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2009-11-12T19:32:16+00:00
-tags:
-- film
-title: The Self-Manufacture of Megan Fox – NYTimes.com
-url: /2009/the-self-manufacture-of-megan-fox-nytimes-com/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2009-11-12T19:32:16+00:00"
+tags = ["film"]
+title = "The Self-Manufacture of Megan Fox – NYTimes.com"
+url = "/2009/the-self-manufacture-of-megan-fox-nytimes-com/"
+
++++
 
 NYTimes on Megan Fox:
 

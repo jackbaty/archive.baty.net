@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-08-01T06:42:21+00:00
-title: 'Review: Songs from the Second Floor'
-url: /2004/review-songs-from-the-second-floor/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-08-01T06:42:21+00:00"
+title = "Review: Songs from the Second Floor"
+url = "/2004/review-songs-from-the-second-floor/"
+
++++
 
 I first saw [Songs from the Second Floor][1] about 2 months ago. I thought it was complete nonsense and hated every minute of it. Well at least all 20 minutes that I managed to watch. Maybe I didn't get it. Maybe I wasn't in the mood for some stupid and absurd visual poem presented in Swedish.
 

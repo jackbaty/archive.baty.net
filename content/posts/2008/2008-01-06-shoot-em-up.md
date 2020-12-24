@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-01-06T21:31:13+00:00
-tags:
-- film
-title: Shoot ‘Em Up
-url: /2008/shoot-em-up/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-01-06T21:31:13+00:00"
+tags = ["film"]
+title = "Shoot ‘Em Up"
+url = "/2008/shoot-em-up/"
+
++++
 
 [Shoot &#8216;em Up][1] is awful. It's nothing but one over the top gunfight after another, without even a hint of plot. Over the top is not the right phrase. _Ridiculously_ over the top is closer, but still doesn't quite describe it. Really terrible, if you think about it.
 

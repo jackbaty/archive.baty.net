@@ -1,17 +1,12 @@
----
-title: Good Cameras
-author: Jack
-date: 2017-11-24T18:56:40+00:00
-url: /2017/good-cameras/
-categories:
-  - Photography
-tags:
-  - Fuji
-  - Gear
-  - Leica
-  - olympus
++++
+author = "Jack"
+categories = ["Photography"]
+date = "2017-11-24T18:56:40+00:00"
+tags = ["Fuji", "Gear", "Leica", "olympus"]
+title = "Good Cameras"
+url = "/2017/good-cameras/"
 
----
++++
 In my [previous post about the X-Pro2 and 56mm][1] I wrote, &#8220;I feel like I could actually make some decent images with this combination.&#8221; That sounds suspiciously like a belief that specific gear is required to make a &#8220;decent image&#8221; and could start a whole thing about it&#8217;s-the-photographer-not-the-camera or the best-camera-is-the-one-you-have-with-you trope.
 
 To be clear, I of course believe that a good photographer can make good photos with _any_ camera. But other than to prove a point, who would would want to?

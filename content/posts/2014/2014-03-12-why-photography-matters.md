@@ -1,15 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-03-12T00:00:00+00:00
-dsq_thread_id:
-- 3595683
-tags:
-- photography
-title: Why Photography Matters
-url: /2014/why-photography-matters/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-03-12T00:00:00+00:00"
+dsq_thread_id = [3595683]
+tags = ["photography"]
+title = "Why Photography Matters"
+url = "/2014/why-photography-matters/"
+
++++
 
 <aside> <img src="/img/2014/why-photography-matters.jpg" alt="Why Photography Matters" class="postimage" />
   

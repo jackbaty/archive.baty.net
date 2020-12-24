@@ -1,15 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-08-30T00:00:00+00:00
-dsq_thread_id:
-- 3595638
-tags:
-- photography
-title: (Very) Humble Beginnings
-url: /2013/very-humble-beginnings/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-08-30T00:00:00+00:00"
+dsq_thread_id = [3595638]
+tags = ["photography"]
+title = "(Very) Humble Beginnings"
+url = "/2013/very-humble-beginnings/"
+
++++
 
 ![Studio][1]
 

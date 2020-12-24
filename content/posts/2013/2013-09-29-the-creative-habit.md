@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Books
-- Journal
-date: 2013-09-29T04:00:00+00:00
-tags:
-- book
-title: 'Book: The Creative Habit'
-url: /2013/the-creative-habit/
----
++++
+author = "Jack"
+categories = ["Books", "Journal"]
+date = "2013-09-29T04:00:00+00:00"
+tags = ["book"]
+title = "Book: The Creative Habit"
+url = "/2013/the-creative-habit/"
+
++++
 
 <aside> <img src="/img/2013/tharp-creative-habit-book.jpg" alt="The Creative Habit" class="postimage" />
   

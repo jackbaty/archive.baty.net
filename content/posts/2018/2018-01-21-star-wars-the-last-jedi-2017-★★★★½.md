@@ -1,14 +1,12 @@
----
-title: 'Star Wars: The Last Jedi, 2017 – ★★★★½'
-author: Jack
-date: 2018-01-21T21:08:12+00:00
-url: /2018/star-wars-the-last-jedi-2017-★★★★½/
-categories:
-  - Books and Media
-tags:
-  - movie
++++
+author = "Jack"
+categories = ["Books and Media"]
+date = "2018-01-21T21:08:12+00:00"
+tags = ["movie"]
+title = "Star Wars: The Last Jedi, 2017 – ★★★★½"
+url = "/2018/star-wars-the-last-jedi-2017-★★★★½/"
 
----
++++
 ![][1]
 
 Star Wars movies have almost always made me happy. This one sure did.

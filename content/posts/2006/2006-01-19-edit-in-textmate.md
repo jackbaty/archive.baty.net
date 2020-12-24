@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-01-19T03:19:04+00:00
-title: Edit in Textmate
-url: /2006/edit-in-textmate/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-01-19T03:19:04+00:00"
+title = "Edit in Textmate"
+url = "/2006/edit-in-textmate/"
+
++++
 
 ![textmate](/files/textmate.jpg) 
 

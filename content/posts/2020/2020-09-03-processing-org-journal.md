@@ -1,10 +1,10 @@
----
-title: "Processing my org-journal each month"
-date: 2020-09-03T22:12:56.416Z
-tags: ["journaling","emacs","org mode"]
-categories: ["Software"]
-slug:
----
++++
+categories = ["Software"]
+date = "2020-09-03T22:12:56.416Z"
+tags = ["journaling", "emacs", "org mode"]
+title = "Processing my org-journal each month"
+
++++
 
 I use [org-journal](https://github.com/bastibe/org-journal) for keeping my personal journal. My first entry was made on December 20, 2016 and I've made nearly 600 entries since then[^entries]. 
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2001-01-03T09:02:58+00:00
-title: Moving WebWord > Usability Can
-url: /2001/moving-webword-usability-can/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2001-01-03T09:02:58+00:00"
+title = "Moving WebWord > Usability Can"
+url = "/2001/moving-webword-usability-can/"
+
++++
 
 [Moving WebWord > Usability Can Save Your Company][1]
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-01-08T09:22:19+00:00
-title: Radioactive Leica Glass
-url: /2005/radioactive-leica-glass/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-01-08T09:22:19+00:00"
+title = "Radioactive Leica Glass"
+url = "/2005/radioactive-leica-glass/"
+
++++
 
 The [Leica forum][1] on Photo.net is a hoot. Although there are a number of retired dentist equipment fondlers who bore me to tears, there are also quite a few fun, smart and generally helpful people.
 

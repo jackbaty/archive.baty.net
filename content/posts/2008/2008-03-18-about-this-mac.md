@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-03-18T20:08:49+00:00
-tags:
-- geek
-title: About This Mac
-url: /2008/about-this-mac/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-03-18T20:08:49+00:00"
+tags = ["geek"]
+title = "About This Mac"
+url = "/2008/about-this-mac/"
+
++++
 
 <img src="/files/AboutThisMac.jpg" alt="AboutThisMac.jpg" border="0" width="371" height="432" />
 

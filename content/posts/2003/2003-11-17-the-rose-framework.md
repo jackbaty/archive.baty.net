@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-11-17T15:41:11+00:00
-title: The ROSE Framework
-url: /2003/the-rose-framework/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-11-17T15:41:11+00:00"
+title = "The ROSE Framework"
+url = "/2003/the-rose-framework/"
+
++++
 
 Good Experience: [The ROSE framework][1]
   

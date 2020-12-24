@@ -1,8 +1,9 @@
----
-title: "Maybe I'll try Linux again another time"
-date: 2019-09-15T09:11:48-04:00
-tags: ["Linux"]
----
++++
+date = "2019-09-15T09:11:48-04:00"
+tags = ["Linux"]
+title = "Maybe I'll try Linux again another time"
+
++++
 
 I have a (5th Gen?) ThinkPad just _itching_ to run Linux. I'm a decades-long Mac user also itching to try Linux. This combination meant that I've been experimenting with Linux for several months.
 

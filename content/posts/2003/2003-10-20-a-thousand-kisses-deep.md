@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-10-20T16:14:42+00:00
-title: A Thousand Kisses Deep
-url: /2003/a-thousand-kisses-deep/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-10-20T16:14:42+00:00"
+title = "A Thousand Kisses Deep"
+url = "/2003/a-thousand-kisses-deep/"
+
++++
 
 Confined to sex, we pressed against
   

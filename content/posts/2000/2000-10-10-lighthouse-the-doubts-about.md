@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-10-10T11:12:00+00:00
-title: Lighthouse – The doubts about
-url: /2000/lighthouse-the-doubts-about/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-10-10T11:12:00+00:00"
+title = "Lighthouse – The doubts about"
+url = "/2000/lighthouse-the-doubts-about/"
+
++++
 
 [Lighthouse &#8211; The doubts about Vignette][1]
 

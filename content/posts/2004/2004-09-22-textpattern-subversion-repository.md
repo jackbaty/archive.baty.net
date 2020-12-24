@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-09-22T19:44:26+00:00
-title: Textpattern Subversion Repository
-url: /2004/textpattern-subversion-repository/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-09-22T19:44:26+00:00"
+title = "Textpattern Subversion Repository"
+url = "/2004/textpattern-subversion-repository/"
+
++++
 
 Thankfully, Dean has imported [Textpattern][1] into a Subversion repository. This wll make updates as easy as typing "svn update".
 

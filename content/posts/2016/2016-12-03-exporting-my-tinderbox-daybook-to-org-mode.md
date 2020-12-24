@@ -1,12 +1,10 @@
----
-title: "Exporting my Tinderbox Daybook to Org Mode"
-date: 2016-12-03T09:34:12-05:00
-tags: 
-- Tinderbox
-- Org Mode
-- journaling
-slug: "exporting-my-tinderbox-daybook-to-org-mode"
----
++++
+date = "2016-12-03T09:34:12-05:00"
+slug = "exporting-my-tinderbox-daybook-to-org-mode"
+tags = ["Tinderbox", "Org mode", "journaling"]
+title = "Exporting my Tinderbox Daybook to Org Mode"
+
++++
 
 Every month I export my [Tinderbox](http://www.eastgate.com/Tinderbox/)
 "Daybook" entries so that I can print and bind them (a whole other story). I

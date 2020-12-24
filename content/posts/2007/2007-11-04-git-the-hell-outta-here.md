@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-11-04T18:15:45+00:00
-title: Git the hell outta here
-url: /2007/git-the-hell-outta-here/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-11-04T18:15:45+00:00"
+title = "Git the hell outta here"
+url = "/2007/git-the-hell-outta-here/"
+
++++
 
 I remember the days when [Subversion][1] was introduced and solved many of the problems plaguing the aging CVS. Here was something new, familiar and better. I jumped right in. 
 

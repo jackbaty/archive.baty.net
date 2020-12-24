@@ -1,25 +1,18 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-01-30T12:51:00+00:00
-tags:
-- Tinderbox
-title: GTD, Tinderbox, DevonTHINK and others
-tz_audio_format:
-- mp3
-tz_gallery_captions:
-- "true"
-tz_gallery_format:
-- -=set slideshow type=-
-tz_gallery_margins:
-- 10
-tz_gallery_randomize:
-- "false"
-tz_gallery_targetheight:
-- 200
-url: /2005/gtd-tinderbox-devonthink-and-others/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-01-30T12:51:00+00:00"
+tags = ["Tinderbox"]
+title = "GTD, Tinderbox, DevonTHINK and others"
+tz_audio_format = ["mp3"]
+tz_gallery_captions = ["true"]
+tz_gallery_format = ["-=set slideshow type=-"]
+tz_gallery_margins = [10]
+tz_gallery_randomize = ["false"]
+tz_gallery_targetheight = [200]
+url = "/2005/gtd-tinderbox-devonthink-and-others/"
+
++++
 
 My recent experiment with [Getting Things Done][1] has been a huge success. With it, I know that everything that needs doing will get done, and sometimes even on time. I still tend to do the fun stuff first, but at least I know what I’m neglecting, thanks to the ever-present Next Actions list. The concept of “capturing everything in a trusted system” is the key. So, for those of you who might be interested, here’s my Trusted System™…
 

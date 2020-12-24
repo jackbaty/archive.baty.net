@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-02-01T14:11:17+00:00
-tags:
-- geek
-title: World’s silliest “toolbar”
-url: /2008/worlds-silliest-toolbar/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-02-01T14:11:17+00:00"
+tags = ["geek"]
+title = "World’s silliest “toolbar”"
+url = "/2008/worlds-silliest-toolbar/"
+
++++
 
 Reading mailing list archives is hard enough without having to decipher this&#8230;
 

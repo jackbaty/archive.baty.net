@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Hardware
-date: 2016-05-23T21:59:32+00:00
-tags:
-- Writing
-title: The Freewrite is not my type – rabble.ca
-url: /2016/the-freewrite-is-not-my-type-rabble-ca/
----
++++
+author = "Jack"
+categories = ["Hardware"]
+date = "2016-05-23T21:59:32+00:00"
+tags = ["Writing"]
+title = "The Freewrite is not my type – rabble.ca"
+url = "/2016/the-freewrite-is-not-my-type-rabble-ca/"
+
++++
 
 [Wayne MacPhail on rabble.ca][1]:
 

@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-01-01T04:31:04+00:00
-dsq_thread_id:
-- 3131255597
-title: 'Blogging advice: Bitching Adds Zero Value'
-url: /2006/blogging-advice-bitching-adds-zero-value/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-01-01T04:31:04+00:00"
+dsq_thread_id = [3131255597]
+title = "Blogging advice: Bitching Adds Zero Value"
+url = "/2006/blogging-advice-bitching-adds-zero-value/"
+
++++
 
 I have literally hundreds of feeds nestled somewhat uncomfortably within my RSS aggregator. In recent months it seems that many of the authors I track have done nothing but rant and complain and whine. Yesterday I decided to clean up my subscriptions and remove those that add no value. I removed nearly one third half of them. For those of you I've cut (yes, I know you don't care), here's some advice&#8230; Bitching Adds Zero Value. 
 

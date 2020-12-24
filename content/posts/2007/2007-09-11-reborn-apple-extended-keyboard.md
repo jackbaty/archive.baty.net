@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-09-11T23:39:24+00:00
-title: Reborn Apple Extended Keyboard
-url: /2007/reborn-apple-extended-keyboard/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-09-11T23:39:24+00:00"
+title = "Reborn Apple Extended Keyboard"
+url = "/2007/reborn-apple-extended-keyboard/"
+
++++
 
 <img src="/files/tactile-pro.jpg" alt="tactile-pro.jpg" border="0" width="225" height="100" /> 
 

@@ -1,10 +1,11 @@
----
-title: "Synology Moments First Experience"
-date: 2018-06-25T09:41:12-04:00 
-draft: false
-description: "I've imported all my Google Photos into Synology Moments"
-tags: ["photography", "synology", "google"]
----
++++
+date = "2018-06-25T09:41:12-04:00"
+description = "I've imported all my Google Photos into Synology Moments"
+draft = false
+tags = ["photography", "synology", "google"]
+title = "Synology Moments First Experience"
+
++++
 
 I now have a nice, big Synology NAS. Synology's new photo app, [Moments](https://www.synology.com/en-us/dsm/feature/moments), aims to
 be a replacement for Google Photos, which sounds like a great plan. I've been

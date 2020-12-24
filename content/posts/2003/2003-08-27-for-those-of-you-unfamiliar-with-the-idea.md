@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-08-27T21:23:12+00:00
-title: For those of you unfamiliar with the idea…
-url: /2003/for-those-of-you-unfamiliar-with-the-idea/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-08-27T21:23:12+00:00"
+title = "For those of you unfamiliar with the idea…"
+url = "/2003/for-those-of-you-unfamiliar-with-the-idea/"
+
++++
 
 From Jason Kottke in a [post][1] on stop design's site:
   

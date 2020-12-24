@@ -1,9 +1,10 @@
----
-title: "Project templates in DEVONthink"
-date: 2018-11-18
-tags: ["devonthink","app","workflow"]
-slug: "devonthink-project-template"
----
++++
+date = "2018-11-18"
+slug = "devonthink-project-template"
+tags = ["devonthink", "app", "workflow"]
+title = "Project templates in DEVONthink"
+
++++
 
 I keep project information in [DEVONthink](https://www.devontechnologies.com/products/devonthink/devonthink-pro-office.html), organized like so...
 

@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Books
-- Journal
-date: 2013-08-29T04:00:00+00:00
-tags:
-- book
-title: 'Book: The Gunslinger (The Dark Tower, Book 1)'
-url: /2013/the-gunslinger-the-dark-tower-book-1/
----
++++
+author = "Jack"
+categories = ["Books", "Journal"]
+date = "2013-08-29T04:00:00+00:00"
+tags = ["book"]
+title = "Book: The Gunslinger (The Dark Tower, Book 1)"
+url = "/2013/the-gunslinger-the-dark-tower-book-1/"
+
++++
 
 <aside> <img src="/img/2013/gunslinger-book.jpg" alt="The Gunslinger (The Dark Tower, Book 1)" class="postimage" />
   

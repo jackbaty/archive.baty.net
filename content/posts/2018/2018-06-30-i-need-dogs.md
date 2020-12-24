@@ -1,16 +1,13 @@
----
-title: I need dogs
-author: Jack
-date: 2018-06-30T14:54:47+00:00
-url: /2018/i-need-dogs/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Misc
-tags:
-  - family
++++
+author = "Jack"
+categories = ["Misc"]
+date = "2018-06-30T14:54:47+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["family"]
+title = "I need dogs"
+url = "/2018/i-need-dogs/"
 
----
++++
 <figure id="attachment_1424" style="width: 1200px" class="wp-caption alignnone"><img class="size-full wp-image-1424" src="/img/2018/06/zim-katie-leeloo.jpg" alt="" width="1200" height="800" srcset="/img/2018/06/zim-katie-leeloo.jpg 1200w, /img/2018/06/zim-katie-leeloo-300x200.jpg 300w, /img/2018/06/zim-katie-leeloo-768x512.jpg 768w, /img/2018/06/zim-katie-leeloo-1024x683.jpg 1024w, /img/2018/06/zim-katie-leeloo-700x467.jpg 700w" sizes="(max-width: 1200px) 100vw, 1200px" /><figcaption class="wp-caption-text">Zim, Katie, and Leeloo (2006)</figcaption></figure>
 
 For many years I had three dogs and it was hectic and messy and awesome. I currently have no dogs and I don&#8217;t like it. I need dogs.

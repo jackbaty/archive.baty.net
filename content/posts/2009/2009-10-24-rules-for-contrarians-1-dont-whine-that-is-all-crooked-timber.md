@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2009-10-24T12:29:38+00:00
-title: 'Rules for Contrarians: 1. Don’t whine.  That is all — Crooked Timber'
-url: /2009/rules-for-contrarians-1-dont-whine-that-is-all-crooked-timber/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2009-10-24T12:29:38+00:00"
+title = "Rules for Contrarians: 1. Don’t whine.  That is all — Crooked Timber"
+url = "/2009/rules-for-contrarians-1-dont-whine-that-is-all-crooked-timber/"
+
++++
 
 <div class="posterous_bookmarklet_entry">
   <blockquote class="posterous_medium_quote">

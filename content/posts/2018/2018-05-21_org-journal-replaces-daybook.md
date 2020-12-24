@@ -1,8 +1,9 @@
 +++
-title = "Org-Journal May Replace My Daybook.org File"
-date = 2018-05-21T15:34:00-04:00
-tags = ["org-mode", "journal"]
+date = "2018-05-21T15:34:00-04:00"
 draft = false
+tags = ["org-mode", "journal"]
+title = "Org-Journal May Replace My Daybook.org File"
+
 +++
 
 The more I use Bastian Bechtold's [Org-journal](https://github.com/bastibe/org-journal) the more I like it.

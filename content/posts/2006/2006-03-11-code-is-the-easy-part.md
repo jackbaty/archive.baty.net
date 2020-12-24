@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-03-11T00:09:05+00:00
-title: Code is the easy part
-url: /2006/code-is-the-easy-part/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-03-11T00:09:05+00:00"
+title = "Code is the easy part"
+url = "/2006/code-is-the-easy-part/"
+
++++
 
 [37signals][1] gets a lot of flack in blog comments and elsewhere from people who probably aren't as good, and likely have serious self-esteem issues. I disagree with the haters in all cases. The 37signals folks almost always say exactly what I meant, only better and to a much larger audience. A fun thing they've begun doing on their [Signals vs. Noise][2] weblog is to post some of the highlights of recent [Campfire][3] conversations. It's another good idea I'll probably copy here. 
 

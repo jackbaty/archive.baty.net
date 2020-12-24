@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:12+00:00
-title: Strange little girl – Tori Amos
-url: /2003/strange-little-girl-tori-amos/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:12+00:00"
+title = "Strange little girl – Tori Amos"
+url = "/2003/strange-little-girl-tori-amos/"
+
++++
 
 Saw Tori Amos last night here in town. Every time she's been here in
   

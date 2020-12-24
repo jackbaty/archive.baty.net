@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2012-01-28T00:00:00+00:00
-tags:
-- story
-- Writing
-title: The Storm of '78 and an Alien Invasion
-url: /2012/the-storm-of-78-and-an-alien-invasion/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2012-01-28T00:00:00+00:00"
+tags = ["story", "Writing"]
+title = "The Storm of '78 and an Alien Invasion"
+url = "/2012/the-storm-of-78-and-an-alien-invasion/"
+
++++
 
 ## A story about imagination
 

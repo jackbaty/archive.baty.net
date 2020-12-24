@@ -1,9 +1,10 @@
----
-title: "I Painted a Tree"
-slug: "i-painted-a-tree"
-date: "2016-12-09T18:16:51-05:00"
-tags: ["Art"]
----
++++
+date = "2016-12-09T18:16:51-05:00"
+slug = "i-painted-a-tree"
+tags = ["Art"]
+title = "I Painted a Tree"
+
++++
 
 
 I've been experimenting with watercolor painting. It's not going well,

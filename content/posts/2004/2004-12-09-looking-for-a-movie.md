@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-12-09T16:57:23+00:00
-title: Looking for a movie?
-url: /2004/looking-for-a-movie/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-12-09T16:57:23+00:00"
+title = "Looking for a movie?"
+url = "/2004/looking-for-a-movie/"
+
++++
 
 Try the [The Online Film Critics Society's &#8216;Top 100 Overlooked Films of the 1990s'][1]
 

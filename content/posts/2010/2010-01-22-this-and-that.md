@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2010-01-23T01:11:14+00:00
-tags:
-- geek
-title: This and That
-url: /2010/this-and-that/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2010-01-23T01:11:14+00:00"
+tags = ["geek"]
+title = "This and That"
+url = "/2010/this-and-that/"
+
++++
 
 It occurred to me today that when there are two choices in any particular product category, I have a hard time choosing just one. In fact, I seldom end up completely in one camp or the other. If the choice is this or that, I choose both! Here are a few examples&#8230;
 

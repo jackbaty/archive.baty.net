@@ -1,13 +1,12 @@
----
-date: 2016-09-08T15:16:00+00:00
-description: ""
-draft: false
-tags:
-- blogging
-- hugo
-title: Forestry.io
-topics: []
----
++++
+date = "2016-09-08T15:16:00+00:00"
+description = ""
+draft = false
+tags = ["blogging", "hugo"]
+title = "Forestry.io"
+topics = []
+
++++
 
 In 2003 I was using [Blosxom](http://blosxom.sourceforge.net) to publish this blog. Even though Blosxom rendered via Perl, it was essentially a static blogging engine. All content was maintaned as simple text files. I tired of always editing text files and so I built a very simple static blogging CMS for Blosxom. I called it [PHPetal](https://www.baty.net/phpetal/). It worked well for what I needed, which was a web UI for editing content in a static CMS.
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-08-21T16:48:26+00:00
-title: Start on your first Million at age 16
-url: /2005/start-on-your-first-million-at-age-16/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-08-21T16:48:26+00:00"
+title = "Start on your first Million at age 16"
+url = "/2005/start-on-your-first-million-at-age-16/"
+
++++
 
 From the [MSN Money article][1]&#8230;
 

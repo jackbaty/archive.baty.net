@@ -1,9 +1,10 @@
 +++
-title = "Posting to Hugo from Org Mode using ox-hugo"
-date = 2017-08-02T06:31:56-04:00
-tags = ["blogging", "hugo", "orgmode"]
-draft = false
+date = "2017-08-02T06:31:56-04:00"
 description = "It's possible to publish Hugo posts via Org Mode"
+draft = false
+tags = ["blogging", "hugo", "orgmode"]
+title = "Posting to Hugo from Org Mode using ox-hugo"
+
 +++
 
 > [ox-hugo](https://github.com/kaushalmodi/ox-hugo) is an Org exporter backend that exports Org to Hugo-compatible Markdown (Blackfriday). That also includes the generation of front matter (in TOML or YAML format) required for Hugo posts.

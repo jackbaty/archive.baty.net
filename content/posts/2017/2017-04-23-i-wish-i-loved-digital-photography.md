@@ -1,10 +1,11 @@
----
-title: "I Wish I Loved Digital Photography"
-slug: "i-wish-i-loved-digital-photography"
-date: "2017-04-23T07:39:11-04:00"
-tags: ["Photography"]
-draft: false
----
++++
+date = "2017-04-23T07:39:11-04:00"
+draft = false
+slug = "i-wish-i-loved-digital-photography"
+tags = ["Photography"]
+title = "I Wish I Loved Digital Photography"
+
++++
 
 I recently bought a fantastic digital camera,
 the

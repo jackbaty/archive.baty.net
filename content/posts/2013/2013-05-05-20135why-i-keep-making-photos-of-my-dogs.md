@@ -1,15 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-05-05T11:04:12+00:00
-tags:
-- film
-- Hasselblad
-- photography
-title: Why I keep making photos of my dogs
-url: /2013/20135why-i-keep-making-photos-of-my-dogs/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-05-05T11:04:12+00:00"
+tags = ["film", "Hasselblad", "photography"]
+title = "Why I keep making photos of my dogs"
+url = "/2013/20135why-i-keep-making-photos-of-my-dogs/"
+
++++
 
 It seems like I post a photo of one or more of my dogs every week. This is not because I think my dogs are especially interesting or photogenic (although they are that,) but rather it's because I can't think of anything else to photograph.
 

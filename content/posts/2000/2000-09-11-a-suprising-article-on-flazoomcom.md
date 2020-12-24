@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-09-11T11:30:06+00:00
-title: A (suprising) article on flazoom.com
-url: /2000/a-suprising-article-on-flazoomcom/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-09-11T11:30:06+00:00"
+title = "A (suprising) article on flazoom.com"
+url = "/2000/a-suprising-article-on-flazoomcom/"
+
++++
 
 A (suprising) article on [flazoom.com][1] titled [A Cancer on the Web called Flash][2] has some good advice,
   

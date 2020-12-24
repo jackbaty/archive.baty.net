@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-11-07T07:15:31+00:00
-title: Lifting the Skirt on Reality TV
-url: /2003/lifting-the-skirt-on-reality-tv/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-11-07T07:15:31+00:00"
+title = "Lifting the Skirt on Reality TV"
+url = "/2003/lifting-the-skirt-on-reality-tv/"
+
++++
 
 I think Dave Pell [makes an excellent point][1] about, [GASP!], a possible upside to reality television&#8230;
   

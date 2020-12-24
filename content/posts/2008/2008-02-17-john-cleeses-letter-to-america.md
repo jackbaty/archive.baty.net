@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-02-17T12:29:17+00:00
-title: John Cleese’s Letter to America
-url: /2008/john-cleeses-letter-to-america/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-02-17T12:29:17+00:00"
+title = "John Cleese’s Letter to America"
+url = "/2008/john-cleeses-letter-to-america/"
+
++++
 
 And a damn funny one, at that.
 

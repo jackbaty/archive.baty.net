@@ -1,15 +1,12 @@
----
-title: Static site publishing is still (mostly) a pain
-author: Jack
-date: 2017-09-08T21:41:53+00:00
-url: /2017/static-site-publishing-is-still-mostly-a-pain/
-categories:
-  - Tech
-tags:
-  - blogging
-  - wordpress
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2017-09-08T21:41:53+00:00"
+tags = ["blogging", "wordpress"]
+title = "Static site publishing is still (mostly) a pain"
+url = "/2017/static-site-publishing-is-still-mostly-a-pain/"
 
----
++++
 I love that static websites can just sit somewhere behind a simple web server and always just work. They&#8217;re fast and secure. However, I&#8217;m beginning to think that for certain sites, blogs for example, the joy of easy hosting loses out to the pain of publishing.
 
 I know, &#8220;But it&#8217;s just a folder full of text files!&#8221; I get it, baty.net is currently a folder full of about 3000 markdown files. Still, in order to publish something I have to create a new markdown file in a particular folder, named in a particular way, in a particular format. I have scripts that help, but I tire of tinkering with scripts instead of just writing stuff and clicking &#8220;Post&#8221;.

@@ -1,10 +1,11 @@
----
-title: "Technology Fatigue"
-date: 2017-10-08T12:34:18-04:00
-tags: ["tech"]
-slug: "technology-fatigue"
-description: I need a break from all this technology
----
++++
+date = "2017-10-08T12:34:18-04:00"
+description = "I need a break from all this technology"
+slug = "technology-fatigue"
+tags = ["tech"]
+title = "Technology Fatigue"
+
++++
 
 A few weeks ago I wrote that "Technology exhausts me." I was exaggerating to make a point, but it's still happening; and getting worse. I'm just not in the mood.
 

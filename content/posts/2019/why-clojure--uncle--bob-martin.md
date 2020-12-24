@@ -1,8 +1,9 @@
 +++
-title = "Why Clojure? - (Uncle) Bob Martin"
-date = 2019-08-23T07:42:00-04:00
-tags = ["lisp", "programming"]
+date = "2019-08-23T07:42:00-04:00"
 draft = false
+tags = ["lisp", "programming"]
+title = "Why Clojure? - (Uncle) Bob Martin"
+
 +++
 
 [Bob Martin](<http://blog.cleancoder.com/uncle-bob/2019/08/22/WhyClojure.html>):

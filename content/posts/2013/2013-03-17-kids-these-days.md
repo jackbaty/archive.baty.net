@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-03-17T00:00:00+00:00
-title: Kids these days
-url: /2013/kids-these-days/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-03-17T00:00:00+00:00"
+title = "Kids these days"
+url = "/2013/kids-these-days/"
+
++++
 
 I don't know what it's like having grown up with the Internet. In "We, the Web Kids" [Piotr Czerski writes][1] from the perspective of someone who does:
 

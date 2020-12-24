@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:11+00:00
-title: Johnny Cash sings Hurt (NIN)
-url: /2003/johnny-cash-sings-hurt-nin/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:11+00:00"
+title = "Johnny Cash sings Hurt (NIN)"
+url = "/2003/johnny-cash-sings-hurt-nin/"
+
++++
 
 Johnny Cash keeps churning out songs by alternative bands, and sometimes they're brilliant.
   

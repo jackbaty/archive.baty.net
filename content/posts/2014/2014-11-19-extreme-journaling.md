@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-11-20T00:02:54+00:00
-dsq_thread_id:
-- 3243134810
-title: Extreme Journaling
-url: /2014/extreme-journaling/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-11-20T00:02:54+00:00"
+dsq_thread_id = [3243134810]
+title = "Extreme Journaling"
+url = "/2014/extreme-journaling/"
+
++++
 
 Keeping a journal is a great idea, but I struggle to do it consistently. I’ve been writing in a journal for years, on and off. Mostly off, if I’m being honest. I wish I’d do it more.
 

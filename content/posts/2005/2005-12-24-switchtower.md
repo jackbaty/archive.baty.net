@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-12-24T12:23:04+00:00
-title: Switchtower
-url: /2005/switchtower/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-12-24T12:23:04+00:00"
+title = "Switchtower"
+url = "/2005/switchtower/"
+
++++
 
 Today, [Switchtower](<http://manuals.rubyonrails.com/read/book/17>) became the preferred method of deployment for Rails apps. Why? Because when a new version of an application needs to be pushed to production, I can now type "rake deploy" on my development machine and it's done. With judicious use of switchtower recipes, all of the little things that typically need to be done when updating a web app are handled automatically. And what's more, if something goes wrong I can simply run "rake rollback" and the old version gets put back automatically. Isn't that just neato? 
 

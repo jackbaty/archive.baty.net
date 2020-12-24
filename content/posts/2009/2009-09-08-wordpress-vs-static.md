@@ -1,15 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2009-09-09T03:26:22+00:00
-dsq_thread_id:
-- 3131255211
-tags:
-- Blogging
-title: WordPress vs Static
-url: /2009/wordpress-vs-static/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2009-09-09T03:26:22+00:00"
+dsq_thread_id = [3131255211]
+tags = ["Blogging"]
+title = "WordPress vs Static"
+url = "/2009/wordpress-vs-static/"
+
++++
 
 Maciej Ceglowski wrote a much linked to piece on [How to not get your blog hacked](http://idlewords.com/2009/09/how\_to\_not\_get\_your\_blog\_hacked.htm), suggesting that the best way to avoid having your WordPress (or whatever) site hacked is to run it statically&#8230;
 

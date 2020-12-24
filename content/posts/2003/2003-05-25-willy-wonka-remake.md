@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-25T19:22:13+00:00
-title: Willy Wonka remake
-url: /2003/willy-wonka-remake/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-25T19:22:13+00:00"
+title = "Willy Wonka remake"
+url = "/2003/willy-wonka-remake/"
+
++++
 
 Someone at lunch said that there was to be a remake of Willy Wonka and
   

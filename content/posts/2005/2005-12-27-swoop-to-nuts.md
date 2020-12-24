@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-12-27T18:17:04+00:00
-title: Swoop-to-nuts
-url: /2005/swoop-to-nuts/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-12-27T18:17:04+00:00"
+title = "Swoop-to-nuts"
+url = "/2005/swoop-to-nuts/"
+
++++
 
 I'm way late on this one, but&#8230; 
 

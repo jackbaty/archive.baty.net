@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-09-29T00:00:00+00:00
-tags:
-- Analog
-title: Is that a pencil?!
-url: /2013/is-that-a-pencil/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-09-29T00:00:00+00:00"
+tags = ["Analog"]
+title = "Is that a pencil?!"
+url = "/2013/is-that-a-pencil/"
+
++++
 
 <img src="/img/2013/pencil.jpg" width="500" alt="Midori Brass Pencil" />
 

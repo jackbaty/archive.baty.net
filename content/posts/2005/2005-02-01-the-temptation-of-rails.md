@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-02-01T15:27:50+00:00
-title: The temptation of Rails
-url: /2005/the-temptation-of-rails/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-02-01T15:27:50+00:00"
+title = "The temptation of Rails"
+url = "/2005/the-temptation-of-rails/"
+
++++
 
 Oh boy. If I even _mention_ a new development platform around [the office][1], people start to break out in hives. Let's just say the phrase "Now what?!" has been bandied about on more than one occasion.
 

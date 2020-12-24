@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-12-08T17:17:00+00:00
-title: Meet the new blog. Same as the old blog
-url: /2007/meet-the-new-blog-same-as-the-old-blog/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-12-08T17:17:00+00:00"
+title = "Meet the new blog. Same as the old blog"
+url = "/2007/meet-the-new-blog-same-as-the-old-blog/"
+
++++
 
 I've gone and done it again. Yep, my blog is using yet another blogging engine. This time, it wasn't just because I was bored. Honest. So it happened like this.
 

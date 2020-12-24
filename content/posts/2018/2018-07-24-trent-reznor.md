@@ -1,8 +1,9 @@
----
-title: "Trent Reznor on boredom and creativity"
-date: 2018-07-24
-tags: ["music","social"]
----
++++
+date = "2018-07-24"
+tags = ["music", "social"]
+title = "Trent Reznor on boredom and creativity"
+
++++
 
 [Trent Reznor - NYT](https://www.nytimes.com/2018/06/20/magazine/trent-reznor-thinks-artists-should-speak-out.html):
 

@@ -1,11 +1,12 @@
----
-title: "In Praise of the News on Paper - WSJ"
-date: 2018-04-18T21:59:28-04:00
-lastmod: 2018-04-18T21:59:28-04:00
-draft: false
-description: "There is a future in newspapers"
-tags: ["analog","news"]
----
++++
+date = "2018-04-18T21:59:28-04:00"
+description = "There is a future in newspapers"
+draft = false
+lastmod = "2018-04-18T21:59:28-04:00"
+tags = ["analog", "news"]
+title = "In Praise of the News on Paper - WSJ"
+
++++
 
 [Barton Swaim, WSJ](https://www.wsj.com/articles/in-praise-of-the-news-on-paper-1523817821):
 

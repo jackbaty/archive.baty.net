@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-10-16T22:50:23+00:00
-title: Pipchip.com Better than a chain
-url: /2000/pipchipcom-better-than-a-chain/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-10-16T22:50:23+00:00"
+title = "Pipchip.com Better than a chain"
+url = "/2000/pipchipcom-better-than-a-chain/"
+
++++
 
 [Pipchip.com][1]
   

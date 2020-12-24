@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-07-21T18:10:23+00:00
-title: Top Sites’ User Experience Teams and Their Challenge
-url: /2003/top-sites-user-experience-teams-and-their-challenge/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-07-21T18:10:23+00:00"
+title = "Top Sites’ User Experience Teams and Their Challenge"
+url = "/2003/top-sites-user-experience-teams-and-their-challenge/"
+
++++
 
 [Good Experience][1]:&nbsp; Seems that many of the top web sites have the same user experience issues as us little guys. One of the big challenges is mapping customers' needs to site structure, specifically dealing with the problems caused by mirroring the corporate structure on its web site:
   

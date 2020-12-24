@@ -1,16 +1,12 @@
----
-author: Jack
-categories:
-- Photography
-date: 2016-06-04T13:54:19+00:00
-tags:
-- F3
-- film
-- nikon
-- photography
-title: The Nikon Nikkor 105mm f2.5 AI-S
-url: /2016/the-nikon-nikkor-105mm-f2-5-ai-s/
----
++++
+author = "Jack"
+categories = ["Photography"]
+date = "2016-06-04T13:54:19+00:00"
+tags = ["F3", "film", "nikon", "photography"]
+title = "The Nikon Nikkor 105mm f2.5 AI-S"
+url = "/2016/the-nikon-nikkor-105mm-f2-5-ai-s/"
+
++++
 
 I just bought one of Nikon's classic lenses : The Nikkor 105mm f2.5 AI-S.
 

@@ -1,14 +1,12 @@
----
-title: My Reading Pile (aka The Graveyard of Good Intentions)
-author: Jack
-date: 2017-12-29T16:06:23+00:00
-url: /2017/my-reading-pile-aka-the-graveyard-of-good-intentions/
-categories:
-  - Books and Media
-tags:
-  - reading
++++
+author = "Jack"
+categories = ["Books and Media"]
+date = "2017-12-29T16:06:23+00:00"
+tags = ["reading"]
+title = "My Reading Pile (aka The Graveyard of Good Intentions)"
+url = "/2017/my-reading-pile-aka-the-graveyard-of-good-intentions/"
 
----
++++
 [Patrick Rhone][1] posted a photo of [his pile of unread books][2]. I&#8217;m glad I&#8217;m not the only one suffering from the &#8220;too many books, not enough time&#8221; problem.
 
 Here&#8217;s my pile. I call it &#8220;The Graveyard of Good Intentions&#8221;.

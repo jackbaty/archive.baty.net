@@ -1,14 +1,12 @@
----
-title: Safety Not Guaranteed, 2012 – ★★★★
-author: Jack
-date: 2018-01-03T02:07:10+00:00
-url: /2018/safety-not-guaranteed-2012-★★★★/
-categories:
-  - Books and Media
-tags:
-  - movie
++++
+author = "Jack"
+categories = ["Books and Media"]
+date = "2018-01-03T02:07:10+00:00"
+tags = ["movie"]
+title = "Safety Not Guaranteed, 2012 – ★★★★"
+url = "/2018/safety-not-guaranteed-2012-★★★★/"
 
----
++++
 ![][1]
 
 Safety Not Guaranteed is my kind of movie. Quirky people talking and underdogs winning. And I’ve still not had enough Aubrey Plaza.

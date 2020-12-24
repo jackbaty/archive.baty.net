@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-07-21T04:00:00+00:00
-tags:
-- email
-- softare
-title: Done using offlineimap
-url: /2015/done-using-offlineimap/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-07-21T04:00:00+00:00"
+tags = ["email", "softare"]
+title = "Done using offlineimap"
+url = "/2015/done-using-offlineimap/"
+
++++
 
 ![OfflineIMAP Logo](/img/2015/07/OfflineIMAP_logo.png)
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-12-13T09:15:09+00:00
-title: 'goodexperience.com: It’s time to simplify'
-url: /2000/goodexperiencecom-its-time-to-simplify/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-12-13T09:15:09+00:00"
+title = "goodexperience.com: It’s time to simplify"
+url = "/2000/goodexperiencecom-its-time-to-simplify/"
+
++++
 
 [goodexperience.com: It's time to simplify the PC][1]
 

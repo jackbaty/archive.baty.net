@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-12-28T15:19:00+00:00
-title: ScreamDesign – Designing for e-commerce
-url: /2000/screamdesign-designing-for-e-commerce/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-12-28T15:19:00+00:00"
+title = "ScreamDesign – Designing for e-commerce"
+url = "/2000/screamdesign-designing-for-e-commerce/"
+
++++
 
 [ScreamDesign – Designing for e-commerce][1]
 

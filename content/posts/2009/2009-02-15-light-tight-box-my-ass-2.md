@@ -1,17 +1,14 @@
----
-author: Jack
-categories:
-- Journal
-date: 2009-02-15T16:40:24+00:00
-tags:
-- photography
-thesis_post_image:
-- /files/wpid2891-20090210-013.jpg
-thesis_post_image_alt:
-- Leica M4
-title: Light-tight box my Ass!
-url: /2009/light-tight-box-my-ass-2/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2009-02-15T16:40:24+00:00"
+tags = ["photography"]
+thesis_post_image = ["/files/wpid2891-20090210-013.jpg"]
+thesis_post_image_alt = ["Leica M4"]
+title = "Light-tight box my Ass!"
+url = "/2009/light-tight-box-my-ass-2/"
+
++++
 
 A camera is most decidedly \*\*not\*\* just a light-tight box to hold the film. This one isn't anyway.
 

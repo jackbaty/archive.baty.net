@@ -1,9 +1,10 @@
----
-title: "Updates to my ox-hugo publishing setup"
-date: 2020-09-01T17:25:00-04:00
-tags: ["Emacs", "Hugo"]
-draft: false
----
++++
+date = "2020-09-01T17:25:00-04:00"
+draft = false
+tags = ["Emacs", "Hugo"]
+title = "Updates to my ox-hugo publishing setup"
+
++++
 
 My [previous post](https://www.baty.net/2020/its-all-emacs/) was mostly a way to test updates to how I handle images and
 publish posts using Org mode and [ox-hugo](https://github.com/kaushalmodi/ox-hugo).

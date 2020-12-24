@@ -1,15 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2012-12-31T18:36:17+00:00
-tags:
-- Leica
-- lens
-- Summarit
-title: Leica 35mm Summarit-M Incoming
-url: /2012/201212leica-35mm-summarit-m-incoming/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2012-12-31T18:36:17+00:00"
+tags = ["Leica", "lens", "Summarit"]
+title = "Leica 35mm Summarit-M Incoming"
+url = "/2012/201212leica-35mm-summarit-m-incoming/"
+
++++
 
 A few years ago my only camera was a Leica M6-TTL and on it was mounted the best lens I've ever used, a Leica 35mm Summicron ASPH. Since then I've gone through many cameras and lenses, but I still regret selling the Summicron. I'd purchased that lens (used) for $1,300 and sold it a year later for the same amount. I wish I'd known that in just a few short years the prices for used copies would double. Today, a "bargain" grade Summicron fetches in the neighborhood of $2,500. Dammit!
 

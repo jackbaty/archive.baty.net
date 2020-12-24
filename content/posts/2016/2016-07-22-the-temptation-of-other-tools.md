@@ -1,17 +1,12 @@
----
-author: Jack
-categories:
-- Software
-date: 2016-07-22T14:22:00+00:00
-tags:
-- DEVONthink
-- emacs
-- orgmode
-- productivity
-- workflow
-title: The Temptation of Other Tools
-url: /2016/the-temptation-of-other-tools/
----
++++
+author = "Jack"
+categories = ["Software"]
+date = "2016-07-22T14:22:00+00:00"
+tags = ["DEVONthink", "emacs", "orgmode", "productivity", "workflow"]
+title = "The Temptation of Other Tools"
+url = "/2016/the-temptation-of-other-tools/"
+
++++
 
 I am easily distracted by shiny new things. This is dangerous for productivity because it causes me to burn down my system and start over on a regular basis. As fun as that is, it's not what I should be doing. For example, last night after reading a random blog post I impulsively started moving all of my tasks and projects back into [that other][1] todo app that I love. Doing that led me to changing how capture works with email, which makes me want to look up some helper scripts and then it was 2:00AM and I realized how much I'd miss Org Mode and oh yeah Mu4e is awesome and now what?
 

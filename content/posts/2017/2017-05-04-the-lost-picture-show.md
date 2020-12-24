@@ -1,10 +1,11 @@
----
-title: "The Lost Picture Show"
-slug: "the-lost-picture-show"
-date: "2017-05-04T17:37:33-04:00"
-tags: ["Archiving","Film"]
-draft: false
----
++++
+date = "2017-05-04T17:37:33-04:00"
+draft = false
+slug = "the-lost-picture-show"
+tags = ["Archiving", "Film"]
+title = "The Lost Picture Show"
+
++++
 <a href="http://spectrum.ieee.org/computing/it/the-lost-picture-show-hollywood-archivists-cant-outpace-obsolescence">The Lost Picture Show: Hollywood Archivists Can’t Outpace Obsolescence</a>
 
 <blockquote>

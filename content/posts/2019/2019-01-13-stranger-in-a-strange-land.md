@@ -1,8 +1,9 @@
----
-title: "Stranger in a Strange Land"
-date: 2019-01-13T16:42:38-05:00
-tags: ["book"]
----
++++
+date = "2019-01-13T16:42:38-05:00"
+tags = ["book"]
+title = "Stranger in a Strange Land"
+
++++
 
 ![Stranger in a Strange Land cover](/img/2019/2019-01-13_heinlein-stranger.jpg)
 

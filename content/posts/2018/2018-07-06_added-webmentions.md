@@ -1,9 +1,10 @@
----
-title: "Showing Webmentions here on baty.net"
-date: 2018-07-06T11:32:46-04:00 
-description: "I'm now displaying webmentions on baty.net"
-tags: ["indieweb","blogging"]
----
++++
+date = "2018-07-06T11:32:46-04:00"
+description = "I'm now displaying webmentions on baty.net"
+tags = ["indieweb", "blogging"]
+title = "Showing Webmentions here on baty.net"
+
++++
 
 This blog is statically-rendered using [Hugo](https://gohugo.io/), which means
 there's no easy set of plugins (that I know of) for adding Webmentions. There's

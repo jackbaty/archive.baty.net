@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:11+00:00
-title: The joy of learning
-url: /2003/the-joy-of-learning/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:11+00:00"
+title = "The joy of learning"
+url = "/2003/the-joy-of-learning/"
+
++++
 
 [Dave Winer][1]:
   

@@ -1,8 +1,9 @@
----
-title: "The Note-taking Fallacy"
-date: 2020-09-27T09:00:00-04:00
-draft: false
----
++++
+date = "2020-09-27T09:00:00-04:00"
+draft = false
+title = "The Note-taking Fallacy"
+
++++
 
 [Andy Matuschak](https://andymatuschak.org/) nails it in a series of entries on his site. A couple of good examples:
 

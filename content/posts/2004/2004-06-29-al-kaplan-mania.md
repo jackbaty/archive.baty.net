@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-06-29T18:18:21+00:00
-title: Al Kaplan Mania
-url: /2004/al-kaplan-mania/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-06-29T18:18:21+00:00"
+title = "Al Kaplan Mania"
+url = "/2004/al-kaplan-mania/"
+
++++
 
 Al Kaplan, long-time photographer and Leica fanatic is becoming something of a phenomenon. Or more precisely, the following photo of him is&#8230;
 

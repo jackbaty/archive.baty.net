@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-06-28T04:01:14+00:00
-title: Tim Bray’s introduction to the Wiki
-url: /2003/tim-brays-introduction-to-the-wiki/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-06-28T04:01:14+00:00"
+title = "Tim Bray’s introduction to the Wiki"
+url = "/2003/tim-brays-introduction-to-the-wiki/"
+
++++
 
 Over at Tim Bray's place, he had nearly the same reaction that I did
   

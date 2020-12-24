@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-09-04T21:55:30+00:00
-title: An interesting email readability issue
-url: /2007/an-interesting-email-readability-issue/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-09-04T21:55:30+00:00"
+title = "An interesting email readability issue"
+url = "/2007/an-interesting-email-readability-issue/"
+
++++
 
 I've sent a couple emails recently which contained everything the recipient needed, and yet were completely misread. In both cases, I included the important bits in the very first line, which was promptly ignored. They looked something like this&#8230; 
 

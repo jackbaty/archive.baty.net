@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-09-14T03:41:27+00:00
-tags:
-- book
-title: David Foster Wallace Dies
-url: /2008/david-foster-wallace-dies/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-09-14T03:41:27+00:00"
+tags = ["book"]
+title = "David Foster Wallace Dies"
+url = "/2008/david-foster-wallace-dies/"
+
++++
 
 [<img src="/files//david_foster_wallace.jpg" alt="" title="david_foster_wallace" width="186" height="268" class="alignleft size-full wp-image-2676" />][1]
 

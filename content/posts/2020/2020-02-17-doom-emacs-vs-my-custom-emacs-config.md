@@ -1,16 +1,13 @@
----
-title: Doom Emacs vs my custom Emacs config
-author: Jack
-type: posts
-date: 2020-02-17T13:53:00+00:00
-url: /2020/doom-emacs-vs-my-custom-emacs-config/
-categories:
-  - Software
-tags:
-  - Doom-emacs
-  - Emacs
++++
+author = "Jack"
+categories = ["Software"]
+date = "2020-02-17T13:53:00+00:00"
+tags = ["Doom-emacs", "Emacs"]
+title = "Doom Emacs vs my custom Emacs config"
+type = "posts"
+url = "/2020/doom-emacs-vs-my-custom-emacs-config/"
 
----
++++
 I’ve become catatonic over whether to use&nbsp;[**Doom Emacs**][1]&nbsp;or my home-rolled Emacs configuration, so I’m jotting down a few notes to help me think it through.
 
 Doom has very good defaults, looks great, and continues to fine-tune a bunch of behaviors in a way that I generally get along with. (I like it more than the other big contender, Spacemacs). On the other hand, Doom’s behavior feels out of my control and things change frequently, forcing me to pay attention to my editor in a way that I’d rather not. That’s not the way Emacs is supposed to feel. It should feel like it’s 100%&nbsp;_mine_.

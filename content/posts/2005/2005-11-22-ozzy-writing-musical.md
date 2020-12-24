@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-11-22T18:14:38+00:00
-title: Ozzy Writing Musical
-url: /2005/ozzy-writing-musical/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-11-22T18:14:38+00:00"
+title = "Ozzy Writing Musical"
+url = "/2005/ozzy-writing-musical/"
+
++++
 
 Ozzy, on plans to write a musical&#8230;
 

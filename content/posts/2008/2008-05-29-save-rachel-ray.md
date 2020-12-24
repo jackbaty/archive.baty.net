@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-05-29T18:36:32+00:00
-tags:
-- news
-title: Save Rachel Ray
-url: /2008/save-rachel-ray/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-05-29T18:36:32+00:00"
+tags = ["news"]
+title = "Save Rachel Ray"
+url = "/2008/save-rachel-ray/"
+
++++
 
 <img src="/files/rachael_ray.jpg" alt="rachael_ray.ap.03.jpg" border="0" width="220" height="249" />
 

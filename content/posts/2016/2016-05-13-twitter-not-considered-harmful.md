@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Software
-date: 2016-05-13T13:54:39+00:00
-tags:
-- social
-- twitter
-title: Twitter not considered harmful
-url: /2016/twitter-not-considered-harmful/
----
++++
+author = "Jack"
+categories = ["Software"]
+date = "2016-05-13T13:54:39+00:00"
+tags = ["social", "twitter"]
+title = "Twitter not considered harmful"
+url = "/2016/twitter-not-considered-harmful/"
+
++++
 
 I read things and wonder about them. For example, is Twitter a distraction that <img class="alignright size-full wp-image-5213" src="/img/2016/05/twitter.png" alt="twitter" width="150" height="150" />I should jettison? Is it making me unhappy?
 

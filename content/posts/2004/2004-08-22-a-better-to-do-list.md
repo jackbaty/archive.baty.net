@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-08-22T11:26:21+00:00
-title: A better To-Do List
-url: /2004/a-better-to-do-list/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-08-22T11:26:21+00:00"
+title = "A better To-Do List"
+url = "/2004/a-better-to-do-list/"
+
++++
 
 Y'all keep a list of things to do, right? Groceries, fix that screen door, have the oil changed, and on and on. I have one too and it has some important stuff on it: some personal, some professional, some in between.
 

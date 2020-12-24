@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-11-04T00:00:00+00:00
-tags:
-- photography
-title: Leica IIIf shutter capping
-url: /2013/leica-iiif-shutter-capping/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-11-04T00:00:00+00:00"
+tags = ["photography"]
+title = "Leica IIIf shutter capping"
+url = "/2013/leica-iiif-shutter-capping/"
+
++++
 
 I bought a little Leica IIIf on a whim a year ago and have become rather attached to it. It's tiny, beautiful, and I like how it handles.  
 

@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-03-19T17:07:05+00:00
-dsq_thread_id:
-- 3131255761
-title: A couple of platform issues with rsync
-url: /2006/a-couple-of-platform-issues-with-rsync/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-03-19T17:07:05+00:00"
+dsq_thread_id = [3131255761]
+title = "A couple of platform issues with rsync"
+url = "/2006/a-couple-of-platform-issues-with-rsync/"
+
++++
 
 I've been writing scripts the past couple of days for synching things up between a few servers. I've wasted too much time already with 2 issues: 
 

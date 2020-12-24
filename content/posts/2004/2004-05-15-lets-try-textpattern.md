@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-05-15T20:07:14+00:00
-title: Let’s try Textpattern
-url: /2004/lets-try-textpattern/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-05-15T20:07:14+00:00"
+title = "Let’s try Textpattern"
+url = "/2004/lets-try-textpattern/"
+
++++
 
 Yes, I know, I switched blogging platforms again. But [Textpattern][1], so far, **feels** so much better than [WordPress][2]. WordPress is nice but it has that built-by-geeks feel to it that can wear on you after a while. I hacked around with the admin area a bit and improved it some, but it felt a lot like swimming upstream.
 

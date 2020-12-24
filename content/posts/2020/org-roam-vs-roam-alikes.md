@@ -1,10 +1,11 @@
----
-title: "Org-roam vs other Roam-alikes"
-date:  2020-05-29
-tags: ["Org-roam","Roam","Emacs"]
-categories: ["Software"]
-slug: "org-roam-vs-other-roam-alikes"
----
++++
+categories = ["Software"]
+date = "2020-05-29"
+slug = "org-roam-vs-other-roam-alikes"
+tags = ["Org-roam", "Roam", "Emacs"]
+title = "Org-roam vs other Roam-alikes"
+
++++
 
 As you probably know, I struggle with [where to keep my notes](https://www.copingmechanism.com/2020/take-lots-of-notes-thinsp-mdash-thinsp-but-where). For a few months now it’s been a battle between [Org-roam](https://github.com/org-roam/org-roam) and [Roam](https://roamresearch.com/). Org-roam has been in the lead, mostly due to Roam being unstable and (soon to be) expensive. Also, my infatuation with Org mode is on again.
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-07-30T23:34:04+00:00
-title: 'Perched upon a lily pad: Self-referencing CSS design'
-url: /2003/perched-upon-a-lily-pad-self-referencing-css-design/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-07-30T23:34:04+00:00"
+title = "Perched upon a lily pad: Self-referencing CSS design"
+url = "/2003/perched-upon-a-lily-pad-self-referencing-css-design/"
+
++++
 
 Here is a nicely done [3 Column Complex Layout demo][1] with a twist. All of the content is used to describe itself.&nbsp; Things like&#8230;
   

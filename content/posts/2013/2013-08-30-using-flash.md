@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-08-30T00:00:00+00:00
-tags:
-- photography
-title: Using Flash
-url: /2013/using-flash/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-08-30T00:00:00+00:00"
+tags = ["photography"]
+title = "Using Flash"
+url = "/2013/using-flash/"
+
++++
 
 ![][1]
 

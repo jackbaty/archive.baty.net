@@ -1,17 +1,13 @@
----
-title: The Many Setups of the 2018 iPad Pro – MacStories
-author: Jack
-date: 2018-12-16T13:37:24+00:00
-url: /2018/the-many-setups-of-the-2018-ipad-pro-macstories/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Tech
-tags:
-  - hardware
-  - ipad
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2018-12-16T13:37:24+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["hardware", "ipad"]
+title = "The Many Setups of the 2018 iPad Pro – MacStories"
+url = "/2018/the-many-setups-of-the-2018-ipad-pro-macstories/"
 
----
++++
 [Federico Viticci, MacStories][1]
 
 > I want to limit the number of times I need to reach out and touch the screen as much as possible<figure class="wp-block-image">

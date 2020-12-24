@@ -1,18 +1,14 @@
----
-title: Setting up the Pakon scanner again
-author: Jack
-date: 2017-09-24T21:52:05+00:00
-url: /2017/setting-up-the-pakon-scanner-again/
-featured_image: /img/2017/09/IMG_0017.jpg
-mf2_syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Photography
-tags:
-  - hardware
-  - photography
++++
+author = "Jack"
+categories = ["Photography"]
+date = "2017-09-24T21:52:05+00:00"
+featured_image = "/img/2017/09/IMG_0017.jpg"
+mf2_syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["hardware", "photography"]
+title = "Setting up the Pakon scanner again"
+url = "/2017/setting-up-the-pakon-scanner-again/"
 
----
++++
 Every once in a while I get the urge to shoot color 35mm film and scanning that film is no fun at all. The only thing I&#8217;ve ever found that made it painless is the Pakon F-135 Plus.
 
 I recently paved and rebuilt my iMac, meaning I had to recreate my carefully-constructed Parallels/WinXP/Pakon configuration. This turned out to be no small effort. So that I don&#8217;t forget, I&#8217;ve captured a few random notes here. The short version is that once you have this all running, don&#8217;t lose it.

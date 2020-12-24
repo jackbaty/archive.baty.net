@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-10-30T08:22:25+00:00
-title: 'Flash: 99% Bad (Alertbox Oct.'
-url: /2000/flash-99-bad-alertbox-oct/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-10-30T08:22:25+00:00"
+title = "Flash: 99% Bad (Alertbox Oct."
+url = "/2000/flash-99-bad-alertbox-oct/"
+
++++
 
 [Flash: 99% Bad (Alertbox Oct. 2000)][1]
 

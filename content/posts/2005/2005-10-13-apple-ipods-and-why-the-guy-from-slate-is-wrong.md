@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-10-13T22:05:26+00:00
-title: Apple, iPods and why the guy from Slate is wrong
-url: /2005/apple-ipods-and-why-the-guy-from-slate-is-wrong/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-10-13T22:05:26+00:00"
+title = "Apple, iPods and why the guy from Slate is wrong"
+url = "/2005/apple-ipods-and-why-the-guy-from-slate-is-wrong/"
+
++++
 
 Jack Shafer, in [his recent Slate piece][1] describes what he calls a "crush" held by media outlets over Steve Jobs and all things Apple. He cannot understand why significant updates to one of the most loved and popular consumer devices ever would cause a stir. He suggests that Fortune, Globe and Mail, San Francisco Chronicle, Detroit Free Press and others are just blindly slathering unearned adoration on what amounts to a collection of ho-hum products. I mean, if it weren't for catchy ads and Steve's undeniably dynamic personality, why there'd be nothing to talk about.
 

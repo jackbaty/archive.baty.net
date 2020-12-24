@@ -1,11 +1,10 @@
----
-title: "The Revenge of Analog (Book)"
-date: 2016-11-26T13:37:11-05:00
-tags: 
-- book
-- analog
-slug: "the-revenge-of-analog"
----
++++
+date = "2016-11-26T13:37:11-05:00"
+slug = "the-revenge-of-analog"
+tags = ["book", "analog"]
+title = "The Revenge of Analog (Book)"
+
++++
 
 ![The Revenge of Analog](/img/2016/revenge-of-analog-cover.jpg)
 

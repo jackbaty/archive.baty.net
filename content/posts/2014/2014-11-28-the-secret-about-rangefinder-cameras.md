@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-11-28T18:48:27+00:00
-tags:
-- Leica
-- photography
-title: The Secret About Rangefinder Cameras
-url: /2014/the-secret-about-rangefinder-cameras/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-11-28T18:48:27+00:00"
+tags = ["Leica", "photography"]
+title = "The Secret About Rangefinder Cameras"
+url = "/2014/the-secret-about-rangefinder-cameras/"
+
++++
 
 [The Secret About Rangefinder Cameras][1]:
 

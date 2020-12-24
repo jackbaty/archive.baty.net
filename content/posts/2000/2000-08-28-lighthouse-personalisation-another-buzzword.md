@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-08-28T10:20:15+00:00
-title: Lighthouse – Personalisation Another buzzword
-url: /2000/lighthouse-personalisation-another-buzzword/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-08-28T10:20:15+00:00"
+title = "Lighthouse – Personalisation Another buzzword"
+url = "/2000/lighthouse-personalisation-another-buzzword/"
+
++++
 
 [Lighthouse &#8211; Personalisation][1]
 

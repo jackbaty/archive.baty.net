@@ -1,9 +1,10 @@
----
-title: "I Failed at Using Elfeed as My RSS Reader"
-date: 2018-06-24T07:57:27-04:00 
-description: "I tried Elfeed for RSS but it didn't stick"
-tags: ["rss","emacs","app"]
----
++++
+date = "2018-06-24T07:57:27-04:00"
+description = "I tried Elfeed for RSS but it didn't stick"
+tags = ["rss", "emacs", "app"]
+title = "I Failed at Using Elfeed as My RSS Reader"
+
++++
 
 Since I'm in Emacs most of the time anyway, I thought it would be useful to use [Elfeed](https://github.com/skeeto/elfeed) for reading RSS feeds.
 

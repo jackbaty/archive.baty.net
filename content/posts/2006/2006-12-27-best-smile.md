@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-12-27T23:11:14+00:00
-tags:
-- Jess
-title: Best Smile
-url: /2006/best-smile/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-12-27T23:11:14+00:00"
+tags = ["Jess"]
+title = "Best Smile"
+url = "/2006/best-smile/"
+
++++
 
 ![][1]
 

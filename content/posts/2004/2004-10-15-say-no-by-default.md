@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-10-15T19:52:22+00:00
-title: Say “no” by default
-url: /2004/say-no-by-default/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-10-15T19:52:22+00:00"
+title = "Say “no” by default"
+url = "/2004/say-no-by-default/"
+
++++
 
 When dealing with software development, the urge to add every feature asked for is almost impossible to resist&#8230;
 

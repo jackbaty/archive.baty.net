@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-12-25T19:00:00+00:00
-tags:
-- software
-title: Changes at Small Picture
-url: /2013/changes-at-small-picture/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-12-25T19:00:00+00:00"
+tags = ["software"]
+title = "Changes at Small Picture"
+url = "/2013/changes-at-small-picture/"
+
++++
 
 I'm a little discouraged to hear that Dave Winer is [losing Kyle Shank][1] as a developer at Small Picture. Dave says that Fargo development will continue, and that's great news. [Fargo][2] is a terrific outliner, and the first web-based writing tool that feels "right" to me.
 

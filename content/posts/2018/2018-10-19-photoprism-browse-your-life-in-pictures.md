@@ -1,14 +1,12 @@
----
-title: 'PhotoPrism: Browse your life in pictures'
-author: Jack
-date: 2018-10-19T15:06:24+00:00
-url: /2018/photoprism-browse-your-life-in-pictures/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Photography
++++
+author = "Jack"
+categories = ["Photography"]
+date = "2018-10-19T15:06:24+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+title = "PhotoPrism: Browse your life in pictures"
+url = "/2018/photoprism-browse-your-life-in-pictures/"
 
----
++++
 > We love taking photos.
 > 
 > Privacy concerns &#8211; and the wish to properly archive them for the next generation &#8211; brought us to the conclusion that existing cloud solutions are not the right tool to keep them organized.

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-10-14T18:31:58+00:00
-title: With a Rebel Yell
-url: /2003/with-a-rebel-yell/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-10-14T18:31:58+00:00"
+title = "With a Rebel Yell"
+url = "/2003/with-a-rebel-yell/"
+
++++
 
 ![Rebel][1]
 

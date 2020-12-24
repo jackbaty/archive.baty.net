@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-11-03T00:00:00+00:00
-tags:
-- Writing
-title: A Tree Falling in a Forest
-url: /2013/a-tree-falling-in-a-forest/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-11-03T00:00:00+00:00"
+tags = ["Writing"]
+title = "A Tree Falling in a Forest"
+url = "/2013/a-tree-falling-in-a-forest/"
+
++++
 
 <div>
   <div>

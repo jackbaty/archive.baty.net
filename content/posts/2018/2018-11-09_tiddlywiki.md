@@ -1,9 +1,10 @@
----
-title: "TiddlyWiki"
-date: 2018-11-12
-tags: ["tiddlywiki","wiki"]
-slug: ""
----
++++
+date = "2018-11-12"
+slug = ""
+tags = ["tiddlywiki", "wiki"]
+title = "TiddlyWiki"
+
++++
 
 I'm infatuated with [TiddlyWiki][tiddlywiki] again. I've tried it a few times over the years, but it's never stuck. One reason was that TiddlyWiki is a single, self-contained html file, and Safari has trouble saving itself to the file system. In order to save the thing I had to basically do a "Save As..." each time. Too much friction there.
 

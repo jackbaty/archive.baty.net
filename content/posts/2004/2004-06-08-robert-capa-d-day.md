@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-06-08T16:31:19+00:00
-title: 'Robert Capa: D-Day'
-url: /2004/robert-capa-d-day/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-06-08T16:31:19+00:00"
+title = "Robert Capa: D-Day"
+url = "/2004/robert-capa-d-day/"
+
++++
 
 It used to be more difficult to see pictures of wartime. On June 6, 1944 Robert Capa, along with what must have been dozens of others, managed to expose a few rolls. Seems that essentially only 11 frames survived of Omaha Beach.&nbsp; Here's [more][1] on that&#8230;
 

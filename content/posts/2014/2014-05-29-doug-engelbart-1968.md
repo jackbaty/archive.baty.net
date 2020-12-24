@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-05-29T19:00:00+00:00
-title: Doug Engelbart 1968
-url: /2014/doug-engelbart-1968/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-05-29T19:00:00+00:00"
+title = "Doug Engelbart 1968"
+url = "/2014/doug-engelbart-1968/"
+
++++
 
 > On December 9, 1968, Douglas C. Engelbart and the group of 17 researchers
     

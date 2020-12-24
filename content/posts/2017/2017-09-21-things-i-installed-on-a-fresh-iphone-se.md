@@ -1,17 +1,13 @@
----
-title: Things I installed on a fresh iPhone (SE)
-author: Jack
-date: 2017-09-21T12:24:16+00:00
-url: /2017/things-i-installed-on-a-fresh-iphone-se/
-mf2_syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Tech
-tags:
-  - apple
-  - software
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2017-09-21T12:24:16+00:00"
+mf2_syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["apple", "software"]
+title = "Things I installed on a fresh iPhone (SE)"
+url = "/2017/things-i-installed-on-a-fresh-iphone-se/"
 
----
++++
 After weeks of flakiness with my iPhone SE, I decided to wipe it and start over. This always seems like a good idea at the time.
 
 <img class="wp-image-187 size-medium alignnone" src="/img/2017/09/IMG_0001-169x300.jpg" alt="" width="169" height="300" srcset="/img/2017/09/IMG_0001-169x300.jpg 169w, /img/2017/09/IMG_0001-577x1024.jpg 577w, /img/2017/09/IMG_0001-394x700.jpg 394w, /img/2017/09/IMG_0001.jpg 640w" sizes="(max-width: 169px) 100vw, 169px" />

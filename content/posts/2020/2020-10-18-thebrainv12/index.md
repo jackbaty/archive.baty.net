@@ -1,10 +1,10 @@
----
-title: "TheBrain v12 brings Backlinks to the table"
-date:  2020-10-18
-tags: ["Notetaking", "Roam", "TheBrain"]
-categories: ["Software"]
++++
+categories = ["Software"]
+date = "2020-10-18"
+tags = ["Notetaking", "Roam", "TheBrain"]
+title = "TheBrain v12 brings Backlinks to the table"
 
----
++++
 
 These days, proper backlinks are becoming table stakes for any respectable note-taking tool.
 

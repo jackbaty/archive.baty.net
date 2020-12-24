@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-12-30T13:25:00+00:00
-tags:
-- Fusionary
-- geek
-title: Twhirl, Twitterrific and Adobe Air
-url: /2007/twhirl-twitterrific-and-adobe-air/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-12-30T13:25:00+00:00"
+tags = ["Fusionary", "geek"]
+title = "Twhirl, Twitterrific and Adobe Air"
+url = "/2007/twhirl-twitterrific-and-adobe-air/"
+
++++
 
 I'm logged in to [Twitter][1] all day, every day ([twitter.com/jackbaty][2]). It's become an important part of my workflow, or whatever you call what I do these days. 
 

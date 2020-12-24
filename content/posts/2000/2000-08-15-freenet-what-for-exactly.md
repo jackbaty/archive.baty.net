@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-08-15T17:37:59+00:00
-title: Freenet – what for, exactly?
-url: /2000/freenet-what-for-exactly/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-08-15T17:37:59+00:00"
+title = "Freenet – what for, exactly?"
+url = "/2000/freenet-what-for-exactly/"
+
++++
 
 **Freenet &#8211; what for, exactly?**
 

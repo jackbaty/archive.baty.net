@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-08-20T13:14:26+00:00
-title: Touching things up
-url: /2005/touching-things-up/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-08-20T13:14:26+00:00"
+title = "Touching things up"
+url = "/2005/touching-things-up/"
+
++++
 
 My dad, godluvim, just stopped at my house and took all of the wood parts off my old gas grill. Says he was bored and thought he'd strip and restain them &#8211; make it look goodasnew.
 

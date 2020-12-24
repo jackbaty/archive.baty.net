@@ -1,9 +1,9 @@
----
-title: "Notifications: A Tragedy Of the Digital Commons – Scott Belsky"
-date: 2017-05-28
-tags: [""]
-slug: "notifications-a-tragedy-of-the-digital-commons-scott-belsky"
----
++++
+date = "2017-05-28"
+slug = "notifications-a-tragedy-of-the-digital-commons-scott-belsky"
+title = "Notifications: A Tragedy Of the Digital Commons – Scott Belsky"
+
++++
 
 [Scott Belsky][1]
 

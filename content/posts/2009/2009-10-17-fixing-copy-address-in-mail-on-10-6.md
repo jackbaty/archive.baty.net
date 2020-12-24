@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2009-10-17T16:52:20+00:00
-title: Fixing "Copy Address" in Mail on 10.6
-url: /2009/fixing-copy-address-in-mail-on-10-6/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2009-10-17T16:52:20+00:00"
+title = "Fixing \"Copy Address\" in Mail on 10.6"
+url = "/2009/fixing-copy-address-in-mail-on-10-6/"
+
++++
 
 <div class="posterous_bookmarklet_entry">
   <blockquote class="posterous_short_quote">

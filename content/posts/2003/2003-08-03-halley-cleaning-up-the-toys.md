@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-08-03T12:28:56+00:00
-title: 'Halley: Cleaning up the toys'
-url: /2003/halley-cleaning-up-the-toys/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-08-03T12:28:56+00:00"
+title = "Halley: Cleaning up the toys"
+url = "/2003/halley-cleaning-up-the-toys/"
+
++++
 
 [Halley Suitt][1] reminds me to think of the chaos surrounding children in a more positive light.
   

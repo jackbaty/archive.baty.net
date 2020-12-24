@@ -1,10 +1,11 @@
----
-title: "Back to Lightroom...for now"
-date: 2018-03-01T07:30:06-05:00
-lastmod: 2018-03-01T07:30:06-05:00
-description: ""
-tags: ["photography", "Adobe"]
----
++++
+date = "2018-03-01T07:30:06-05:00"
+description = ""
+lastmod = "2018-03-01T07:30:06-05:00"
+tags = ["photography", "Adobe"]
+title = "Back to Lightroom...for now"
+
++++
 
 {{< figure src="/img/2018/lightroom-classic-2007.jpg"  title="Photo: Petapixel.com" >}}
 

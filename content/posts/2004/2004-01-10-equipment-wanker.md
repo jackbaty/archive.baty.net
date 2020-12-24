@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-01-10T18:50:10+00:00
-title: Equipment Wanker
-url: /2004/equipment-wanker/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-01-10T18:50:10+00:00"
+title = "Equipment Wanker"
+url = "/2004/equipment-wanker/"
+
++++
 
 Just bear with me while I get through the equipment wanker stage.
 

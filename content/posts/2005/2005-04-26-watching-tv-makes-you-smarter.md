@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-04-26T13:28:39+00:00
-title: Watching TV makes you smarter
-url: /2005/watching-tv-makes-you-smarter/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-04-26T13:28:39+00:00"
+title = "Watching TV makes you smarter"
+url = "/2005/watching-tv-makes-you-smarter/"
+
++++
 
 Steven Johnson [drops an excerpt][1] on us from his book. It's meant as a thought experiment about playing video games vs. reading books, and succeeds. Here's a snippet&#8230;
 

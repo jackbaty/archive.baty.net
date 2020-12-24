@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Photos
-date: 2016-05-08T22:41:11+00:00
-title: Mother’s Day
-url: /2016/mothers-day/
----
++++
+author = "Jack"
+categories = ["Photos"]
+date = "2016-05-08T22:41:11+00:00"
+title = "Mother’s Day"
+url = "/2016/mothers-day/"
+
++++
 
 Spending time with my mom on Mother's day. She decided to plant some flowers in my yard. She's the best.
 

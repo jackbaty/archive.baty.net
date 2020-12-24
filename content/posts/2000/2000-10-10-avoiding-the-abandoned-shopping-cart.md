@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-10-10T09:53:13+00:00
-title: Avoiding the Abandoned Shopping Cart
-url: /2000/avoiding-the-abandoned-shopping-cart/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-10-10T09:53:13+00:00"
+title = "Avoiding the Abandoned Shopping Cart"
+url = "/2000/avoiding-the-abandoned-shopping-cart/"
+
++++
 
 [Avoiding the Abandoned Shopping Cart][1]
 

@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-12-22T00:45:03+00:00
-tags:
-- Leica
-- photography
-title: The back of a Leica M3
-url: /2014/the-back-of-a-leica-m3/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-12-22T00:45:03+00:00"
+tags = ["Leica", "photography"]
+title = "The back of a Leica M3"
+url = "/2014/the-back-of-a-leica-m3/"
+
++++
 
 <img title="20141221_DSCF0939-edit.JPG" src="/img/2014/12/20141221_DSCF0939-edit.jpg" alt="20141221 DSCF0939 edit" width="600" height="480" border="0" />
 

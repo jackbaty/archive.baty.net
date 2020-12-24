@@ -1,9 +1,10 @@
----
-title: "Likes on social networks should be private"
-date: 2017-06-02
-tags: ["social"]
-slug: "likes-on-social-networks-should-be-private"
----
++++
+date = "2017-06-02"
+slug = "likes-on-social-networks-should-be-private"
+tags = ["social"]
+title = "Likes on social networks should be private"
+
++++
 
 It feels good to know when someone enjoys what I've written.
 

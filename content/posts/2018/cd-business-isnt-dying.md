@@ -1,11 +1,12 @@
----
-title: "The CD Business Isn't Dying--It's Just Evolving - Fast Company"
-date: 2018-02-23T10:52:05-05:00
-lastmod: 2018-02-23T10:52:05-05:00
-draft: false
-description: ""
-tags: ["music","hardware"]
----
++++
+date = "2018-02-23T10:52:05-05:00"
+description = ""
+draft = false
+lastmod = "2018-02-23T10:52:05-05:00"
+tags = ["music", "hardware"]
+title = "The CD Business Isn't Dying--It's Just Evolving - Fast Company"
+
++++
 
 [Fast Company](https://www.fastcompany.com/40532455/the-cd-business-isnt-dying-its-just-evolving):
 

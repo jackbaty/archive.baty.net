@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:11+00:00
-title: Russian Ark
-url: /2003/russian-ark/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:11+00:00"
+title = "Russian Ark"
+url = "/2003/russian-ark/"
+
++++
 
 ![][1]
 

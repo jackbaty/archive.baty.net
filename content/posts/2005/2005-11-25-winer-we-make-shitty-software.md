@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-11-25T19:45:26+00:00
-title: 'Winer: We make shitty software'
-url: /2005/winer-we-make-shitty-software/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-11-25T19:45:26+00:00"
+title = "Winer: We make shitty software"
+url = "/2005/winer-we-make-shitty-software/"
+
++++
 
 [This post][1] by Dave Winer in 1995 has always struck a chord with me. Probably because _**I**_ make shitty software and it's nice to hear that not only am I not alone, but I'm in the 100% majority.
 

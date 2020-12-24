@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-07-29T04:00:00+00:00
-tags:
-- apple
-- hardware
-title: I like my Apple Watch but I don’t love it
-url: /2015/i-like-my-apple-watch-but-i-dont-love-it/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-07-29T04:00:00+00:00"
+tags = ["apple", "hardware"]
+title = "I like my Apple Watch but I don’t love it"
+url = "/2015/i-like-my-apple-watch-but-i-dont-love-it/"
+
++++
 
 I own two very nice watches.
 

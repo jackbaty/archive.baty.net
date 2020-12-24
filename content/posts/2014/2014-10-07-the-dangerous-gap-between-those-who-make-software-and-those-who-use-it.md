@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-10-07T23:03:29+00:00
-tags:
-- ux
-title: The dangerous gap between those who make software, and those who use it
-url: /2014/the-dangerous-gap-between-those-who-make-software-and-those-who-use-it/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-10-07T23:03:29+00:00"
+tags = ["ux"]
+title = "The dangerous gap between those who make software, and those who use it"
+url = "/2014/the-dangerous-gap-between-those-who-make-software-and-those-who-use-it/"
+
++++
 
 [Elezea.com][1]
 

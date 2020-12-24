@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-08-24T23:57:52+00:00
-title: Some, ok most of the
-url: /2000/some-ok-most-of-the/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-08-24T23:57:52+00:00"
+title = "Some, ok most of the"
+url = "/2000/some-ok-most-of-the/"
+
++++
 
 Some, ok most of the folks on the CHI-WEB list are a lot smarter than me. Take this quote for example:
   

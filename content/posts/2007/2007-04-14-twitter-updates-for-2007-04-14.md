@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-04-14T22:31:04+00:00
-dsq_thread_id:
-- 3131256377
-title: Twitter Updates for 2007-04-14
-url: /2007/twitter-updates-for-2007-04-14/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-04-14T22:31:04+00:00"
+dsq_thread_id = [3131256377]
+title = "Twitter Updates for 2007-04-14"
+url = "/2007/twitter-updates-for-2007-04-14/"
+
++++
 
 <ul class="aktt_tweet_digest">
   <li>

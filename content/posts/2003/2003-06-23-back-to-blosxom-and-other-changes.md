@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-06-23T05:42:14+00:00
-title: Back to Blosxom and other changes
-url: /2003/back-to-blosxom-and-other-changes/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-06-23T05:42:14+00:00"
+title = "Back to Blosxom and other changes"
+url = "/2003/back-to-blosxom-and-other-changes/"
+
++++
 
 Well I moved this weblog back to using [Blosxom][1].
 

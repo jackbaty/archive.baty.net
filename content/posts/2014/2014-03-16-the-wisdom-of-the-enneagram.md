@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-03-16T00:00:00+00:00
-title: The Wisdom of the Enneagram
-url: /2014/the-wisdom-of-the-enneagram/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-03-16T00:00:00+00:00"
+title = "The Wisdom of the Enneagram"
+url = "/2014/the-wisdom-of-the-enneagram/"
+
++++
 
 <aside> <img src="/img/2014/wisdom-of-the-enneagram.jpg" alt="The Wisdom of the Enneagram" class="postimage" />
   

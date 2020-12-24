@@ -1,9 +1,10 @@
----
-title: "The Untouched Touch Bar"
-slug: "the-untouched-touch-bar"
-date: "2017-01-07T20:05:37-05:00"
-tags: ["Apple"]
----
++++
+date = "2017-01-07T20:05:37-05:00"
+slug = "the-untouched-touch-bar"
+tags = ["Apple"]
+title = "The Untouched Touch Bar"
+
++++
 
 I don’t use the Touch Bar on my MacBook Pro for anything other than
 Function keys and Touch ID. I love having Touch ID on a Mac, but man I

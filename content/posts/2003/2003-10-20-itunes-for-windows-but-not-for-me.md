@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-10-20T17:03:22+00:00
-title: iTunes for Windows but not for me.
-url: /2003/itunes-for-windows-but-not-for-me/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-10-20T17:03:22+00:00"
+title = "iTunes for Windows but not for me."
+url = "/2003/itunes-for-windows-but-not-for-me/"
+
++++
 
 Couldn't wait to try iTunes on my VAIO since others like MusicMatch are good but not great. Download, fire up the installer and&#8230;
 

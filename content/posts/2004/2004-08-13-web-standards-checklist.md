@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-08-13T18:16:54+00:00
-title: Web Standards Checklist
-url: /2004/web-standards-checklist/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-08-13T18:16:54+00:00"
+title = "Web Standards Checklist"
+url = "/2004/web-standards-checklist/"
+
++++
 
 Here's a pretty thorough [Web standards checklist][1]
 

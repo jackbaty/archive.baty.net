@@ -1,28 +1,19 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-07-25T17:45:29+00:00
-dsq_thread_id:
-- 3595444
-tags:
-- Blogging
-- social
-title: Unfollowed
-tz_audio_format:
-- mp3
-tz_gallery_captions:
-- "true"
-tz_gallery_format:
-- -=set slideshow type=-
-tz_gallery_margins:
-- 10
-tz_gallery_randomize:
-- "false"
-tz_gallery_targetheight:
-- 200
-url: /2014/unfollowed/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-07-25T17:45:29+00:00"
+dsq_thread_id = [3595444]
+tags = ["Blogging", "social"]
+title = "Unfollowed"
+tz_audio_format = ["mp3"]
+tz_gallery_captions = ["true"]
+tz_gallery_format = ["-=set slideshow type=-"]
+tz_gallery_margins = [10]
+tz_gallery_randomize = ["false"]
+tz_gallery_targetheight = [200]
+url = "/2014/unfollowed/"
+
++++
 
 Dear too many of you,
 

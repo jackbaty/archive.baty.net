@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-12-19T12:56:56+00:00
-title: Lego my Escher
-url: /2005/lego-my-escher/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-12-19T12:56:56+00:00"
+title = "Lego my Escher"
+url = "/2005/lego-my-escher/"
+
++++
 
 [Wow][1]
 

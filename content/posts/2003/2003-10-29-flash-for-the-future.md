@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-10-29T16:05:49+00:00
-title: Flash for the future
-url: /2003/flash-for-the-future/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-10-29T16:05:49+00:00"
+title = "Flash for the future"
+url = "/2003/flash-for-the-future/"
+
++++
 
 [Flash For The Future][1]
   

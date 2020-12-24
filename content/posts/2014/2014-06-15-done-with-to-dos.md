@@ -1,16 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-06-15T19:00:00+00:00
-dsq_thread_id:
-- 3595748
-tags:
-- productivity
-- software
-title: Done With To-Do Lists
-url: /2014/done-with-to-dos/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-06-15T19:00:00+00:00"
+dsq_thread_id = [3595748]
+tags = ["productivity", "software"]
+title = "Done With To-Do Lists"
+url = "/2014/done-with-to-dos/"
+
++++
 
 I've been addicted to [fancy][1] [versions][2] of [to-do][3] [lists][4] ever since I first read David Allen's "Getting Things Done" several years ago. The ideas behind GTD are powerful and can be very effective when applied consistently. I drift in and out of using a full-on GTD workflow and am constantly tweaking my "system". In fact, I spend so much time trying to get things perfect that I stop actually getting work done. That's a problem.
 

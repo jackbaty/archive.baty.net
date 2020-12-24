@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-07-29T18:09:20+00:00
-title: 'Review: Dracula: Pages from a Virgin’s Diary'
-url: /2004/review-dracula-pages-from-a-virgins-diary/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-07-29T18:09:20+00:00"
+title = "Review: Dracula: Pages from a Virgin’s Diary"
+url = "/2004/review-dracula-pages-from-a-virgins-diary/"
+
++++
 
 Sometimes I wonder how I end up with such an odd assortment of movies in my Netflix queue. Case in point: [Dracula: Pages from a Virgin's Diary][1].
 

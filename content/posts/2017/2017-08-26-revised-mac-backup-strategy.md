@@ -1,10 +1,11 @@
----
-title: "Revised Mac Backup Strategy"
-date: 2017-08-26T11:01:16-04:00
-tags: ["macos"]
-slug: "revised-mac-backup-strategy"
-description: "A few tweaks to my backups"
----
++++
+date = "2017-08-26T11:01:16-04:00"
+description = "A few tweaks to my backups"
+slug = "revised-mac-backup-strategy"
+tags = ["macos"]
+title = "Revised Mac Backup Strategy"
+
++++
 
 Whenever a drive fails in one of my Macs, I usually re-install everything from scratch. This happened to me again recently when the internal drive on my iMac failed. It feels good to start with a clean slate and re-evaluate what I need (or don't). I'm now finally back in action after a week of the usual set of "Oh yeah, I forgot I need to symlink that" and "How did I build this last time?"
 

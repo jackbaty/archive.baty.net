@@ -1,9 +1,10 @@
----
-title: "Moved to hosted comments by Commento"
-date:  2020-09-10
-tags: ["Blogging"]
-categories: ["Software"]
----
++++
+categories = ["Software"]
+date = "2020-09-10"
+tags = ["Blogging"]
+title = "Moved to hosted comments by Commento"
+
++++
 
 I don't like having so many subscriptions, but I'm losing interest in maintaining servers and apps, so I'm now using the [Commento](https://commento.io)- hosted version instead of the self-hosted version for comments.
 

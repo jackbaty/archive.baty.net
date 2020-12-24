@@ -1,17 +1,13 @@
----
-title: What I Learned from Watching My iPad’s Slow Death – NYT Magazine
-author: Jack
-date: 2018-02-07T00:36:50+00:00
-url: /2018/what-i-learned-from-watching-my-ipads-slow-death-nyt-magazine/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Tech
-tags:
-  - apple
-  - hardware
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2018-02-07T00:36:50+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["apple", "hardware"]
+title = "What I Learned from Watching My iPad’s Slow Death – NYT Magazine"
+url = "/2018/what-i-learned-from-watching-my-ipads-slow-death-nyt-magazine/"
 
----
++++
 [John Herrman (NYT Mag):][1]
 
 > I wouldn’t say my old electronics always aged gracefully, but their obsolescence wasn’t a death sentence. My old digital camera doesn’t do what some new cameras do — but it’s still a camera. My iPad, by contrast, feels as though it has been abandoned from on high, cut loose from the cloud on which it depends.

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-03-29T15:40:34+00:00
-title: I love software
-url: /2004/i-love-software/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-03-29T15:40:34+00:00"
+title = "I love software"
+url = "/2004/i-love-software/"
+
++++
 
 It used to be that weekends were made for Michelob. Now, they're made for software (and a little scotch). This past weekend I had to get my hands dirty with:
 

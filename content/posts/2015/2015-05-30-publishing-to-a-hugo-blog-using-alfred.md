@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-05-30T15:15:14+00:00
-title: Publishing to a Hugo Blog using Alfred
-url: /2015/publishing-to-a-hugo-blog-using-alfred/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-05-30T15:15:14+00:00"
+title = "Publishing to a Hugo Blog using Alfred"
+url = "/2015/publishing-to-a-hugo-blog-using-alfred/"
+
++++
 
 Publishing a new post to this ([Hugo][1]) blog is easy, but involves too many steps. First, I have to create the file, then open it in my editor, like this:
 

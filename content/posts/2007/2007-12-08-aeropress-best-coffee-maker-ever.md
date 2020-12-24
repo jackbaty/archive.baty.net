@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-12-08T21:40:00+00:00
-title: 'AeroPress: Best Coffee Maker Ever'
-url: /2007/aeropress-best-coffee-maker-ever/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-12-08T21:40:00+00:00"
+title = "AeroPress: Best Coffee Maker Ever"
+url = "/2007/aeropress-best-coffee-maker-ever/"
+
++++
 
 <img src="/files/aero_press_04.jpg" style="border: 0;" alt="image" width="150" height="302" />
 

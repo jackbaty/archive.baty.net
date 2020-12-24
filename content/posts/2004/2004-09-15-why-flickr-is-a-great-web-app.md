@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-09-15T16:31:22+00:00
-title: Why Flickr is a great web app
-url: /2004/why-flickr-is-a-great-web-app/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-09-15T16:31:22+00:00"
+title = "Why Flickr is a great web app"
+url = "/2004/why-flickr-is-a-great-web-app/"
+
++++
 
 I know, I've been on about [Flickr][1] quite a lot lately. So what, it's the best web app I've come across in a long time. Maybe ever.
 

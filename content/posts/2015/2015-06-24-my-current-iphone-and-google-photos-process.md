@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-06-24T16:24:08+00:00
-tags:
-- Google
-- photography
-title: My Current iPhone and Google Photos process
-url: /2015/my-current-iphone-and-google-photos-process/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-06-24T16:24:08+00:00"
+tags = ["Google", "photography"]
+title = "My Current iPhone and Google Photos process"
+url = "/2015/my-current-iphone-and-google-photos-process/"
+
++++
 
 I tossed my tinfoil hat aside the day Google released the new [Google Photos][1]. I've tried nearly every photo storage/backup/sharing service and Google Photos is by far my new favorite. It combines drop-dead simple backup with some fancy searching and categorizing features. All for free.
 

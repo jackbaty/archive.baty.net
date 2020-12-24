@@ -1,17 +1,13 @@
----
-title: Why I miss title bars
-author: Jack
-date: 2018-06-21T18:05:56+00:00
-url: /2018/why-i-miss-title-bars/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Tech
-tags:
-  - software
-  - ui
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2018-06-21T18:05:56+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["software", "ui"]
+title = "Why I miss title bars"
+url = "/2018/why-i-miss-title-bars/"
 
----
++++
 Here&#8217;s how windows used to look. Guess where you click to drag the window:
 
 <img class="alignnone size-full wp-image-1365" src="/img/2018/06/2018-06-21_mac-title-bar.gif" alt="" width="512" height="342" />

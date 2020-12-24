@@ -1,9 +1,10 @@
----
-title: "Participation when using a static website"
-date: 2017-06-05T16:29:50-04:00
-tags: ["Blogging"]
-slug: "participation-when-using-a-static-website"
----
++++
+date = "2017-06-05T16:29:50-04:00"
+slug = "participation-when-using-a-static-website"
+tags = ["Blogging"]
+title = "Participation when using a static website"
+
++++
 
 One of the factors[^factors] causing me to bounce between publishing using a
 static blog generator ([Hugo](https://gohugo.io)) and Wordpress is the option to

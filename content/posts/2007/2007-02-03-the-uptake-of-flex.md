@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-02-03T23:16:15+00:00
-title: The Uptake of Flex
-url: /2007/the-uptake-of-flex/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-02-03T23:16:15+00:00"
+title = "The Uptake of Flex"
+url = "/2007/the-uptake-of-flex/"
+
++++
 
 Like it or not, [Adobe's Flex][1] platform is going to gain significant steam with developers over the next 12 months. That may sound obvious, but of course it can't be, since I only realized it myself just recently. Many of you currently into Flex think it's already everywhere, but it's not. Flex developers are still few and far between. And many of them are rummaging around looking for their first real project. 
 

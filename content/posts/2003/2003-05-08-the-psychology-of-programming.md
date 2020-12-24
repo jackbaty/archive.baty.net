@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:12+00:00
-title: The Psychology of Programming
-url: /2003/the-psychology-of-programming/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:12+00:00"
+title = "The Psychology of Programming"
+url = "/2003/the-psychology-of-programming/"
+
++++
 
 From DevX: An [article][1] describing
   

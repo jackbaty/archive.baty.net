@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-08-29T09:14:13+00:00
-title: 'A Message to Web Designers:'
-url: /2000/a-message-to-web-designers/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-08-29T09:14:13+00:00"
+title = "A Message to Web Designers:"
+url = "/2000/a-message-to-web-designers/"
+
++++
 
 [A Message to Web Designers: If It Ain't Broke, Don't Fix It][1]
 

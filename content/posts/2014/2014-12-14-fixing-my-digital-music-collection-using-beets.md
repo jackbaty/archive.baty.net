@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-12-14T22:15:15+00:00
-tags:
-- music
-title: Fixing my digital music collection using Beets
-url: /2014/fixing-my-digital-music-collection-using-beets/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-12-14T22:15:15+00:00"
+tags = ["music"]
+title = "Fixing my digital music collection using Beets"
+url = "/2014/fixing-my-digital-music-collection-using-beets/"
+
++++
 
 I usually listen to music on vinyl, just as I have for 40 years. Keeping my vinyl library up to date is easy. Whatever is on the shelves is what I have. I keep albums in basically alphabetical order by artist. Easy, and there’s not much that can go wrong with such a system.
 

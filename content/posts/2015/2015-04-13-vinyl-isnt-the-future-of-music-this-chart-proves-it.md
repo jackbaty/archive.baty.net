@@ -1,16 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2015-04-13T17:09:36+00:00
-format: link
-tags:
-- Analog
-- music
-- vinyl
-title: Vinyl isn&#039;t the future of music. This chart proves it
-url: /2015/vinyl-isnt-the-future-of-music-this-chart-proves-it/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2015-04-13T17:09:36+00:00"
+format = "link"
+tags = ["Analog", "music", "vinyl"]
+title = "Vinyl isn&#039;t the future of music. This chart proves it"
+url = "/2015/vinyl-isnt-the-future-of-music-this-chart-proves-it/"
+
++++
 
 [Vox][1]:
 

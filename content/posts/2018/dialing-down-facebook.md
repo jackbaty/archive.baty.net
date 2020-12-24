@@ -1,11 +1,12 @@
----
-title: "Dialing Down Facebook"
-date: 2018-03-17T14:14:07-04:00 
-lastmod: 2018-03-17T14:14:07-04:00
-draft: false
-description: "Almost but not quite quitting Facebook"
-tags: ["social","Facebook"]
----
++++
+date = "2018-03-17T14:14:07-04:00"
+description = "Almost but not quite quitting Facebook"
+draft = false
+lastmod = "2018-03-17T14:14:07-04:00"
+tags = ["social", "Facebook"]
+title = "Dialing Down Facebook"
+
++++
 
 I wish I could just delete my Facebook account and be done with it, but I can't. Or at least I've been unable to convince myself that everything would be fine if I didn't have a Facebook account. Deleting the account entirely would prevent me from seeing things that I really want to see. As disappointing as it is, Facebook is where my family communicates and no sane person would suggest I try getting them all to move elsewhere.
 

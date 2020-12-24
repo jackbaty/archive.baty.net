@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Books
-- Journal
-date: 2014-11-28T15:44:03+00:00
-tags:
-- book
-title: 'Book: Shift'
-url: /2014/book-shift/
----
++++
+author = "Jack"
+categories = ["Books", "Journal"]
+date = "2014-11-28T15:44:03+00:00"
+tags = ["book"]
+title = "Book: Shift"
+url = "/2014/book-shift/"
+
++++
 
 [<img title="shift-book.jpg" src="/img/2014/11/shift-book.jpg" alt="Shift book" width="195" height="300" border="0" />][1]
 

@@ -1,16 +1,12 @@
----
-author: Jack
-categories:
-- Software
-date: 2016-05-14T17:33:51+00:00
-tags:
-- emacs
-- email
-- mu4e
-- spacemacs
-title: Saving a Maildir email as .eml using Mu4e
-url: /2016/saving-a-maildir-email-as-eml-using-mu4e/
----
++++
+author = "Jack"
+categories = ["Software"]
+date = "2016-05-14T17:33:51+00:00"
+tags = ["emacs", "email", "mu4e", "spacemacs"]
+title = "Saving a Maildir email as .eml using Mu4e"
+url = "/2016/saving-a-maildir-email-as-eml-using-mu4e/"
+
++++
 
 I use Emacs and [Mu4e][1] for managing email. Normally having all of my email as text files in Maildir format is fine. There are times, though, when I want to save a copy of an email and put it in DEVONthink with everything else. DEVONthink handles email very well, meaning it previews the headers separate from the messages and formats things nicely. The problem is that this only works with .eml files.
 

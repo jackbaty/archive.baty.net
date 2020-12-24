@@ -1,10 +1,11 @@
----
-title: "Selecting a content directory with Easy-Hugo"
-date: 2018-10-22T07:34:52-04:00
-lastmod: 2018-10-22T07:54:52-04:00
-description: ""
-tags: ["hugo","emacs"]
----
++++
+date = "2018-10-22T07:34:52-04:00"
+description = ""
+lastmod = "2018-10-22T07:54:52-04:00"
+tags = ["hugo", "emacs"]
+title = "Selecting a content directory with Easy-Hugo"
+
++++
 
 [Easy Hugo](https://github.com/masasam/emacs-easy-hugo) is a handy Emacs mode for posting to Hugo-based blogs. One difficulty I had was that I have many content directories, and easy hugo only included methods for moving through directories one at a time.
 

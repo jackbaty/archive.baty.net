@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-07-21T00:43:49+00:00
-title: Did he really go back to Movable Type?
-url: /2003/did-he-really-go-back-to-movable-type/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-07-21T00:43:49+00:00"
+title = "Did he really go back to Movable Type?"
+url = "/2003/did-he-really-go-back-to-movable-type/"
+
++++
 
 Yes I did. It's a long story, but here goes&#8230;
 

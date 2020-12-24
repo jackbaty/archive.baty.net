@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:12+00:00
-title: Mousaka and more
-url: /2003/mousaka-and-more/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:12+00:00"
+title = "Mousaka and more"
+url = "/2003/mousaka-and-more/"
+
++++
 
 <div>
   <img src="https://www.jackbaty.com/blog/archives/images/phHellas.jpg" alt="phHellas.jpg" width="200" height="147" border="0" />

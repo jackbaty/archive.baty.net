@@ -1,9 +1,10 @@
----
-title: "Literate Programming My Emacs Config"
-slug: "literate-programming-my-emacs-config"
-date: "2016-12-27T19:34:10-05:00"
-tags: ["Emacs"]
----
++++
+date = "2016-12-27T19:34:10-05:00"
+slug = "literate-programming-my-emacs-config"
+tags = ["Emacs"]
+title = "Literate Programming My Emacs Config"
+
++++
 
 
 Inspired by [Sacha Chua](http://sachachua.com/), I decided to move my

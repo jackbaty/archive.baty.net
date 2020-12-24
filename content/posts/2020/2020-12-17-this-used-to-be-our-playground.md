@@ -1,10 +1,11 @@
----
-title: "This used to be our playground - Simon Collison"
-date:  2020-12-17
-tags: ["Design","Web","Publishing"]
-categories: ["Blogging"]
-slug: "this-used-to-be-our-playground"
----
++++
+categories = ["Blogging"]
+date = "2020-12-17"
+slug = "this-used-to-be-our-playground"
+tags = ["Design", "Web", "Publishing"]
+title = "This used to be our playground - Simon Collison"
+
++++
 
 [Simon Collison](https://colly.com/articles/this-used-to-be-our-playground):
 

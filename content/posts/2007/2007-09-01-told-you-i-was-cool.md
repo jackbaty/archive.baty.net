@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2007-09-01T20:48:24+00:00
-title: Told you I was cool
-url: /2007/told-you-i-was-cool/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2007-09-01T20:48:24+00:00"
+title = "Told you I was cool"
+url = "/2007/told-you-i-was-cool/"
+
++++
 
 See! 
 

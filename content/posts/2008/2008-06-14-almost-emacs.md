@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2008-06-14T22:49:31+00:00
-tags:
-- geek
-title: Almost Emacs
-url: /2008/almost-emacs/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2008-06-14T22:49:31+00:00"
+tags = ["geek"]
+title = "Almost Emacs"
+url = "/2008/almost-emacs/"
+
++++
 
 I use [<span class="caps"><span class="caps">VIM</span></span>][1] for editing most everything &#8211; have for years. For the helluvit I thought it would be fun to learn a little more about [Emacs][2], so I gave up <span class="caps"><span class="caps">VIM</span></span> and went all-in with Emacs for 2 weeks. By all-in I mean everything. Everyone says you can pretty much live in Emacs so that's what I tried to do. I switched from using Things to org-mode for my To Do lists and dumped Tinderbox for, well, more org-mode for time tracking and quick notes. 
 

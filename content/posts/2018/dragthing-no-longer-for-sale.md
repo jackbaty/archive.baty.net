@@ -1,10 +1,11 @@
----
-title: "DragThing is no longer for sale"
-date: 2018-09-26T15:50:15-04:00
-lastmod: 2018-09-26T15:50:15-04:00
-description: ""
-tags: ["software"]
----
++++
+date = "2018-09-26T15:50:15-04:00"
+description = ""
+lastmod = "2018-09-26T15:50:15-04:00"
+tags = ["software"]
+title = "DragThing is no longer for sale"
+
++++
 
 <a href="https://dragthing.com/" class="u-like-of" rel="like-of">DragThing is no longer for sale</a>:
 

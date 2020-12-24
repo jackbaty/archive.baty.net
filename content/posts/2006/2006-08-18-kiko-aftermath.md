@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2006-08-18T19:11:13+00:00
-title: Kiko aftermath
-url: /2006/kiko-aftermath/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2006-08-18T19:11:13+00:00"
+title = "Kiko aftermath"
+url = "/2006/kiko-aftermath/"
+
++++
 
 [This post][1] from Kiko guy Richard White is a healthy read. In it he dispels the idea that once Google (Calendar) got into their game, folding was the only option. Turns out there are a lot of non-Google reasons for Kiko's demise. As usual, I found a quote which relates to the less-is-more attitude I'm so fond of&#8230; 
 

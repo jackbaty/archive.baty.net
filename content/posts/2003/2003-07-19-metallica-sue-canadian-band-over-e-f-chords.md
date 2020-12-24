@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-07-20T02:38:15+00:00
-title: Metallica Sue Canadian Band over E, F Chords
-url: /2003/metallica-sue-canadian-band-over-e-f-chords/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-07-20T02:38:15+00:00"
+title = "Metallica Sue Canadian Band over E, F Chords"
+url = "/2003/metallica-sue-canadian-band-over-e-f-chords/"
+
++++
 
 [Yet another reason][1] to hate Metallica.
 

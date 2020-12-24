@@ -1,16 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2013-07-20T00:00:00+00:00
-dsq_thread_id:
-- 3595627
-tags:
-- Fusionary
-- photography
-title: Steve and Bryan
-url: /2013/steve-and-bryan/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2013-07-20T00:00:00+00:00"
+dsq_thread_id = [3595627]
+tags = ["Fusionary", "photography"]
+title = "Steve and Bryan"
+url = "/2013/steve-and-bryan/"
+
++++
 
 <div>
   <div>

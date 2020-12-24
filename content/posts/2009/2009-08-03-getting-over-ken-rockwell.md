@@ -1,15 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2009-08-04T02:25:06+00:00
-dsq_thread_id:
-- 3131254106
-tags:
-- photography
-title: Getting over Ken Rockwell
-url: /2009/getting-over-ken-rockwell/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2009-08-04T02:25:06+00:00"
+dsq_thread_id = [3131254106]
+tags = ["photography"]
+title = "Getting over Ken Rockwell"
+url = "/2009/getting-over-ken-rockwell/"
+
++++
 
 Reading photography forums could lead one to believe [Ken Rockwell](http://www.kenrockwell.com/) is the devil. Or if not the devil, an idiot who has no business writing a blog about photography. I disagree.
 

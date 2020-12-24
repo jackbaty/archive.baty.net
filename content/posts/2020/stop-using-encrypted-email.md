@@ -1,8 +1,9 @@
----
-title: "Stop using encrypted email - Latacora"
-date: 2020-02-20T07:27:00-05:00
-draft: false
----
++++
+date = "2020-02-20T07:27:00-05:00"
+draft = false
+title = "Stop using encrypted email - Latacora"
+
++++
 
 [Latacora](https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html):
 

@@ -1,11 +1,11 @@
----
-title: "The Tyranny of Convenience - NYT"
-date: 2018-03-12T19:31:00-04:00 
-lastmod: 2018-03-12T19:31:00-04:00
-draft: false
-description: ""
-tags: []
----
++++
+date = "2018-03-12T19:31:00-04:00"
+description = ""
+draft = false
+lastmod = "2018-03-12T19:31:00-04:00"
+title = "The Tyranny of Convenience - NYT"
+
++++
 
 [Tim Wu (NYT)](https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html):
 

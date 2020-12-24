@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-05-16T06:37:11+00:00
-title: Who’s responsible for this mess?
-url: /2004/whos-responsible-for-this-mess/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-05-16T06:37:11+00:00"
+title = "Who’s responsible for this mess?"
+url = "/2004/whos-responsible-for-this-mess/"
+
++++
 
 Well, that would be me. My name is Jack Baty.
 

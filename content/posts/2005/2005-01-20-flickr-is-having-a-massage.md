@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-01-20T18:40:31+00:00
-title: Flickr is having a massage
-url: /2005/flickr-is-having-a-massage/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-01-20T18:40:31+00:00"
+title = "Flickr is having a massage"
+url = "/2005/flickr-is-having-a-massage/"
+
++++
 
 That is what the [Flickr][1] site says when they are having technical issues. Like right now, for example. And the following message on the Flickr [weblog][2] is even more fun&#8230;
 

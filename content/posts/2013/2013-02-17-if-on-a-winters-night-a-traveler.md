@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Books
-- Journal
-date: 2013-02-17T05:00:00+00:00
-tags:
-- book
-title: 'Book: If On a Winter&#039;s Night a Traveler'
-url: /2013/if-on-a-winters-night-a-traveler/
----
++++
+author = "Jack"
+categories = ["Books", "Journal"]
+date = "2013-02-17T05:00:00+00:00"
+tags = ["book"]
+title = "Book: If On a Winter' Night a Traveler"
+url = "/2013/if-on-a-winters-night-a-traveler/"
+
++++
 
 <aside> <img src="/img/if-on-a-winters-night-book.jpg" alt="If On a Winter's Night a Traveler" class="postimage" />
   

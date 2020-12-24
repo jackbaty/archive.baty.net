@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-09-12T13:59:22+00:00
-title: The Refrigerator Project
-url: /2004/the-refrigerator-project/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-09-12T13:59:22+00:00"
+title = "The Refrigerator Project"
+url = "/2004/the-refrigerator-project/"
+
++++
 
 My own little anthropology experiment, [The Refrigerator Project][1] on Flickr only has 22 members at this point. I was worried no one at all would join, but a [recent post][2] on the [Flickr blog][3] helped a little.
 

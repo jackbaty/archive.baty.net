@@ -1,18 +1,13 @@
----
-title: Paper Notebook Intentions for 2018
-author: Jack
-date: 2017-12-26T14:36:00+00:00
-url: /2017/paper-notebook-intentions-for-2018/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Analog
-tags:
-  - journaling
-  - notebook
-  - paper
++++
+author = "Jack"
+categories = ["Analog"]
+date = "2017-12-26T14:36:00+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["journaling", "notebook", "paper"]
+title = "Paper Notebook Intentions for 2018"
+url = "/2017/paper-notebook-intentions-for-2018/"
 
----
++++
 <figure id="attachment_700" style="width: 1024px" class="wp-caption alignnone"><img class="size-large wp-image-700" src="/img/2017/12/20171226_Notebooks06-1024x819.jpg" alt="" width="1024" height="819" srcset="/img/2017/12/20171226_Notebooks06-1024x819.jpg 1024w, /img/2017/12/20171226_Notebooks06-300x240.jpg 300w, /img/2017/12/20171226_Notebooks06-768x614.jpg 768w, /img/2017/12/20171226_Notebooks06-750x600.jpg 750w, /img/2017/12/20171226_Notebooks06.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-caption-text">Hobonichi, Field Notes, Leuchtturm1917, Epica</figcaption></figure>
 
 The final week of December is a good time for planning. I spend the week organizing things, tidying up my desk and files, and laying out plans for the year.

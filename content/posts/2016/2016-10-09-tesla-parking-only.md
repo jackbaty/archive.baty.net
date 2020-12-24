@@ -1,11 +1,10 @@
----
-date: 2016-10-09T19:44:03-04:00
-slug: tesla-parking-only
-tags:
-- Tesla
-- Nikon
-title: Tesla Parking Only
----
++++
+date = "2016-10-09T19:44:03-04:00"
+slug = "tesla-parking-only"
+tags = ["Tesla", "Nikon"]
+title = "Tesla Parking Only"
+
++++
 
 I wonder how often this is a problem for them?
 

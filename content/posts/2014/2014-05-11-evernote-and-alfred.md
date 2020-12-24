@@ -1,15 +1,13 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-05-11T19:00:00+00:00
-dsq_thread_id:
-- 3595732
-tags:
-- software
-title: Evernote and Alfred
-url: /2014/evernote-and-alfred/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-05-11T19:00:00+00:00"
+dsq_thread_id = [3595732]
+tags = ["software"]
+title = "Evernote and Alfred"
+url = "/2014/evernote-and-alfred/"
+
++++
 
 For some reason, I can never completely give up Evernote, so I'm always looking for ways to improve the experience. While browsing around the [Packal][1] site looking for [Alfred][2] workflows, I spotted the [Evernote Workflow][3], which does a pretty good job of letting me search and create notes in Evernote right from Alfred.
 

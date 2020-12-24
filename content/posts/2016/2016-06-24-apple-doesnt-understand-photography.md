@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Photography
-date: 2016-06-24T17:25:57+00:00
-title: Apple doesn’t understand photography
-url: /2016/apple-doesnt-understand-photography/
----
++++
+author = "Jack"
+categories = ["Photography"]
+date = "2016-06-24T17:25:57+00:00"
+title = "Apple doesn’t understand photography"
+url = "/2016/apple-doesnt-understand-photography/"
+
++++
 
 [Apple doesn't understand photography][1]
 

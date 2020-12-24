@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-04-02T18:45:11+00:00
-title: Don’t start the revolution without me
-url: /2004/dont-start-the-revolution-without-me/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-04-02T18:45:11+00:00"
+title = "Don’t start the revolution without me"
+url = "/2004/dont-start-the-revolution-without-me/"
+
++++
 
 You've probably noticed that every day, the media makes us painfully aware of the world's sorry state. We've had a couple of wars, economic "downturns", kids with bombs strapped to them and whatnot. Folks hanging the charred bodies of murdered civilians from bridges was the last straw&#8212;I've decided to stop watching the news for a while. Put my head in the sand, so to speak.
 

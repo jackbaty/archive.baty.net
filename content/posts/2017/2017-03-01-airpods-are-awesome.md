@@ -1,9 +1,10 @@
----
-title: "AirPods are Awesome"
-slug: "airpods-are-awesome"
-date: "2017-01-08T20:11:51-05:00"
-tags: ["Apple"]
----
++++
+date = "2017-01-08T20:11:51-05:00"
+slug = "airpods-are-awesome"
+tags = ["Apple"]
+title = "AirPods are Awesome"
+
++++
 
 {{< figure src="/img/2017/airpods.jpg" title="" >}}
 

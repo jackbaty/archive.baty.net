@@ -1,12 +1,12 @@
----
-date: 2016-08-09T19:38:12-04:00
-description: ""
-draft: false
-tags:
-- email
-title: The History of Email - Eager Blog
-topics: []
----
++++
+date = "2016-08-09T19:38:12-04:00"
+description = ""
+draft = false
+tags = ["email"]
+title = "The History of Email - Eager Blog"
+topics = []
+
++++
 
 [Zack Bloom](https://eager.io/blog/history-of-email/):
 

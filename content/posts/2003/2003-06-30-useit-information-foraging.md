@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-06-30T16:39:14+00:00
-title: 'Useit: Information Foraging'
-url: /2003/useit-information-foraging/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-06-30T16:39:14+00:00"
+title = "Useit: Information Foraging"
+url = "/2003/useit-information-foraging/"
+
++++
 
 The latest alertbox, [: Information
   

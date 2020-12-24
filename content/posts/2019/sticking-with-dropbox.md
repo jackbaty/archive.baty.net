@@ -1,8 +1,9 @@
 +++
-title = "Sticking with Dropbox"
-date = 2019-07-12T10:01:00-04:00
-tags = ["dropbox", "icloud"]
+date = "2019-07-12T10:01:00-04:00"
 draft = false
+tags = ["dropbox", "icloud"]
+title = "Sticking with Dropbox"
+
 +++
 
 It's fashionable lately to "ditch" Dropbox for other sync services. The reasons stated are usually around cost or privacy. This is understandable, but for anyone with a significant number of files and/or services using Dropbox, the time and complexity of switching could easily be costlier than what it would be to just continue using Dropbox.

@@ -1,17 +1,13 @@
----
-title: My new wiki is at rudimentarylathe.org
-author: Jack
-date: 2018-12-29T21:11:36+00:00
-url: /2018/my-new-wiki-is-at-rudimentary-lathe-org/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Tech
-tags:
-  - tiddlywiki
-  - wiki
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2018-12-29T21:11:36+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["tiddlywiki", "wiki"]
+title = "My new wiki is at rudimentarylathe.org"
+url = "/2018/my-new-wiki-is-at-rudimentary-lathe-org/"
 
----
++++
 I&#8217;m having so much fun with my [TiddlyWiki][1] wiki that I&#8217;ve given it its own domain, [rudimentarylathe.org][2].
 
 I&#8217;ve been squatting on that domain since I first saw &#8220;Galaxy Quest&#8221;<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">

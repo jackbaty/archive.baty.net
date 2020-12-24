@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:11+00:00
-title: Regarding the moral good
-url: /2003/regarding-the-moral-good/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:11+00:00"
+title = "Regarding the moral good"
+url = "/2003/regarding-the-moral-good/"
+
++++
 
 America gets blasted regularly for its nationalist, unilateral and
   

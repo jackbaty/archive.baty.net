@@ -1,8 +1,9 @@
 +++
-title = "Spaceline for Emacs"
-date = 2019-08-26T15:29:00-04:00
-tags = ["emacs"]
+date = "2019-08-26T15:29:00-04:00"
 draft = false
+tags = ["emacs"]
+title = "Spaceline for Emacs"
+
 +++
 
 I'm trying [Spaceline](https://github.com/TheBB/spaceline) in Emacs.

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-09T01:32:12+00:00
-title: s/blosxom/phposxom
-url: /2003/sblosxomphposxom/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-09T01:32:12+00:00"
+title = "s/blosxom/phposxom"
+url = "/2003/sblosxomphposxom/"
+
++++
 
 Guess what, I've done it again. I kept waiting for [blosxom 1.2][1] to be
   

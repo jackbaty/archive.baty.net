@@ -1,16 +1,13 @@
----
-title: Maybe your blog post doesn’t need that 2000-pixel header image
-author: Jack
-date: 2018-02-10T12:59:53+00:00
-url: /2018/maybe-your-blog-post-doesnt-need-that-2000-pixel-header-image/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Tech
-tags:
-  - blogging
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2018-02-10T12:59:53+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["blogging"]
+title = "Maybe your blog post doesn’t need that 2000-pixel header image"
+url = "/2018/maybe-your-blog-post-doesnt-need-that-2000-pixel-header-image/"
 
----
++++
 Allow me a brief rant about the trend of putting ginormous, unnecessary images at the top of every single blog post or article. Here it is:
 
 **Please don’t always include ginormous, unnecessary images at the top of every single blog post or article.**

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-11-02T08:13:23+00:00
-title: 'Great quote from ecompany: Don’t'
-url: /2000/great-quote-from-ecompany-dont/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-11-02T08:13:23+00:00"
+title = "Great quote from ecompany: Don’t"
+url = "/2000/great-quote-from-ecompany-dont/"
+
++++
 
 Great quote from ecompany:
   

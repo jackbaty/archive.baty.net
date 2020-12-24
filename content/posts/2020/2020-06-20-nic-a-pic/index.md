@@ -1,13 +1,12 @@
----
-title: Nic-A-Pic
-author: Jack
-type: posts
-date: 2020-06-20T22:08:56+00:00
-url: /2020/nic-a-pic/
-categories:
-  - Life
++++
+author = "Jack"
+categories = ["Life"]
+date = "2020-06-20T22:08:56+00:00"
+title = "Nic-A-Pic"
+type = "posts"
+url = "/2020/nic-a-pic/"
 
----
++++
 
 {{< image src="nic-a-pic.jpg" caption="Nicotine toothpics created by Wayne DeWitt" >}}
 

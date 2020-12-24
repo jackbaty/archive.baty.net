@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2004-02-08T15:13:31+00:00
-title: Geek Love Poem
-url: /2004/geek-love-poem/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2004-02-08T15:13:31+00:00"
+title = "Geek Love Poem"
+url = "/2004/geek-love-poem/"
+
++++
 
 From somewhere deep within Slashdot comes this lovely Geek poem&#8230;
 

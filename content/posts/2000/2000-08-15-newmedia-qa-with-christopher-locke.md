@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2000-08-15T13:23:49+00:00
-title: 'NewMedia: Q&A with Christopher Locke,'
-url: /2000/newmedia-qa-with-christopher-locke/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2000-08-15T13:23:49+00:00"
+title = "NewMedia: Q&A with Christopher Locke,"
+url = "/2000/newmedia-qa-with-christopher-locke/"
+
++++
 
 [][1] 
 

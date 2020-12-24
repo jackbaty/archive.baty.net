@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-12-24T16:17:44+00:00
-tags:
-- book
-title: 'Audiobooks: Listening vs. Reading'
-url: /2014/audiobooks-listening-vs-reading/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-12-24T16:17:44+00:00"
+tags = ["book"]
+title = "Audiobooks: Listening vs. Reading"
+url = "/2014/audiobooks-listening-vs-reading/"
+
++++
 
 [Jamie Todd Rubin][1]:
 

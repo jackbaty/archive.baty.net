@@ -1,16 +1,13 @@
----
-title: I’m not leaving Twitter – yet
-author: Jack
-date: 2018-01-04T14:33:24+00:00
-url: /2018/im-not-leaving-twitter-yet/
-mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
-categories:
-  - Tech
-tags:
-  - social
++++
+author = "Jack"
+categories = ["Tech"]
+date = "2018-01-04T14:33:24+00:00"
+mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
+tags = ["social"]
+title = "I’m not leaving Twitter – yet"
+url = "/2018/im-not-leaving-twitter-yet/"
 
----
++++
 [Om Malik, &#8220;The Internet of Love&#8221;][1]:
 
 > I share these stories, not to laud these individuals, but as a way to remind us that the web we had before the madness and monetization of relationships began, is still around. We don’t need to focus on the negative, and instead try to use the social web, by being accountable to each other. All it takes is one to focus on how to be good to each other on the Internet – not by shouting, but by helping and encouraging absolute strangers.

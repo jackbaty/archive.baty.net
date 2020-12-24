@@ -1,13 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2009-05-21T14:37:20+00:00
-tags:
-- photography
-title: Another Photography Workflow
-url: /2009/another-photography-workflow/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2009-05-21T14:37:20+00:00"
+tags = ["photography"]
+title = "Another Photography Workflow"
+url = "/2009/another-photography-workflow/"
+
++++
 
 I thought I'd share the latest iteration of my photography workflow. I recently bought a nice used Leica M8, rendering my Nikon workflow obsolete. Here's how it looks today.
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-06-03T02:29:14+00:00
-title: Usability For $200 (Alertbox June 2003)
-url: /2003/usability-for-200-alertbox-june-2003/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-06-03T02:29:14+00:00"
+title = "Usability For $200 (Alertbox June 2003)"
+url = "/2003/usability-for-200-alertbox-june-2003/"
+
++++
 
 Useit: Nielsen's [latest piece][1]
   

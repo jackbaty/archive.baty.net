@@ -1,9 +1,10 @@
----
-title: "Choosing between Kindle or Physical Books- Audacious Fox"
-date: 2018-10-04T17:15:47-04:00
-lastmod: 2018-10-04T17:15:47-04:00
-tags: ["book"]
----
++++
+date = "2018-10-04T17:15:47-04:00"
+lastmod = "2018-10-04T17:15:47-04:00"
+tags = ["book"]
+title = "Choosing between Kindle or Physical Books- Audacious Fox"
+
++++
 
 <a href="https://audaciousfox.net/2018/physical-or-kindle" class="u-like-of" rel="like-of">K.Q. Dreger</a>:
 

@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2005-09-10T10:05:26+00:00
-title: Brushed Metal Anthropomorphized
-url: /2005/brushed-metal-anthropomorphized/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2005-09-10T10:05:26+00:00"
+title = "Brushed Metal Anthropomorphized"
+url = "/2005/brushed-metal-anthropomorphized/"
+
++++
 
 John Gruber's [hilarious dialog][1] between Apple's Brushed Metal (B.M.) interface and its (his?) agent.
 

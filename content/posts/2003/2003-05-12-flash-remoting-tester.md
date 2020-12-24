@@ -1,11 +1,11 @@
----
-author: Jack
-categories:
-- Journal
-date: 2003-05-12T20:45:13+00:00
-title: Flash Remoting Tester
-url: /2003/flash-remoting-tester/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2003-05-12T20:45:13+00:00"
+title = "Flash Remoting Tester"
+url = "/2003/flash-remoting-tester/"
+
++++
 
 Ran into Branden Hall's [Flash
   

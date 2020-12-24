@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2014-09-19T17:45:07+00:00
-tags:
-- Leica
-- photography
-title: Leica M60 – Khoi Vinh
-url: /2014/leica-m60-subtraction-com/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2014-09-19T17:45:07+00:00"
+tags = ["Leica", "photography"]
+title = "Leica M60 – Khoi Vinh"
+url = "/2014/leica-m60-subtraction-com/"
+
++++
 
 Khoi Vinh on the [Leica M60][1]
 

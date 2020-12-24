@@ -1,14 +1,12 @@
----
-author: Jack
-categories:
-- Journal
-date: 2009-02-11T02:52:12+00:00
-tags:
-- geek
-- Web
-title: Give Up and Use Tables
-url: /2009/give-up-and-use-tables/
----
++++
+author = "Jack"
+categories = ["Journal"]
+date = "2009-02-11T02:52:12+00:00"
+tags = ["geek", "Web"]
+title = "Give Up and Use Tables"
+url = "/2009/give-up-and-use-tables/"
+
++++
 
 [Give Up and Use Tables][1]
 

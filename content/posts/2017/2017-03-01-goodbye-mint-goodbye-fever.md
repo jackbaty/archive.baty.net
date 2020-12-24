@@ -1,9 +1,10 @@
----
-title: "Goodbye Mint, Goodbye Fever"
-slug: ""
-date: "2016-12-27T19:47:43-05:00"
-tags: ["Analytics","Mint"]
----
++++
+date = "2016-12-27T19:47:43-05:00"
+slug = ""
+tags = ["Analytics", "Mint"]
+title = "Goodbye Mint, Goodbye Fever"
+
++++
 
 [Shaun
 Inman](http://shauninman.com/archive/2016/12/24/goodbye_mint_goodbye_fever):
