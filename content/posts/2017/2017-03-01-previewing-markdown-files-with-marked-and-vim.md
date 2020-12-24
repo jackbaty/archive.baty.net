@@ -1,10 +1,11 @@
-+++
-date = "2016-12-14T19:22:08-05:00"
-slug = "previewing-markdown-files-with-marked-and-vim"
-tags = ["Vim", "Markdown"]
-title = "Previewing Markdown Files with Marked and Vim"
-
-+++
+---
+date: "2016-12-14T19:22:08-05:00"
+slug: previewing-markdown-files-with-marked-and-vim
+tags:
+- Vim
+- Markdown
+title: Previewing Markdown Files with Marked and Vim
+---
 
 
 

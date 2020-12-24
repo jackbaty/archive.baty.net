@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-08-23T00:22:27+00:00"
-title = "How I became an Open Source Guy"
-url = "/2003/how-i-became-an-open-source-guy/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-08-23T00:22:27+00:00"
+title: How I became an Open Source Guy
+url: /2003/how-i-became-an-open-source-guy/
+---
 
 It all started one weekend at [our office][1] about two years ago, probably on a Saturday. I was bored, so I thought I’d try installing [It all started one weekend at [our office][1] about two years ago, probably on a Saturday. I was bored, so I thought I’d try installing][2] on an old desktop machine. I knew nothing about any of the nix operating systems, and I was just sure I was missing something important. Turns out I was, but it took a while to understand just how much. The first hurdle was that medieval instrument of torture, vi. How anyone could consider using vi to edit _anything_ was beyone me. Almost tossed the whole thing out the window on a number of occasions. Convinced that somehow I could get past it, I forced myself to continue. First, by installing VIM, which is better, and then distracting myself by editing real files. Files such as .bashrc and more importantly, Apache’s httpd.conf. A month later I had VIM installed on my Windows machine also, and now use it to edit just about everything that even tries to pass itself off as a text file.
 

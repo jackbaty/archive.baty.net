@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:12+00:00"
-title = "What do I do with my life?"
-url = "/2003/what-do-i-do-with-my-life/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:12+00:00"
+title: What do I do with my life?
+url: /2003/what-do-i-do-with-my-life/
+---
 
 I've posted this before, but recent discussions reminded me to post it
   

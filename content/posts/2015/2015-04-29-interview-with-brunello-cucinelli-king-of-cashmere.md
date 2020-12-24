@@ -1,12 +1,12 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-04-29T18:34:47+00:00"
-format = "link"
-title = "Interview with Brunello Cucinelli, King of Cashmere"
-url = "/2015/interview-with-brunello-cucinelli-king-of-cashmere/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-04-29T18:34:47+00:00"
+format: link
+title: Interview with Brunello Cucinelli, King of Cashmere
+url: /2015/interview-with-brunello-cucinelli-king-of-cashmere/
+---
 
 [Om Malik interviews Brunello Cucinelli][1]
 

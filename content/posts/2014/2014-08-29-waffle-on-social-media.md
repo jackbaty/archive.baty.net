@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-08-29T16:34:18+00:00"
-tags = ["Blogging", "social"]
-title = "Waffle on Social Media"
-url = "/2014/waffle-on-social-media/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-08-29T16:34:18+00:00"
+tags:
+- Blogging
+- social
+title: Waffle on Social Media
+url: /2014/waffle-on-social-media/
+---
 
 [Waffle on Social Media][1]:
 

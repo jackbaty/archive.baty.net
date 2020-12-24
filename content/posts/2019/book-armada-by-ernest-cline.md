@@ -1,10 +1,10 @@
-+++
-date = "2019-07-26T07:56:00-04:00"
-draft = false
-tags = ["book"]
-title = "Book: Armada by Ernest Cline 📚"
-
-+++
+---
+date: "2019-07-26T07:56:00-04:00"
+draft: false
+tags:
+- book
+title: "Book: Armada by Ernest Cline \U0001F4DA"
+---
 
 <a href="https://www.goodreads.com/book/show/16278318-armada" style="float: left; padding-right: 20px"><img border="0" alt="Armada" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377284428l/16278318._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/16278318-armada">Armada</a> by <a href="https://www.goodreads.com/author/show/31712.Ernest_Cline">Ernest Cline</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/2906266669">3 of 5 stars</a><br /><br />

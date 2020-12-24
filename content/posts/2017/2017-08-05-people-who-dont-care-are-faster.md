@@ -1,9 +1,9 @@
-+++
-date = "2017-08-05"
-tags = ["productivity"]
-title = "People who don’t have a “Productivity System” are more productive"
-
-+++
+---
+date: "2017-08-05"
+tags:
+- productivity
+title: People who don’t have a “Productivity System” are more productive
+---
 
 I spend what many would call a _ridiculous_ amount of time tinkering with my “systems”. I enjoy it, but I also like to think it helps me work smarter and faster than those unfortunate saps who just toss a bunch of files into a folder and keep a single TextEdit document open. Or worse, people who manage their lives by setting and un-setting flags and unread statuses in their gmail or whatever. ::shudder::.  I goggle at the insanity of living inside an email client. I know better than that!
 

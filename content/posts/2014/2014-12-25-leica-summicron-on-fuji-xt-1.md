@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-12-25T14:05:50+00:00"
-tags = ["Fuji", "Leica"]
-title = "Leica Summicron on Fuji XT-1"
-url = "/2014/leica-summicron-on-fuji-xt-1/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-12-25T14:05:50+00:00"
+tags:
+- Fuji
+- Leica
+title: Leica Summicron on Fuji XT-1
+url: /2014/leica-summicron-on-fuji-xt-1/
+---
 
 <div id="attachment_4093" style="width: 610px" class="wp-caption alignnone">
   <a href="/img/2014/12/20141225_DSCF1997.jpg"><img class="wp-image-4093 size-full" src="/img/2014/12/20141225_DSCF1997.jpg" alt="Fuji X-T1 with Leica Summicron 50mm" width="600" height="480" srcset="/img/2014/12/20141225_DSCF1997.jpg 600w, /img/2014/12/20141225_DSCF1997-300x240.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>

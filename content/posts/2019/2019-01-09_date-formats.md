@@ -1,9 +1,8 @@
-+++
-date = "2019-01-09"
-slug = "date-formats"
-title = "Changing my default date format"
-
-+++
+---
+date: "2019-01-09"
+slug: date-formats
+title: Changing my default date format
+---
 
 For years I've written dates using the One True Date Format, `YYYY-MM-DD`, but that may be about to change.
 

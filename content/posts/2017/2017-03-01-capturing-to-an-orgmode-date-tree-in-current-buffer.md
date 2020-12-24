@@ -1,10 +1,10 @@
-+++
-date = "2017-01-19T20:17:08-05:00"
-slug = "capturing-to-an-orgmode-date-tree-in-current-buffer"
-tags = ["Orgmode"]
-title = "Capturing To An Org-Mode Date Tree In Current Buffer"
-
-+++
+---
+date: "2017-01-19T20:17:08-05:00"
+slug: capturing-to-an-orgmode-date-tree-in-current-buffer
+tags:
+- Orgmode
+title: Capturing To An Org-Mode Date Tree In Current Buffer
+---
 
 
 

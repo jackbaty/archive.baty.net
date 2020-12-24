@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-01-10T17:04:35+00:00"
-tags = ["geek", "Kindle"]
-title = "Guardian judges Kindle – misses"
-url = "/2008/guardian-judges-kindle-misses/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-01-10T17:04:35+00:00"
+tags:
+- geek
+- Kindle
+title: Guardian judges Kindle – misses
+url: /2008/guardian-judges-kindle-misses/
+---
 
 From [The Guardian][1]
 

@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-03-19T00:00:00+00:00"
-tags = ["Tinderbox"]
-title = "Making it easier"
-url = "/2014/making-it-easier/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-03-19T00:00:00+00:00"
+tags:
+- Tinderbox
+title: Making it easier
+url: /2014/making-it-easier/
+---
 
 This site <del>is</del> was built using [Tinderbox][1]. I continue to find ways to improve the process so that publishing is as easy as I can make it. One thing I still didn’t like was getting images in the right place and linking them. So I fixed it.
 

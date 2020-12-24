@@ -1,10 +1,12 @@
-+++
-date = "2017-06-13T18:10:50-04:00"
-slug = "piwik-replaces-google"
-tags = ["Analytics", "Google", "Piwik"]
-title = "Replacing Google Analytics with Piwik"
-
-+++
+---
+date: "2017-06-13T18:10:50-04:00"
+slug: piwik-replaces-google
+tags:
+- Analytics
+- Google
+- Piwik
+title: Replacing Google Analytics with Piwik
+---
 
 I've been running Shaun Inman's [Mint](https://haveamint.com/) since [2005](/2005/google-analytics-vs-mint/) and it's always been more than enough to let me know that almost no one visits my site. I like Mint.
 

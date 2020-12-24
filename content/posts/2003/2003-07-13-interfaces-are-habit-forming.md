@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-07-13T23:35:14+00:00"
-title = "Interfaces are habit-forming"
-url = "/2003/interfaces-are-habit-forming/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-07-13T23:35:14+00:00"
+title: Interfaces are habit-forming
+url: /2003/interfaces-are-habit-forming/
+---
 
 [Jon
   

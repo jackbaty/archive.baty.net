@@ -1,11 +1,12 @@
-+++
-categories = ["Misc"]
-date = "2020-04-18"
-featuredImagePreview = "preview.jpg"
-tags = ["Art"]
-title = "Painting Eddie"
-
-+++
+---
+categories:
+- Misc
+date: "2020-04-18"
+featuredImagePreview: preview.jpg
+tags:
+- Art
+title: Painting Eddie
+---
 
 {{< image src="eddie.jpg" caption="My unfinished painting of Iron Maidens Eddie" >}}
 

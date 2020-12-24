@@ -1,10 +1,10 @@
-+++
-date = "2018-11-26"
-slug = "rotary-phones-return"
-tags = ["analog"]
-title = "Rotary Pay Phones Return, This Time to Foil Drug Deals - NYT"
-
-+++
+---
+date: "2018-11-26"
+slug: rotary-phones-return
+tags:
+- analog
+title: Rotary Pay Phones Return, This Time to Foil Drug Deals - NYT
+---
 
 ![Rotary Phone](/img/2018/2018-11-26_rotary.jpg)
 

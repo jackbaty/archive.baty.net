@@ -1,12 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2016-03-14T22:37:49+00:00"
-tags = ["emacs", "orgmode", "workflow"]
-title = "The Problems I have with Org Mode and Emacs"
-url = "/2016/the-problems-i-have-with-org-mode-and-emacs/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2016-03-14T22:37:49+00:00"
+tags:
+- emacs
+- orgmode
+- workflow
+title: The Problems I have with Org Mode and Emacs
+url: /2016/the-problems-i-have-with-org-mode-and-emacs/
+---
 
 <img class="alignnone size-full wp-image-4989" src="/img/2016/03/2016-03-14_emacs-logo.jpg" alt="2016-03-14_emacs-logo" width="400" height="341" srcset="/img/2016/03/2016-03-14_emacs-logo.jpg 400w, /img/2016/03/2016-03-14_emacs-logo-300x256.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />
 

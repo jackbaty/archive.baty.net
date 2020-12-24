@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-05-08T00:00:00+00:00"
-tags = ["paper", "productivity"]
-title = "The Filofax Experiment"
-url = "/2012/the-filofax-experiment/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-05-08T00:00:00+00:00"
+tags:
+- paper
+- productivity
+title: The Filofax Experiment
+url: /2012/the-filofax-experiment/
+---
 
 <div>
   <div>

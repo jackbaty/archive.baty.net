@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2006-05-20T20:16:20+00:00"
-title = "Parallels on MacBook Pro"
-url = "/2006/parallels-on-macbook-pro/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2006-05-20T20:16:20+00:00"
+title: Parallels on MacBook Pro
+url: /2006/parallels-on-macbook-pro/
+---
 
 [<img src="https://static.flickr.com/46/150099046_32a09a4e43_m.jpg" alt="" style="border: solid 2px #000000;" />][1] </p> 
 

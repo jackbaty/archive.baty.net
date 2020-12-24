@@ -1,13 +1,17 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-06-28T19:00:00+00:00"
-dsq_thread_id = [3595741]
-tags = ["nostalgia", "productivity", "software"]
-title = "Lotus Agenda"
-url = "/2014/lotus-agenda/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-06-28T19:00:00+00:00"
+dsq_thread_id:
+- 3595741
+tags:
+- nostalgia
+- productivity
+- software
+title: Lotus Agenda
+url: /2014/lotus-agenda/
+---
 
 Someone recently mentioned their love for (and continued use of) [Lotus Agenda][1]. My ears perked up because Agenda was one of those apps so completely _loved_ by the people using it that they've been whining about its demise for nearly 20 years. Curious, I thought I'd see if it was still possible to run Agenda, on my Mac, and was surprised to learn that it's not only possible, but relatively easy to do.
 

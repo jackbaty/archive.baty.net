@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:12+00:00"
-title = "Sweet Fancy Moses: An Excess of Product"
-url = "/2003/sweet-fancy-moses-an-excess-of-product/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:12+00:00"
+title: 'Sweet Fancy Moses: An Excess of Product'
+url: /2003/sweet-fancy-moses-an-excess-of-product/
+---
 
 Sweet Fancy Moses [piece on the joy of Krazy Glue][1]
 

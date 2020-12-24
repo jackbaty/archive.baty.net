@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:11+00:00"
-title = "All-Reality TV Channel Planned for 2004"
-url = "/2003/all-reality-tv-channel-planned-for-2004/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:11+00:00"
+title: All-Reality TV Channel Planned for 2004
+url: /2003/all-reality-tv-channel-planned-for-2004/
+---
 
 Just when I thought it might be going away, they plan to launch an [all
   

@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Software"]
-date = "2016-03-15T22:08:52+00:00"
-tags = ["app"]
-title = "I almost stopped using an app launcher"
-url = "/2016/i-almost-stopped-using-an-app-launcher/"
-
-+++
+---
+author: Jack
+categories:
+- Software
+date: "2016-03-15T22:08:52+00:00"
+tags:
+- app
+title: I almost stopped using an app launcher
+url: /2016/i-almost-stopped-using-an-app-launcher/
+---
 
 I found the following in a draft blog post from back in August:
 

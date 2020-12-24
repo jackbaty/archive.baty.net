@@ -1,10 +1,10 @@
-+++
-date = "2019-01-10"
-slug = "mastering-emacs-again"
-tags = ["emacs"]
-title = "Mastering Emacs (from scratch)"
-
-+++
+---
+date: "2019-01-10"
+slug: mastering-emacs-again
+tags:
+- emacs
+title: Mastering Emacs (from scratch)
+---
 
 ![Here we go (again)](/img/2019/2019-01-10_mastering-emacs.png)
 

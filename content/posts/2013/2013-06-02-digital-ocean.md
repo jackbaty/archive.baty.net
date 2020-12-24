@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2013-06-02T00:00:00+00:00"
-title = "Digital Ocean"
-url = "/2013/digital-ocean/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2013-06-02T00:00:00+00:00"
+title: Digital Ocean
+url: /2013/digital-ocean/
+---
 
 There have been so many positive comments about DigitalOcean that I couldn't resist having a go, so you're soaking in it right now.
 

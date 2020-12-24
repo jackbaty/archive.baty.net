@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-07-04T18:58:00+00:00"
-tags = ["geek", "Tinderbox"]
-title = "Tinderbox as a Daybook"
-url = "/2008/tinderbox-as-a-daybook/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-07-04T18:58:00+00:00"
+tags:
+- geek
+- Tinderbox
+title: Tinderbox as a Daybook
+url: /2008/tinderbox-as-a-daybook/
+---
 
 Inspired by the post at [but she's a girl&#8230;][1], I thought I'd jot down a few of my own notes on how I too use [Tinderbox][2] as a Daybook.
 

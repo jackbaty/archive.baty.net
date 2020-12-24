@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-02-17T23:19:52+00:00"
-title = "Apple Keychain Fix"
-url = "/2007/apple-keychain-fix/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-02-17T23:19:52+00:00"
+title: Apple Keychain Fix
+url: /2007/apple-keychain-fix/
+---
 
 When I launched [Adium][1] this morning it was kind enough to tell me that version 1.0.1 was available and asked if I'd like to install it. Of course I would, thank you. Once the install was complete, I was also asked if I'd like to allow the new version to use all of the previous Keychain information. Yup, so I clicked "Change All" and waited&#8230; and waited. My MacBook started thrashing so badly as to be unusable. 
 

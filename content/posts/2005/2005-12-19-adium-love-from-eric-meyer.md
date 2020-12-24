@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-12-19T18:00:02+00:00"
-title = "Adium love from Eric Meyer"
-url = "/2005/adium-love-from-eric-meyer/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-12-19T18:00:02+00:00"
+title: Adium love from Eric Meyer
+url: /2005/adium-love-from-eric-meyer/
+---
 
 Eric Meyer [finds yet another reason][1] to love [Adium][2]
 

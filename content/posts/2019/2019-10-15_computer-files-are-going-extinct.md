@@ -1,9 +1,9 @@
-+++
-date = "2019-10-15T10:23:31-04:00"
-tags = ["archiving"]
-title = "Computer Files Are Going Extinct - Simon Pitt"
-
-+++
+---
+date: "2019-10-15T10:23:31-04:00"
+tags:
+- archiving
+title: Computer Files Are Going Extinct - Simon Pitt
+---
 
 [Simon Pitt - OneZero](https://onezero.medium.com/the-death-of-the-computer-file-doc-43cb028c0506):
 

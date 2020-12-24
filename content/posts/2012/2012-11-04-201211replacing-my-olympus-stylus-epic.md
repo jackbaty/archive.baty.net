@@ -1,12 +1,17 @@
-+++
-author = "Jack"
-categories = ["Hardware", "Journal"]
-date = "2012-11-04T22:06:54+00:00"
-tags = ["film", "gear", "Olympus", "photography"]
-title = "Replacing my Olympus Stylus Epic"
-url = "/2012/201211replacing-my-olympus-stylus-epic/"
-
-+++
+---
+author: Jack
+categories:
+- Hardware
+- Journal
+date: "2012-11-04T22:06:54+00:00"
+tags:
+- film
+- gear
+- Olympus
+- photography
+title: Replacing my Olympus Stylus Epic
+url: /2012/201211replacing-my-olympus-stylus-epic/
+---
 
 You will almost always find an Olympus Stylus Epic on or near my person. The unassuming little Stylus Epic is in my opinion the best compact film camera for carrying everywhere. It easily fits in my pocket, is weather resistant, has a very nice f/2.8 lens, a spot meter, and goes from pocket to photo about 25 times faster than my iPhone.
 

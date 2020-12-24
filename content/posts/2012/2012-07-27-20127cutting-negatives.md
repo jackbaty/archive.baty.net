@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-07-27T15:33:56+00:00"
-dsq_thread_id = [3131253243]
-title = "Cutting Negatives"
-url = "/2012/20127cutting-negatives/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-07-27T15:33:56+00:00"
+dsq_thread_id:
+- 3131253243
+title: Cutting Negatives
+url: /2012/20127cutting-negatives/
+---
 
 ![][1] 
 

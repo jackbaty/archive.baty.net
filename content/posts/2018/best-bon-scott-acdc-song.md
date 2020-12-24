@@ -1,12 +1,12 @@
-+++
-date = "2018-02-20T12:05:01-05:00"
-description = ""
-draft = false
-lastmod = "2018-02-20T12:05:01-05:00"
-tags = ["music"]
-title = "The Best Bon Scott AC/DC Song(s)"
-
-+++
+---
+date: "2018-02-20T12:05:01-05:00"
+description: ""
+draft: false
+lastmod: "2018-02-20T12:05:01-05:00"
+tags:
+- music
+title: The Best Bon Scott AC/DC Song(s)
+---
 
 [Chris Lynch (A Large Regular)](http://large-regular.blogspot.com/2018/02/bon-scott.html):
 

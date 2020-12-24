@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-01-15T17:51:41+00:00"
-title = "Patching your personal suck"
-url = "/2005/patching-your-personal-suck/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-01-15T17:51:41+00:00"
+title: Patching your personal suck
+url: /2005/patching-your-personal-suck/
+---
 
 Not totally happy with my productivity lately, I found [this post][1] from the always useful 43Folders interesting&#8230;
 

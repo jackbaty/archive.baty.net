@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-09-02T02:45:59+00:00"
-tags = ["Canon"]
-title = "Missing Digital"
-url = "/2012/20129missing-digital/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-09-02T02:45:59+00:00"
+tags:
+- Canon
+title: Missing Digital
+url: /2012/20129missing-digital/
+---
 
 I kind of miss digital. I know what you're thinking. You're thinking, "Oh no, here we go again." and you're right. This has happened before. So?
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-08-17T16:53:30+00:00"
-title = "Gravity’s Rainbow Revisited"
-url = "/2004/gravitys-rainbow-revisited/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-08-17T16:53:30+00:00"
+title: Gravity’s Rainbow Revisited
+url: /2004/gravitys-rainbow-revisited/
+---
 
 [Thomas Pynchon for newbies][1] says&#8230;
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-11-22T15:16:24+00:00"
-title = "Shut up and shoot"
-url = "/2003/shut-up-and-shoot/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-11-22T15:16:24+00:00"
+title: Shut up and shoot
+url: /2003/shut-up-and-shoot/
+---
 
 Since buying a 300D, I spend a lot of time reading the Canon forums at [dpreview.com][1]. To save everyone the trouble of reading all 100,277 messages, I'll sum it up for you&#8230;
 

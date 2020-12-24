@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-07-05T10:28:21+00:00"
-title = "Review: LOTR Return of the King"
-url = "/2004/review-lotr-return-of-the-king/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-07-05T10:28:21+00:00"
+title: 'Review: LOTR Return of the King'
+url: /2004/review-lotr-return-of-the-king/
+---
 
 The final [Lord of the Rings][1] sucked. I may be the only person alive who thought so, but I want my 3 hours, 21 minutes back right now!
 

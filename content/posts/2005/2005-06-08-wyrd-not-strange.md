@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-06-08T23:56:26+00:00"
-title = "Wyrd, not strange"
-url = "/2005/wyrd-not-strange/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-06-08T23:56:26+00:00"
+title: Wyrd, not strange
+url: /2005/wyrd-not-strange/
+---
 
 I hate iCal for lots of reasons that I no longer need to go into, since I've found the perfect replacement in the form of [Remind][1]. Yes, it's a geeky unix tool. Yes, it requires command line skillz, but imagine a single, light-weight text file with all of your events in it. Each line looks like this&#8230;
 

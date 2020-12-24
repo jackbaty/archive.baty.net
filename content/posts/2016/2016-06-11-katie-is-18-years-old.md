@@ -1,12 +1,17 @@
-+++
-author = "Jack"
-categories = ["Journal", "Photos"]
-date = "2016-06-11T16:58:17+00:00"
-tags = ["film", "Jess", "Katie", "nikon"]
-title = "Katie is 18 years old"
-url = "/2016/katie-is-18-years-old/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+- Photos
+date: "2016-06-11T16:58:17+00:00"
+tags:
+- film
+- Jess
+- Katie
+- nikon
+title: Katie is 18 years old
+url: /2016/katie-is-18-years-old/
+---
 
 My dog Katie turned 18 this week. Every year we say, "This is probably her last birthday" but here we are again. She's missing an eye, nearly all her teeth, and her hearing. She has trouble getting around and cannot manage even a single stair.
 

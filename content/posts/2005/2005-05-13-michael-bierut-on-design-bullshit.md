@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-05-13T20:50:53+00:00"
-title = "Michael Bierut On (Design) Bullshit"
-url = "/2005/michael-bierut-on-design-bullshit/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-05-13T20:50:53+00:00"
+title: Michael Bierut On (Design) Bullshit
+url: /2005/michael-bierut-on-design-bullshit/
+---
 
 I find this unnervingly funny. [On (Design) Bullshit][1]
 

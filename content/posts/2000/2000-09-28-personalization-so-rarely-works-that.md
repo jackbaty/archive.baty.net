@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-09-28T10:22:28+00:00"
-title = "Personalization so rarely works that"
-url = "/2000/personalization-so-rarely-works-that/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-09-28T10:22:28+00:00"
+title: Personalization so rarely works that
+url: /2000/personalization-so-rarely-works-that/
+---
 
 Personalization so rarely works that it's almost always a bad idea to attempt implementing it.
   

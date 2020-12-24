@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:12+00:00"
-title = "Jeffrey Zeldman’s top 10 tips for designers"
-url = "/2003/jeffrey-zeldmans-top-10-tips-for-designers/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:12+00:00"
+title: Jeffrey Zeldman’s top 10 tips for designers
+url: /2003/jeffrey-zeldmans-top-10-tips-for-designers/
+---
 
 Jeffrey Zeldman (A List Apart) offers these tips for web designers:
 

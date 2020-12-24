@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-12-07T20:34:27+00:00"
-title = "Nielsen: Why Ajax Sucks (Most of the Time)"
-url = "/2005/nielsen-why-ajax-sucks-most-of-the-time/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-12-07T20:34:27+00:00"
+title: 'Nielsen: Why Ajax Sucks (Most of the Time)'
+url: /2005/nielsen-why-ajax-sucks-most-of-the-time/
+---
 
 **[UPDATE]** Matthew points out that I've been duped. The article I'm spouting off about below is a spoof (a pretty good one.) I totally fell for it.
 

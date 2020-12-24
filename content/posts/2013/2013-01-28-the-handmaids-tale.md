@@ -1,13 +1,16 @@
-+++
-author = "Jack"
-categories = ["Books", "Journal"]
-date = "2013-01-28T05:00:00+00:00"
-dsq_thread_id = [3595585]
-tags = ["book"]
-title = "Book: The Handmaid' Tale"
-url = "/2013/the-handmaids-tale/"
-
-+++
+---
+author: Jack
+categories:
+- Books
+- Journal
+date: "2013-01-28T05:00:00+00:00"
+dsq_thread_id:
+- 3595585
+tags:
+- book
+title: 'Book: The Handmaid'' Tale'
+url: /2013/the-handmaids-tale/
+---
 
 <aside> <img src="/img/the-handmaids-tale-book.jpg" alt="The Handmaid's Tale" class="postimage" />
   

@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-12-28T16:07:36+00:00"
-tags = ["family", "movies"]
-title = "Grand Rapids Amateur Movie Club' \"One Day\" contests"
-url = "/2014/grand-rapids-amateur-movie-clubs-one-day-contests/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-12-28T16:07:36+00:00"
+tags:
+- family
+- movies
+title: Grand Rapids Amateur Movie Club' "One Day" contests
+url: /2014/grand-rapids-amateur-movie-clubs-one-day-contests/
+---
 
 My grandfather, Richard Baty, was part of the Grand Rapids Amateur Movie Club for many years. He used to tell stories of the club's "One Day" competitions, during which they would split into teams and each team had one day to plan, shoot, and edit a short film. This would be easy today using an iPhone and iMovie, but in the 1950s it was _way_ more work.
 

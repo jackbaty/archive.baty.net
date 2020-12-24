@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-08-05T21:33:13+00:00"
-dsq_thread_id = [3131256663]
-title = "From Quicksilver to LaunchBar"
-url = "/2007/from-quicksilver-to-launchbar/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-08-05T21:33:13+00:00"
+dsq_thread_id:
+- 3131256663
+title: From Quicksilver to LaunchBar
+url: /2007/from-quicksilver-to-launchbar/
+---
 
 [Quicksilver][1] is the best launcher available. It’s got triggers, plugins, every conceivable option you could think of, third party contributions, and it’s free.
 

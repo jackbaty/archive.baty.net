@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Tech"]
-date = "2018-10-15T14:51:31+00:00"
-tags = ["hardware"]
-title = "The new Palm is a tiny phone to keep you away from your phone – The Verge"
-url = "/2018/the-new-palm-is-a-tiny-phone-to-keep-you-away-from-your-phone-the-verge/"
-
-+++
+---
+author: Jack
+categories:
+- Tech
+date: "2018-10-15T14:51:31+00:00"
+tags:
+- hardware
+title: The new Palm is a tiny phone to keep you away from your phone – The Verge
+url: /2018/the-new-palm-is-a-tiny-phone-to-keep-you-away-from-your-phone-the-verge/
+---
 [The Verge][1]:
 
 > So to review: it’s a tiny phone to keep you from using your big phone, but it could do all the things your big one can do if you wanted (but you shouldn’t because the whole idea is to get you to be a little less obsessed with your phone). It’s like a phone for your phone. And Steph Curry helped design cases for it so you can strap it to your forearm during workouts. There are Kate Spade clutches for it, too.

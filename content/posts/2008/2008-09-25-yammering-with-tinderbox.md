@@ -1,12 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-09-26T00:56:13+00:00"
-tags = ["geek", "Tinderbox", "yammer"]
-title = "Yammering with Tinderbox"
-url = "/2008/yammering-with-tinderbox/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-09-26T00:56:13+00:00"
+tags:
+- geek
+- Tinderbox
+- yammer
+title: Yammering with Tinderbox
+url: /2008/yammering-with-tinderbox/
+---
 
 <span class="drop_cap">W</span>e've been trying "Yammer":http://yammer.com/ at "the office":http://fusionary.com/ for short notes and intra-office updates. Yammer asks "What are you working on?" Fair question, but I already log my daily activity in a "Daybook":https://jackbaty.com/2008/07/tinderbox-as-a-daybook/ using Tinderbox so I thought it would save time if I could post those entries as updates directly to Yammer.
 

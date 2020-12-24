@@ -1,9 +1,8 @@
-+++
-date = "2020-02-15T09:13:00-05:00"
-draft = false
-title = "How To Take Smart Notes With Org-mode - Jethro Kuan"
-
-+++
+---
+date: "2020-02-15T09:13:00-05:00"
+draft: false
+title: How To Take Smart Notes With Org-mode - Jethro Kuan
+---
 
 [Jethro Kuan](https://blog.jethro.dev/posts/how%5Fto%5Ftake%5Fsmart%5Fnotes%5Forg/):
 

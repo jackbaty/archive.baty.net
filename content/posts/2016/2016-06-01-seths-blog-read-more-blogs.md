@@ -1,12 +1,12 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2016-06-01T16:53:50+00:00"
-format = "link"
-title = "Seth’s Blog: Read more blogs"
-url = "/2016/read-more-blogs/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2016-06-01T16:53:50+00:00"
+format: link
+title: 'Seth’s Blog: Read more blogs'
+url: /2016/read-more-blogs/
+---
 
 [Seth Godin][1]
 

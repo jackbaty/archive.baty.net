@@ -1,9 +1,9 @@
-+++
-date = "2018-11-09"
-tags = ["family"]
-title = "How about dinner?"
-
-+++
+---
+date: "2018-11-09"
+tags:
+- family
+title: How about dinner?
+---
 
 My ex-wife passed away recently. We'd been divorced for many years and haven't kept in touch, but we share a daughter, so we never completely lost touch.
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-08-24T23:47:53+00:00"
-title = "Amazon fires up their new"
-url = "/2000/amazon-fires-up-their-new/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-08-24T23:47:53+00:00"
+title: Amazon fires up their new
+url: /2000/amazon-fires-up-their-new/
+---
 
 <div>
   <a href="http://www.amazon.com/">Amazon</a> fires up their new navigation interface.

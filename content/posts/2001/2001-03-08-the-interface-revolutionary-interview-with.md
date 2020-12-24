@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2001-03-08T10:15:48+00:00"
-title = "The Interface Revolutionary Interview with"
-url = "/2001/the-interface-revolutionary-interview-with/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2001-03-08T10:15:48+00:00"
+title: The Interface Revolutionary Interview with
+url: /2001/the-interface-revolutionary-interview-with/
+---
 
 [The Interface Revolutionary][1]
 

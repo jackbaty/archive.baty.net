@@ -1,13 +1,15 @@
-+++
-author = "Jack"
-categories = ["Photography"]
-date = "2018-01-21T15:47:15+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-tags = ["iPhone"]
-title = "Portrait Lighting on the iPhone"
-url = "/2018/portrait-lighting-on-the-iphone/"
-
-+++
+---
+author: Jack
+categories:
+- Photography
+date: "2018-01-21T15:47:15+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+tags:
+- iPhone
+title: Portrait Lighting on the iPhone
+url: /2018/portrait-lighting-on-the-iphone/
+---
 
 {{< figure src="/img/2018/01/kelly-portrait.jpg" title="Kelly. (iPhone X)" >}}
 

@@ -1,13 +1,15 @@
-+++
-author = "Jack"
-categories = ["Tech"]
-date = "2018-02-05T20:32:00+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-tags = ["org-mode"]
-title = "Fixing Babel in Org mode"
-url = "/2018/fixing-babel-in-org-mode/"
-
-+++
+---
+author: Jack
+categories:
+- Tech
+date: "2018-02-05T20:32:00+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+tags:
+- org-mode
+title: Fixing Babel in Org mode
+url: /2018/fixing-babel-in-org-mode/
+---
 Once in a while Emacs and/or Org mode throws me a curveball. Today&#8217;s example is that suddenly I couldn&#8217;t run anything using Org-babel. Trying to do so would result in something like…
 
 > evaluation of this R code block is disabled

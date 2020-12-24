@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:11+00:00"
-title = "The boys are back"
-url = "/2003/the-boys-are-back/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:11+00:00"
+title: The boys are back
+url: /2003/the-boys-are-back/
+---
 
 It's good to see some of the other folks at Fusionary are keeping
   

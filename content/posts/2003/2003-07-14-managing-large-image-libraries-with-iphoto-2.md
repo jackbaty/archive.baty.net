@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-07-15T01:23:15+00:00"
-title = "Managing Large Image Libraries with iPhoto 2"
-url = "/2003/managing-large-image-libraries-with-iphoto-2/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-07-15T01:23:15+00:00"
+title: Managing Large Image Libraries with iPhoto 2
+url: /2003/managing-large-image-libraries-with-iphoto-2/
+---
 
 From [O'Reilly
   

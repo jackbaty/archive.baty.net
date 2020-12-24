@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-02-08T16:09:38+00:00"
-title = "What to rent dot com"
-url = "/2004/what-to-rent-dot-com/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-02-08T16:09:38+00:00"
+title: What to rent dot com
+url: /2004/what-to-rent-dot-com/
+---
 
 So far, [What To Rent][1] has nailed it with recent recommendations of which movie to rent.
 

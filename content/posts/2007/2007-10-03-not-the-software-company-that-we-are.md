@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-10-03T19:52:51+00:00"
-title = "Not the software company that we are"
-url = "/2007/not-the-software-company-that-we-are/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-10-03T19:52:51+00:00"
+title: Not the software company that we are
+url: /2007/not-the-software-company-that-we-are/
+---
 
 Chris Stephenson, GM of Global Marketing for Zune, when comparing Apple's iPod to Microsoft's Zune, [says][1], 
 

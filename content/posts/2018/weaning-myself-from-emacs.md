@@ -1,11 +1,16 @@
-+++
-date = "2018-09-28T10:34:24-04:00"
-lastmod = "2018-09-28T10:34:24-04:00"
-tags = ["orgmode", "emacs", "bear", "workflow", "omnifocus", "devonthink"]
-title = "Weaning Myself From Emacs and Org-mode"
-toc = false
-
-+++
+---
+date: "2018-09-28T10:34:24-04:00"
+lastmod: "2018-09-28T10:34:24-04:00"
+tags:
+- orgmode
+- emacs
+- bear
+- workflow
+- omnifocus
+- devonthink
+title: Weaning Myself From Emacs and Org-mode
+toc: false
+---
 
 My ongoing effort to wean myself from my dependency on Emacs and Org-Mode has only been intermittently successful. Whenever I try moving out of Emacs I have to find replacements for all sorts of tools and processes. Things like task management, journaling, email, project notes, text editing, and general note taking are all things that I've been doing in Emacs for a while now and if I'm ever going to move away from it I'll need to find replacements. 
 

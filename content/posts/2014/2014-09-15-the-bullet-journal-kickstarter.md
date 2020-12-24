@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-09-15T18:13:59+00:00"
-title = "The Bullet Journal Kickstarter"
-url = "/2014/the-bullet-journal-kickstarter/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-09-15T18:13:59+00:00"
+title: The Bullet Journal Kickstarter
+url: /2014/the-bullet-journal-kickstarter/
+---
 
 I've been keeping notes and todos in one notebook or another for years. I prefer it that way, but it can be difficult to find things later and sometimes I can't decide what goes in the notebook and what goes elsewhere and why. Ryder Carroll recently solved those issues for me by created a wonderful and slightly more structured system called [The Bullet Journal][1]. It's simple and flexible but contains enough _process_ to make it the first paper-based "system" I've ever stuck with for any length of time.
   

@@ -1,13 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-11-09T12:08:11+00:00"
-dsq_thread_id = [3207264167]
-tags = ["personal"]
-title = "Leeloo' Legs"
-url = "/2014/leeloos-legs/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-11-09T12:08:11+00:00"
+dsq_thread_id:
+- 3207264167
+tags:
+- personal
+title: Leeloo' Legs
+url: /2014/leeloos-legs/
+---
 
 <img title="leeloo.jpg" src="/img/2014/11/leeloo.jpg" alt="Leeloo" width="600" height="450" border="0" />
 

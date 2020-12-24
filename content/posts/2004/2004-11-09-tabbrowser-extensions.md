@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-11-09T16:22:04+00:00"
-title = "Tabbrowser Extensions"
-url = "/2004/tabbrowser-extensions/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-11-09T16:22:04+00:00"
+title: Tabbrowser Extensions
+url: /2004/tabbrowser-extensions/
+---
 
 Firefox tabbed browsing is great, but only until you've installed the [Tabbrowser Extension][1]. You'll then have&#8230;
 

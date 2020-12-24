@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-03-19T07:21:41+00:00"
-title = "Good customer experience = Success"
-url = "/2004/good-customer-experience-success/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-03-19T07:21:41+00:00"
+title: Good customer experience = Success
+url: /2004/good-customer-experience-success/
+---
 
 The [latest from Good Experience][1]
 

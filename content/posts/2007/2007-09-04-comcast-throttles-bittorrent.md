@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-09-04T18:14:29+00:00"
-title = "Comcast throttles Bittorrent"
-url = "/2007/comcast-throttles-bittorrent/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-09-04T18:14:29+00:00"
+title: Comcast throttles Bittorrent
+url: /2007/comcast-throttles-bittorrent/
+---
 
 <img src="/files/comcast.gif" alt="comcast.gif" border="0" width="139" height="36" /> 
 

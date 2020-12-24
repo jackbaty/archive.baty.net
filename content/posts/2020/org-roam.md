@@ -1,10 +1,11 @@
-+++
-date = "2020-02-08T12:12:00-05:00"
-draft = false
-tags = ["Orgmode", "Roam"]
-title = "Org-roam"
-
-+++
+---
+date: "2020-02-08T12:12:00-05:00"
+draft: false
+tags:
+- Orgmode
+- Roam
+title: Org-roam
+---
 
 [Org-roam](https://github.com/jethrokuan/org-roam) is a new Emacs package by [Jethro Kuan](https://blog.jethro.dev/). Here's his [blog post introducing
 org-roam](https://blog.jethro.dev/posts/introducing%5Forg%5Froam/).

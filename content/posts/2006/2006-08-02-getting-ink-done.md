@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2006-08-02T22:08:18+00:00"
-title = "Getting ink done"
-url = "/2006/getting-ink-done/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2006-08-02T22:08:18+00:00"
+title: Getting ink done
+url: /2006/getting-ink-done/
+---
 
 [<img src="https://static.flickr.com/97/205387993_ae02b72fc6_m.jpg" alt="" style="border: solid 2px #000000;" />][1]
 

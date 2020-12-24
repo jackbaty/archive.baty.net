@@ -1,10 +1,10 @@
-+++
-date = "2016-10-04T10:49:10-04:00"
-slug = "dropbox-issues"
-tags = ["Dropbox"]
-title = "Dropbox issues"
-
-+++
+---
+date: "2016-10-04T10:49:10-04:00"
+slug: dropbox-issues
+tags:
+- Dropbox
+title: Dropbox issues
+---
 
 Dropbox has always been one of those services that did exactly what it was
 supposed to, and did so without fuss or bother.

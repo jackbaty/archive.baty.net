@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-04-24T04:49:53+00:00"
-title = "Tripping over trackbacks"
-url = "/2005/tripping-over-trackbacks/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-04-24T04:49:53+00:00"
+title: Tripping over trackbacks
+url: /2005/tripping-over-trackbacks/
+---
 
 Sorry to bother y'all again, but I'd appreciate it if you would stop listing trackbacks at the end of every blog post. In many cases, the most interesting parts a post are found in the comments, but wading through the trackbacks is as annoying, and usually less useful, as wading through a half-dozen Google ads. On this site it would go something like this&#8230;
 

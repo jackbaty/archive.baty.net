@@ -1,13 +1,16 @@
-+++
-author = "Jack"
-categories = ["Books", "Journal"]
-date = "2013-05-10T04:00:00+00:00"
-dsq_thread_id = [3595610]
-tags = ["book"]
-title = "Book: Forty Tales from the Afterlives"
-url = "/2013/forty-tales-from-the-afterlives/"
-
-+++
+---
+author: Jack
+categories:
+- Books
+- Journal
+date: "2013-05-10T04:00:00+00:00"
+dsq_thread_id:
+- 3595610
+tags:
+- book
+title: 'Book: Forty Tales from the Afterlives'
+url: /2013/forty-tales-from-the-afterlives/
+---
 
 <div>
   <div>

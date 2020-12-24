@@ -1,17 +1,23 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-11-30T05:00:00+00:00"
-title = "Deciding Between the Old and the New"
-tz_audio_format = ["mp3"]
-tz_gallery_captions = ["true"]
-tz_gallery_format = ["-=set slideshow type=-"]
-tz_gallery_margins = [10]
-tz_gallery_randomize = ["false"]
-tz_gallery_targetheight = [200]
-url = "/2012/20125deciding-between-the-old-and-the-new/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-11-30T05:00:00+00:00"
+title: Deciding Between the Old and the New
+tz_audio_format:
+- mp3
+tz_gallery_captions:
+- "true"
+tz_gallery_format:
+- -=set slideshow type=-
+tz_gallery_margins:
+- 10
+tz_gallery_randomize:
+- "false"
+tz_gallery_targetheight:
+- 200
+url: /2012/20125deciding-between-the-old-and-the-new/
+---
 
 ![][1]
 

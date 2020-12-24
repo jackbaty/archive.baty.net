@@ -1,13 +1,16 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2013-06-23T00:00:00+00:00"
-dsq_thread_id = [3595619]
-tags = ["film", "photography"]
-title = "Delayed gratification shooting film"
-url = "/2013/delayed-gratification-shooting-film/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2013-06-23T00:00:00+00:00"
+dsq_thread_id:
+- 3595619
+tags:
+- film
+- photography
+title: Delayed gratification shooting film
+url: /2013/delayed-gratification-shooting-film/
+---
 
 <div>
   <div>

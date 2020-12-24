@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-09-22T17:46:17+00:00"
-title = "The Importance of Simplicity: Create"
-url = "/2000/the-importance-of-simplicity-create/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-09-22T17:46:17+00:00"
+title: 'The Importance of Simplicity: Create'
+url: /2000/the-importance-of-simplicity-create/
+---
 
 [The Importance of Simplicity: Create Ease of Use Without Losing Power][1]
 

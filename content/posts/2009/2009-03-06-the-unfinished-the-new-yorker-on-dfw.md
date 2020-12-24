@@ -1,13 +1,15 @@
-+++
-author = "Jack"
-categories = ["Art"]
-date = "2009-03-07T00:38:00+00:00"
-tags = ["Art"]
-thesis_post_image = ["/files/dfwsketch.jpg"]
-title = "The Unfinished: The New Yorker on DFW"
-url = "/2009/the-unfinished-the-new-yorker-on-dfw/"
-
-+++
+---
+author: Jack
+categories:
+- Art
+date: "2009-03-07T00:38:00+00:00"
+tags:
+- Art
+thesis_post_image:
+- /files/dfwsketch.jpg
+title: 'The Unfinished: The New Yorker on DFW'
+url: /2009/the-unfinished-the-new-yorker-on-dfw/
+---
 
 The New Yorker on David Foster Wallace
 

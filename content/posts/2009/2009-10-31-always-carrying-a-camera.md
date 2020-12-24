@@ -1,13 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2009-10-31T15:08:58+00:00"
-dsq_thread_id = [3131255274]
-tags = ["photography"]
-title = "Always Carrying a Camera"
-url = "/2009/always-carrying-a-camera/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2009-10-31T15:08:58+00:00"
+dsq_thread_id:
+- 3131255274
+tags:
+- photography
+title: Always Carrying a Camera
+url: /2009/always-carrying-a-camera/
+---
 
 <img src="/files/man-with-helmet-and-camera.jpeg" alt="man-with-helmet-and-camera.jpeg" border="0" width="383" height="481" />
   

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-02-16T13:08:23+00:00"
-title = "Chat and Wikis, the future of Groupware"
-url = "/2005/chat-and-wikis-the-future-of-groupware/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-02-16T13:08:23+00:00"
+title: Chat and Wikis, the future of Groupware
+url: /2005/chat-and-wikis-the-future-of-groupware/
+---
 
 Via [ongoing][1], a [delicious rant][2] about the concept of "Groupware" and why it always, always sucks. Nay, why it _must_ suck.
 

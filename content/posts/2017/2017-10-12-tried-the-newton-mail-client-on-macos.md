@@ -1,11 +1,12 @@
-+++
-date = "2017-10-12T09:02:37-04:00"
-description = "On rare occasions, I try a new app and don't love it."
-slug = "tried-the-newton-mail-client-on-macos"
-tags = ["email", "software"]
-title = "Tried the Newton Mail client on macOS"
-
-+++
+---
+date: "2017-10-12T09:02:37-04:00"
+description: On rare occasions, I try a new app and don't love it.
+slug: tried-the-newton-mail-client-on-macos
+tags:
+- email
+- software
+title: Tried the Newton Mail client on macOS
+---
 
 In [this interesting post about tools by Matt Birchler](https://birchtree.me/blog/the-best-apps-and-services-for-doing-work/) he wrote that "[Newton](https://newtonhq.com/) is the best email app I have ever used." Intrigued, I installed the 14-day trial.
 

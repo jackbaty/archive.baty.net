@@ -1,11 +1,12 @@
-+++
-date = "2016-08-27T16:07:46-04:00"
-description = ""
-tags = ["static", "blogging"]
-title = "Middleman"
-topics = []
-
-+++
+---
+date: "2016-08-27T16:07:46-04:00"
+description: ""
+tags:
+- static
+- blogging
+title: Middleman
+topics: []
+---
 
 ![Middleman](/img/2016/middleman-logo.jpg)
 

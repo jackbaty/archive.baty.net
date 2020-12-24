@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-08-18T19:20:12+00:00"
-title = "CNET tests VMWare Fusion and Parallels. Suspicions Confirmed."
-url = "/2007/cnet-tests-vmware-fusion-and-parallels-suspicions-confirmed/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-08-18T19:20:12+00:00"
+title: CNET tests VMWare Fusion and Parallels. Suspicions Confirmed.
+url: /2007/cnet-tests-vmware-fusion-and-parallels-suspicions-confirmed/
+---
 
 <span class="mt-enclosure mt-enclosure-image"><img alt="vmwareoverview.gif" src="/files/vmwareoverview.gif" width="224" height="148" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></span> 
 

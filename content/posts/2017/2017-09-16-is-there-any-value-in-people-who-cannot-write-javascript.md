@@ -1,14 +1,17 @@
-+++
-author = "Jack"
-categories = ["Tech"]
-date = "2017-09-16T17:17:57+00:00"
-format = "link"
-mf2_syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-tags = ["development", "javascript"]
-title = "Is there any value in people who cannot write JavaScript?"
-url = "/2017/is-there-any-value-in-people-who-cannot-write-javascript/"
-
-+++
+---
+author: Jack
+categories:
+- Tech
+date: "2017-09-16T17:17:57+00:00"
+format: link
+mf2_syndicate-to:
+- a:1:{i:0;s:4:"none";}
+tags:
+- development
+- javascript
+title: Is there any value in people who cannot write JavaScript?
+url: /2017/is-there-any-value-in-people-who-cannot-write-javascript/
+---
 [Mandy Michael][1]:
 
 > The worst part about pushing the “know everything” mentality is that we end up creating an industry full of professionals suffering from burnout and mental illness. We have people speaking at conferences about wellbeing, imposter syndrome and full stack anxiety, yet despite that, we perpetuate this idea that people have to know everything and be amazing at it.

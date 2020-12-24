@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2009-10-27T21:42:18+00:00"
-title = "Marco.org – In defense of ebook readers"
-url = "/2009/marco-org-in-defense-of-ebook-readers/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2009-10-27T21:42:18+00:00"
+title: Marco.org – In defense of ebook readers
+url: /2009/marco-org-in-defense-of-ebook-readers/
+---
 
 [Marco.org](http://www.marco.org/224969330)
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:12+00:00"
-title = "Zen and the Art of Bugfixing"
-url = "/2003/zen-and-the-art-of-bugfixing/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:12+00:00"
+title: Zen and the Art of Bugfixing
+url: /2003/zen-and-the-art-of-bugfixing/
+---
 
 David Sifri spends some time fixing a [technorati][1] bug, and has some [intersting
   

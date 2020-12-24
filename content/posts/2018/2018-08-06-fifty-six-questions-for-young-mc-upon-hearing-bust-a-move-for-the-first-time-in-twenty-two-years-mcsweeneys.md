@@ -1,12 +1,15 @@
-+++
-author = "Jack"
-categories = ["Misc"]
-date = "2018-08-06T23:46:46+00:00"
-tags = ["fun", "music"]
-title = "Fifty-Six Questions for Young MC Upon Hearing “Bust a Move” for the First Time in Twenty-Two Years – McSweeney’s"
-url = "/2018/fifty-six-questions-for-young-mc-upon-hearing-bust-a-move-for-the-first-time-in-twenty-two-years-mcsweeneys/"
-
-+++
+---
+author: Jack
+categories:
+- Misc
+date: "2018-08-06T23:46:46+00:00"
+tags:
+- fun
+- music
+title: Fifty-Six Questions for Young MC Upon Hearing “Bust a Move” for the First Time
+  in Twenty-Two Years – McSweeney’s
+url: /2018/fifty-six-questions-for-young-mc-upon-hearing-bust-a-move-for-the-first-time-in-twenty-two-years-mcsweeneys/
+---
 [<img class="alignnone size-full" src="/img/2018/08/Young-MC-300x204.jpg" alt="" />][1]
 
 > 20. In regard to the vignette where one of us fellas goes to a movie alone, sees a yellow-clad woman seated in the same row, and the yellow-clad woman says “come sit next to me you fine fellow” and then a move is prescribed to be busted, what should I take for the headache accrued from trying to absorb your weirdo nonsense word pile?

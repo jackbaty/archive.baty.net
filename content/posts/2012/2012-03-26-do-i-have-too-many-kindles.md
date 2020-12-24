@@ -1,12 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-03-26T00:00:00+00:00"
-tags = ["hardware", "Kindle", "reading"]
-title = "Do I Have Too Many Kindles?"
-url = "/2012/do-i-have-too-many-kindles/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-03-26T00:00:00+00:00"
+tags:
+- hardware
+- Kindle
+- reading
+title: Do I Have Too Many Kindles?
+url: /2012/do-i-have-too-many-kindles/
+---
 
 <div>
   <div>

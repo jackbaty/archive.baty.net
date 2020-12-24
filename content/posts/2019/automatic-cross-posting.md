@@ -1,10 +1,11 @@
-+++
-date = "2019-07-05T13:16:00-04:00"
-draft = false
-tags = ["blogging", "social"]
-title = "Automatic Cross-posting"
-
-+++
+---
+date: "2019-07-05T13:16:00-04:00"
+draft: false
+tags:
+- blogging
+- social
+title: Automatic Cross-posting
+---
 
 Should I automatically cross-post from baty.net to all the usual places? I don't know. Sometimes I feel like I would just be adding noise where no more noise is needed. Other times I figure what the hell, everyone else does it and people seem to love noise. Besides, it's fun to share.
 

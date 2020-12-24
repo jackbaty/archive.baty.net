@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-10-23T09:34:47+00:00"
-title = "Moving WebWord > Call Them"
-url = "/2000/moving-webword-call-them/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-10-23T09:34:47+00:00"
+title: Moving WebWord > Call Them
+url: /2000/moving-webword-call-them/
+---
 
 [Moving WebWord > Call Them Demons, Call Them Heroes][1]
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-03-21T13:53:19+00:00"
-title = "Drink without Drinking"
-url = "/2004/drink-without-drinking/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-03-21T13:53:19+00:00"
+title: Drink without Drinking
+url: /2004/drink-without-drinking/
+---
 
 Well, it looks like I can stop wasting money on Lagavulin. Introducing the [AWOL Machine][1]
 

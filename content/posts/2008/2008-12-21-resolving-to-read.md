@@ -1,19 +1,27 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-12-21T16:08:59+00:00"
-dsq_thread_id = [3131254915]
-tags = ["book"]
-title = "Resolving to Read"
-tz_audio_format = ["mp3"]
-tz_gallery_captions = ["true"]
-tz_gallery_format = ["-=set slideshow type=-"]
-tz_gallery_margins = [10]
-tz_gallery_randomize = ["false"]
-tz_gallery_targetheight = [200]
-url = "/2008/resolving-to-read/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-12-21T16:08:59+00:00"
+dsq_thread_id:
+- 3131254915
+tags:
+- book
+title: Resolving to Read
+tz_audio_format:
+- mp3
+tz_gallery_captions:
+- "true"
+tz_gallery_format:
+- -=set slideshow type=-
+tz_gallery_margins:
+- 10
+tz_gallery_randomize:
+- "false"
+tz_gallery_targetheight:
+- 200
+url: /2008/resolving-to-read/
+---
 
 It happened under the kitchen table at my grandmother's house. I don't know how old I was. Young, though. Everyone was leaving for some boring grown-up event and I begged to stay home. They let me.
 

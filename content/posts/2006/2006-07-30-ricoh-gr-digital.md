@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2006-07-30T17:31:14+00:00"
-dsq_thread_id = [3131256295]
-title = "Ricoh GR Digital"
-url = "/2006/ricoh-gr-digital/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2006-07-30T17:31:14+00:00"
+dsq_thread_id:
+- 3131256295
+title: Ricoh GR Digital
+url: /2006/ricoh-gr-digital/
+---
 
 After much hand-wringing and the selling of my 20D, Ive finally bought myself a Ricoh GR Digital 
 

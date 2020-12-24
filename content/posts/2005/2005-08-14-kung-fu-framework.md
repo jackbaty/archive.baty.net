@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-08-14T10:04:26+00:00"
-title = "Kung Fu Framework"
-url = "/2005/kung-fu-framework/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-08-14T10:04:26+00:00"
+title: Kung Fu Framework
+url: /2005/kung-fu-framework/
+---
 
 I've been quiet about [Ruby on Rails][1] &#8211; reluctantly, suspiciously quiet. Why, because _everyone_ else is making so much noise there's not much else for me to say. I will sum up: After several months and several "real" projects, it completely rocks. Just listen to me say, "Woah, I'm never touching PHP/ASP/ColdFusion again &#8211; ever." a dozen times a day and it becomes obvious that Rails is an absolute joy to use.
 

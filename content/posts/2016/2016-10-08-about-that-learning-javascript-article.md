@@ -1,10 +1,11 @@
-+++
-date = "2016-10-08T12:15:49-04:00"
-slug = "about-that-learning-javascript-article"
-tags = ["JavaScript", "Development"]
-title = "About that Learning Javascript article"
-
-+++
+---
+date: "2016-10-08T12:15:49-04:00"
+slug: about-that-learning-javascript-article
+tags:
+- JavaScript
+- Development
+title: About that Learning Javascript article
+---
 
 Many of you may have read Jose Aguinaga's
 post,[How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.3gse4qoix).

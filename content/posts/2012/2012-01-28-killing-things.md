@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-01-28T00:00:00+00:00"
-tags = ["story", "Writing"]
-title = "Killing Things"
-url = "/2012/killing-things/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-01-28T00:00:00+00:00"
+tags:
+- story
+- Writing
+title: Killing Things
+url: /2012/killing-things/
+---
 
 ## A story about extermination
           

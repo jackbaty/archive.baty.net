@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Misc"]
-date = "2018-12-16T20:05:12+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-title = "Ground Zero Software"
-url = "/2018/ground-zero-software/"
-
-+++
+---
+author: Jack
+categories:
+- Misc
+date: "2018-12-16T20:05:12+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+title: Ground Zero Software
+url: /2018/ground-zero-software/
+---
 The fun part of any venture is naming things, so when I started my own little software development company back in the early 90s, I spent a lot of time thinking up a business name.
 
 This, unfortunately, is what I came up with:<figure class="wp-block-image">

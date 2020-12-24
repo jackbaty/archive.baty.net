@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-03-10T16:55:51+00:00"
-title = "Don’t forget SQLite"
-url = "/2005/dont-forget-sqlite/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-03-10T16:55:51+00:00"
+title: Don’t forget SQLite
+url: /2005/dont-forget-sqlite/
+---
 
 I love databases. Mostly this love is poured into MySQL these days. Used to be that everything I did was in SQLServer but thankfully those days are nearly gone. Yesterday I was lamenting the fact that I don't know PostgreSQL well enough. I hear great things and if you're looking for an "academically correct" implementation without the (mostly theoretical) shortcomings of MySQL, Postgres is the way to go. Well [Jeremy][1] overheard this and today brought me a big fat PostgreSQL book. Crap, you just **know** I'm gonna hafta read it.
 

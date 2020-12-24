@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:11+00:00"
-title = "The Mesh and the Net"
-url = "/2003/the-mesh-and-the-net/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:11+00:00"
+title: The Mesh and the Net
+url: /2003/the-mesh-and-the-net/
+---
 
 Speculations on Armed Conflict In a Time of Free Silicon
 

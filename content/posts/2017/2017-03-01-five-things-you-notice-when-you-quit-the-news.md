@@ -1,10 +1,10 @@
-+++
-date = "2016-12-13T19:20:38-05:00"
-slug = "five-things-you-notice-when-you-quit-the-news"
-tags = ["News"]
-title = "Five Things You Notice When You Quit The News"
-
-+++
+---
+date: "2016-12-13T19:20:38-05:00"
+slug: five-things-you-notice-when-you-quit-the-news
+tags:
+- News
+title: Five Things You Notice When You Quit The News
+---
 
 [David
 Cain](http://www.raptitude.com/2016/12/five-things-you-notice-when-you-quit-the-news/):

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-11-20T00:01:26+00:00"
-title = "Productivity software roundup"
-url = "/2005/productivity-software-roundup/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-11-20T00:01:26+00:00"
+title: Productivity software roundup
+url: /2005/productivity-software-roundup/
+---
 
 ![][1]
   

@@ -1,12 +1,12 @@
-+++
-date = "2017-11-04T09:42:52-04:00"
-description = "I like files and folders"
-draft = false
-slug = "why-my-photos-remain-on-my-hard-drive"
-tags = ["workflow,photograpy"]
-title = "Why My Photos Remain on My Hard Drive"
-
-+++
+---
+date: "2017-11-04T09:42:52-04:00"
+description: I like files and folders
+draft: false
+slug: why-my-photos-remain-on-my-hard-drive
+tags:
+- workflow,photograpy
+title: Why My Photos Remain on My Hard Drive
+---
 
 I like files. I like knowing where my "stuff" is, without depending upon additional software.
 

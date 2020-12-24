@@ -1,10 +1,12 @@
-+++
-date = "2018-10-26T10:02:57-04:00"
-description = ""
-tags = ["journaling", "dayone", "orgmode"]
-title = "Making org-journal more like Day One"
-
-+++
+---
+date: "2018-10-26T10:02:57-04:00"
+description: ""
+tags:
+- journaling
+- dayone
+- orgmode
+title: Making org-journal more like Day One
+---
 
 I sometimes think having only _one_ journal would be ideal, but that's not likely to happen. I know me, and I'll never stick with just one.
 

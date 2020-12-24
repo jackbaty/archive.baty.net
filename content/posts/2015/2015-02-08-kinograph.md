@@ -1,13 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-02-08T19:02:51+00:00"
-format = "link"
-tags = ["film"]
-title = "Kinograph"
-url = "/2015/kinograph/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-02-08T19:02:51+00:00"
+format: link
+tags:
+- film
+title: Kinograph
+url: /2015/kinograph/
+---
 
 [KINOGRAPH][1]:
 

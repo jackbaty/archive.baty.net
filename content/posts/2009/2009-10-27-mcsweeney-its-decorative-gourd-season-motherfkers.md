@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2009-10-27T20:23:01+00:00"
-title = "McSweeney&#039;: It' Decorative Gourd Season, Motherf**kers."
-url = "/2009/its-decorative-gourd-season-motherfkers/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2009-10-27T20:23:01+00:00"
+title: 'McSweeney&#039;: It'' Decorative Gourd Season, Motherf**kers.'
+url: /2009/its-decorative-gourd-season-motherfkers/
+---
 
 mcsweeneys.net:
 

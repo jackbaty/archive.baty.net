@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-06-30T22:19:14+00:00"
-tags = ["music", "vinyl"]
-title = "At the record store"
-url = "/2012/20126at-the-record-store/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-06-30T22:19:14+00:00"
+tags:
+- music
+- vinyl
+title: At the record store
+url: /2012/20126at-the-record-store/
+---
 
 ![][1] 
 

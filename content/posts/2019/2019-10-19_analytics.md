@@ -1,9 +1,9 @@
-+++
-date = "2019-10-19T07:17:18-04:00"
-tags = ["blogging"]
-title = "Website Analytics"
-
-+++
+---
+date: "2019-10-19T07:17:18-04:00"
+tags:
+- blogging
+title: Website Analytics
+---
 
 Manton Reece, in his post, [Happier without analytics](https://www.manton.org/2019/10/18/happier-without-analytics.html), describes why [Micro.blog](https://micro.blog) doesn't have page-view statistics built in.
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-09-03T18:25:26+00:00"
-title = "The Joy of Vinyl"
-url = "/2005/the-joy-of-vinyl/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-09-03T18:25:26+00:00"
+title: The Joy of Vinyl
+url: /2005/the-joy-of-vinyl/
+---
 
 ![][1]
 

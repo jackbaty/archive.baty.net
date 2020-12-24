@@ -1,9 +1,10 @@
-+++
-date = "2018-11-10"
-tags = ["book", "analog"]
-title = "Holding Dear: The Value of the Real by Steve Leveen"
-
-+++
+---
+date: "2018-11-10"
+tags:
+- book
+- analog
+title: 'Holding Dear: The Value of the Real by Steve Leveen'
+---
 
 ![](/img/2018/2018-11-10_holding-dear.jpg)
 

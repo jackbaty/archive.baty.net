@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-12-28T15:05:19+00:00"
-title = "Salon.com Technology | High tech’s"
-url = "/2000/saloncom-technology-high-techs/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-12-28T15:05:19+00:00"
+title: Salon.com Technology | High tech’s
+url: /2000/saloncom-technology-high-techs/
+---
 
 [Salon.com Technology | High tech's missionaries of sloppiness][1]
 

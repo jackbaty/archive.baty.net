@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-08-13T16:18:06+00:00"
-title = "Forget the hype, e-books still"
-url = "/2000/forget-the-hype-e-books-still/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-08-13T16:18:06+00:00"
+title: Forget the hype, e-books still
+url: /2000/forget-the-hype-e-books-still/
+---
 
 [Forget the hype, e-books still hard on the eyes (8/12/2000)][1]
 

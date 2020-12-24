@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-08-28T19:56:17+00:00"
-title = "Ian Lloyd on Web Standards"
-url = "/2003/ian-lloyd-on-web-standards/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-08-28T19:56:17+00:00"
+title: Ian Lloyd on Web Standards
+url: /2003/ian-lloyd-on-web-standards/
+---
 
 If you have any interest at all in understanding or implementing web standards within your organization, read [Standards: Designing For the Future][1].
   

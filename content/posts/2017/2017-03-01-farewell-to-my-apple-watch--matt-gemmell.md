@@ -1,10 +1,11 @@
-+++
-date = "2016-12-21T19:29:03-05:00"
-slug = "farewell-to-my-apple-watch--matt-gemmell"
-tags = ["Apple", "Watch"]
-title = "Farewell To My Apple Watch - Matt Gemmell"
-
-+++
+---
+date: "2016-12-21T19:29:03-05:00"
+slug: farewell-to-my-apple-watch--matt-gemmell
+tags:
+- Apple
+- Watch
+title: Farewell To My Apple Watch - Matt Gemmell
+---
 
 
 [Matt Gemmell](http://mattgemmell.com/farewell-to-the-apple-watch/)

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:12+00:00"
-title = "Google Voice Search Demo"
-url = "/2003/google-voice-search-demo/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:12+00:00"
+title: Google Voice Search Demo
+url: /2003/google-voice-search-demo/
+---
 
 I don't often get to say "Damn! How'd they do that!?," but check this:
   

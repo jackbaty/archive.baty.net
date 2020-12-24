@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-09-25T14:09:44+00:00"
-title = "Handspring VisorPhone: Overview I like"
-url = "/2000/handspring-visorphone-overview-i-like/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-09-25T14:09:44+00:00"
+title: 'Handspring VisorPhone: Overview I like'
+url: /2000/handspring-visorphone-overview-i-like/
+---
 
 [Handspring VisorPhone: Overview][1]
 

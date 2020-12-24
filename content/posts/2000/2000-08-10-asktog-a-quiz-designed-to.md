@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-08-11T00:21:37+00:00"
-title = "AskTog: A Quiz Designed to"
-url = "/2000/asktog-a-quiz-designed-to/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-08-11T00:21:37+00:00"
+title: 'AskTog: A Quiz Designed to'
+url: /2000/asktog-a-quiz-designed-to/
+---
 
 [AskTog: A Quiz Designed to Give You Fitts][1]
 

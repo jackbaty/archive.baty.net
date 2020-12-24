@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-08-24T14:40:55+00:00"
-title = "PHPetal tickets via CVStrac"
-url = "/2003/phpetal-tickets-via-cvstrac/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-08-24T14:40:55+00:00"
+title: PHPetal tickets via CVStrac
+url: /2003/phpetal-tickets-via-cvstrac/
+---
 
 Bug reports, feature requests and questions regarding [PHPetal][1] may now use [CVStrac][2] at the following address:
 

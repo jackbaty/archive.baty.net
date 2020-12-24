@@ -1,15 +1,16 @@
-+++
-author = "Jack"
-categories = ["Photography"]
-date = "2020-08-16T15:57:50+00:00"
-featuredImage = "2020-08-13-Fuji-X-Pro2-01.jpg"
-featuredImagePreview = "2020-08-13-Fuji-X-Pro2-01-preview.jpg"
-tags = ["fuji"]
-title = "So long, Fuji (almost)"
-type = "posts"
-url = "/2020/so-long-fuji-almost/"
-
-+++
+---
+author: Jack
+categories:
+- Photography
+date: "2020-08-16T15:57:50+00:00"
+featuredImage: 2020-08-13-Fuji-X-Pro2-01.jpg
+featuredImagePreview: 2020-08-13-Fuji-X-Pro2-01-preview.jpg
+tags:
+- fuji
+title: So long, Fuji (almost)
+type: posts
+url: /2020/so-long-fuji-almost/
+---
 It hurts a little, but I&#8217;ve begun selling off my lovely Fuji cameras and lenses.
 
 I fell in love with Fuji when they released the original X100. I loved that camera. I still have it, but it&#8217;s in a drawer somewhere. 

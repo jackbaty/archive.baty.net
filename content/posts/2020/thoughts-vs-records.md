@@ -1,11 +1,13 @@
-+++
-categories = ["Misc"]
-date = "2020-03-26"
-slug = "thoughts-vs-records"
-tags = ["Roam", "Notetaking"]
-title = "Thoughts vs Records"
-
-+++
+---
+categories:
+- Misc
+date: "2020-03-26"
+slug: thoughts-vs-records
+tags:
+- Roam
+- Notetaking
+title: Thoughts vs Records
+---
 
 **UPDATE:** After writing this I realized what a jumbled mess it became. I’m posting it anyway because it really is intended as a way for me to think this through. I apologize for the rambling you’re about to be subjected to._
 

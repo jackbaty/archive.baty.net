@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-03-28T13:48:20+00:00"
-tags = ["Analog"]
-title = "A briefcase containing the chronicles of an affair between a man and his secretary"
-url = "/2015/a-briefcase-containing-the-chronicles-of-an-affair-between-a-man-and-his-secretary/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-03-28T13:48:20+00:00"
+tags:
+- Analog
+title: A briefcase containing the chronicles of an affair between a man and his secretary
+url: /2015/a-briefcase-containing-the-chronicles-of-an-affair-between-a-man-and-his-secretary/
+---
 
 Álvaro Serrano on [A briefcase containing the chronicles of an affair between a man and his secretary][1]:
 

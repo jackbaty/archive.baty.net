@@ -1,11 +1,13 @@
-+++
-date = "2017-10-14T07:34:36-04:00"
-description = "A small Applescript for opening BBEdit's Scratchpad via Keyboard Maestro"
-slug = "bbedit-scratchpad-via-keyboardmaestro"
-tags = ["bbedit", "keyboard maestro", "workflow"]
-title = "Opening BBEdit's Scratchpad via Keyboard Maestro"
-
-+++
+---
+date: "2017-10-14T07:34:36-04:00"
+description: A small Applescript for opening BBEdit's Scratchpad via Keyboard Maestro
+slug: bbedit-scratchpad-via-keyboardmaestro
+tags:
+- bbedit
+- keyboard maestro
+- workflow
+title: Opening BBEdit's Scratchpad via Keyboard Maestro
+---
 
 I use [BBEdit's][1] Scratchpad window all day. For some reason I've never thought about making it easier to get to the window. While perusing BBEdit's Google Group, I spotted [this message by Fletcher][2], in which he provides a simple AppleScript for doing just that.
 

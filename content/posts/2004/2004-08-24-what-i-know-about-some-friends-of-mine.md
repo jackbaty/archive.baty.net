@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-08-24T19:20:21+00:00"
-title = "What I know about some friends of mine"
-url = "/2004/what-i-know-about-some-friends-of-mine/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-08-24T19:20:21+00:00"
+title: What I know about some friends of mine
+url: /2004/what-i-know-about-some-friends-of-mine/
+---
 
 There's been some disappointing behaviour lately around these parts.&nbsp; There have been things written and things hinted at which don't line up exactly with reality. These things seem to be directed at my partners, Steve and Bryan Lewis. I wouldn't normally bring it up, but these are not just my partners, they are also my friends.
 

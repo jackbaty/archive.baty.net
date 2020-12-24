@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:12+00:00"
-title = "Robert suggests that playing Enigmo would help"
-url = "/2003/robert-suggests-that-playing-enigmo-would-help/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:12+00:00"
+title: Robert suggests that playing Enigmo would help
+url: /2003/robert-suggests-that-playing-enigmo-would-help/
+---
 
 [Robert
   

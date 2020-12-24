@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2013-02-09T00:00:00+00:00"
-tags = ["Tinderbox"]
-title = "Blogging with Tinderbox"
-url = "/2013/blogging-with-tinderbox/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2013-02-09T00:00:00+00:00"
+tags:
+- Tinderbox
+title: Blogging with Tinderbox
+url: /2013/blogging-with-tinderbox/
+---
 
 My interest in blogging varies with my mood. I go from digging deep and wanting complete control to just looking to type a few sentences and hit the Publish button. One thing that always returns is the desire to have a basic, static blog running on as simple a server as possible.
 

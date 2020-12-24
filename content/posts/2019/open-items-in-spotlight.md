@@ -1,11 +1,12 @@
-+++
-Icon = "🔗"
-date = "2019-09-04T00:31:23.970Z"
-slug = "open-items-in-spotlight"
-tags = ["macOS"]
-title = "How to open items in the enclosing folder directly from a Spotlight search in macOS"
-
-+++
+---
+Icon: "\U0001F517"
+date: "2019-09-04T00:31:23.970Z"
+slug: open-items-in-spotlight
+tags:
+- macOS
+title: How to open items in the enclosing folder directly from a Spotlight search
+  in macOS
+---
 
 [Macworld](https://www.macworld.com/article/3433898/how-to-open-items-in-the-enclosing-folder-directly-from-a-spotlight-search-in-macos.html):
 

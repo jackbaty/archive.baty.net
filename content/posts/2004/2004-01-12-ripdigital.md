@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-01-12T17:16:52+00:00"
-title = "RipDigital"
-url = "/2004/ripdigital/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-01-12T17:16:52+00:00"
+title: RipDigital
+url: /2004/ripdigital/
+---
 
 [RipDigital: Convert your music CDs to a digital music library][1]
 

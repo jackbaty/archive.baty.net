@@ -1,12 +1,12 @@
-+++
-date = "2018-04-21T13:03:38-04:00"
-description = "Ok, now I'm frightened"
-draft = false
-lastmod = "2018-04-21T13:03:38-04:00"
-tags = ["AI"]
-title = "IBM Watson Analyzes My Twitter"
-
-+++
+---
+date: "2018-04-21T13:03:38-04:00"
+description: Ok, now I'm frightened
+draft: false
+lastmod: "2018-04-21T13:03:38-04:00"
+tags:
+- AI
+title: IBM Watson Analyzes My Twitter
+---
 
 IBM Watson analyzed my Twitter account and came up with this:
 

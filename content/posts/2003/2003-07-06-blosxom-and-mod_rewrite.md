@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-07-06T16:03:14+00:00"
-title = "Blosxom and mod_rewrite"
-url = "/2003/blosxom-and-mod_rewrite/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-07-06T16:03:14+00:00"
+title: Blosxom and mod_rewrite
+url: /2003/blosxom-and-mod_rewrite/
+---
 
 Using [Blosxom][1] as a
 

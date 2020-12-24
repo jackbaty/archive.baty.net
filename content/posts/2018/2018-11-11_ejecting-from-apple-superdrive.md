@@ -1,10 +1,12 @@
-+++
-date = "2018-11-11"
-slug = "ejecting-from-apple-superdrive"
-tags = ["apple", "hardware", "tip"]
-title = "Ejecting a CD stuck in an Apple SuperDrive"
-
-+++
+---
+date: "2018-11-11"
+slug: ejecting-from-apple-superdrive
+tags:
+- apple
+- hardware
+- tip
+title: Ejecting a CD stuck in an Apple SuperDrive
+---
 
 
 Since setting up my [Roon](https://roonlabs.com) system, I've been re-ripping all my CDs to FLAC format. My Apple SuperDrive stopped reliably ejecting CDs so I ordered another one, which developed the same problem. Every 2nd or 3rd disk would fail to eject and I'd have to retry a few times. 

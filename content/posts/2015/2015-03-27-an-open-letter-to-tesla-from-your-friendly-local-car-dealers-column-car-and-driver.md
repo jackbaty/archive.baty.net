@@ -1,13 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-03-27T16:51:50+00:00"
-format = "link"
-tags = ["tesla"]
-title = "An Open Letter to Tesla, From Your Friendly Local Car Dealers"
-url = "/2015/an-open-letter-to-tesla-from-your-friendly-local-car-dealers-column-car-and-driver/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-03-27T16:51:50+00:00"
+format: link
+tags:
+- tesla
+title: An Open Letter to Tesla, From Your Friendly Local Car Dealers
+url: /2015/an-open-letter-to-tesla-from-your-friendly-local-car-dealers-column-car-and-driver/
+---
 
 [An Open Letter to Tesla, From Your Friendly Local Car Dealers – Column – Car and Driver][1]:
 

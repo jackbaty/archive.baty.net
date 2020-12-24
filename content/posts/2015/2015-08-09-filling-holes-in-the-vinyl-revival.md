@@ -1,13 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-08-09T22:46:11+00:00"
-excerpt = "Why do people feel the need to poke holes in the resurgence of vinyl? How about just letting us enjoy the revival of a cherished music format?"
-tags = ["vinyl"]
-title = "Filling Holes in the Vinyl Revival"
-url = "/2015/filling-holes-in-the-vinyl-revival/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-08-09T22:46:11+00:00"
+excerpt: Why do people feel the need to poke holes in the resurgence of vinyl? How
+  about just letting us enjoy the revival of a cherished music format?
+tags:
+- vinyl
+title: Filling Holes in the Vinyl Revival
+url: /2015/filling-holes-in-the-vinyl-revival/
+---
 
 [Khoi Vinh][1]:
 

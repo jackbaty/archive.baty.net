@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:12+00:00"
-title = "Strategies for Categorizing Categories"
-url = "/2003/strategies-for-categorizing-categories/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:12+00:00"
+title: Strategies for Categorizing Categories
+url: /2003/strategies-for-categorizing-categories/
+---
 This month's UETips (from [uie.com][1]) includes some reasearch notes about categorization on several large e-commerce sites. I've included the text of the message&#8230;
 
 How does a site containing thousands of pages of content get users to

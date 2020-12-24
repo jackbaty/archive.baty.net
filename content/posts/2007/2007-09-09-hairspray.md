@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-09-09T15:47:39+00:00"
-title = "Hairspray"
-url = "/2007/hairspray/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-09-09T15:47:39+00:00"
+title: Hairspray
+url: /2007/hairspray/
+---
 
 <img src="/files/hairspray2007.jpg" alt="hairspray2007.jpg" border="0" width="200" height="296" style="padding-right: 8px;" align="left" /> 
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-09-02T10:56:17+00:00"
-title = "Nurse Betty Cool, Neil LaBute"
-url = "/2000/nurse-betty-cool-neil-labute/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-09-02T10:56:17+00:00"
+title: Nurse Betty Cool, Neil LaBute
+url: /2000/nurse-betty-cool-neil-labute/
+---
 
 [Nurse Betty][1]
 

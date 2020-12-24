@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Misc"]
-date = "2018-12-24T01:18:25+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-title = "What’s in my bag"
-url = "/2018/whats-in-my-bag/"
-
-+++
+---
+author: Jack
+categories:
+- Misc
+date: "2018-12-24T01:18:25+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+title: What’s in my bag
+url: /2018/whats-in-my-bag/
+---
 I spent some time rearranging things in my new [13&#8243; Everyday Messenger bag][1] from Peak Design, so I thought I&#8217;d share a quick snap of the contents. I&#8217;m a fan of &#8220;what&#8217;s in my bag&#8221; shots so here&#8217;s mine.<figure class="wp-block-image">
 
 <img src="/img/2018/12/DSCF3088-821x1024.jpg" alt="" class="wp-image-2218" srcset="/img/2018/12/DSCF3088.jpg 821w, /img/2018/12/DSCF3088-241x300.jpg 241w, /img/2018/12/DSCF3088-768x958.jpg 768w, /img/2018/12/DSCF3088-750x935.jpg 750w" sizes="(max-width: 821px) 100vw, 821px" /></figure> <figure class="wp-block-image"><img src="/img/2018/12/DSCF3090-1024x683.jpg" alt="" class="wp-image-2219" srcset="/img/2018/12/DSCF3090.jpg 1024w, /img/2018/12/DSCF3090-300x200.jpg 300w, /img/2018/12/DSCF3090-768x512.jpg 768w, /img/2018/12/DSCF3090-750x500.jpg 750w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure> 

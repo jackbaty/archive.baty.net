@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-07-05T10:37:21+00:00"
-title = "Review: Bubba Ho-Tep"
-url = "/2004/review-bubba-ho-tep/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-07-05T10:37:21+00:00"
+title: 'Review: Bubba Ho-Tep'
+url: /2004/review-bubba-ho-tep/
+---
 
 On rare occasions, [T.M.][1] is wrong about a movie. His contempt for [Bubba Ho-Tep][2] is one of those occassions.
 

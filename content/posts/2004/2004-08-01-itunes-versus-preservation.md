@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-08-01T16:07:21+00:00"
-title = "iTunes versus Preservation"
-url = "/2004/itunes-versus-preservation/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-08-01T16:07:21+00:00"
+title: iTunes versus Preservation
+url: /2004/itunes-versus-preservation/
+---
 
 An interesting piece about [jazz in the digital age][1] discusses the danger of music distribution without the original album notes, artwork, etc.
 

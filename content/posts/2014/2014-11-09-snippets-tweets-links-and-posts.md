@@ -1,13 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-11-09T14:26:52+00:00"
-dsq_thread_id = [3207538667]
-tags = ["Blogging"]
-title = "Snippets, Tweets, Links, Posts, etc."
-url = "/2014/snippets-tweets-links-and-posts/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-11-09T14:26:52+00:00"
+dsq_thread_id:
+- 3207538667
+tags:
+- Blogging
+title: Snippets, Tweets, Links, Posts, etc.
+url: /2014/snippets-tweets-links-and-posts/
+---
 
 I'm still figuring out the differences between the types of content that I post and where I should post them.
 

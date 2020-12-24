@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-02-01T00:00:00+00:00"
-tags = ["productivity", "Tinderbox"]
-title = "State of the System, 2014"
-url = "/2014/state-of-the-system-2014/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-02-01T00:00:00+00:00"
+tags:
+- productivity
+- Tinderbox
+title: State of the System, 2014
+url: /2014/state-of-the-system-2014/
+---
 
 I love reading about the tools other people use, so I thought I'd write down a few of the things I'm using these days.
 

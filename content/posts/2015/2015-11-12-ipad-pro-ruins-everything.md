@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-11-12T11:40:10+00:00"
-tags = ["apple", "hardware"]
-title = "The iPad Pro is going to destroy everything I’ve built"
-url = "/2015/ipad-pro-ruins-everything/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-11-12T11:40:10+00:00"
+tags:
+- apple
+- hardware
+title: The iPad Pro is going to destroy everything I’ve built
+url: /2015/ipad-pro-ruins-everything/
+---
 
 I'm angry with my iPad Pro and it hasn't even arrived.
 

@@ -1,10 +1,11 @@
-+++
-date = "2017-05-31"
-slug = "scripting-news-may-31-2017"
-tags = ["blogging", "fargo"]
-title = "Scripting News: May 31, 2017"
-
-+++
+---
+date: "2017-05-31"
+slug: scripting-news-may-31-2017
+tags:
+- blogging
+- fargo
+title: 'Scripting News: May 31, 2017'
+---
 
 [Dave Winer][1]:
 

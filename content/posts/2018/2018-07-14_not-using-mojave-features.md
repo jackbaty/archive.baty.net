@@ -1,10 +1,11 @@
-+++
-date = "2018-07-14T07:43:46-04:00"
-description = "Desktop Stacks and Dark Mode are not for me"
-tags = ["macos", "apple"]
-title = "I'm Not Using the Major macOS Mojave Features"
-
-+++
+---
+date: "2018-07-14T07:43:46-04:00"
+description: Desktop Stacks and Dark Mode are not for me
+tags:
+- macos
+- apple
+title: I'm Not Using the Major macOS Mojave Features
+---
 
 I've been running the Mojave beta of macOS since it was released. Two of the
 most touted features, Dark Mode and Desktop Stacks, are interesting but I'm not

@@ -1,12 +1,12 @@
-+++
-date = "2018-05-05T15:02:35-04:00"
-description = "A reasonably simple way to manage dotfiles"
-draft = false
-lastmod = "2018-05-05T15:02:35-04:00"
-tags = ["config"]
-title = "Managing Dotfiles With GNU Stow"
-
-+++
+---
+date: "2018-05-05T15:02:35-04:00"
+description: A reasonably simple way to manage dotfiles
+draft: false
+lastmod: "2018-05-05T15:02:35-04:00"
+tags:
+- config
+title: Managing Dotfiles With GNU Stow
+---
 
 
 Every so often I reconfigure the way I manage my dotfiles. There are all sorts of tools out there for this.

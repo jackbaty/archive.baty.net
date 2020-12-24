@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-06-11T19:19:37+00:00"
-title = "Web standards are boring"
-url = "/2004/web-standards-are-boring/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-06-11T19:19:37+00:00"
+title: Web standards are boring
+url: /2004/web-standards-are-boring/
+---
 
 Simon Willison [writes][1]
 

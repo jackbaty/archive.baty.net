@@ -1,9 +1,8 @@
-+++
-date = "2017-05-12"
-slug = "when-introversion-collides-with-the-desire-to-connect"
-title = "When introversion collides with the desire to connect"
-
-+++
+---
+date: "2017-05-12"
+slug: when-introversion-collides-with-the-desire-to-connect
+title: When introversion collides with the desire to connect
+---
 
 [Kottke][1]
 

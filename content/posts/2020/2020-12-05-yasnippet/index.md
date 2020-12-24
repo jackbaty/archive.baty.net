@@ -1,13 +1,14 @@
-+++
-categories = ["Emacs"]
-date = "2020-12-05"
-layout = "default"
-slug = "yasnippet-for-hugo"
-summary = "Tweaking my Emacs snippets for posting to Hugo"
-tags = ["Emacs"]
-title = "YASnippet for Hugo frontmatter"
-
-+++
+---
+categories:
+- Emacs
+date: "2020-12-05"
+layout: default
+slug: yasnippet-for-hugo
+summary: Tweaking my Emacs snippets for posting to Hugo
+tags:
+- Emacs
+title: YASnippet for Hugo frontmatter
+---
 
 I feel like I've never taken full advantage of [YASnippet](https://github.com/joaotavora/yasnippet) in Emacs.
 

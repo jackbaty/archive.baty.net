@@ -1,15 +1,19 @@
-+++
-author = "Jack"
-categories = ["Art"]
-date = "2009-03-02T02:48:52+00:00"
-tags = ["Art"]
-thesis_post_image = ["/files/dfw-field.jpg"]
-thesis_post_image_alt = ["David Foster Wallace (photo by Marion Ettlinger)"]
-thesis_post_image_frame = [1]
-title = "The Pale King"
-url = "/2009/the-pale-king/"
-
-+++
+---
+author: Jack
+categories:
+- Art
+date: "2009-03-02T02:48:52+00:00"
+tags:
+- Art
+thesis_post_image:
+- /files/dfw-field.jpg
+thesis_post_image_alt:
+- David Foster Wallace (photo by Marion Ettlinger)
+thesis_post_image_frame:
+- 1
+title: The Pale King
+url: /2009/the-pale-king/
+---
 
 Yes! I think.
 

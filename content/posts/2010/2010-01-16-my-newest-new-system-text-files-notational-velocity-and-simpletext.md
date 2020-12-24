@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2010-01-16T15:29:54+00:00"
-tags = ["geek", "productivity"]
-title = "My newest new system – Text files, Notational Velocity, and SimpleText"
-url = "/2010/my-newest-new-system-text-files-notational-velocity-and-simpletext/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2010-01-16T15:29:54+00:00"
+tags:
+- geek
+- productivity
+title: My newest new system – Text files, Notational Velocity, and SimpleText
+url: /2010/my-newest-new-system-text-files-notational-velocity-and-simpletext/
+---
 
 Every 6 months or so I tend to throw out whatever "systems" I'm using and start fresh. It happened again this past weekend after I stood behind someone and watched him open up TextEdit and make a note in it. TextEdit! Can you believe it? What year is this? I kept watching and he just wrote what he needed to write and saved the file to a folder on his drive with an easy-to-remember name. Done.
 

@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2009-03-08T16:44:28+00:00"
-thesis_post_image_frame = [1]
-title = "Dolphin playing with Bubble Rings"
-url = "/2009/dolphin-playing-with-bubble-rings/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2009-03-08T16:44:28+00:00"
+thesis_post_image_frame:
+- 1
+title: Dolphin playing with Bubble Rings
+url: /2009/dolphin-playing-with-bubble-rings/
+---
 
 Neat.
 

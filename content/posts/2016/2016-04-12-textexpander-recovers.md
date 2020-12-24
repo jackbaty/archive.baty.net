@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Software"]
-date = "2016-04-12T19:39:34+00:00"
-title = "TextExpander Recovers"
-url = "/2016/textexpander-recovers/"
-
-+++
+---
+author: Jack
+categories:
+- Software
+date: "2016-04-12T19:39:34+00:00"
+title: TextExpander Recovers
+url: /2016/textexpander-recovers/
+---
 
 When [Smile Software][1] announced their new subscription pricing model I was initially incredulous. I don’t like paying subscriptions and theirs was a significant increase in pricing while offering nothing compelling for me as a user. I bailed and moved my most important snippets into [Keyboard Maestro][2]. KM is not as slick for doing expansions as TE but it works and I already own it. (“Own” being the operative word).
 

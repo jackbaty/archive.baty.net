@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-07-07T19:40:21+00:00"
-title = "Precious Moments"
-url = "/2004/precious-moments/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-07-07T19:40:21+00:00"
+title: Precious Moments
+url: /2004/precious-moments/
+---
 
 A few weeks ago during a basketball tournament, Jessica asked me to quickly braid her hair before the game. It happened so fast I almost forgot to notice. She just asked me again. This time I didn't forget to notice.
 

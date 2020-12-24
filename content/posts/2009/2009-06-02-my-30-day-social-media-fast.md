@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2009-06-03T04:19:18+00:00"
-tags = ["productivity", "Web"]
-title = "My 30 Day Social Media Fast"
-url = "/2009/my-30-day-social-media-fast/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2009-06-03T04:19:18+00:00"
+tags:
+- productivity
+- Web
+title: My 30 Day Social Media Fast
+url: /2009/my-30-day-social-media-fast/
+---
 
 Let's call it an experiment. For the next 30 days I am going to avoid as much online consumption as I can. It's a social media fast.
 

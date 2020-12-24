@@ -1,20 +1,28 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-06-18T19:00:00+00:00"
-dsq_thread_id = [3595715]
-format = "link"
-title = "Nothing' That Simple"
-tz_audio_format = ["mp3"]
-tz_gallery_captions = ["true"]
-tz_gallery_format = ["-=set slideshow type=-"]
-tz_gallery_margins = [10]
-tz_gallery_randomize = ["false"]
-tz_gallery_targetheight = [200]
-tz_link_url = ["https://medium.com/@lucyinglis/nothings-that-simple-not-even-things-that-are-simply-awful-eaee5b1fe1f3"]
-url = "/2014/nothings-that-simple/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-06-18T19:00:00+00:00"
+dsq_thread_id:
+- 3595715
+format: link
+title: Nothing' That Simple
+tz_audio_format:
+- mp3
+tz_gallery_captions:
+- "true"
+tz_gallery_format:
+- -=set slideshow type=-
+tz_gallery_margins:
+- 10
+tz_gallery_randomize:
+- "false"
+tz_gallery_targetheight:
+- 200
+tz_link_url:
+- https://medium.com/@lucyinglis/nothings-that-simple-not-even-things-that-are-simply-awful-eaee5b1fe1f3
+url: /2014/nothings-that-simple/
+---
 
 * * *
 

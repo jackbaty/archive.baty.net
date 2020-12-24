@@ -1,10 +1,12 @@
-+++
-date = "2017-06-19T20:13:48-04:00"
-slug = "josie-portra"
-tags = ["Film", "Portra", "Canon"]
-title = "Josie. Portra."
-
-+++
+---
+date: "2017-06-19T20:13:48-04:00"
+slug: josie-portra
+tags:
+- Film
+- Portra
+- Canon
+title: Josie. Portra.
+---
 
 {{< figure src="/img/2017/2017-Roll-022_31_Josie.jpg" title="Josie (2017). Canon EOS-1v. Portra 400. Self-processed." >}}
 

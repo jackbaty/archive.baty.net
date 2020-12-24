@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Tech"]
-date = "2018-12-16T17:20:37+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-title = "Optional OmniFocus Subscriptions – John Gruber"
-url = "/2018/optional-omnifocus-subscriptions/"
-
-+++
+---
+author: Jack
+categories:
+- Tech
+date: "2018-12-16T17:20:37+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+title: Optional OmniFocus Subscriptions – John Gruber
+url: /2018/optional-omnifocus-subscriptions/
+---
 [John Gruber][1]
 
 > Subscriptions are the way of the future for commercial software

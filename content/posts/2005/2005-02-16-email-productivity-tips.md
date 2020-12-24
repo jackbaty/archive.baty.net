@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-02-16T16:49:19+00:00"
-title = "Email productivity tips"
-url = "/2005/email-productivity-tips/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-02-16T16:49:19+00:00"
+title: Email productivity tips
+url: /2005/email-productivity-tips/
+---
 
 Merlin, based on much chatter, offers [Five fast email productivity tips][1]. I think most folks would benefit from following any three of them.
 

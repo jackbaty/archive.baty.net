@@ -1,10 +1,12 @@
-+++
-date = "2018-08-04T16:34:47-04:00"
-description = ""
-tags = ["org-mode", "ios", "beorg"]
-title = "Beorg and Sync"
-
-+++
+---
+date: "2018-08-04T16:34:47-04:00"
+description: ""
+tags:
+- org-mode
+- ios
+- beorg
+title: Beorg and Sync
+---
 
 [Beorg](https://beorgapp.com) is a pretty good implementation of Org-mode on iOS. The latest version
 introduced a couple new sync options and much better editing features.

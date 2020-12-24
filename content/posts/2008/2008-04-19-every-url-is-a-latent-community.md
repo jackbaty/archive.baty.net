@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-04-19T09:28:16+00:00"
-tags = ["Web"]
-title = "Every URL is a Latent Community"
-url = "/2008/every-url-is-a-latent-community/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-04-19T09:28:16+00:00"
+tags:
+- Web
+title: Every URL is a Latent Community
+url: /2008/every-url-is-a-latent-community/
+---
 
 Clay Shirky video. [Here Comes Everybody: The Power of Organizing Without Organizations][1]. Some quotes (from memory)&#8230;
 

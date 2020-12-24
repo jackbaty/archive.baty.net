@@ -1,12 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-04-21T00:00:00+00:00"
-tags = ["Analog", "paper", "productivity"]
-title = "Using Paper"
-url = "/2014/using-paper/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-04-21T00:00:00+00:00"
+tags:
+- Analog
+- paper
+- productivity
+title: Using Paper
+url: /2014/using-paper/
+---
 
 I don&#x2019;t use paper because I&#x2019;m &#x201c;nostalgic&#x201d; for it. I use paper because I _prefer_ it.
 

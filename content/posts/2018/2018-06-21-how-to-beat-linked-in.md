@@ -1,9 +1,11 @@
-+++
-date = "2018-07-21"
-tags = ["social", "fun", "linkedin"]
-title = "How to beat LinkedIn - The Game"
-
-+++
+---
+date: "2018-07-21"
+tags:
+- social
+- fun
+- linkedin
+title: How to beat LinkedIn - The Game
+---
 
 [How to Beat LinkedIn: The Game](https://theoutline.com/post/5495/how-to-beat-linked-in-the-game):
 

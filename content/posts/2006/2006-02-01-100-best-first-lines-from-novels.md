@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2006-02-01T00:00:57+00:00"
-dsq_thread_id = [3131253776]
-title = "100 best first lines from novels"
-url = "/2006/100-best-first-lines-from-novels/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2006-02-01T00:00:57+00:00"
+dsq_thread_id:
+- 3131253776
+title: 100 best first lines from novels
+url: /2006/100-best-first-lines-from-novels/
+---
 
 American Book Review lists their 100 best first lines from novels. 
 

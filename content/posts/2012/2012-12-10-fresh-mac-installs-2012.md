@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-12-10T00:00:00+00:00"
-tags = ["software"]
-title = "Fresh Mac Installs – 2012"
-url = "/2012/fresh-mac-installs-2012/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-12-10T00:00:00+00:00"
+tags:
+- software
+title: Fresh Mac Installs – 2012
+url: /2012/fresh-mac-installs-2012/
+---
 
 <div>
   <div>

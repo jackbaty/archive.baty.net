@@ -1,11 +1,12 @@
-+++
-categories = []
-date = "2016-01-23T09:12:20-05:00"
-description = ""
-tags = ["workflow", "iPhone"]
-title = "Auto Import From iPhone"
-
-+++
+---
+categories: []
+date: "2016-01-23T09:12:20-05:00"
+description: ""
+tags:
+- workflow
+- iPhone
+title: Auto Import From iPhone
+---
 
 I don't use Photos app and still don't trust iCloud, so I manually import
 photos from my iPhone to my Mac.

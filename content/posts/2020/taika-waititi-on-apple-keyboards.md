@@ -1,9 +1,8 @@
-+++
-date = "2020-02-10T09:17:00-05:00"
-draft = false
-title = "Taika Waititi on Apple Keyboards"
-
-+++
+---
+date: "2020-02-10T09:17:00-05:00"
+draft: false
+title: Taika Waititi on Apple Keyboards
+---
 
 [Taika Waititi at the Oscars](https://twitter.com/Variety/status/1226710675554091008):
 

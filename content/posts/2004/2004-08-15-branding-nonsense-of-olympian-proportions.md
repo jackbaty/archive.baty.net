@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-08-15T07:15:32+00:00"
-title = "Branding nonsense of Olympian proportions"
-url = "/2004/branding-nonsense-of-olympian-proportions/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-08-15T07:15:32+00:00"
+title: Branding nonsense of Olympian proportions
+url: /2004/branding-nonsense-of-olympian-proportions/
+---
 
 Apparently, you can be [barred from the Olympic games][1] for drinking the wrong brand of bottled water. It's true, but it's bullshit.
 

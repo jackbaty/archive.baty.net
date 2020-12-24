@@ -1,10 +1,11 @@
-+++
-date = "2019-08-31T11:24:00-04:00"
-draft = false
-tags = ["social", "Twitter"]
-title = "Deleting Tweets"
-
-+++
+---
+date: "2019-08-31T11:24:00-04:00"
+draft: false
+tags:
+- social
+- Twitter
+title: Deleting Tweets
+---
 
 I just deleted 14,247 tweets going back to 2006[^fn:1].
 

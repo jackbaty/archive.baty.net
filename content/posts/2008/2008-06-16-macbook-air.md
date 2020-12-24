@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-06-16T22:46:40+00:00"
-tags = ["geek"]
-title = "MacBook Air"
-url = "/2008/macbook-air/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-06-16T22:46:40+00:00"
+tags:
+- geek
+title: MacBook Air
+url: /2008/macbook-air/
+---
 
 <img src="/files/air.jpg" alt="air.jpg" border="0" width="498" height="59" />
 

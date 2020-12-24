@@ -1,10 +1,10 @@
-+++
-date = "2017-05-31"
-slug = "googles-proprietary-fork-of-html-is-taking-over-the-open-web"
-tags = ["web"]
-title = "Google’s Proprietary Fork of HTML Is Taking Over the Open Web"
-
-+++
+---
+date: "2017-05-31"
+slug: googles-proprietary-fork-of-html-is-taking-over-the-open-web
+tags:
+- web
+title: Google’s Proprietary Fork of HTML Is Taking Over the Open Web
+---
 
 _[Nick Heer][1]_
 

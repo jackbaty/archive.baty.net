@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-12-18T16:58:52+00:00"
-title = "Folding Laundry"
-url = "/2004/folding-laundry/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-12-18T16:58:52+00:00"
+title: Folding Laundry
+url: /2004/folding-laundry/
+---
 
 From [Kyle Cassidy][1], the coolest "Leica Guy" I know, in a post to the Leica User Group&#8230;
 

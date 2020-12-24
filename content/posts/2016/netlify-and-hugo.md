@@ -1,11 +1,14 @@
-+++
-date = "2016-09-05T11:12:10-04:00"
-description = ""
-tags = ["Hugo", "Netlify", "static", "blogging"]
-title = "Netlify and Hugo"
-topics = []
-
-+++
+---
+date: "2016-09-05T11:12:10-04:00"
+description: ""
+tags:
+- Hugo
+- Netlify
+- static
+- blogging
+title: Netlify and Hugo
+topics: []
+---
 
 I upgraded my iMac to the latest macOS Sierra beta. I thought everything was working
 fine until I tried to publish a short blog post about the experience.

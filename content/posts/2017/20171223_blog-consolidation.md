@@ -1,11 +1,11 @@
-+++
-date = "2017-12-22T16:51:48-05:00"
-description = "An attempt to consolidate my blogs next year"
-slug = "blog-consolidation"
-tags = ["blogging"]
-title = "Blog consolidation"
-
-+++
+---
+date: "2017-12-22T16:51:48-05:00"
+description: An attempt to consolidate my blogs next year
+slug: blog-consolidation
+tags:
+- blogging
+title: Blog consolidation
+---
 
 The end of each year always has me thinking about simplifying things. To that end, I'm going to try consolidating my online presence. I'll no longer be posting here at baty.net. 
 

@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Hardware"]
-date = "2009-10-29T23:23:17+00:00"
-tags = ["gear", "photography"]
-title = "Olympus OM – 1 and 2"
-url = "/2009/olympus-om-and-a-1-and-2/"
-
-+++
+---
+author: Jack
+categories:
+- Hardware
+date: "2009-10-29T23:23:17+00:00"
+tags:
+- gear
+- photography
+title: Olympus OM – 1 and 2
+url: /2009/olympus-om-and-a-1-and-2/
+---
 
 <img src="/files/20091028-924V6395.jpg" alt="20091028-924V6395.jpg" border="0" width="500" height="333" />
 

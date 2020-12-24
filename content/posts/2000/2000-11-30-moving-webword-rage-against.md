@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-11-30T08:43:22+00:00"
-title = "Moving WebWord > Rage Against"
-url = "/2000/moving-webword-rage-against/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-11-30T08:43:22+00:00"
+title: Moving WebWord > Rage Against
+url: /2000/moving-webword-rage-against/
+---
 
 [Moving WebWord > Rage Against the Machine][1]
 

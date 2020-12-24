@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:11+00:00"
-title = "Relativity in words of 4 letters or less"
-url = "/2003/relativity-in-words-of-4-letters-or-less/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:11+00:00"
+title: Relativity in words of 4 letters or less
+url: /2003/relativity-in-words-of-4-letters-or-less/
+---
 
 "But for that to be true, then time also has to get in on the act. For
   

@@ -1,12 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-11-15T01:47:17+00:00"
-tags = ["darkroom", "film", "printing"]
-title = "Edward Weston: Life Work"
-url = "/2012/201211edward-weston-life-work/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-11-15T01:47:17+00:00"
+tags:
+- darkroom
+- film
+- printing
+title: 'Edward Weston: Life Work'
+url: /2012/201211edward-weston-life-work/
+---
 
 ![][1] 
 

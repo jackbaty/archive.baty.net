@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-07-15T04:00:00+00:00"
-tags = ["software"]
-title = "Truck Factors"
-url = "/2015/truck-factors/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-07-15T04:00:00+00:00"
+tags:
+- software
+title: Truck Factors
+url: /2015/truck-factors/
+---
 
 Seeing [mtov][1]&#8216;s post, [Truck-Factor][2] reminded me that many of the apps I've used regularly for years are susceptible to a small number of buses (I prefer "Bus Factor" to "Truck Factor).
 

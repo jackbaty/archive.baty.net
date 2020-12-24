@@ -1,11 +1,11 @@
-+++
-date = "2018-07-06T07:20:56-04:00"
-description = ""
-lastmod = "2018-07-06T07:20:56-04:00"
-tags = ["blogging"]
-title = "I Have Two Blogs and It's Fine"
-
-+++
+---
+date: "2018-07-06T07:20:56-04:00"
+description: ""
+lastmod: "2018-07-06T07:20:56-04:00"
+tags:
+- blogging
+title: I Have Two Blogs and It's Fine
+---
 
 Over the years I've switched blogging platforms a dozen times or more. I enjoy
 tinkering, and a personal blog is a great place for doing that.

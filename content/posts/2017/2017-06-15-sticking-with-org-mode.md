@@ -1,10 +1,11 @@
-+++
-date = "2017-06-15T07:55:46-04:00"
-slug = "sticking-with-org-mode"
-tags = ["OrgMode", "Emacs"]
-title = "Sticking with Org Mode"
-
-+++
+---
+date: "2017-06-15T07:55:46-04:00"
+slug: sticking-with-org-mode
+tags:
+- OrgMode
+- Emacs
+title: Sticking with Org Mode
+---
 
 I tried moving away from [Org Mode](https://orgmode.org) four days ago. Doing so required finding
 replacements for the following:

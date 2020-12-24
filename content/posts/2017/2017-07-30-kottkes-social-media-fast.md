@@ -1,10 +1,11 @@
-+++
-date = "2017-05-19"
-slug = "kottkes-social-media-fast"
-tags = ["kottke", "social"]
-title = "Kottke's social media fast"
-
-+++
+---
+date: "2017-05-19"
+slug: kottkes-social-media-fast
+tags:
+- kottke
+- social
+title: Kottke's social media fast
+---
 
 [Kottke][1]:
 

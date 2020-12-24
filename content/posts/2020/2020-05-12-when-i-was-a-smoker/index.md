@@ -1,12 +1,13 @@
-+++
-categories = ["Misc"]
-date = "2020-05-12"
-featuredImage = "jack-smoking-spring-break.jpg"
-featuredImagePreview = "preview.jpg"
-tags = ["Life"]
-title = "When I was a smoker"
-
-+++
+---
+categories:
+- Misc
+date: "2020-05-12"
+featuredImage: jack-smoking-spring-break.jpg
+featuredImagePreview: preview.jpg
+tags:
+- Life
+title: When I was a smoker
+---
 
 I was a smoker from 1983 until 1996. I loved smoking and I was good at it. I’ll probably start smoking again the minute lung transplants are an outpatient procedure.
 

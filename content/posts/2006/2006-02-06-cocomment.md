@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2006-02-06T23:41:39+00:00"
-title = "coComment"
-url = "/2006/cocomment/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2006-02-06T23:41:39+00:00"
+title: coComment
+url: /2006/cocomment/
+---
 
 ![coComment](/files/cocomment.gif) 
 

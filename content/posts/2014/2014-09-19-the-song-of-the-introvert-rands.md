@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-09-19T17:16:20+00:00"
-title = "The Song of the Introvert – Rands"
-url = "/2014/the-song-of-the-introvert-rands/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-09-19T17:16:20+00:00"
+title: The Song of the Introvert – Rands
+url: /2014/the-song-of-the-introvert-rands/
+---
 
 [The Song of the Introvert – Rands in Repose][1]:
 

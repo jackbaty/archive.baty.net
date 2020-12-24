@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-09-25T17:36:08+00:00"
-title = "Facebook is boring"
-url = "/2007/facebook-is-boring/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-09-25T17:36:08+00:00"
+title: Facebook is boring
+url: /2007/facebook-is-boring/
+---
 
 For a time, I thought Facebook would continue to be useful. Indefinitely. With Facebook Apps opening the door to pretty much anything and everyone who's anyone signing up, the sky was the limit. As it turns out Facebook is boring. This is what I get&#8230; 
 

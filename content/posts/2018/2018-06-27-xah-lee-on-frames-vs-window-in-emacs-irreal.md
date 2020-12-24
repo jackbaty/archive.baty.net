@@ -1,14 +1,16 @@
-+++
-author = "Jack"
-categories = ["Tech"]
-date = "2018-06-27T11:01:59+00:00"
-format = "link"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-tags = ["emacs"]
-title = "Xah Lee on Frames vs. Window in Emacs – Irreal"
-url = "/2018/xah-lee-on-frames-vs-window-in-emacs-irreal/"
-
-+++
+---
+author: Jack
+categories:
+- Tech
+date: "2018-06-27T11:01:59+00:00"
+format: link
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+tags:
+- emacs
+title: Xah Lee on Frames vs. Window in Emacs – Irreal
+url: /2018/xah-lee-on-frames-vs-window-in-emacs-irreal/
+---
 _[Xah Lee on Frames vs. Window in Emacs – Irreal][1]:_
 
 > Lee’s argument, as I understand it, is that switching between windows in a single frame is suboptimal because various Emacs operations will destroy your windows configuration and using something like winner-mode to restore your window configuration is too much trouble.

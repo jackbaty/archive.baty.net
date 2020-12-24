@@ -1,10 +1,10 @@
-+++
-date = "2017-05-13"
-slug = "i-dont-believe-in-blockchain-tim-bray"
-tags = ["blockchain"]
-title = "I Don’t Believe in Blockchain - Tim Bray"
-
-+++
+---
+date: "2017-05-13"
+slug: i-dont-believe-in-blockchain-tim-bray
+tags:
+- blockchain
+title: I Don’t Believe in Blockchain - Tim Bray
+---
 
 [Tim Bray][1]
 

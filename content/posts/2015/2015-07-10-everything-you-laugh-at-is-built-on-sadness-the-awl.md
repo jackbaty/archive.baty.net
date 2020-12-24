@@ -1,12 +1,12 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-07-10T12:10:28+00:00"
-format = "link"
-title = "Everything You Laugh At Is Built On Sadness – The Awl"
-url = "/2015/everything-you-laugh-at-is-built-on-sadness-the-awl/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-07-10T12:10:28+00:00"
+format: link
+title: Everything You Laugh At Is Built On Sadness – The Awl
+url: /2015/everything-you-laugh-at-is-built-on-sadness-the-awl/
+---
 
 [The Awl][1]
 

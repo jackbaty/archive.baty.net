@@ -1,10 +1,12 @@
-+++
-categories = ["Tech"]
-date = "2020-10-04"
-tags = ["Github", "Programming"]
-title = "Github Codespaces Beta"
-
-+++
+---
+categories:
+- Tech
+date: "2020-10-04"
+tags:
+- Github
+- Programming
+title: Github Codespaces Beta
+---
 
 I was just let into the [Codespaces](https://github.com/features/codespaces) beta in Github.
 

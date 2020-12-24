@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-08-28T10:21:26+00:00"
-title = "Ryan Tomayko: Choosing the Platform"
-url = "/2005/ryan-tomayko-choosing-the-platform/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-08-28T10:21:26+00:00"
+title: 'Ryan Tomayko: Choosing the Platform'
+url: /2005/ryan-tomayko-choosing-the-platform/
+---
 
 From [lesscode.org][1], Ryan Tomayko almost accidentally chooses Ruby and Ruby on Rails&#8230;
 

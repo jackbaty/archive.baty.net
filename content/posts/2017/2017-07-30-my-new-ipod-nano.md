@@ -1,11 +1,12 @@
-+++
-date = "2017-07-30T16:58:08-04:00"
-description = "A convenient way to listen to audio books in the car"
-slug = "my-new-ipod-nano"
-tags = ["apple", "hardware"]
-title = "My New iPod Nano"
-
-+++
+---
+date: "2017-07-30T16:58:08-04:00"
+description: A convenient way to listen to audio books in the car
+slug: my-new-ipod-nano
+tags:
+- apple
+- hardware
+title: My New iPod Nano
+---
 
 I'd been using an old click-wheel iPod for listening to music in the car. It's nice having music ready to go without futzing with hooking up my iPhone and cables every time I get in the car. Unfortunately, it stopped working a few months ago.
 

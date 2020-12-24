@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-09-18T00:00:00+00:00"
-tags = ["Analog", "typewriter"]
-title = "At The Olympia"
-url = "/2012/at-the-olympia/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-09-18T00:00:00+00:00"
+tags:
+- Analog
+- typewriter
+title: At The Olympia
+url: /2012/at-the-olympia/
+---
 
 <div>
   <div>

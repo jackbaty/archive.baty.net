@@ -1,18 +1,28 @@
-+++
-author = "Jack"
-categories = ["Hardware"]
-date = "2014-08-17T19:25:19+00:00"
-tags = ["Analog", "gear", "tool", "Writing"]
-title = "How Fountain Pens are Made"
-tz_audio_format = ["mp3"]
-tz_gallery_captions = ["true"]
-tz_gallery_format = ["-=set slideshow type=-"]
-tz_gallery_margins = [10]
-tz_gallery_randomize = ["false"]
-tz_gallery_targetheight = [200]
-url = "/2014/how-fountain-pens-are-made/"
-
-+++
+---
+author: Jack
+categories:
+- Hardware
+date: "2014-08-17T19:25:19+00:00"
+tags:
+- Analog
+- gear
+- tool
+- Writing
+title: How Fountain Pens are Made
+tz_audio_format:
+- mp3
+tz_gallery_captions:
+- "true"
+tz_gallery_format:
+- -=set slideshow type=-
+tz_gallery_margins:
+- 10
+tz_gallery_randomize:
+- "false"
+tz_gallery_targetheight:
+- 200
+url: /2014/how-fountain-pens-are-made/
+---
 
 <div>
 </div>

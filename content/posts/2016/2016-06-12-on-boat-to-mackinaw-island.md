@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2016-06-12T17:42:00+00:00"
-title = "On boat to Mackinaw Island"
-url = "/2016/on-boat-to-mackinaw-island/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2016-06-12T17:42:00+00:00"
+title: On boat to Mackinaw Island
+url: /2016/on-boat-to-mackinaw-island/
+---
 
 <div class="figure">
   <p>

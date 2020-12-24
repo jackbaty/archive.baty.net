@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-12-22T22:18:00+00:00"
-tags = ["geek", "Kindle"]
-title = "Notes on the Kindle after a few days of use"
-url = "/2007/notes-on-the-kindle-after-a-few-days-of-use/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-12-22T22:18:00+00:00"
+tags:
+- geek
+- Kindle
+title: Notes on the Kindle after a few days of use
+url: /2007/notes-on-the-kindle-after-a-few-days-of-use/
+---
 
 My [Kindle][1] <img style="border: none !important; margin: 0px !important;" src="https://www.assoc-amazon.com/e/ir?t=jackbaty-20&l=as2&o=1&a=B000FI73MA" alt="" width="1" height="1" border="0" />arrived last week, finally, and I’ll cut to the chase: I love it.
 

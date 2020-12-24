@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-11-26T18:35:00+00:00"
-title = "Jira and Confluence and Trust"
-url = "/2007/jira-and-confluence-and-trust/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-11-26T18:35:00+00:00"
+title: Jira and Confluence and Trust
+url: /2007/jira-and-confluence-and-trust/
+---
 
 My decision to invest time and money into [JIRA][1] and [Confluence][2] from [Atlassian][3] continues to prove fruitful, and the more integration I can find between them the better. 
 

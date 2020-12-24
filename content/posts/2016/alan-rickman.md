@@ -1,11 +1,10 @@
-+++
-banner = "banners/alan-rickman-galaxy-quest.jpg"
-categories = []
-date = "2016-01-14T17:39:06-05:00"
-description = ""
-title = "Alan Rickman"
-
-+++
+---
+banner: banners/alan-rickman-galaxy-quest.jpg
+categories: []
+date: "2016-01-14T17:39:06-05:00"
+description: ""
+title: Alan Rickman
+---
 
 {{< figure src="/img/2016/alan-rickman-galaxy-quest.jpg" title="" >}}
 

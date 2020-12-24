@@ -1,13 +1,16 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2013-11-12T00:00:00+00:00"
-dsq_thread_id = [3595792]
-tags = ["analog", "productivity"]
-title = "Some things never change"
-url = "/2013/some-things-never-change/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2013-11-12T00:00:00+00:00"
+dsq_thread_id:
+- 3595792
+tags:
+- analog
+- productivity
+title: Some things never change
+url: /2013/some-things-never-change/
+---
 
 I posted this photo in April 2007.
 

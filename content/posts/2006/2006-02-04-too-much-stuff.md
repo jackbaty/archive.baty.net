@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2006-02-04T02:47:04+00:00"
-title = "Too much stuff"
-url = "/2006/too-much-stuff/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2006-02-04T02:47:04+00:00"
+title: Too much stuff
+url: /2006/too-much-stuff/
+---
 
 I have too much stuff. Too much software, too many hobbies, too many books, too many pens, too many cameras, too many tupperware containers, too many shoes I can't wear, too many jeans that don't fit, too many half-completed projects, and, some would say, too many dogs. I want to do something about all this crap, really I do. But it's hard. It takes commitment and time I'm convinced I don't have. Besides, there are hobbies to attend to. 
 

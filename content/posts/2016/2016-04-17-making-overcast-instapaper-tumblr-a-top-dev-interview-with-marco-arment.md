@@ -1,12 +1,12 @@
-+++
-author = "Jack"
-categories = ["Software"]
-date = "2016-04-17T13:43:21+00:00"
-format = "link"
-title = "A Top Dev Interview With Marco Arment"
-url = "/2016/marco-arment-making-overcast/"
-
-+++
+---
+author: Jack
+categories:
+- Software
+date: "2016-04-17T13:43:21+00:00"
+format: link
+title: A Top Dev Interview With Marco Arment
+url: /2016/marco-arment-making-overcast/
+---
 
 Marco Arment on [raywenderlich.com][1]:
 

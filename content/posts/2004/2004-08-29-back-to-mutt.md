@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-08-29T04:49:21+00:00"
-title = "Back to Mutt"
-url = "/2004/back-to-mutt/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-08-29T04:49:21+00:00"
+title: Back to Mutt
+url: /2004/back-to-mutt/
+---
 
 I keep choosing "old" technology: Film cameras, 900mhz phones, things like that. The latest is my mail client. I'd been using [Mozilla's Thunderbird][1] since before it was really in any shape to be used daily. It's a great piece of software, and free, but a couple annoying little bugs have recently caused me to give up and go back to using [Mutt][2].
 

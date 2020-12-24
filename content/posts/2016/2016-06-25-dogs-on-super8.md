@@ -1,12 +1,15 @@
-+++
-author = "Jack"
-categories = ["Photography"]
-date = "2016-06-25T14:52:41+00:00"
-tags = ["8mm", "film", "dog"]
-title = "Dogs on Super8"
-url = "/2016/dogs-on-super8/"
-
-+++
+---
+author: Jack
+categories:
+- Photography
+date: "2016-06-25T14:52:41+00:00"
+tags:
+- 8mm
+- film
+- dog
+title: Dogs on Super8
+url: /2016/dogs-on-super8/
+---
 
 {{< youtube JoEplSi_w-Y >}}
 

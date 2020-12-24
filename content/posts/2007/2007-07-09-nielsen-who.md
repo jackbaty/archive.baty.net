@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-07-09T22:10:16+00:00"
-dsq_thread_id = [3131254820]
-title = "Nielsen who?"
-url = "/2007/nielsen-who/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-07-09T22:10:16+00:00"
+dsq_thread_id:
+- 3131254820
+title: Nielsen who?
+url: /2007/nielsen-who/
+---
 
 Jakob [says][1] that&#8230; 
 

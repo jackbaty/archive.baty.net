@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:39:13+00:00"
-title = "The joys of Cygwin"
-url = "/2003/the-joys-of-cygwin/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:39:13+00:00"
+title: The joys of Cygwin
+url: /2003/the-joys-of-cygwin/
+---
 
 I've had [Cygwin][1] installed on my
   

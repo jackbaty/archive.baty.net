@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2006-01-28T16:08:53+00:00"
-title = "Quit complaining about your job"
-url = "/2006/quit-complaining-about-your-job/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2006-01-28T16:08:53+00:00"
+title: Quit complaining about your job
+url: /2006/quit-complaining-about-your-job/
+---
 
 ![Quit Complaining](/files/quitcomplaining.jpg) 
 

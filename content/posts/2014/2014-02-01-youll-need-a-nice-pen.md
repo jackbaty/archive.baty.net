@@ -1,12 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-02-01T00:00:00+00:00"
-tags = ["analog", "paper", "writing"]
-title = "You'll need a nice pen"
-url = "/2014/youll-need-a-nice-pen/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-02-01T00:00:00+00:00"
+tags:
+- analog
+- paper
+- writing
+title: You'll need a nice pen
+url: /2014/youll-need-a-nice-pen/
+---
 
 My last post about <a
 href="https://baty.net/2014/paper-system-for-2014">this year's "paper system"</a> neglected to mention which pen(s)

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-08-29T19:34:48+00:00"
-title = "Jason Fried on mechanical watches"
-url = "/2015/jason-fried-on-mechanical-watches/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-08-29T19:34:48+00:00"
+title: Jason Fried on mechanical watches
+url: /2015/jason-fried-on-mechanical-watches/
+---
 
 [Jason Fried][1]:
 

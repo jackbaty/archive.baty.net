@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:11+00:00"
-title = "Early prototype, expect instability"
-url = "/2003/early-prototype-expect-instability/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:11+00:00"
+title: Early prototype, expect instability
+url: /2003/early-prototype-expect-instability/
+---
 
 Disenchanted on the [evolution
   

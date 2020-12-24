@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-10-11T19:44:12+00:00"
-title = "Udell: Why Mozilla Matters"
-url = "/2003/udell-why-mozilla-matters/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-10-11T19:44:12+00:00"
+title: 'Udell: Why Mozilla Matters'
+url: /2003/udell-why-mozilla-matters/
+---
 
 [Jon Udell's Infoworld article][1] on Mozilla's role among newer "Rich Media" technologies:
   

@@ -1,10 +1,10 @@
-+++
-date = "2018-05-21T18:38:00-04:00"
-draft = false
-tags = ["cooking"]
-title = "Blue Apron after Five Years"
-
-+++
+---
+date: "2018-05-21T18:38:00-04:00"
+draft: false
+tags:
+- cooking
+title: Blue Apron after Five Years
+---
 
 {{< figure src="/img/2018/2018-05-21_blue-apron.png" >}}
 

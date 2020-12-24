@@ -1,8 +1,7 @@
-+++
-date = "2018-07-19"
-title = "Scientology's $5,000 E-meters are surprisingly well-engineered - boingboing"
-
-+++
+---
+date: "2018-07-19"
+title: Scientology's $5,000 E-meters are surprisingly well-engineered - boingboing
+---
 
 [Scientology's $5,000 E-meters are surprisingly well-engineered - boingboing](https://boingboing.net/2018/07/19/thetans-vs-potentiometers.html):
 

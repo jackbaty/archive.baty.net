@@ -1,7 +1,7 @@
-+++
-date = "2017-08-30"
-title = "Josie contact sheet"
-+++
+---
+date: "2017-08-30"
+title: Josie contact sheet
+---
 
 # Contact Sheets as Art
 ![][image-1]

@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2009-11-15T18:57:37+00:00"
-tags = ["news"]
-title = "Together Forever"
-url = "/2009/together-forever/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2009-11-15T18:57:37+00:00"
+tags:
+- news
+title: Together Forever
+url: /2009/together-forever/
+---
 
 Washington City Paper on Recycling and Trash: Together Forever:
 

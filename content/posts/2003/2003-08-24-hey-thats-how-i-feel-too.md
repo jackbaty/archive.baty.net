@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-08-24T14:25:58+00:00"
-title = "Hey, that’s how I feel too."
-url = "/2003/hey-thats-how-i-feel-too/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-08-24T14:25:58+00:00"
+title: Hey, that’s how I feel too.
+url: /2003/hey-thats-how-i-feel-too/
+---
 
 [Keith][1] describes how I feel exactly&#8230;
   

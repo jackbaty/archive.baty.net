@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-07-04T09:21:11+00:00"
-title = "Hitting one bullet with another bullet"
-url = "/2005/hitting-one-bullet-with-another-bullet/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-07-04T09:21:11+00:00"
+title: Hitting one bullet with another bullet
+url: /2005/hitting-one-bullet-with-another-bullet/
+---
 
 I love NASA.
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-07-14T19:50:14+00:00"
-title = "PDF: Unfit for Human Consumption"
-url = "/2003/pdf-unfit-for-human-consumption/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-07-14T19:50:14+00:00"
+title: 'PDF: Unfit for Human Consumption'
+url: /2003/pdf-unfit-for-human-consumption/
+---
 
 Jakob Nielsen's [latest Alertbox][1]
 

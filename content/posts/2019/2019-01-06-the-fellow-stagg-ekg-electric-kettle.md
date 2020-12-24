@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Misc"]
-date = "2019-01-06T14:35:36+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-title = "The Fellow Stagg EKG Electric Kettle"
-url = "/2019/the-fellow-stagg-ekg-electric-kettle/"
-
-+++
+---
+author: Jack
+categories:
+- Misc
+date: "2019-01-06T14:35:36+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+title: The Fellow Stagg EKG Electric Kettle
+url: /2019/the-fellow-stagg-ekg-electric-kettle/
+---
 I&#8217;m far from being a coffee snob, but I am a sucker for beautiful, functional everyday objects, and I fell hard for the <a rel="noreferrer noopener" href="https://fellowproducts.com/stagg-ekg/" target="_blank">Fellow Stagg EKG Electric Kettle</a>.<figure class="wp-block-image">
 
 <img src="/img/2019/2019-01-06_stagekg.jpg" alt=""  /><figcaption><h4>Fellow Stagg EKG electric kettle</h4></figcaption></figure> 

@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-03-31T19:27:40+00:00"
-tags = ["photography"]
-title = "Sean Reid: Yes It Matters"
-url = "/2008/sean-reid-yes-it-matters/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-03-31T19:27:40+00:00"
+tags:
+- photography
+title: 'Sean Reid: Yes It Matters'
+url: /2008/sean-reid-yes-it-matters/
+---
 
 Sean Reid offers up [my favorite argument so far][1] in the does-your-camera-matter debate. 
 

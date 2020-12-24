@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-12-04T06:17:30+00:00"
-title = "George Dyson on Google Library"
-url = "/2005/george-dyson-on-google-library/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-12-04T06:17:30+00:00"
+title: George Dyson on Google Library
+url: /2005/george-dyson-on-google-library/
+---
 
 [George Dyson][1]
 

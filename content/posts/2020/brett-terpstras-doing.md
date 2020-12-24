@@ -1,10 +1,10 @@
-+++
-date = "2020-02-16T09:38:00-05:00"
-draft = false
-tags = ["cli"]
-title = "Brett Terpstra's 'Doing' utility"
-
-+++
+---
+date: "2020-02-16T09:38:00-05:00"
+draft: false
+tags:
+- cli
+title: Brett Terpstra's 'Doing' utility
+---
 
 [Brett Terpstra, revisiting the "doing" CLI](https://brettterpstra.com/2020/02/14/scatterbrained-revisiting-the-doing-cli/):
 

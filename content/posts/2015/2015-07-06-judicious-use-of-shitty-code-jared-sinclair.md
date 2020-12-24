@@ -1,13 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-07-06T23:34:11+00:00"
-format = "link"
-tags = ["programming"]
-title = "Judicious Use of Shitty Code – Jared Sinclair"
-url = "/2015/judicious-use-of-shitty-code-jared-sinclair/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-07-06T23:34:11+00:00"
+format: link
+tags:
+- programming
+title: Judicious Use of Shitty Code – Jared Sinclair
+url: /2015/judicious-use-of-shitty-code-jared-sinclair/
+---
 
 [Jared Sinclair][1]
 

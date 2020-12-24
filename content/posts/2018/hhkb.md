@@ -1,12 +1,12 @@
-+++
-date = "2018-04-10T20:24:41-04:00"
-description = "I love my new HHKB"
-draft = false
-lastmod = "2018-04-10T20:24:41-04:00"
-tags = ["hardware"]
-title = "The Happy Hacking Keyboard Professional 2"
-
-+++
+---
+date: "2018-04-10T20:24:41-04:00"
+description: I love my new HHKB
+draft: false
+lastmod: "2018-04-10T20:24:41-04:00"
+tags:
+- hardware
+title: The Happy Hacking Keyboard Professional 2
+---
 
 <img src="/img/2018/hhkbp2.jpg" alt="HHKB" />
 

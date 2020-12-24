@@ -1,13 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-04-26T15:29:53+00:00"
-format = "link"
-tags = ["software", "Tinderbox"]
-title = "Outlining with Tinderbox 6"
-url = "/2015/outlining-with-tinderbox-6-6-2-to-be-precise/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-04-26T15:29:53+00:00"
+format: link
+tags:
+- software
+- Tinderbox
+title: Outlining with Tinderbox 6
+url: /2015/outlining-with-tinderbox-6-6-2-to-be-precise/
+---
 
 _[Steve Zeoli on outlining in Tinderbox][1]:_
 

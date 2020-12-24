@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-03-30T14:59:24+00:00"
-title = "What was I saying?"
-url = "/2004/what-was-i-saying/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-03-30T14:59:24+00:00"
+title: What was I saying?
+url: /2004/what-was-i-saying/
+---
 
 Excitedly, I opened the "new entry" window in Movable Type and prepared to enter something. Then&#8230;
 

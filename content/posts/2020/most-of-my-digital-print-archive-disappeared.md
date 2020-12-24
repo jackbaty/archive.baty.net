@@ -1,10 +1,11 @@
-+++
-categories = ["Photography"]
-date = "2020-08-22"
-tags = ["Archiving"]
-title = "Most of my Digital Print Archive disappeared"
-
-+++
+---
+categories:
+- Photography
+date: "2020-08-22"
+tags:
+- Archiving
+title: Most of my Digital Print Archive disappeared
+---
 
 At some point recently, most of the files in my [Digital Print Archive](https://copingmechanism.com/2019/keeping-a-digital-print-archive/) went missing.
 

@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2009-02-07T15:18:11+00:00"
-tags = ["geek", "productivity"]
-title = "Instapaper"
-url = "/2009/instapaper/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2009-02-07T15:18:11+00:00"
+tags:
+- geek
+- productivity
+title: Instapaper
+url: /2009/instapaper/
+---
 
 During any given day I run into a few articles or blog posts which look interesting, but are a bit long and should probably be saved for later.
 

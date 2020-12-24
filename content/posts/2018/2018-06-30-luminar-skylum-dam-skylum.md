@@ -1,13 +1,16 @@
-+++
-author = "Jack"
-categories = ["Photography"]
-date = "2018-06-30T11:32:08+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-tags = ["photography", "software"]
-title = "Luminar, Skylum, DAM – Skylum"
-url = "/2018/luminar-skylum-dam-skylum/"
-
-+++
+---
+author: Jack
+categories:
+- Photography
+date: "2018-06-30T11:32:08+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+tags:
+- photography
+- software
+title: Luminar, Skylum, DAM – Skylum
+url: /2018/luminar-skylum-dam-skylum/
+---
 [It&#8217;s time: Re-think your post-processing workflow][1]:
 
 > Have you ever seen an Apple TV remote? It has three buttons on it. Compare that to the old-fashioned, TV remote with 60 or more buttons. That’s the kind of direction we want to take at Skylum. Simple should remain simple.

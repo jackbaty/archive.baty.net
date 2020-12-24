@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-06-16T00:55:14+00:00"
-title = "Bush fails the Segway test"
-url = "/2003/bush-fails-the-segway-test/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-06-16T00:55:14+00:00"
+title: Bush fails the Segway test
+url: /2003/bush-fails-the-segway-test/
+---
 
 ![][1]
 

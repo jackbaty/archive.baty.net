@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-08-18T15:39:57+00:00"
-title = "A Cleaner Desk"
-url = "/2007/a-cleaner-desk/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-08-18T15:39:57+00:00"
+title: A Cleaner Desk
+url: /2007/a-cleaner-desk/
+---
 
 [<img src="https://farm2.static.flickr.com/1413/1163273356_68d3a691f1.jpg" width="500" height="333" alt="Clean Desk" />][1] 
 

@@ -1,13 +1,17 @@
-+++
-author = "Jack"
-categories = ["Microblog", "Tech"]
-date = "2018-02-14T18:16:46+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-tags = ["apple", "hardware"]
-title = "Good vs. Better at Bad"
-url = "/2018/good-vs-better-at-bad/"
-
-+++
+---
+author: Jack
+categories:
+- Microblog
+- Tech
+date: "2018-02-14T18:16:46+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+tags:
+- apple
+- hardware
+title: Good vs. Better at Bad
+url: /2018/good-vs-better-at-bad/
+---
 > [<img class="alignnone size-full" src="/img/2018/02/homePodChart2@2x-1.png" alt="" />][1]
 
 [Joe Cieplinski][1]:

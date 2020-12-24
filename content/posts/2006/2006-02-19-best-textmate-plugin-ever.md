@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2006-02-19T14:28:04+00:00"
-title = "Best Textmate plugin ever"
-url = "/2006/best-textmate-plugin-ever/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2006-02-19T14:28:04+00:00"
+title: Best Textmate plugin ever
+url: /2006/best-textmate-plugin-ever/
+---
 
 All of you Rails developers using the wonderful Textmate editor may want to sit down for this. Duane Johnson has been on a roll creating the greatest Textmate Bundle ever &#8211; \_syncPeople on Rails\_. Why so great, you ask? I'll tell you. Rails enforces a rather strict MVC file hierarchy which does wonders for code consistancy. It rather sucks, however, when trying to edit related code held in 3 or 4 different directories. This bundle file creates 3 new commands&#8230; "Open Controller/View", "Create Partial from Selection" and "Intelligent Go To File." Check this&#8230;. 
 

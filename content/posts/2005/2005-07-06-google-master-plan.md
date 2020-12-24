@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-07-06T20:54:03+00:00"
-title = "Google Master Plan"
-url = "/2005/google-master-plan/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-07-06T20:54:03+00:00"
+title: Google Master Plan
+url: /2005/google-master-plan/
+---
 
 [![][1]][2]
 

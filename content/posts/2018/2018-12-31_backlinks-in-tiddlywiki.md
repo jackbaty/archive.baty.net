@@ -1,9 +1,10 @@
-+++
-date = "2018-12-31"
-tags = ["tiddlywiki", "wiki"]
-title = "Backlinks in TiddlyWiki"
-
-+++
+---
+date: "2018-12-31"
+tags:
+- tiddlywiki
+- wiki
+title: Backlinks in TiddlyWiki
+---
 
 A nice feature of wikis is backlinks. A good wiki will keep track of which pages link back to a given page. [TiddlyWiki][1] does this, but does not display them by default. I set out to add them and it was way more difficult than I expected. I’m new to TiddlyWiki but, after a lot of trial and error, I figured it out.
 

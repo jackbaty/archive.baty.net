@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2009-10-31T14:08:48+00:00"
-tags = ["personal"]
-title = "Autumn Leaves are Falling"
-url = "/2009/autumn-leaves-are-falling/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2009-10-31T14:08:48+00:00"
+tags:
+- personal
+title: Autumn Leaves are Falling
+url: /2009/autumn-leaves-are-falling/
+---
 
 [Roger Ebert](http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20041025/OPINION/910319999):
 

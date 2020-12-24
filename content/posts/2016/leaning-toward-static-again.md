@@ -1,11 +1,13 @@
-+++
-date = "2016-08-16T14:31:03-04:00"
-description = ""
-tags = ["blogging", "Hugo", "Wordpress"]
-title = "Leaning toward static again"
-topics = []
-
-+++
+---
+date: "2016-08-16T14:31:03-04:00"
+description: ""
+tags:
+- blogging
+- Hugo
+- Wordpress
+title: Leaning toward static again
+topics: []
+---
 
 I hate myself sometimes. 
 

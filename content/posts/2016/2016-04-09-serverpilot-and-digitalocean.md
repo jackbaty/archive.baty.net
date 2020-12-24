@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Software"]
-date = "2016-04-09T13:28:27+00:00"
-tags = ["blog", "hosting"]
-title = "ServerPilot and DigitalOcean"
-url = "/2016/serverpilot-and-digitalocean/"
-
-+++
+---
+author: Jack
+categories:
+- Software
+date: "2016-04-09T13:28:27+00:00"
+tags:
+- blog
+- hosting
+title: ServerPilot and DigitalOcean
+url: /2016/serverpilot-and-digitalocean/
+---
 
 I recently provisioned and configured a new Linode VPS for hosting my sites. This replaced an aging VPS that was running Ubuntu 8.xx and I didn't feel like upgrading the kernel so I built a new one and moved everything over. I am capable of configuring a new LAMP or LEMP stack and installing what I need on Linux, but I'm not _good_ at it. I also don't have the patience for constantly keeping up with security/system updates. My sysadmin skills have atrophied, so I spun up a new [DigitalOcean][1] droplet and let [ServerPilot][2] handle everything.
 

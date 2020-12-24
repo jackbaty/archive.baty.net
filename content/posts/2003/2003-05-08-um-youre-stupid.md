@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:13+00:00"
-title = "Um, you’re stupid"
-url = "/2003/um-youre-stupid/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:13+00:00"
+title: Um, you’re stupid
+url: /2003/um-youre-stupid/
+---
 
 Do me a favor, when replying to an email or forum post or whatever,
   

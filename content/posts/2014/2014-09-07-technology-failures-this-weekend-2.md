@@ -1,19 +1,28 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-09-07T17:07:18+00:00"
-dsq_thread_id = [3131255289]
-tags = ["Analog", "technology"]
-title = "Technology Failures this Weekend"
-tz_audio_format = ["mp3"]
-tz_gallery_captions = ["true"]
-tz_gallery_format = ["-=set slideshow type=-"]
-tz_gallery_margins = [10]
-tz_gallery_randomize = ["false"]
-tz_gallery_targetheight = [200]
-url = "/2014/technology-failures-this-weekend-2/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-09-07T17:07:18+00:00"
+dsq_thread_id:
+- 3131255289
+tags:
+- Analog
+- technology
+title: Technology Failures this Weekend
+tz_audio_format:
+- mp3
+tz_gallery_captions:
+- "true"
+tz_gallery_format:
+- -=set slideshow type=-
+tz_gallery_margins:
+- 10
+tz_gallery_randomize:
+- "false"
+tz_gallery_targetheight:
+- 200
+url: /2014/technology-failures-this-weekend-2/
+---
 
 People wonder why I like old, simple, manual, mostly analog devices and tools. This weekend served as a pretty good reminder of why I sometimes hate technology.
 

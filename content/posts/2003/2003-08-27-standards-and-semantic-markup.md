@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-08-27T21:00:35+00:00"
-title = "Standards and Semantic markup"
-url = "/2003/standards-and-semantic-markup/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-08-27T21:00:35+00:00"
+title: Standards and Semantic markup
+url: /2003/standards-and-semantic-markup/
+---
 
 [Kottke.org][1] on the complimentary, but not necessarily interdependant concepts of XHTML/CSS design and semantically correct markup:
   

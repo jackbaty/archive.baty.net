@@ -1,13 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2009-08-27T00:10:45+00:00"
-tags = ["productivity"]
-thesis_post_image = ["/files/nops3.jpg"]
-title = "Things I can cross off my list"
-url = "/2009/things-i-can-cross-off-my-list/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2009-08-27T00:10:45+00:00"
+tags:
+- productivity
+thesis_post_image:
+- /files/nops3.jpg
+title: Things I can cross off my list
+url: /2009/things-i-can-cross-off-my-list/
+---
 
 The need to pay attention to everything can be overwhelming. I don't want to miss anything and I want to try everything. These needs are unsustainable financially and productivity killers.
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-08-11T09:50:46+00:00"
-title = "The Toughest Virus of All:"
-url = "/2000/the-toughest-virus-of-all/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-08-11T09:50:46+00:00"
+title: 'The Toughest Virus of All:'
+url: /2000/the-toughest-virus-of-all/
+---
 
 [The Toughest Virus of All:][1]
 

@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-06-14T22:54:55+00:00"
-tags = ["geek"]
-title = "Vimperator"
-url = "/2008/vimperator/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-06-14T22:54:55+00:00"
+tags:
+- geek
+title: Vimperator
+url: /2008/vimperator/
+---
 
 <img src="/files/vimperator-1.png" alt="vimperator-1.png" border="0" width="194" height="56" />
 

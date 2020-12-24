@@ -1,13 +1,16 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-09-01T14:16:47+00:00"
-dsq_thread_id = [3997014]
-tags = ["film", "review"]
-title = "A String of Bad Movies"
-url = "/2008/a-string-of-bad-movies/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-09-01T14:16:47+00:00"
+dsq_thread_id:
+- 3997014
+tags:
+- film
+- review
+title: A String of Bad Movies
+url: /2008/a-string-of-bad-movies/
+---
 
 <span class="drop_cap">T</span>he better part of a day, wasted. That's how much time I've spent over the past couple of weeks unintentionally watching terrible movies. I say unintentionally because they should have been \_good\_ movies. They weren't. This is different than watching a movie you know is awful, just to kill time while ironing or reading feeds. I do that even more frequently, but that isn't wasting time, it's spending time.
 

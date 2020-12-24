@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2016-02-27T20:07:58+00:00"
-tags = ["apple", "privacy"]
-title = "Defending Apple"
-url = "/2016/defending-apple/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2016-02-27T20:07:58+00:00"
+tags:
+- apple
+- privacy
+title: Defending Apple
+url: /2016/defending-apple/
+---
 
 Late last night I found myself arguing with a guy at the bar about the FBI/Apple hubbub.
 

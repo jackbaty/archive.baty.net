@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-01-06T23:18:35+00:00"
-tags = ["software"]
-title = "Some of the Terminal Apps I&#039;ve been using"
-url = "/2015/some-of-the-terminal-apps-ive-been-using/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-01-06T23:18:35+00:00"
+tags:
+- software
+title: Some of the Terminal Apps I&#039;ve been using
+url: /2015/some-of-the-terminal-apps-ive-been-using/
+---
 
 I've been all-in on the command line for a while now. I basically live in a complex set of tmux panes. If you're interested in doing the same, here's a list of the apps I use regularly.
 

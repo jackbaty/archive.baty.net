@@ -1,10 +1,11 @@
-+++
-date = "2020-02-08T10:09:00-05:00"
-draft = false
-tags = ["meta", "sysadmin"]
-title = "Moving sites around"
-
-+++
+---
+date: "2020-02-08T10:09:00-05:00"
+draft: false
+tags:
+- meta
+- sysadmin
+title: Moving sites around
+---
 
 This is just me taking notes about where stuff is and where it's going,
 server-wise.

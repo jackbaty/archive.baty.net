@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-08-01T17:17:21+00:00"
-title = "How to be creative"
-url = "/2004/how-to-be-creative/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-08-01T17:17:21+00:00"
+title: How to be creative
+url: /2004/how-to-be-creative/
+---
 
 From gapingvoid: [How to be creative][1]
 

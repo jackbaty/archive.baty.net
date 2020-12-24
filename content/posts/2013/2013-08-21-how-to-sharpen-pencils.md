@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Books", "Journal"]
-date = "2013-08-21T04:00:00+00:00"
-tags = ["book"]
-title = "Book: How to Sharpen Pencils"
-url = "/2013/how-to-sharpen-pencils/"
-
-+++
+---
+author: Jack
+categories:
+- Books
+- Journal
+date: "2013-08-21T04:00:00+00:00"
+tags:
+- book
+title: 'Book: How to Sharpen Pencils'
+url: /2013/how-to-sharpen-pencils/
+---
 
 <aside> <img src="/img/2013/how-to-sharpen-pencils.jpg" alt="How to Sharpen Pencils" class="postimage" />
   

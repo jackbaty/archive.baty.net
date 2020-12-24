@@ -1,10 +1,11 @@
-+++
-date = "2016-11-09T14:15:49-05:00"
-slug = "replacing-dropbox-with-icloud-drive--collin-donnell"
-tags = ["Dropbox", "iCloud"]
-title = "Replacing Dropbox With iCloud Drive – Collin Donnell"
-
-+++
+---
+date: "2016-11-09T14:15:49-05:00"
+slug: replacing-dropbox-with-icloud-drive--collin-donnell
+tags:
+- Dropbox
+- iCloud
+title: Replacing Dropbox With iCloud Drive – Collin Donnell
+---
 
 [Collin Donnell](http://collindonnell.com/2016/11/07/replacing-dropbox-with-icloud-drive/)
 

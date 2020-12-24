@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-05-25T13:46:45+00:00"
-title = "They don’t call it Good Experience for nothing"
-url = "/2005/they-dont-call-it-good-experience-for-nothing/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-05-25T13:46:45+00:00"
+title: They don’t call it Good Experience for nothing
+url: /2005/they-dont-call-it-good-experience-for-nothing/
+---
 
 One thing I really love is when someone a lot smarter than me rants about **exactly** the same things I do, only better. Mark Hurst of [Good Experience][1] nails a bunch of em, and I'll summarize here, but be sure to read the short paragraph he adds to each of them.
 

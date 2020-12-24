@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-03-02T14:27:01+00:00"
-title = "New ZZZZ Segway Models!"
-url = "/2005/new-zzzz-segway-models/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-03-02T14:27:01+00:00"
+title: New ZZZZ Segway Models!
+url: /2005/new-zzzz-segway-models/
+---
 
 And speaking of not caring, the new [Segway models are here][1].
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-05-17T19:00:00+00:00"
-title = "All Text, all the time?"
-url = "/2014/all-text-all-the-time/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-05-17T19:00:00+00:00"
+title: All Text, all the time?
+url: /2014/all-text-all-the-time/
+---
 
 Some of the smartest people I know swear by a terminal-based, text-only workflow. They tell me that Vim and tmux and Markdown and a terminal are all anyone ever needs. I love the idea, but it never works.
 

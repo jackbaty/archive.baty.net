@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-03-22T23:05:17+00:00"
-tags = ["Leica", "photography"]
-title = "A quick walk with the Leica IIIf"
-url = "/2015/a-quick-walk-with-the-leica-iiif/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-03-22T23:05:17+00:00"
+tags:
+- Leica
+- photography
+title: A quick walk with the Leica IIIf
+url: /2015/a-quick-walk-with-the-leica-iiif/
+---
 
 I wanted to burn through a roll today so I grabbed the little Leica IIIf and shot a few around the house then took a walk to finish it up. I nearly lost the roll while processing, but salvaged enough to get a few usable images.
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-08-03T22:19:07+00:00"
-title = "Stomping Divits"
-url = "/2003/stomping-divits/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-08-03T22:19:07+00:00"
+title: Stomping Divits
+url: /2003/stomping-divits/
+---
 
 <img alt="jack-polo.png" src="https://jackbaty.com/images/blog/jack-polo.png" width="300" height="225" border="0" />
   

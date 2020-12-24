@@ -1,12 +1,14 @@
-+++
-date = "2018-02-17T12:06:12-05:00"
-description = ""
-draft = false
-lastmod = "2018-02-17T12:06:12-05:00"
-tags = ["hugo", "blogging", "emacs"]
-title = "Posting From Emacs to Hugo With Easy-Hugo"
-
-+++
+---
+date: "2018-02-17T12:06:12-05:00"
+description: ""
+draft: false
+lastmod: "2018-02-17T12:06:12-05:00"
+tags:
+- hugo
+- blogging
+- emacs
+title: Posting From Emacs to Hugo With Easy-Hugo
+---
 
 When blogging with a static site renderer such as [Hugo](https://gohugo.io), creating new posts can be a point of friction. The default way is to call `hugo new`, type the name of the file, then find and open the file for editing. Not that difficult, but not simple either.
 

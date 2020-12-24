@@ -1,11 +1,11 @@
-+++
-date = "2018-09-18T12:52:36-04:00"
-description = ""
-lastmod = "2018-09-18T12:52:36-04:00"
-tags = ["privacy"]
-title = "FileSafe From Standard Notes"
-
-+++
+---
+date: "2018-09-18T12:52:36-04:00"
+description: ""
+lastmod: "2018-09-18T12:52:36-04:00"
+tags:
+- privacy
+title: FileSafe From Standard Notes
+---
 
 [FileSafe, from Standard Notes]( https://listed.standardnotes.org/@sn/2703/encrypt-your-dropbox-and-google-drive-with-standard-notes-filesafe):
 

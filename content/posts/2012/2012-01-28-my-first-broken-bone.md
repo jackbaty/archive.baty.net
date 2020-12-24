@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-01-28T00:00:00+00:00"
-tags = ["story", "Writing"]
-title = "My First Broken Bone"
-url = "/2012/my-first-broken-bone/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-01-28T00:00:00+00:00"
+tags:
+- story
+- Writing
+title: My First Broken Bone
+url: /2012/my-first-broken-bone/
+---
 
 ## A story about showing off
           

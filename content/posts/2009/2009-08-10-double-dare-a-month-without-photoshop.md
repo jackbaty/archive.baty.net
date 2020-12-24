@@ -1,15 +1,19 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2009-08-11T01:02:56+00:00"
-dsq_thread_id = [3131255127]
-image_source = ["http://www.flickr.com/photos/osiris555/3808500482/in/pool-hdr"]
-tags = ["photography"]
-thesis_post_image = ["/files/hdr-and-a-lot-of-it.jpg"]
-title = "Double Dare: A Month Without Photoshop"
-url = "/2009/double-dare-a-month-without-photoshop/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2009-08-11T01:02:56+00:00"
+dsq_thread_id:
+- 3131255127
+image_source:
+- http://www.flickr.com/photos/osiris555/3808500482/in/pool-hdr
+tags:
+- photography
+thesis_post_image:
+- /files/hdr-and-a-lot-of-it.jpg
+title: 'Double Dare: A Month Without Photoshop'
+url: /2009/double-dare-a-month-without-photoshop/
+---
 
 <span class="photo_caption">Original photo by [osiris555](http://www.flickr.com/photos/osiris555/3808500482/in/pool-hdr), chosen at random from the Flickr HDR pool</span>
 

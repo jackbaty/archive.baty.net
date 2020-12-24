@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2009-10-22T17:29:50+00:00"
-title = "Dirty Little Secret of Success  –   Jeffrey Zeldman"
-url = "/2009/dirty-little-secret-of-success-jeffrey-zeldman/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2009-10-22T17:29:50+00:00"
+title: Dirty Little Secret of Success  –   Jeffrey Zeldman
+url: /2009/dirty-little-secret-of-success-jeffrey-zeldman/
+---
 
 <div class="posterous_bookmarklet_entry">
   <blockquote class="posterous_medium_quote">

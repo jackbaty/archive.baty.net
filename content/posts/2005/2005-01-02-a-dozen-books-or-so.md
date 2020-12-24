@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-01-02T06:11:18+00:00"
-title = "A Dozen Books (or so)"
-url = "/2005/a-dozen-books-or-so/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-01-02T06:11:18+00:00"
+title: A Dozen Books (or so)
+url: /2005/a-dozen-books-or-so/
+---
 
 <img src="/images/blog//once-upon-a-number.jpg" border="0" height="152" width="100" alt="once-upon-a-number.jpg" align="right" />
 

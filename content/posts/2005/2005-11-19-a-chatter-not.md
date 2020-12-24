@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-11-19T15:46:21+00:00"
-title = "A Chatter? Not?"
-url = "/2005/a-chatter-not/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-11-19T15:46:21+00:00"
+title: A Chatter? Not?
+url: /2005/a-chatter-not/
+---
 
 Jackie Dove [[Macworld][1]] isn't really a fan of instant messaging. I know how she feels.
 

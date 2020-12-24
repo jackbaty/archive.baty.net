@@ -1,10 +1,11 @@
-+++
-date = "2017-02-04T20:24:28-05:00"
-slug = "more-shooting-with-the-hasselblad-and-a-flash"
-tags = ["Hasselblad", "Photography"]
-title = "More Shooting With The Hasselblad And A Flash"
-
-+++
+---
+date: "2017-02-04T20:24:28-05:00"
+slug: more-shooting-with-the-hasselblad-and-a-flash
+tags:
+- Hasselblad
+- Photography
+title: More Shooting With The Hasselblad And A Flash
+---
 
 
 While many move toward carrying only an iPhone or small, mirrorless

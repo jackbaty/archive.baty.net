@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2006-06-23T10:24:06+00:00"
-dsq_thread_id = [3131254054]
-title = "Opening Keynote with Dave Thomas"
-url = "/2006/opening-keynote-with-dave-thomas/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2006-06-23T10:24:06+00:00"
+dsq_thread_id:
+- 3131254054
+title: Opening Keynote with Dave Thomas
+url: /2006/opening-keynote-with-dave-thomas/
+---
 
 [<img src="https://static.flickr.com/72/173279176_e5ccde9ec0_m.jpg" alt="" style="border: solid 2px #000000;" />][1]
 

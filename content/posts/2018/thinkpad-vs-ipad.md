@@ -1,12 +1,14 @@
-+++
-date = "2018-02-18T11:10:50-05:00"
-description = ""
-draft = false
-lastmod = "2018-02-18T11:10:50-05:00"
-tags = ["iOS", "hardware", "linux"]
-title = "ThinkPad as iPad"
-
-+++
+---
+date: "2018-02-18T11:10:50-05:00"
+description: ""
+draft: false
+lastmod: "2018-02-18T11:10:50-05:00"
+tags:
+- iOS
+- hardware
+- linux
+title: ThinkPad as iPad
+---
 
 <img src="/img/2018/thinkpad-bw-corner.jpg" alt="ThinkPad"/>
 

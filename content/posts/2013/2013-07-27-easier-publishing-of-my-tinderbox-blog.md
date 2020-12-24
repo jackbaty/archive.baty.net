@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2013-07-27T00:00:00+00:00"
-tags = ["Tinderbox"]
-title = "Easier publishing of my Tinderbox blog"
-url = "/2013/easier-publishing-of-my-tinderbox-blog/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2013-07-27T00:00:00+00:00"
+tags:
+- Tinderbox
+title: Easier publishing of my Tinderbox blog
+url: /2013/easier-publishing-of-my-tinderbox-blog/
+---
 
 I sometimes forget that [Tinderbox][1] can do everything. I was shuffling some things around here today and that means repeatedly needing to push the changes out to the server. This normally consists of exporting the HTML out of Tinderbox and switching to Terminal to run rsync. I have a tiny shell script called "pushblog" which runs rsync with all of the correct switches, etc. 
 

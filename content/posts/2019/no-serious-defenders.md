@@ -1,8 +1,7 @@
-+++
-date = "2019-09-02T06:59:05-04:00"
-title = "No Serious Defenders - Robin Sloan"
-
-+++
+---
+date: "2019-09-02T06:59:05-04:00"
+title: No Serious Defenders - Robin Sloan
+---
 
 [Robin Sloan](https://desert.glass/newsletter/week-36/#text):
 

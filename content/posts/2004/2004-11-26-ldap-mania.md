@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-11-26T16:52:22+00:00"
-title = "LDAP Mania"
-url = "/2004/ldap-mania/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-11-26T16:52:22+00:00"
+title: LDAP Mania
+url: /2004/ldap-mania/
+---
 
 [OpenLDAP][1] is difficult, confusing and comes with lots and lots of incomprehensible documentation. Or at least that has been my experience with it.
 

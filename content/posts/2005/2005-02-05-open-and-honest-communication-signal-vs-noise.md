@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-02-05T10:23:50+00:00"
-title = "Open and honest communication (Signal vs. Noise)"
-url = "/2005/open-and-honest-communication-signal-vs-noise/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-02-05T10:23:50+00:00"
+title: Open and honest communication (Signal vs. Noise)
+url: /2005/open-and-honest-communication-signal-vs-noise/
+---
 
 [Open and honest communication][1] is always a good idea. When it comes to software development, Jason says&#8230;
 

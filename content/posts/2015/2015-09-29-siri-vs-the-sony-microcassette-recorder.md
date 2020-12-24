@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-09-29T19:45:28+00:00"
-tags = ["Analog"]
-title = "Siri vs the Sony Microcassette Recorder"
-url = "/2015/siri-vs-the-sony-microcassette-recorder/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-09-29T19:45:28+00:00"
+tags:
+- Analog
+title: Siri vs the Sony Microcassette Recorder
+url: /2015/siri-vs-the-sony-microcassette-recorder/
+---
 
 <img class="article-banner" src="https://www.baty.net/img/2015/20150929_sony-microcassette.jpg" alt="" />
 

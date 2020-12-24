@@ -1,12 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-08-19T00:06:25+00:00"
-tags = ["Blogging", "expressionengine", "wordpress"]
-title = "I&#039;ve waffled back to WordPress"
-url = "/2008/ive-waffled-back-to-wordpress/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-08-19T00:06:25+00:00"
+tags:
+- Blogging
+- expressionengine
+- wordpress
+title: I&#039;ve waffled back to WordPress
+url: /2008/ive-waffled-back-to-wordpress/
+---
 
 Every six months or so I decide it's time to switch blogging engines. The last time it happened I switched from [Movable Type][1] to [ExpressionEngine][2]. I switched then because I'd heard good things about EE and wanted to try it out somewhere.
 

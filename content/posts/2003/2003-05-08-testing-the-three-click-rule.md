@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:12+00:00"
-title = "Testing the Three-Click Rule"
-url = "/2003/testing-the-three-click-rule/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:12+00:00"
+title: Testing the Three-Click Rule
+url: /2003/testing-the-three-click-rule/
+---
 
 Does adhering to the well-known Three-Click Rule when designing web
   

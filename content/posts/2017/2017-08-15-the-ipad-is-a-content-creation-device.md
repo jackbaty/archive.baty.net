@@ -1,11 +1,13 @@
-+++
-date = "2017-08-15T11:01:16-04:00"
-description = "How using the iPad more has made me want to make things with it"
-slug = "ipad-is-a-content-creation-device"
-tags = ["ios", "workflow", "ipad"]
-title = "Surprise! The iPad is a Content Creation Device"
-
-+++
+---
+date: "2017-08-15T11:01:16-04:00"
+description: How using the iPad more has made me want to make things with it
+slug: ipad-is-a-content-creation-device
+tags:
+- ios
+- workflow
+- ipad
+title: Surprise! The iPad is a Content Creation Device
+---
 
 A few quick thoughts on using the iPad in anger this week.
 

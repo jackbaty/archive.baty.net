@@ -1,13 +1,15 @@
-+++
-author = "Jack"
-categories = ["Tech"]
-date = "2017-09-23T14:29:08+00:00"
-mf2_syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-tags = ["hardware"]
-title = "Cloud backups"
-url = "/2017/cloud-backups/"
-
-+++
+---
+author: Jack
+categories:
+- Tech
+date: "2017-09-23T14:29:08+00:00"
+mf2_syndicate-to:
+- a:1:{i:0;s:4:"none";}
+tags:
+- hardware
+title: Cloud backups
+url: /2017/cloud-backups/
+---
 I am no longer backing up my drives using a cloud backup service. Namely, [Arq][1] to [Backblaze B2][2].
 
 This seems like a terrible idea, and perhaps it is, but a few things happened recently that have caused me to throw up my hands and quit.

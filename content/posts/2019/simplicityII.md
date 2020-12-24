@@ -1,9 +1,9 @@
-+++
-date = "2019-09-14T07:38:27-04:00"
-tags = ["webdev"]
-title = "Simplicity (II) - Bastian Allgeier"
-
-+++
+---
+date: "2019-09-14T07:38:27-04:00"
+tags:
+- webdev
+title: Simplicity (II) - Bastian Allgeier
+---
 
 [Bastian Allgeier](https://bastianallgeier.com/notes/simplicity-part-2):
 

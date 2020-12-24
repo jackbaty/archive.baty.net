@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-10-20T15:53:57+00:00"
-title = "Web design practices"
-url = "/2003/web-design-practices/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-10-20T15:53:57+00:00"
+title: Web design practices
+url: /2003/web-design-practices/
+---
 
 [Web Design Practices][1]
 

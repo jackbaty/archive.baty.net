@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2013-01-12T00:00:00+00:00"
-dsq_thread_id = [3595581]
-title = "Things I learned in 2012"
-url = "/2013/things-i-learned-in-2012/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2013-01-12T00:00:00+00:00"
+dsq_thread_id:
+- 3595581
+title: Things I learned in 2012
+url: /2013/things-i-learned-in-2012/
+---
 
 <div>
   <div>

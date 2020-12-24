@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-10-02T16:06:32+00:00"
-title = "navigation evolution A brief study"
-url = "/2000/navigation-evolution-a-brief-study/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-10-02T16:06:32+00:00"
+title: navigation evolution A brief study
+url: /2000/navigation-evolution-a-brief-study/
+---
 
 [navigation evolution][1]
 

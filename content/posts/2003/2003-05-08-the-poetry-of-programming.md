@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:13+00:00"
-title = "The Poetry of Programming"
-url = "/2003/the-poetry-of-programming/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:13+00:00"
+title: The Poetry of Programming
+url: /2003/the-poetry-of-programming/
+---
 
 [The Poetry of Programming][1]
 

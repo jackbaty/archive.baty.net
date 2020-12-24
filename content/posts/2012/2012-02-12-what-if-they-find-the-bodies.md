@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-02-12T00:00:00+00:00"
-tags = ["story", "Writing"]
-title = "What If They Find the Bodies"
-url = "/2012/what-if-they-find-the-bodies/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-02-12T00:00:00+00:00"
+tags:
+- story
+- Writing
+title: What If They Find the Bodies
+url: /2012/what-if-they-find-the-bodies/
+---
 # A recurring dream
 
 The dream always begins with the fear that I hadn't buried the bodies deep enough. You see, the floor of the fruit cellar was made of very hard-packed dirt, making it difficult to dig. Especially when in a hurry. I had buried them long ago and was not entirely certain that I'd done a sufficient job of covering my tracks.

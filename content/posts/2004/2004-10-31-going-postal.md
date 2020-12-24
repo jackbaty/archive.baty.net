@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-10-31T05:29:22+00:00"
-title = "Going Postal"
-url = "/2004/going-postal/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-10-31T05:29:22+00:00"
+title: Going Postal
+url: /2004/going-postal/
+---
 
 ![][1]
   

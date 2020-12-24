@@ -1,13 +1,15 @@
-+++
-author = "Jack"
-categories = ["Hardware"]
-date = "2009-03-16T04:07:10+00:00"
-tags = ["gear"]
-thesis_post_image = ["/files/tag-heuer-automatic-20090315-231120.jpg"]
-title = "Tag Heuer Aquaracer Automatic"
-url = "/2009/tag-heuer-aquaracer-automatic/"
-
-+++
+---
+author: Jack
+categories:
+- Hardware
+date: "2009-03-16T04:07:10+00:00"
+tags:
+- gear
+thesis_post_image:
+- /files/tag-heuer-automatic-20090315-231120.jpg
+title: Tag Heuer Aquaracer Automatic
+url: /2009/tag-heuer-aquaracer-automatic/
+---
 
 Watches are cool, but wearing a wristwatch seems to have fallen a bit out of fashion. I can understand why, since many of us are either sitting in front of a computer all day or are within arm's reach of a cell phone and either can tell me what time it is. There are some occasions though in which just a quick glance at my wrist is faster and less annoying, so I decided it was time for a new watch.
 

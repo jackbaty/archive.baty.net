@@ -1,18 +1,28 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-09-09T22:11:52+00:00"
-tags = ["album", "music", "now playing", "vinyl"]
-title = "Now Playing: Gregg Allman – Laid Back"
-tz_audio_format = ["mp3"]
-tz_gallery_captions = ["true"]
-tz_gallery_format = ["-=set slideshow type=-"]
-tz_gallery_margins = [10]
-tz_gallery_randomize = ["false"]
-tz_gallery_targetheight = [200]
-url = "/2014/album-gregg-allman-laid-back/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-09-09T22:11:52+00:00"
+tags:
+- album
+- music
+- now playing
+- vinyl
+title: 'Now Playing: Gregg Allman – Laid Back'
+tz_audio_format:
+- mp3
+tz_gallery_captions:
+- "true"
+tz_gallery_format:
+- -=set slideshow type=-
+tz_gallery_margins:
+- 10
+tz_gallery_randomize:
+- "false"
+tz_gallery_targetheight:
+- 200
+url: /2014/album-gregg-allman-laid-back/
+---
 
 &nbsp;
 

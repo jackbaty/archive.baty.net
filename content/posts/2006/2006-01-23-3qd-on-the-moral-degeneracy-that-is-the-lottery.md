@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2006-01-23T23:04:04+00:00"
-title = "3QD: On the moral degeneracy that is the Lottery"
-url = "/2006/3qd-on-the-moral-degeneracy-that-is-the-lottery/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2006-01-23T23:04:04+00:00"
+title: '3QD: On the moral degeneracy that is the Lottery'
+url: /2006/3qd-on-the-moral-degeneracy-that-is-the-lottery/
+---
 
 I don't play the lotto. Of course that means I won't win. But I won't win if I play either. 
 

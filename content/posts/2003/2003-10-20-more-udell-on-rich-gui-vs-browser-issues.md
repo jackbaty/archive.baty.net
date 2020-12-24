@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-10-20T15:27:22+00:00"
-title = "More Udell on Rich GUI vs Browser issues"
-url = "/2003/more-udell-on-rich-gui-vs-browser-issues/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-10-20T15:27:22+00:00"
+title: More Udell on Rich GUI vs Browser issues
+url: /2003/more-udell-on-rich-gui-vs-browser-issues/
+---
 
 InfoWorld: [How rich is the rich GUI?][1] continues discussion on the pull to return to "rich" GUIs rather than boring old HTML.
   

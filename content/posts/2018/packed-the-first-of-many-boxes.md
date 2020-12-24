@@ -1,10 +1,9 @@
-+++
-date = "2018-05-24T10:57:00-04:00"
-draft = false
-slug = "packed-the-first-of-many-boxes"
-title = "Packed The First of Many Boxes"
-
-+++
+---
+date: "2018-05-24T10:57:00-04:00"
+draft: false
+slug: packed-the-first-of-many-boxes
+title: Packed The First of Many Boxes
+---
 
 {{< figure src="/img/2018/2018-05-24_moving-box.jpg" >}}
 

@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Photography"]
-date = "2018-12-12T16:27:27+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-title = "Magnum’s “The Art of Street Photography”"
-url = "/2018/magnums-the-art-of-street-photography/"
-
-+++
+---
+author: Jack
+categories:
+- Photography
+date: "2018-12-12T16:27:27+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+title: Magnum’s “The Art of Street Photography”
+url: /2018/magnums-the-art-of-street-photography/
+---
 <div class="wp-block-jetpack-markdown">
   <p>
     Magnum Photos just announced their first course, "<a href="https://learn.magnumphotos.com/course/the-art-of-street-photography/">The Art of Street Photography</a>" and I think I&#8217;d like to try it.

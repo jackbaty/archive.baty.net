@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-08-22T05:27:21+00:00"
-title = "No Television"
-url = "/2004/no-television/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-08-22T05:27:21+00:00"
+title: No Television
+url: /2004/no-television/
+---
 
 It's been almost 4 months since my Dish went wonky. At first I panicked, worried that some new reality show would pass me by unwatched. Oh wait, I hate reality shows. No big deal then.
 

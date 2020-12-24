@@ -1,10 +1,12 @@
-+++
-date = "2016-01-02T08:57:45-05:00"
-description = ""
-tags = ["notebook", "journaling", "analog"]
-title = "Five Year Journal"
-
-+++
+---
+date: "2016-01-02T08:57:45-05:00"
+description: ""
+tags:
+- notebook
+- journaling
+- analog
+title: Five Year Journal
+---
 
 {{< figure src="/img/2016/five-year-journal.jpg" title="Levenger 5-Year Journal" >}}
 

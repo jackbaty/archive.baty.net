@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-08-18T21:03:47+00:00"
-title = "Mighty [sic] Mouse"
-url = "/2007/mighty-sic-mouse/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-08-18T21:03:47+00:00"
+title: Mighty [sic] Mouse
+url: /2007/mighty-sic-mouse/
+---
 
 Apple's Mighty Mouse is my favorite mouse. It feels good, and the little trackball is the best thing ever &#8211; when it works. Mine has been acting up for a few weeks now. Suddenly the ball wouldn't scroll in one or more directions and the rest of the time it would scroll, but with "dead spots." Tonight it just stopped scrolling downward and no amount of rubbing or yelling at it helped. 
 

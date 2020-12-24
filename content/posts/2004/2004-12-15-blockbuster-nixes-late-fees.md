@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-12-15T15:59:02+00:00"
-title = "Blockbuster nixes late fees"
-url = "/2004/blockbuster-nixes-late-fees/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-12-15T15:59:02+00:00"
+title: Blockbuster nixes late fees
+url: /2004/blockbuster-nixes-late-fees/
+---
 
 From [CNN Money][1]
 

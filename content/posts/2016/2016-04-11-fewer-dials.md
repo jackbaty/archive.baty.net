@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2016-04-11T22:06:56+00:00"
-tags = ["Blogging", "workflow"]
-title = "Fewer Dials"
-url = "/2016/fewer-dials/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2016-04-11T22:06:56+00:00"
+tags:
+- Blogging
+- workflow
+title: Fewer Dials
+url: /2016/fewer-dials/
+---
 
 Me, from earlier today&#8230;
 

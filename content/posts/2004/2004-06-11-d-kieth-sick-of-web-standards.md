@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-06-11T19:34:20+00:00"
-title = "D. Kieth: Sick of web standards"
-url = "/2004/d-kieth-sick-of-web-standards/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-06-11T19:34:20+00:00"
+title: 'D. Kieth: Sick of web standards'
+url: /2004/d-kieth-sick-of-web-standards/
+---
 
 D. Kieth Robinson is [Sick of web standards][1]. I'll quote most of it here&#8230;
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-09-01T09:36:21+00:00"
-title = "First Principles of Interaction Design"
-url = "/2004/first-principles-of-interaction-design/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-09-01T09:36:21+00:00"
+title: First Principles of Interaction Design
+url: /2004/first-principles-of-interaction-design/
+---
 
 I'm sure I've posted this one before, but it's worth another look. [First Principles of Interaction Design][1] from AskTog.
 

@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-08-19T12:42:08+00:00"
-tags = ["Blogging", "social"]
-title = "The Blog as a Place of Record"
-url = "/2014/the-blog-as-a-place-of-record/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-08-19T12:42:08+00:00"
+tags:
+- Blogging
+- social
+title: The Blog as a Place of Record
+url: /2014/the-blog-as-a-place-of-record/
+---
 
 <div>
 </div>

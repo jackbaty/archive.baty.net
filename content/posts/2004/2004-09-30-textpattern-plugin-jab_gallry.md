@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-09-30T18:28:03+00:00"
-title = "Textpattern Plugin: jab_gallry"
-url = "/2004/textpattern-plugin-jab_gallry/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-09-30T18:28:03+00:00"
+title: 'Textpattern Plugin: jab_gallry'
+url: /2004/textpattern-plugin-jab_gallry/
+---
 
 \*\*UPDATE Jan 2006\*\* I've ignored this plugin since moving my blog to WordPress, then Typo, then ExpressionEngine. I'm at least temporarily back to Textpattern, so I may finish it someday. 
 

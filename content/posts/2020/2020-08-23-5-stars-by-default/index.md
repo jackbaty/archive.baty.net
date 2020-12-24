@@ -1,13 +1,13 @@
-+++
-author = "Jack"
-categories = ["Life"]
-date = "2020-08-23T12:31:14+00:00"
-featuredImage = "5stars.png"
-title = "5 stars by default"
-type = "posts"
-url = "/2020/5-stars-by-default/"
-
-+++
+---
+author: Jack
+categories:
+- Life
+date: "2020-08-23T12:31:14+00:00"
+featuredImage: 5stars.png
+title: 5 stars by default
+type: posts
+url: /2020/5-stars-by-default/
+---
 Starting a new book. Watching a movie I haven&#8217;t seen. Listening to a new album. Trying a new restaurant. All of these things start with the question: Am I going to like it?
 
 My new default answer is, &#8220;Yes, I am. I&#8217;m going to love it.&#8221; I give it 5 stars and I haven&#8217;t even _tried_ it yet!

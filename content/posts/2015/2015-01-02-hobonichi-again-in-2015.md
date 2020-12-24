@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-01-02T23:15:37+00:00"
-title = "Hobonichi Again In 2015"
-url = "/2015/hobonichi-again-in-2015/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-01-02T23:15:37+00:00"
+title: Hobonichi Again In 2015
+url: /2015/hobonichi-again-in-2015/
+---
 
 I got my first [Hobonichi Planner][1] in 2013 and it quickly became a favorite. I've carried one with me ever since, and I plan to continue doing so in 2015.
 

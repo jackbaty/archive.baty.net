@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-08-17T12:40:00+00:00"
-tags = ["editor", "software"]
-title = "VimR – Vim Refined"
-url = "/2014/vimr-vim-refined/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-08-17T12:40:00+00:00"
+tags:
+- editor
+- software
+title: VimR – Vim Refined
+url: /2014/vimr-vim-refined/
+---
 
 <div>
 </div>

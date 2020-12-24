@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-09-03T15:00:41+00:00"
-title = "Seth Godin: Labor Day"
-url = "/2007/seth-godin-labor-day/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-09-03T15:00:41+00:00"
+title: 'Seth Godin: Labor Day'
+url: /2007/seth-godin-labor-day/
+---
 
 Seth Godin on the modern version of hard work&#8230; 
 

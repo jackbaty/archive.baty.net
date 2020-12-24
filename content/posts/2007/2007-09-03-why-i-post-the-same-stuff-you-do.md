@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-09-03T07:50:53+00:00"
-title = "Why I post the same stuff you do"
-url = "/2007/why-i-post-the-same-stuff-you-do/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-09-03T07:50:53+00:00"
+title: Why I post the same stuff you do
+url: /2007/why-i-post-the-same-stuff-you-do/
+---
 
 I know, you're aware of the Steven Poole piece. You've used WriteRoom for \_years\_. Everyone heard the Mark Cuban thing before I mentioned it, and so on. 
 

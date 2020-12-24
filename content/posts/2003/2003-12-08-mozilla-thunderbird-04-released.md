@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-12-08T17:20:56+00:00"
-title = "Mozilla Thunderbird 0.4 released"
-url = "/2003/mozilla-thunderbird-04-released/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-12-08T17:20:56+00:00"
+title: Mozilla Thunderbird 0.4 released
+url: /2003/mozilla-thunderbird-04-released/
+---
 
 [Mozilla Thunderbird 0.4 Released][1]
 

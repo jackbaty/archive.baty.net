@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2001-01-14T21:46:36+00:00"
-title = "2000:December:Column:Invisible Architecture Chris Locke, more"
-url = "/2001/2000decembercolumninvisible-architecture-chris-locke-more/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2001-01-14T21:46:36+00:00"
+title: 2000:December:Column:Invisible Architecture Chris Locke, more
+url: /2001/2000decembercolumninvisible-architecture-chris-locke-more/
+---
 
 [2000:December:Column:Invisible Architecture][1]
 

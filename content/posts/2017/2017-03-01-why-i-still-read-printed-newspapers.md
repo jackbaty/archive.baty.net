@@ -1,10 +1,11 @@
-+++
-date = "2017-02-25T20:51:53-05:00"
-slug = "why-i-still-read-printed-newspapers"
-tags = ["Analog", "News"]
-title = "Why I Still Read Printed Newspapers"
-
-+++
+---
+date: "2017-02-25T20:51:53-05:00"
+slug: why-i-still-read-printed-newspapers
+tags:
+- Analog
+- News
+title: Why I Still Read Printed Newspapers
+---
 
 {{< figure src="/img/2017/nyt-front-page.jpg" title="" >}}
 

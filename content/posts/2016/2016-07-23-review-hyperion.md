@@ -1,11 +1,12 @@
-+++
-author = "Jack"
-categories = ["Books", "Journal"]
-date = "2016-07-23T18:00:56+00:00"
-title = "Review: Hyperion"
-url = "/2016/review-hyperion/"
-
-+++
+---
+author: Jack
+categories:
+- Books
+- Journal
+date: "2016-07-23T18:00:56+00:00"
+title: 'Review: Hyperion'
+url: /2016/review-hyperion/
+---
 
 <a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/77566"><img src="https://d.gr-assets.com/books/1405546838m/77566.jpg" alt="Hyperion" border="0" /></a>
   

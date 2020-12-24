@@ -1,10 +1,10 @@
-+++
-date = "2018-11-25"
-slug = "future-proofing"
-tags = ["hardware"]
-title = "The self-deceit of \"Future Proofing\""
-
-+++
+---
+date: "2018-11-25"
+slug: future-proofing
+tags:
+- hardware
+title: The self-deceit of "Future Proofing"
+---
 
 There are tricks we use to convince ourselves to buy the newest, most powerful devices. I myself have an entire quiver full of these tricks.
 

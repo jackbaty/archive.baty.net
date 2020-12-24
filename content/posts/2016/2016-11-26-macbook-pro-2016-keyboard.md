@@ -1,10 +1,10 @@
-+++
-date = "2016-11-26T09:24:27-05:00"
-slug = "macbook-pro-2016-keyboard"
-tags = ["Apple"]
-title = "MacBook Pro 2016 Keyboard"
-
-+++
+---
+date: "2016-11-26T09:24:27-05:00"
+slug: macbook-pro-2016-keyboard
+tags:
+- Apple
+title: MacBook Pro 2016 Keyboard
+---
 
 {{< figure src="/img/2016/2016-11-23_Extended-Keyboard-and-2016-MacBook-Pro.jpg" title="" >}}
 

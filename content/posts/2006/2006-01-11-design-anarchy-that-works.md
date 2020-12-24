@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2006-01-11T08:43:04+00:00"
-title = "Design Anarchy that Works"
-url = "/2006/design-anarchy-that-works/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2006-01-11T08:43:04+00:00"
+title: Design Anarchy that Works
+url: /2006/design-anarchy-that-works/
+---
 
 Jesse James Garrett: [MySpace: Design Anarchy that Works](<http://www.businessweek.com/innovate/content/dec2005/id20051230_570094.htm>) 
 

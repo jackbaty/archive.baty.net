@@ -1,11 +1,12 @@
-+++
-date = "2017-04-08T12:45:55-04:00"
-draft = false
-slug = "so-much-noise"
-tags = ["Social", "Internet"]
-title = "So Much Noise"
-
-+++
+---
+date: "2017-04-08T12:45:55-04:00"
+draft: false
+slug: so-much-noise
+tags:
+- Social
+- Internet
+title: So Much Noise
+---
 While scrolling through Twitter today I realized that the signal-to-noise ratio
 on the internet has skewed way toward noise. It's been this way for a while but
 today just seemed especially bad.

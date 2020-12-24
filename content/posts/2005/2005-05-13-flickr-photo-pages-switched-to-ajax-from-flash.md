@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-05-13T21:51:52+00:00"
-title = "Flickr photo pages switched to Ajax (from Flash)"
-url = "/2005/flickr-photo-pages-switched-to-ajax-from-flash/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-05-13T21:51:52+00:00"
+title: Flickr photo pages switched to Ajax (from Flash)
+url: /2005/flickr-photo-pages-switched-to-ajax-from-flash/
+---
 
 The photo pages on [Flickr][1] now use DHTML/Ajax to display images and notes. See [the this Flickr weblog post][2]. Photos were previously displayed using (an admittedly well-done) Flash app.
 

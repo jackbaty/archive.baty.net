@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2013-02-23T00:00:00+00:00"
-tags = ["Tinderbox"]
-title = "Using Tinderbox to publish LaTeX documents"
-url = "/2013/using-tinderbox-to-publish-latex-documents/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2013-02-23T00:00:00+00:00"
+tags:
+- Tinderbox
+title: Using Tinderbox to publish LaTeX documents
+url: /2013/using-tinderbox-to-publish-latex-documents/
+---
 
 Every now and then I find myself fascinated with [LaTeX][1] even though I have no real need for it. I don't write academic papers. I don't need to represent complex mathematical equations. I don't write long documents requiring references, figures, or any of the other things LaTeX is so good at. What I like most about LaTeX is the way it formats text. I also like the idea of leaving layout or design out of the document and focusing on content. No need to waste time "finger painting" my documents, and yet the output is beautiful.
 

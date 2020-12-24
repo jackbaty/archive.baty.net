@@ -1,9 +1,10 @@
-+++
-date = "2019-09-23T15:36:02-04:00"
-tags = ["CLI", "Social"]
-title = "twtxt"
-
-+++
+---
+date: "2019-09-23T15:36:02-04:00"
+tags:
+- CLI
+- Social
+title: twtxt
+---
 
 I was reminded today[^0xroy] of [twtxt](https://twtxt.readthedocs.io/en/stable/), "a decentralised, minimalist microblogging service for hackers."
 

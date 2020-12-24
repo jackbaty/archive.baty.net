@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-07-09T22:12:04+00:00"
-title = "A donkey named Balthazar"
-url = "/2005/a-donkey-named-balthazar/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-07-09T22:12:04+00:00"
+title: A donkey named Balthazar
+url: /2005/a-donkey-named-balthazar/
+---
 
 [Au Hasard Balthazar][1] is the finest film you're likely to see this year &#8211; maybe ever.
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-05-20T20:46:11+00:00"
-title = "Textpattern Plugin"
-url = "/2004/textpattern-plugin/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-05-20T20:46:11+00:00"
+title: Textpattern Plugin
+url: /2004/textpattern-plugin/
+---
 
 I just wrote my first plugin for [Textpattern][1]. All it does is automatically styles posted images with a fancy CSS dropshadow, like this&#8230;
 

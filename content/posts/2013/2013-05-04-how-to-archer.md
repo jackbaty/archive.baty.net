@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Books", "Journal"]
-date = "2013-05-04T04:00:00+00:00"
-tags = ["book"]
-title = "Book: How to Archer"
-url = "/2013/how-to-archer/"
-
-+++
+---
+author: Jack
+categories:
+- Books
+- Journal
+date: "2013-05-04T04:00:00+00:00"
+tags:
+- book
+title: 'Book: How to Archer'
+url: /2013/how-to-archer/
+---
 
 <div>
   <div>

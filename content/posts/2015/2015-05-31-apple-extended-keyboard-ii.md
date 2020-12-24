@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-05-31T15:12:27+00:00"
-tags = ["gear"]
-title = "Apple Extended Keyboard II"
-url = "/2015/apple-extended-keyboard-ii/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-05-31T15:12:27+00:00"
+tags:
+- gear
+title: Apple Extended Keyboard II
+url: /2015/apple-extended-keyboard-ii/
+---
 
 <div id="attachment_4545" style="width: 810px" class="wp-caption alignnone">
   <a href="/img/2015/06/apple-extended-keyboard.jpg"><img class="size-full wp-image-4545" src="/img/2015/06/apple-extended-keyboard.jpg" alt="Apple Extended Keyboard II" width="800" height="600" srcset="/img/2015/06/apple-extended-keyboard.jpg 800w, /img/2015/06/apple-extended-keyboard-300x225.jpg 300w, /img/2015/06/apple-extended-keyboard-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a>

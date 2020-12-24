@@ -1,11 +1,12 @@
-+++
-date = "2016-07-15T09:55:50-04:00"
-description = ""
-tags = ["blogging", "publishing"]
-title = "Snippets.today"
-topics = []
-
-+++
+---
+date: "2016-07-15T09:55:50-04:00"
+description: ""
+tags:
+- blogging
+- publishing
+title: Snippets.today
+topics: []
+---
 
 [Manton Reese](http://www.manton.org/2016/07/pre-announcing-snippets-today.html)
 

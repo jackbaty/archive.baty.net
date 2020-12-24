@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Photography"]
-date = "2018-10-24T15:19:08+00:00"
-tags = ["Leica", "photography"]
-title = "Leica M10-D, Digital Body. Analog Soul"
-url = "/2018/leica-m10-d-digital-body-analog-soul/"
-
-+++
+---
+author: Jack
+categories:
+- Photography
+date: "2018-10-24T15:19:08+00:00"
+tags:
+- Leica
+- photography
+title: Leica M10-D, Digital Body. Analog Soul
+url: /2018/leica-m10-d-digital-body-analog-soul/
+---
 [Leica-camera.com][1]:
 
 <img src="/img/2018/10/2018-10-24_m10-d.jpg" alt="2018 10 24 m10 d" title="2018-10-24_m10-d.jpg" border="0" width="799" height="493" />

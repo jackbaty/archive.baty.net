@@ -1,9 +1,8 @@
-+++
-date = "2016-11-07T16:42:55-05:00"
-slug = "tantek-switches-to-duckduckgo"
-title = "Tantek switches to DuckDuckGo"
-
-+++
+---
+date: "2016-11-07T16:42:55-05:00"
+slug: tantek-switches-to-duckduckgo
+title: Tantek switches to DuckDuckGo
+---
 
 [Tantek Çelik](http://tantek.com/2016/311/t5/google-switched-to-duckduckgo-site-search):
 

@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2009-11-21T17:46:21+00:00"
-tags = ["photography"]
-title = "Why Rory Marinich is not a photographer"
-url = "/2009/why-rory-marinich-is-not-a-photographer/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2009-11-21T17:46:21+00:00"
+tags:
+- photography
+title: Why Rory Marinich is not a photographer
+url: /2009/why-rory-marinich-is-not-a-photographer/
+---
 
 Rory Marinich:
 

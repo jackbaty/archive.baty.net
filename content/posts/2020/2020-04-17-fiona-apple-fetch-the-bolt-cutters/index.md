@@ -1,12 +1,12 @@
-+++
-author = "Jack"
-categories = ["Music"]
-date = "2020-04-17T18:12:00+00:00"
-title = "Fiona Apple – Fetch the Bolt Cutters 🎵"
-type = "posts"
-url = "/2020/fiona-apple-fetch-the-bolt-cutters-🎵/"
-
-+++
+---
+author: Jack
+categories:
+- Music
+date: "2020-04-17T18:12:00+00:00"
+title: "Fiona Apple – Fetch the Bolt Cutters \U0001F3B5"
+type: posts
+url: "/2020/fiona-apple-fetch-the-bolt-cutters-\U0001F3B5/"
+---
 Wonderful, weird, powerful new record from Fiona Apple; and I’m very very happy about it.
 
 {{< image src="fetch-the-bolt-cutters.jpg" caption="" >}}

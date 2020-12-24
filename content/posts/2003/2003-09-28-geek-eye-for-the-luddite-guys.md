@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-09-28T05:50:54+00:00"
-dsq_thread_id = [3594733]
-title = "Geek Eye for the Luddite Guys"
-url = "/2003/geek-eye-for-the-luddite-guys/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-09-28T05:50:54+00:00"
+dsq_thread_id:
+- 3594733
+title: Geek Eye for the Luddite Guys
+url: /2003/geek-eye-for-the-luddite-guys/
+---
 
 Without a doubt more will follow, but here's an early Queer Eye for the Straight Guy clone&#8230;. [Without a doubt more will follow, but here's an early Queer Eye for the Straight Guy clone&#8230;.][1] 
   

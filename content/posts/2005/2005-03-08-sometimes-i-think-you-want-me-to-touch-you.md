@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-03-08T15:19:36+00:00"
-title = "Sometimes I think you want me to touch you"
-url = "/2005/sometimes-i-think-you-want-me-to-touch-you/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-03-08T15:19:36+00:00"
+title: Sometimes I think you want me to touch you
+url: /2005/sometimes-i-think-you-want-me-to-touch-you/
+---
 
 <img src="/images/blog/toribwsm.jpg" height="249" width="200" border="1" hspace="4" vspace="4" alt="Toribwsm" />
   

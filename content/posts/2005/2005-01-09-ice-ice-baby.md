@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-01-09T18:42:54+00:00"
-title = "ICE, ICE, Baby!"
-url = "/2005/ice-ice-baby/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-01-09T18:42:54+00:00"
+title: ICE, ICE, Baby!
+url: /2005/ice-ice-baby/
+---
 
 After becoming completely disgruntled with the process of scanning my film negatives, I decided to do something about it before I went and did something crazy like sell my Leica and stick completely to digital capture.
   

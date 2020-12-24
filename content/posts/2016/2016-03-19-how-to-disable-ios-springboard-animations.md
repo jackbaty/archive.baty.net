@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2016-03-19T12:21:25+00:00"
-tags = ["apple"]
-title = "How-To: Disable iOS SpringBoard animations"
-url = "/2016/how-to-disable-ios-springboard-animations/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2016-03-19T12:21:25+00:00"
+tags:
+- apple
+title: 'How-To: Disable iOS SpringBoard animations'
+url: /2016/how-to-disable-ios-springboard-animations/
+---
 
 [9to5mac.com][1]:
 

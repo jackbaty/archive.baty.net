@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:12+00:00"
-title = "Paul Graham on Hackers and Painters"
-url = "/2003/paul-graham-on-hackers-and-painters/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:12+00:00"
+title: Paul Graham on Hackers and Painters
+url: /2003/paul-graham-on-hackers-and-painters/
+---
 
 I've always tended to equate, or at least compare, programming and
   

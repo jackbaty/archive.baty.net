@@ -1,10 +1,10 @@
-+++
-date = "2017-09-01"
-slug = "a-drastic-keyboard-change"
-tags = ["hardware"]
-title = "A Drastic Keyboard Change"
-
-+++
+---
+date: "2017-09-01"
+slug: a-drastic-keyboard-change
+tags:
+- hardware
+title: A Drastic Keyboard Change
+---
 
 ![Extended Keyboard II vs Magic Keyboard][1]
 

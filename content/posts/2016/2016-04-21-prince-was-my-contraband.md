@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2016-04-21T21:10:00+00:00"
-title = "Prince was my contraband"
-url = "/2016/prince-was-my-contraband/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2016-04-21T21:10:00+00:00"
+title: Prince was my contraband
+url: /2016/prince-was-my-contraband/
+---
 
 I've always loved listening to Prince, although for a while I wouldn't let myself admit it to anyone.
 

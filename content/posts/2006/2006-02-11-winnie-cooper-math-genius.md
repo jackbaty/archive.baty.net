@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2006-02-11T18:53:04+00:00"
-dsq_thread_id = [3131255353]
-title = "Winnie Cooper, Math Genius?"
-url = "/2006/winnie-cooper-math-genius/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2006-02-11T18:53:04+00:00"
+dsq_thread_id:
+- 3131255353
+title: Winnie Cooper, Math Genius?
+url: /2006/winnie-cooper-math-genius/
+---
 
 ![][1] 
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:12+00:00"
-title = "Why comments are disabled here"
-url = "/2003/why-comments-are-disabled-here/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:12+00:00"
+title: Why comments are disabled here
+url: /2003/why-comments-are-disabled-here/
+---
 
 I've spent a good deal of time thinking of how to implement comments in a blosxom weblog. There are people working on it, and I'm sure they'll do a fine job. I stopped worrying about it when I realized that I don't **want** comments on this site.
 

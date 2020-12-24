@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-02-02T13:31:45+00:00"
-tags = ["geek"]
-title = "Git is the new Unix"
-url = "/2008/git-is-the-new-unix/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-02-02T13:31:45+00:00"
+tags:
+- geek
+title: Git is the new Unix
+url: /2008/git-is-the-new-unix/
+---
 
 [Advogato: Blog for apenwarr][1]: 
 

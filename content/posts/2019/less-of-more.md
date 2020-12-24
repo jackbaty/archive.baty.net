@@ -1,9 +1,8 @@
-+++
-date = "2019-08-15T13:11:00-04:00"
-draft = false
-title = "Fewer of more"
-
-+++
+---
+date: "2019-08-15T13:11:00-04:00"
+draft: false
+title: Fewer of more
+---
 
 I'd like to have fewer of more things. Does that make sense? Right now
 I have five of everything and it's driving me nuts.

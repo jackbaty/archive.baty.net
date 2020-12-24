@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-12-03T00:07:24+00:00"
-tags = ["photography"]
-title = "Cole Rise on memory loss due to taking photos"
-url = "/2014/cole-rise-pi-co/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-12-03T00:07:24+00:00"
+tags:
+- photography
+title: Cole Rise on memory loss due to taking photos
+url: /2014/cole-rise-pi-co/
+---
 
 [Cole Rise | Pi.co][1]:
 

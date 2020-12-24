@@ -1,13 +1,16 @@
-+++
-author = "Jack"
-categories = ["Hardware"]
-date = "2009-04-18T04:16:31+00:00"
-tags = ["gear", "photography"]
-thesis_post_image = ["/files/leicam8-chrome-20090417-174809.jpg"]
-title = "Leica M8 Pending"
-url = "/2009/leica-m8-pending/"
-
-+++
+---
+author: Jack
+categories:
+- Hardware
+date: "2009-04-18T04:16:31+00:00"
+tags:
+- gear
+- photography
+thesis_post_image:
+- /files/leicam8-chrome-20090417-174809.jpg
+title: Leica M8 Pending
+url: /2009/leica-m8-pending/
+---
 
 Enter the M8.
 

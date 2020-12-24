@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-08-23T00:22:49+00:00"
-title = "MemoWare – The PDA Document"
-url = "/2000/memoware-the-pda-document/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-08-23T00:22:49+00:00"
+title: MemoWare – The PDA Document
+url: /2000/memoware-the-pda-document/
+---
 
 [MemoWare – The PDA Document Repository][1]
 

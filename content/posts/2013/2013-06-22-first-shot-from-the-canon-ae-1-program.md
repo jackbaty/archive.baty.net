@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2013-06-22T00:00:00+00:00"
-tags = ["film", "photography"]
-title = "First shot from the Canon AE-1 Program"
-url = "/2013/first-shot-from-the-canon-ae-1-program/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2013-06-22T00:00:00+00:00"
+tags:
+- film
+- photography
+title: First shot from the Canon AE-1 Program
+url: /2013/first-shot-from-the-canon-ae-1-program/
+---
 
 <div>
   <div>

@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Misc"]
-date = "2018-10-23T00:08:36+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-title = "Dark Mode isn’t for me"
-url = "/2018/dark-mode-isnt-for-me/"
-
-+++
+---
+author: Jack
+categories:
+- Misc
+date: "2018-10-23T00:08:36+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+title: Dark Mode isn’t for me
+url: /2018/dark-mode-isnt-for-me/
+---
 I&#8217;m not a person who normally uses dark themes, but with all the hoopla around Dark Mode in Mojave I thought I should try it for a month and see if I liked it as much as everyone else seemed to.
 
 Nope, I don&#8217;t like Dark Mode.

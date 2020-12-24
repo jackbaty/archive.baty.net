@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:12+00:00"
-title = "Tori Amos Scarlet’s Walk"
-url = "/2003/tori-amos-scarlets-walk/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:12+00:00"
+title: Tori Amos Scarlet’s Walk
+url: /2003/tori-amos-scarlets-walk/
+---
 
 ![][1]
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-12-22T16:56:59+00:00"
-title = "The Seven Levels of Photographers"
-url = "/2003/the-seven-levels-of-photographers/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-12-22T16:56:59+00:00"
+title: The Seven Levels of Photographers
+url: /2003/the-seven-levels-of-photographers/
+---
 
 Ken Rockwell's [Seven Levels of Photographers][1].
   

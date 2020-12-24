@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-08-17T15:37:28+00:00"
-title = "internetworld: Nielsen and Fleming on"
-url = "/2000/internetworld-nielsen-and-fleming-on/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-08-17T15:37:28+00:00"
+title: 'internetworld: Nielsen and Fleming on'
+url: /2000/internetworld-nielsen-and-fleming-on/
+---
 
 [internetworld: Nielsen and Fleming on Barnes and Nobles new site][1]
 

@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-04-19T10:01:31+00:00"
-tags = ["Web"]
-title = "5 Things You Should Not Twitter"
-url = "/2008/5-things-you-should-not-twitter/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-04-19T10:01:31+00:00"
+tags:
+- Web
+title: 5 Things You Should Not Twitter
+url: /2008/5-things-you-should-not-twitter/
+---
 
 I love [Twitter][1]. It's extremely valuable and has become an important part of my daily flow. There's a ton of value in following a whole bunch (not too many!) of the brightest people I know. It's amazing. Lately, however, I've been noticing a few recurring themes which have not contributed to this value. In an effort to keep Twitter a service that's suited to my specific needs, I present to you **5 things you should not Twitter**.
 

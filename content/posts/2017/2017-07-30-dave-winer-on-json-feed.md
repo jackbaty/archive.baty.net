@@ -1,9 +1,8 @@
-+++
-date = "2017-05-20"
-slug = "dave-winer-on-json-feed"
-title = "Dave Winer on JSON Feed"
-
-+++
+---
+date: "2017-05-20"
+slug: dave-winer-on-json-feed
+title: Dave Winer on JSON Feed
+---
 
 [Dave Winer][1]:
 

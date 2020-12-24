@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:11+00:00"
-title = "Class.Jabber.PHP"
-url = "/2003/classjabberphp/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:11+00:00"
+title: Class.Jabber.PHP
+url: /2003/classjabberphp/
+---
 
 [This][1] could be
   

@@ -1,9 +1,9 @@
-+++
-date = "2018-07-31"
-tags = ["hardware"]
-title = "The Penna Bluetooth Keyboard"
-
-+++
+---
+date: "2018-07-31"
+tags:
+- hardware
+title: The Penna Bluetooth Keyboard
+---
  
 I was creating an eBay listing to sell my [Penna Bluetooth keyboard](https://www.elretron.com/penna) and I thought I should probably make sure it worked first, since I hadn't used it in months.
 

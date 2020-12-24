@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-01-28T00:00:00+00:00"
-tags = ["story", "Writing"]
-title = "Golden Delicious"
-url = "/2012/golden-delicious/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-01-28T00:00:00+00:00"
+tags:
+- story
+- Writing
+title: Golden Delicious
+url: /2012/golden-delicious/
+---
 
 ## A story about small pleasures
 

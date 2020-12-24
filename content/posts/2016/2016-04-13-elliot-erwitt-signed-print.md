@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Photography"]
-date = "2016-04-13T23:13:47+00:00"
-title = "Elliot Erwitt Signed Print"
-url = "/2016/elliot-erwitt-signed-print/"
-
-+++
+---
+author: Jack
+categories:
+- Photography
+date: "2016-04-13T23:13:47+00:00"
+title: Elliot Erwitt Signed Print
+url: /2016/elliot-erwitt-signed-print/
+---
 
 I finally got around to framing my Elliot Erwitt print. It's the only signed photograph I own and I love it.
 

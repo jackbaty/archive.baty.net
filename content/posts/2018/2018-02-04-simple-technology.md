@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Photography", "Tech"]
-date = "2018-02-04T23:13:09+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-title = "Simple Technology"
-url = "/2018/simple-technology/"
-
-+++
+---
+author: Jack
+categories:
+- Photography
+- Tech
+date: "2018-02-04T23:13:09+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+title: Simple Technology
+url: /2018/simple-technology/
+---
 My electric kettle stopped working recently, so I decided to make a large format photograph of it before throwing it away.
 
 {{< figure src="/img/2018/02/201802Sunday_Scan1-edit.jpg" title="Electric Kettle. Crown Graphic, HP5+, FF Monobath" >}}

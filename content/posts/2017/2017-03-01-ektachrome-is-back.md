@@ -1,10 +1,12 @@
-+++
-date = "2017-01-07T20:07:48-05:00"
-slug = "ektachrome-is-back"
-tags = ["Kodak", "Film", "Photography"]
-title = "Ektachrome is Back"
-
-+++
+---
+date: "2017-01-07T20:07:48-05:00"
+slug: ektachrome-is-back
+tags:
+- Kodak
+- Film
+- Photography
+title: Ektachrome is Back
+---
 
 ![Ektachrome](/img/2017/KodakEKtachrome36_3DWhtReflx_2x_s.png)
 

@@ -1,10 +1,11 @@
-+++
-date = "2017-06-04T21:39:55-04:00"
-slug = "i-had-emacs-open-and-it-just-happened"
-tags = ["Blogging", "Emacs"]
-title = "I had Emacs open and it just happened"
-
-+++
+---
+date: "2017-06-04T21:39:55-04:00"
+slug: i-had-emacs-open-and-it-just-happened
+tags:
+- Blogging
+- Emacs
+title: I had Emacs open and it just happened
+---
 
 Remember that
 time

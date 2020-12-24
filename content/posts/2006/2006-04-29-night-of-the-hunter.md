@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2006-04-29T22:27:09+00:00"
-dsq_thread_id = [3131255987]
-title = "Night of the Hunter"
-url = "/2006/night-of-the-hunter/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2006-04-29T22:27:09+00:00"
+dsq_thread_id:
+- 3131255987
+title: Night of the Hunter
+url: /2006/night-of-the-hunter/
+---
 
 ![Night of the Hunter][1] 
 

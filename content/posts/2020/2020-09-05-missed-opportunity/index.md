@@ -1,14 +1,15 @@
-+++
-categories = ["Photography"]
-date = "2020-09-05"
-featuredImage = "hood.jpg"
-featuredImagePreview = "preview.jpg"
-slug = "missed-photo-z28"
-summary = "Too often I miss making a good photo by just a little"
-tags = ["photography"]
-title = "Missed photo - Z28"
-
-+++
+---
+categories:
+- Photography
+date: "2020-09-05"
+featuredImage: hood.jpg
+featuredImagePreview: preview.jpg
+slug: missed-photo-z28
+summary: Too often I miss making a good photo by just a little
+tags:
+- photography
+title: Missed photo - Z28
+---
 
 I spotted this Z28 while walking through a parking lot last night. Seemed like it would make a fun image so I snapped a photo of it with the little Ricoh.
 

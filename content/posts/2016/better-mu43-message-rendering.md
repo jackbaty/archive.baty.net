@@ -1,10 +1,12 @@
-+++
-date = "2016-01-01T09:05:55-05:00"
-description = ""
-tags = ["Emacs", "email", "mu4e"]
-title = "Better Mu4e Message Rendering"
-
-+++
+---
+date: "2016-01-01T09:05:55-05:00"
+description: ""
+tags:
+- Emacs
+- email
+- mu4e
+title: Better Mu4e Message Rendering
+---
 
 When viewing an email message in
 [Mu4e](http://www.djcbsoftware.nl/code/mu/mu4e.html), HTML is converted to text

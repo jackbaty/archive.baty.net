@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2013-06-26T00:00:00+00:00"
-tags = ["photography"]
-title = "Peters Camera Repair"
-url = "/2013/peters-camera-repair/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2013-06-26T00:00:00+00:00"
+tags:
+- photography
+title: Peters Camera Repair
+url: /2013/peters-camera-repair/
+---
 
 <div>
   <div>

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-03-28T16:03:33+00:00"
-title = "Hog Bay Notebook"
-url = "/2005/hog-bay-notebook/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-03-28T16:03:33+00:00"
+title: Hog Bay Notebook
+url: /2005/hog-bay-notebook/
+---
 
 Being a huge fan of outliners, I've pretty much tried them all. OmniOutliner is about the best of them, but is a little too twitchy for my taste. If you like outliners but wish they would manage larger amounts of text or include a better search engine or basically just _feel_ better, look no further than [Hog Bay Notebook][1]
 

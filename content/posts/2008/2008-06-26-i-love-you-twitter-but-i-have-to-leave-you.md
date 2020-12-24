@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-06-26T14:32:00+00:00"
-tags = ["geek", "Web"]
-title = "I love you Twitter, but I have to leave you"
-url = "/2008/i-love-you-twitter-but-i-have-to-leave-you/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-06-26T14:32:00+00:00"
+tags:
+- geek
+- Web
+title: I love you Twitter, but I have to leave you
+url: /2008/i-love-you-twitter-but-i-have-to-leave-you/
+---
 
 <img src="/files/twitter-whale.jpg" style="border: 0;" alt="image" width="160" height="120" />
 

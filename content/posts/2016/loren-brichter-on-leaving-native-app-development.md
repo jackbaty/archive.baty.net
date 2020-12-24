@@ -1,11 +1,12 @@
-+++
-date = "2016-07-02T10:04:30-04:00"
-description = ""
-tags = ["development", "native"]
-title = "Loren Brichter on leaving native app development"
-topics = []
-
-+++
+---
+date: "2016-07-02T10:04:30-04:00"
+description: ""
+tags:
+- development
+- native
+title: Loren Brichter on leaving native app development
+topics: []
+---
 
 [Loren Brichter](http://web.audaciousfox.net/2016/06/brichter-letterpress-interview):
 

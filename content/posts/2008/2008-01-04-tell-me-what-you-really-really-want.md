@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-01-04T12:15:13+00:00"
-tags = ["personal"]
-title = "Tell me what you really really want"
-url = "/2008/tell-me-what-you-really-really-want/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-01-04T12:15:13+00:00"
+tags:
+- personal
+title: Tell me what you really really want
+url: /2008/tell-me-what-you-really-really-want/
+---
 
 There are times when it would be embarrassing for me if the contents of my Firefox search box were made public.
 

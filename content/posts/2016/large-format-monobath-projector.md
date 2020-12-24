@@ -1,11 +1,14 @@
-+++
-date = "2016-01-09T07:59:57-05:00"
-description = ""
-imageurl = "/img/photos/2016_lf-002_projector-processed.jpg"
-tags = ["photography", "large format", "4x5", "film"]
-title = "4x5 photo of 8mm Projector"
-
-+++
+---
+date: "2016-01-09T07:59:57-05:00"
+description: ""
+imageurl: /img/photos/2016_lf-002_projector-processed.jpg
+tags:
+- photography
+- large format
+- 4x5
+- film
+title: 4x5 photo of 8mm Projector
+---
 
 {{< figure src="/img/photos/2016_lf-002_projector-processed.jpg" title="8mm Film Projector (2015). Crown Graphic. HP5+ in R3 Monobath" >}}
 

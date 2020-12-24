@@ -1,9 +1,9 @@
-+++
-date = "2017-08-05"
-tags = ["software"]
-title = "I've had all this figured out for years"
-
-+++
+---
+date: "2017-08-05"
+tags:
+- software
+title: I've had all this figured out for years
+---
 
 I love trying new things, but I’m not sure why bother. I’ve had most things figured out for years. 
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-08-28T11:55:26+00:00"
-title = "That new-fangled turntable"
-url = "/2005/that-new-fangled-turntable/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-08-28T11:55:26+00:00"
+title: That new-fangled turntable
+url: /2005/that-new-fangled-turntable/
+---
 
 Jessica's friend Aubrey walked by while my turntable was playing (Iron Maiden's _Killers_, in case you wondered) and the following exchange helped me realize how old I am&#8230;
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-02-14T14:49:50+00:00"
-title = "Epson/Cosina make my next camera"
-url = "/2004/epsoncosina-make-my-next-camera/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-02-14T14:49:50+00:00"
+title: Epson/Cosina make my next camera
+url: /2004/epsoncosina-make-my-next-camera/
+---
 
 Leica, just a month or two ago, were holding the line that a digital rangefinder accepting their legendary "M" lenses was impossible. Then, last week they announced that they were actively working on a "Digital M", due in two years.
 

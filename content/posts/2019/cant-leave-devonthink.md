@@ -1,9 +1,9 @@
-+++
-date = "2019-09-15T07:44:11-04:00"
-tags = ["devonthink"]
-title = "I just can't leave you, DEVONthink"
-
-+++
+---
+date: "2019-09-15T07:44:11-04:00"
+tags:
+- devonthink
+title: I just can't leave you, DEVONthink
+---
 
 On August 22nd [I wrote](https://rudimentarylathe.org/#2019.08.22%20-%20Journal)
 

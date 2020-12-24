@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:12+00:00"
-title = "PHPetal 0.3 available"
-url = "/2003/phpetal-03-available/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:12+00:00"
+title: PHPetal 0.3 available
+url: /2003/phpetal-03-available/
+---
 
 I've got an update to [PHPetal][1] available for [download here][2]. Guess we'll call it version 0.3.
 

@@ -1,13 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-08-17T23:20:02+00:00"
-dsq_thread_id = [3595926]
-tags = ["Blogging"]
-title = "Yes Doctor, it' an iphone"
-url = "/2008/yes-doctor-its-an-iphpne/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-08-17T23:20:02+00:00"
+dsq_thread_id:
+- 3595926
+tags:
+- Blogging
+title: Yes Doctor, it' an iphone
+url: /2008/yes-doctor-its-an-iphpne/
+---
 
 I've been feeling a bit wonky for a week or so. Tonight It got uncomfortable enough to consider asking a doctor or two to about it. The Internet said I had several symptoms of a heart attack so better safe than sorry, eh?
 

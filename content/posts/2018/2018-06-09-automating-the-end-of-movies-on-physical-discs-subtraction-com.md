@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Tech"]
-date = "2018-06-09T15:27:51+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-title = "Automating the End of Movies on Physical Discs – Subtraction.com"
-url = "/2018/automating-the-end-of-movies-on-physical-discs-subtraction-com/"
-
-+++
+---
+author: Jack
+categories:
+- Tech
+date: "2018-06-09T15:27:51+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+title: Automating the End of Movies on Physical Discs – Subtraction.com
+url: /2018/automating-the-end-of-movies-on-physical-discs-subtraction-com/
+---
 [Khoi Vinh][1]:
 
 > No one pays attention to Netflix’s discs-by-mail business anymore

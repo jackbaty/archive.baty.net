@@ -1,11 +1,11 @@
-+++
-date = "2017-07-22T14:52:29-04:00"
-description = "A great new record from Roger Waters"
-slug = "is-this-the-life-we-really-want"
-tags = ["music"]
-title = "Is This the Life We Really Want? - Roger Waters"
-
-+++
+---
+date: "2017-07-22T14:52:29-04:00"
+description: A great new record from Roger Waters
+slug: is-this-the-life-we-really-want
+tags:
+- music
+title: Is This the Life We Really Want? - Roger Waters
+---
 
 ![Is This The Life We Really Want?](/img/2017/roger-waters.jpg)
 

@@ -1,11 +1,11 @@
-+++
-date = "2017-05-06T15:55:47-04:00"
-draft = false
-slug = "a-fresh-start"
-tags = ["Blogging"]
-title = "A Fresh Start at baty.blog"
-
-+++
+---
+date: "2017-05-06T15:55:47-04:00"
+draft: false
+slug: a-fresh-start
+tags:
+- Blogging
+title: A Fresh Start at baty.blog
+---
 
 I'm moving my blogging to a new domain, beginning now.
 

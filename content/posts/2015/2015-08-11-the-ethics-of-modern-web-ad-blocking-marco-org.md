@@ -1,12 +1,12 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-08-11T16:55:19+00:00"
-format = "link"
-title = "The ethics of modern web ad-blocking – Marco.org"
-url = "/2015/the-ethics-of-modern-web-ad-blocking-marco-org/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-08-11T16:55:19+00:00"
+format: link
+title: The ethics of modern web ad-blocking – Marco.org
+url: /2015/the-ethics-of-modern-web-ad-blocking-marco-org/
+---
 
 [Marco.org][1]
 

@@ -1,13 +1,16 @@
-+++
-author = "Jack"
-categories = ["Tech"]
-date = "2018-01-16T19:25:30+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-tags = ["instagram", "social"]
-title = "Oh good, another “I’m quitting _______” post"
-url = "/2018/oh-good-another-im-quitting-_______-post/"
-
-+++
+---
+author: Jack
+categories:
+- Tech
+date: "2018-01-16T19:25:30+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+tags:
+- instagram
+- social
+title: Oh good, another “I’m quitting _______” post
+url: /2018/oh-good-another-im-quitting-_______-post/
+---
 <img src="/img/2018/01/thatsallfolks-small.jpg" alt="" width="300" height="223" class="alignnone size-full wp-image-808" />
 
 I want to love Instagram. Really. It&#8217;s the least toxic of the big social networks and it&#8217;s mostly photography-centric. My problem with Instagram isn&#8217;t the content. My problem is with the feed. I don&#8217;t like it. In fact I don&#8217;t like it to the point of quitting the whole thing.

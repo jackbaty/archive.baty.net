@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-10-01T02:18:01+00:00"
-tags = ["photography"]
-title = "I&#039;m a Nikon Guy!"
-url = "/2008/im-a-nikon-guy/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-10-01T02:18:01+00:00"
+tags:
+- photography
+title: I&#039;m a Nikon Guy!
+url: /2008/im-a-nikon-guy/
+---
 
 <span class="drop_cap">M</span>y first real camera was the Canon AE-1 my parents bought me in 1982. Since then I've gone through a few others: Nikon N6006, Olympus point and shoots, a Leica M6 and finally a series of Canon dSLRs from the original Rebel to a 1Ds. I've invested rather heavily in Canon lenses and associated gadgets.
 

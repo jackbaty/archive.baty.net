@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-03-25T00:00:00+00:00"
-tags = ["software"]
-title = "A Summary of My Weekend So Far"
-url = "/2012/a-summary-of-my-weekend-so-far/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-03-25T00:00:00+00:00"
+tags:
+- software
+title: A Summary of My Weekend So Far
+url: /2012/a-summary-of-my-weekend-so-far/
+---
 
 <div>
   <div>

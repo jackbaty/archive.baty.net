@@ -1,10 +1,10 @@
-+++
-date = "2019-11-19T18:42:00-05:00"
-draft = false
-tags = ["security"]
-title = "Bitwarden"
-
-+++
+---
+date: "2019-11-19T18:42:00-05:00"
+draft: false
+tags:
+- security
+title: Bitwarden
+---
 
 I've been using 1Password for years without too many issues. It's a nicely designed and implemented app with a long history. I really had no reason to look elsewhere.
 

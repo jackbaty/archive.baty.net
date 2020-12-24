@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-12-10T20:52:50+00:00"
-title = "WAP Field Study Findings (Alertbox"
-url = "/2000/wap-field-study-findings-alertbox/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-12-10T20:52:50+00:00"
+title: WAP Field Study Findings (Alertbox
+url: /2000/wap-field-study-findings-alertbox/
+---
 
 [WAP Field Study Findings (Alertbox Dec. 2000)][1]
 

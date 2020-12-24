@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-01-22T06:14:04+00:00"
-title = "Books: The Stanley Kubrick Archives"
-url = "/2005/books-the-stanley-kubrick-archives/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-01-22T06:14:04+00:00"
+title: 'Books: The Stanley Kubrick Archives'
+url: /2005/books-the-stanley-kubrick-archives/
+---
 
 Turns out that there are some avid Stanley Kubrick fans at [the office][1]. [Ryan][2] has seen every movie (but one) that he's ever directed. [Dan][3] hadn't seen The Shining, and rented it after hearing our reviews during lunch. He's been raving about it ever since and already knows more about it than most.
 

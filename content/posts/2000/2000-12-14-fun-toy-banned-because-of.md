@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-12-14T22:45:29+00:00"
-title = "Fun Toy Banned Because Of"
-url = "/2000/fun-toy-banned-because-of/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-12-14T22:45:29+00:00"
+title: Fun Toy Banned Because Of
+url: /2000/fun-toy-banned-because-of/
+---
 
 [Fun Toy Banned Because Of Three Stupid Dead Kids][1]
 

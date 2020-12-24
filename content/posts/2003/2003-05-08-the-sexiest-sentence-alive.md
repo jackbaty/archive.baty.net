@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:13+00:00"
-title = "The sexiest sentence alive"
-url = "/2003/the-sexiest-sentence-alive/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:13+00:00"
+title: The sexiest sentence alive
+url: /2003/the-sexiest-sentence-alive/
+---
 
 According to a terrifically complicated mathematical formula, the sexiest sentence alive is “My breast flipped inside out so my nipple touched my heart.”
 

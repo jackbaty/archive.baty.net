@@ -1,13 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-08-17T21:09:52+00:00"
-excerpt = "I'm once again using Fargo to publish my \"notes\" blog.\n"
-tags = ["Blogging"]
-title = "Publishing  my \"notes\" using Fargo"
-url = "/2015/publishing-my-notes-using-fargo/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-08-17T21:09:52+00:00"
+excerpt: |
+  I'm once again using Fargo to publish my "notes" blog.
+tags:
+- Blogging
+title: Publishing  my "notes" using Fargo
+url: /2015/publishing-my-notes-using-fargo/
+---
 
 I've had an on-again-off-again relationship with Dave Winer's [Fargo][1] outliner/publisher. I love outliners, and Fargo is a nice outliner, but I don't really need a new one. My [old one][2] works just fine for general note-taking.
 

@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-10-06T05:50:13+00:00"
-dsq_thread_id = [3131254024]
-title = "Lesscode.org, we have a problem!"
-url = "/2005/lesscodeorg-we-have-a-problem/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-10-06T05:50:13+00:00"
+dsq_thread_id:
+- 3131254024
+title: Lesscode.org, we have a problem!
+url: /2005/lesscodeorg-we-have-a-problem/
+---
 
 I learn a lot from [lesscode.org][1], and recommend it to others. However, today's post [beating up on 37signals][2] is just way off. The complaint is with the very nifty new 37signals product, [Writeboard][3]. Alex says that he sent a writeboard to his wife who then struggled because she couldn't just click on the text and start typing. I'm sorry, but unless she's **never** done anything useful with a browser before, this just seems silly. Even my dad, who struggles with the most basic tasks on his computer, would click, pause, glance up and say "oh, there's how this works right there" &#8211; then he'd be off and running (at his usual blindingly fast 12 words or so per minute) without more than 5 seconds of thought. I can't imagine anyone thinking it was "very frustrating."
 

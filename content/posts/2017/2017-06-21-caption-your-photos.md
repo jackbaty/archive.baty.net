@@ -1,10 +1,11 @@
-+++
-date = "2017-06-21T18:59:38-04:00"
-slug = "caption-your-photos"
-tags = ["Photography", "Archiving"]
-title = "Caption your photos"
-
-+++
+---
+date: "2017-06-21T18:59:38-04:00"
+slug: caption-your-photos
+tags:
+- Photography
+- Archiving
+title: Caption your photos
+---
 
 {{< figure src="/img/2017/captioned-photo-album.jpg" title="A page from one of my grandfather's photo albums" >}}
 

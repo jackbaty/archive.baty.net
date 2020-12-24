@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-06-28T16:32:14+00:00"
-title = "FeedDemon is exactly that"
-url = "/2003/feeddemon-is-exactly-that/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-06-28T16:32:14+00:00"
+title: FeedDemon is exactly that
+url: /2003/feeddemon-is-exactly-that/
+---
 
 Three days ago I began searching for a better RSS aggregator.
   

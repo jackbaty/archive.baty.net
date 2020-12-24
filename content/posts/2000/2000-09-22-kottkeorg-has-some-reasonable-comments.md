@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-09-22T09:58:29+00:00"
-title = "kottke.org has some reasonable comments"
-url = "/2000/kottkeorg-has-some-reasonable-comments/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-09-22T09:58:29+00:00"
+title: kottke.org has some reasonable comments
+url: /2000/kottkeorg-has-some-reasonable-comments/
+---
 
 kottke.org has some [reasonable comments][1] about the [flash usability challenge][2].
   

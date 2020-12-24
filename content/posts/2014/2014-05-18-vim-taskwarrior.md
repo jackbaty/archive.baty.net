@@ -1,12 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-05-18T19:00:00+00:00"
-tags = ["productivity", "software", "vim"]
-title = "Vim-taskwarrior"
-url = "/2014/vim-taskwarrior/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-05-18T19:00:00+00:00"
+tags:
+- productivity
+- software
+- vim
+title: Vim-taskwarrior
+url: /2014/vim-taskwarrior/
+---
 
 [Taskwarrior][1] is a darn nice terminal-based task manager, but I sometimes tire of having to scan the list of tasks, find the task ID, then type `t 13 mod due:fri` or `t 13 done` every time.
 

@@ -1,13 +1,16 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-12-07T00:00:00+00:00"
-dsq_thread_id = [3595572]
-tags = ["hardware", "Writing"]
-title = "Why I&#039;m Writing on the iPad"
-url = "/2012/why-im-writing-on-the-ipad/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-12-07T00:00:00+00:00"
+dsq_thread_id:
+- 3595572
+tags:
+- hardware
+- Writing
+title: Why I&#039;m Writing on the iPad
+url: /2012/why-im-writing-on-the-ipad/
+---
 
 <div>
   <div>

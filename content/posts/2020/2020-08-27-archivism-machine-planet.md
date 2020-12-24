@@ -1,10 +1,11 @@
-+++
-date = "2020-08-27"
-slug = "archivism-machine-planet"
-tags = ["Photography", "Archiving"]
-title = "Archivism: immortalitas vel non - Machine Planet"
-
-+++
+---
+date: "2020-08-27"
+slug: archivism-machine-planet
+tags:
+- Photography
+- Archiving
+title: 'Archivism: immortalitas vel non - Machine Planet'
+---
 
 [Dante Stella | The Machine Planet](https://themachineplanet.wordpress.com/2020/08/27/archivism-immortalitas-vel-non/):
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:12+00:00"
-title = "Recommended Viewing"
-url = "/2003/recommended-viewing/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:12+00:00"
+title: Recommended Viewing
+url: /2003/recommended-viewing/
+---
 
 Here are a couple films&mdash;I mean "movies"&mdash;that you might like.&nbsp; I certainly did.
 

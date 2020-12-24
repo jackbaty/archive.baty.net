@@ -1,11 +1,11 @@
-+++
-date = "2017-03-12"
-draft = false
-slug = "chronos-dumbwatch"
-tags = ["Analog"]
-title = "Chronos Made My Dumb Watch Dumber"
-
-+++
+---
+date: "2017-03-12"
+draft: false
+slug: chronos-dumbwatch
+tags:
+- Analog
+title: Chronos Made My Dumb Watch Dumber
+---
 
 
 {{< figure src="/img/2017/chronos.jpg" title="" >}}

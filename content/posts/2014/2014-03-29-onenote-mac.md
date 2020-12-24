@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-03-29T00:00:00+00:00"
-tags = ["software"]
-title = "OneNote Mac"
-url = "/2014/onenote-mac/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-03-29T00:00:00+00:00"
+tags:
+- software
+title: OneNote Mac
+url: /2014/onenote-mac/
+---
 
 <img src="/img/2014/onenote-mac.png" alt="OneNote Mac" class="postimage" />
   

@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2009-11-15T17:33:29+00:00"
-tags = ["photography"]
-title = "Wadman on Frank and The Americans"
-url = "/2009/wadman-on-frank-and-the-americans/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2009-11-15T17:33:29+00:00"
+tags:
+- photography
+title: Wadman on Frank and The Americans
+url: /2009/wadman-on-frank-and-the-americans/
+---
 
 [Bill Wadman][1] on Robert Frank's _The Americans_ at The Met
 

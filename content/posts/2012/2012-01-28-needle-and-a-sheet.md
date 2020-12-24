@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-01-28T00:00:00+00:00"
-tags = ["story", "Writing"]
-title = "Needle and a Sheet"
-url = "/2012/needle-and-a-sheet/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-01-28T00:00:00+00:00"
+tags:
+- story
+- Writing
+title: Needle and a Sheet
+url: /2012/needle-and-a-sheet/
+---
 
 ## A story about memory
           

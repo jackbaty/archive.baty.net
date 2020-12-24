@@ -1,10 +1,10 @@
-+++
-date = "2016-12-28T19:53:06-05:00"
-slug = "weather-logging-in-tinderbox-updated"
-tags = ["Tinderbox"]
-title = "Weather Logging In Tinderbox Updated"
-
-+++
+---
+date: "2016-12-28T19:53:06-05:00"
+slug: weather-logging-in-tinderbox-updated
+tags:
+- Tinderbox
+title: Weather Logging In Tinderbox Updated
+---
 
 For the past couple of years, I’ve used a “Stamp” in
 [Tinderbox](http://www.eastgate.com/Tinderbox/) to append weather

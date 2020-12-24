@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:13+00:00"
-title = "The web is dying"
-url = "/2003/the-web-is-dying/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:13+00:00"
+title: The web is dying
+url: /2003/the-web-is-dying/
+---
 
 The Web is dying.
 

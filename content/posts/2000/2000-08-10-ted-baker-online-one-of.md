@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-08-11T00:29:04+00:00"
-title = "Ted Baker Online One of"
-url = "/2000/ted-baker-online-one-of/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-08-11T00:29:04+00:00"
+title: Ted Baker Online One of
+url: /2000/ted-baker-online-one-of/
+---
 
 [Ted Baker Online][1]
 

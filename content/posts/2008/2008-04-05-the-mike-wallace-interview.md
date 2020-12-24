@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-04-05T11:29:38+00:00"
-tags = ["news", "Web"]
-title = "The Mike Wallace Interview"
-url = "/2008/the-mike-wallace-interview/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-04-05T11:29:38+00:00"
+tags:
+- news
+- Web
+title: The Mike Wallace Interview
+url: /2008/the-mike-wallace-interview/
+---
 
 This is just terrific, [The Mike Wallace Interview][1] from the late 50s are online.
 

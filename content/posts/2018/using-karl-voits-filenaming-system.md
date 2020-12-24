@@ -1,12 +1,12 @@
-+++
-date = "2018-05-06T16:21:19-04:00"
-description = ""
-draft = false
-lastmod = "2018-05-06T16:21:23-04:00"
-tags = ["workflow"]
-title = "Using Karl Voit's File Naming System"
-
-+++
+---
+date: "2018-05-06T16:21:19-04:00"
+description: ""
+draft: false
+lastmod: "2018-05-06T16:21:23-04:00"
+tags:
+- workflow
+title: Using Karl Voit's File Naming System
+---
 
 I name most of my files with an ISO formatted date and then some descriptive text. For example...
 

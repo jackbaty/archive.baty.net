@@ -1,9 +1,9 @@
-+++
-date = "2020-08-28T15:48:42.538Z"
-tags = ["Analog"]
-title = "Neglected Tools"
-
-+++
+---
+date: "2020-08-28T15:48:42.538Z"
+tags:
+- Analog
+title: Neglected Tools
+---
 
 {{< figure src="/img/2020/2020-08-28-Pens on desk.jpg" title="Neglected tools on my desk" >}}
 

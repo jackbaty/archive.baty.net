@@ -1,10 +1,12 @@
-+++
-date = "2017-01-12T20:13:25-05:00"
-slug = "the-lomoinstant-wide-camera"
-tags = ["Film", "Lomo", "Photography"]
-title = "The Lomo'Instant Wide Camera"
-
-+++
+---
+date: "2017-01-12T20:13:25-05:00"
+slug: the-lomoinstant-wide-camera
+tags:
+- Film
+- Lomo
+- Photography
+title: The Lomo'Instant Wide Camera
+---
 
 A photograph becomes real only when it’s printed. I love photographic
 prints of all kinds. This is why I’ve loved the Fuji Instax cameras. All

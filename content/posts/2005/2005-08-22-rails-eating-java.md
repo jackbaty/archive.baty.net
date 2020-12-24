@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-08-22T18:10:26+00:00"
-title = "Rails eating Java?"
-url = "/2005/rails-eating-java/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-08-22T18:10:26+00:00"
+title: Rails eating Java?
+url: /2005/rails-eating-java/
+---
 
 I'm not a Java guy, but there is such a thing, and many of them are drinking the Ruby on Rails kool-aid.
 

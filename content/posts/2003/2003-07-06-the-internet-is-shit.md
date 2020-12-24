@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-07-06T15:14:14+00:00"
-title = "The internet is shit"
-url = "/2003/the-internet-is-shit/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-07-06T15:14:14+00:00"
+title: The internet is shit
+url: /2003/the-internet-is-shit/
+---
 
 For those of us who live in (on?) the net and love it, it's good to
   

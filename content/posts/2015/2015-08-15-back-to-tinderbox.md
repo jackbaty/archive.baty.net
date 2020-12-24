@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-08-15T15:50:07+00:00"
-tags = ["Tinderbox", "workflow"]
-title = "Back to Tinderbox"
-url = "/2015/back-to-tinderbox/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-08-15T15:50:07+00:00"
+tags:
+- Tinderbox
+- workflow
+title: Back to Tinderbox
+url: /2015/back-to-tinderbox/
+---
 
 <img class="alignnone wp-image-4820 size-full" src="/img/2015/08/tinderbox-logo.png" alt="tinderbox-logo" width="128" height="128" />
 

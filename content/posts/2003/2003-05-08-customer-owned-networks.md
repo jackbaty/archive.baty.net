@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:11+00:00"
-title = "Customer-owned Networks"
-url = "/2003/customer-owned-networks/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:11+00:00"
+title: Customer-owned Networks
+url: /2003/customer-owned-networks/
+---
 
 [Shirky: Customer-owned Networks and ZapMail][1]
 

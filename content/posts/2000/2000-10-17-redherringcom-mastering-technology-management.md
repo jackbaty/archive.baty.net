@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-10-17T23:20:59+00:00"
-title = "Redherring.com – MASTERING TECHNOLOGY MANAGEMENT"
-url = "/2000/redherringcom-mastering-technology-management/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-10-17T23:20:59+00:00"
+title: Redherring.com – MASTERING TECHNOLOGY MANAGEMENT
+url: /2000/redherringcom-mastering-technology-management/
+---
 
 [Redherring.com – MASTERING TECHNOLOGY MANAGEMENT][1]
 

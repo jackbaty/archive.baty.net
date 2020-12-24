@@ -1,10 +1,9 @@
-+++
-date = "2016-11-26T08:09:56-05:00"
-link = "http://www.dailydot.com/layer8/bruce-schneier-internet-of-things/"
-slug = "bruce-schneier-the-internet-era-of-fun-and-games-is-over"
-title = "Bruce Schneier: 'The Internet Era of Fun and Games Is Over'"
-
-+++
+---
+date: "2016-11-26T08:09:56-05:00"
+link: http://www.dailydot.com/layer8/bruce-schneier-internet-of-things/
+slug: bruce-schneier-the-internet-era-of-fun-and-games-is-over
+title: 'Bruce Schneier: ''The Internet Era of Fun and Games Is Over'''
+---
 
 [Bruce Schneier](http://www.dailydot.com/layer8/bruce-schneier-internet-of-things/):
 

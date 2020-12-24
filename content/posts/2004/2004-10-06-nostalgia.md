@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-10-06T19:01:22+00:00"
-title = "Nostalgia"
-url = "/2004/nostalgia/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-10-06T19:01:22+00:00"
+title: Nostalgia
+url: /2004/nostalgia/
+---
 
 Going through old photos is fun.
 

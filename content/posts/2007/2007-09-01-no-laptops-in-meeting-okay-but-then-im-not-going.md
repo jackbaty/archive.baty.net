@@ -1,17 +1,23 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-09-01T18:01:51+00:00"
-title = "No laptops in meeting? Okay, but then I’m not going."
-tz_audio_format = ["mp3"]
-tz_gallery_captions = ["true"]
-tz_gallery_format = ["-=set slideshow type=-"]
-tz_gallery_margins = [10]
-tz_gallery_randomize = ["false"]
-tz_gallery_targetheight = [200]
-url = "/2007/no-laptops-in-meeting-okay-but-then-im-not-going/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-09-01T18:01:51+00:00"
+title: No laptops in meeting? Okay, but then I’m not going.
+tz_audio_format:
+- mp3
+tz_gallery_captions:
+- "true"
+tz_gallery_format:
+- -=set slideshow type=-
+tz_gallery_margins:
+- 10
+tz_gallery_randomize:
+- "false"
+tz_gallery_targetheight:
+- 200
+url: /2007/no-laptops-in-meeting-okay-but-then-im-not-going/
+---
 
 There appears to be a bit of backlash against bringing laptops into meetings. An example from Rands’ piece, [The Laptop Herring][1]…
 

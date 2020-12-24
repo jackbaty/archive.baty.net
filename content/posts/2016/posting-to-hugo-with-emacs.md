@@ -1,11 +1,13 @@
-+++
-date = "2016-07-01T13:26:30-04:00"
-description = ""
-tags = ["blogging", "Hugo", "Emacs"]
-title = "Posting to Hugo with Emacs"
-topics = []
-
-+++
+---
+date: "2016-07-01T13:26:30-04:00"
+description: ""
+tags:
+- blogging
+- Hugo
+- Emacs
+title: Posting to Hugo with Emacs
+topics: []
+---
 
 The thing I like least about blogging with Hugo is creating new posts. The
 process involves hopping into a terminal, moving into the blog's directory,

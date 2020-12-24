@@ -1,10 +1,11 @@
-+++
-date = "2017-06-28T19:45:58-04:00"
-slug = "the-hasselblad-is-back"
-tags = ["Hasselblad", "Photography"]
-title = "The Hasselblad is Back"
-
-+++
+---
+date: "2017-06-28T19:45:58-04:00"
+slug: the-hasselblad-is-back
+tags:
+- Hasselblad
+- Photography
+title: The Hasselblad is Back
+---
 
 After spending several months out for repair
 with [David Odess](http://david-odess.com/), my Hasselblad 500C/M kit is back!

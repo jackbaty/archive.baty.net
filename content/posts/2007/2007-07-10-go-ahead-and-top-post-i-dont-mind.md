@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-07-10T17:43:09+00:00"
-title = "Go ahead and top-post. I don’t mind."
-url = "/2007/go-ahead-and-top-post-i-dont-mind/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-07-10T17:43:09+00:00"
+title: Go ahead and top-post. I don’t mind.
+url: /2007/go-ahead-and-top-post-i-dont-mind/
+---
 
 Back when Usenet was relevant, top-posting was evil. In mailing lists it still is to some degree. However, when you and I are emailing each other, top-posting is perfectly fine. In fact, it's preferred. This cute but misguided example is often used to demonstrate just how awful top-posting is&#8230; 
 

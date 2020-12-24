@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Misc"]
-date = "2018-02-10T14:52:28+00:00"
-title = "Think Before Ranting"
-url = "/2018/think-before-ranting/"
-
-+++
+---
+author: Jack
+categories:
+- Misc
+date: "2018-02-10T14:52:28+00:00"
+title: Think Before Ranting
+url: /2018/think-before-ranting/
+---
 The first draft of my earlier [rant about images on blog posts][1] used the following screenshot as an example:
 
 <img src="/img/2018/02/andy-sparks-header-image-2.png" alt="Andy sparks header image" title="andy-sparks-header-image.png" border="0" width="537" height="600" />

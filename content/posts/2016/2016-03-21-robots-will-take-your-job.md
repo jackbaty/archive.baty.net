@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2016-03-21T21:12:29+00:00"
-tags = ["robotics"]
-title = "Robots will take your job"
-url = "/2016/robots-will-take-your-job/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2016-03-21T21:12:29+00:00"
+tags:
+- robotics
+title: Robots will take your job
+url: /2016/robots-will-take-your-job/
+---
 
 [Scott Santens in The Boston Globe][1]
 

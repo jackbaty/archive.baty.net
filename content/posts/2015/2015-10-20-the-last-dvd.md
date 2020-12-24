@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-10-20T19:49:20+00:00"
-title = "The Last DVD"
-url = "/2015/the-last-dvd/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-10-20T19:49:20+00:00"
+title: The Last DVD
+url: /2015/the-last-dvd/
+---
 
 <figure><a class="fancybox" title="" href="https://www.baty.net/img/2015/netflix-dvd.jpg" rel="article0"><img src="https://www.baty.net/img/2015/netflix-dvd.jpg" alt="" /></a></figure> 
 

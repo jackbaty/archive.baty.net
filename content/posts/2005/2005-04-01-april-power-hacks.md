@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-04-01T15:28:45+00:00"
-title = "April Power Hacks"
-url = "/2005/april-power-hacks/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-04-01T15:28:45+00:00"
+title: April Power Hacks
+url: /2005/april-power-hacks/
+---
 
 From the always brilliant [43Folders][1], Merlin brings us [April Power Hacks][2]
 

@@ -1,12 +1,12 @@
-+++
-date = "2017-11-22T09:26:35-05:00"
-description = "An attempt to justify keeping (many) more than one blog. META WARNING."
-draft = false
-slug = "on-having-too-many-blogs"
-tags = ["blogging"]
-title = "On Having Too Many Blogs"
-
-+++
+---
+date: "2017-11-22T09:26:35-05:00"
+description: An attempt to justify keeping (many) more than one blog. META WARNING.
+draft: false
+slug: on-having-too-many-blogs
+tags:
+- blogging
+title: On Having Too Many Blogs
+---
 
 Here are the places I post at least semi-regularly:
 

@@ -1,12 +1,16 @@
-+++
-author = "Jack"
-categories = ["Photos"]
-date = "2016-05-03T20:00:23+00:00"
-tags = ["dog", "Katie", "Hasselblad", "film"]
-title = "Snapshots with the Hasselblad"
-url = "/2016/katie-snapshot-with-the-hasselblad/"
-
-+++
+---
+author: Jack
+categories:
+- Photos
+date: "2016-05-03T20:00:23+00:00"
+tags:
+- dog
+- Katie
+- Hasselblad
+- film
+title: Snapshots with the Hasselblad
+url: /2016/katie-snapshot-with-the-hasselblad/
+---
 
 {{< figure src="/img/2016/05/katie-hassy-1019x1024.jpg" title="Katie (2016). Hasselblad 503CXi. HP5+" >}}
 

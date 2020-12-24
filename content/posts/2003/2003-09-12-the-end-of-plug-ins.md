@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-09-12T22:58:23+00:00"
-title = "The end of plug-ins?"
-url = "/2003/the-end-of-plug-ins/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-09-12T22:58:23+00:00"
+title: The end of plug-ins?
+url: /2003/the-end-of-plug-ins/
+---
 
 If Eolas ends up winning in spite of Microsoft's appeals, where does it leave Flash? If an intrusive dialog box or separate players are required in order to satisfy the patent holder, even the most ardent of Flash fans are going to be in an awkward position. As [If Eolas ends up winning in spite of Microsoft's appeals, where does it leave Flash? If an intrusive dialog box or separate players are required in order to satisfy the patent holder, even the most ardent of Flash fans are going to be in an awkward position. As][1] says,
   

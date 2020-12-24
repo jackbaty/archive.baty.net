@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-07-01T19:57:21+00:00"
-title = "Olympus Stylus Epic"
-url = "/2004/olympus-stylus-epic/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-07-01T19:57:21+00:00"
+title: Olympus Stylus Epic
+url: /2004/olympus-stylus-epic/
+---
 
 Just bought another camera. An Olympus Stylus Epic. I've been wanting a pocketable point-n-shoot that I can always have with me. After hearing all of the rave reviews (by other Leica owners, no less), I decided on the Olympus for $75.00. I didn't want a digital because it would've cost me $400-$600 to get similar image quality, and probably even more shutter lag.
 

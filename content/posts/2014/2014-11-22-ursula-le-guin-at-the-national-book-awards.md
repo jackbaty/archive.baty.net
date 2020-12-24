@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-11-22T18:30:53+00:00"
-dsq_thread_id = [3252554227]
-title = "Ursula Le Guin at the National Book Awards"
-url = "/2014/ursula-le-guin-at-the-national-book-awards/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-11-22T18:30:53+00:00"
+dsq_thread_id:
+- 3252554227
+title: Ursula Le Guin at the National Book Awards
+url: /2014/ursula-le-guin-at-the-national-book-awards/
+---
 
 <span class="embed-youtube" style="text-align:center; display: block;"></span>
 

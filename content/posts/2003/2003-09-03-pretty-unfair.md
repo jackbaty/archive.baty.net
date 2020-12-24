@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-09-03T20:16:09+00:00"
-title = "Pretty Unfair"
-url = "/2003/pretty-unfair/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-09-03T20:16:09+00:00"
+title: Pretty Unfair
+url: /2003/pretty-unfair/
+---
 
 It's about time someone [sticks up for Anna Kournikova][1].
   

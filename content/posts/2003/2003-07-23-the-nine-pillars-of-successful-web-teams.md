@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-07-24T00:56:59+00:00"
-title = "The Nine Pillars of Successful Web Teams"
-url = "/2003/the-nine-pillars-of-successful-web-teams/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-07-24T00:56:59+00:00"
+title: The Nine Pillars of Successful Web Teams
+url: /2003/the-nine-pillars-of-successful-web-teams/
+---
 
 adaptive path: [the nine pillars of successful web teams][1]
 

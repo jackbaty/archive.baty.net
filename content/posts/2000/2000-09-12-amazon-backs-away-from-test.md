@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-09-13T02:29:26+00:00"
-title = "Amazon backs away from test"
-url = "/2000/amazon-backs-away-from-test/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-09-13T02:29:26+00:00"
+title: Amazon backs away from test
+url: /2000/amazon-backs-away-from-test/
+---
 
 [Amazon backs away from test prices][1]
 

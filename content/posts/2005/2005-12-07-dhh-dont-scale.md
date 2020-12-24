@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-12-07T19:58:29+00:00"
-title = "DHH: Don’t Scale"
-url = "/2005/dhh-dont-scale/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-12-07T19:58:29+00:00"
+title: 'DHH: Don’t Scale'
+url: /2005/dhh-dont-scale/
+---
 
 The voice of reason is always refreshing. Case in point, David Heinemeier Hansson&#8230;
 

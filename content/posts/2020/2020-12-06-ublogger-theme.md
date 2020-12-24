@@ -1,13 +1,14 @@
-+++
-categories = ["Blogging"]
-date = "2020-12-06"
-excerpt = "Someone is trying to revive the abandoned theme I use for this blog."
-layout = "default"
-slug = "a-fork-of-the-loveit-theme-ublogger"
-tags = ["Hugo"]
-title = "A fork of the LoveIt theme - uBlogger"
-
-+++
+---
+categories:
+- Blogging
+date: "2020-12-06"
+excerpt: Someone is trying to revive the abandoned theme I use for this blog.
+layout: default
+slug: a-fork-of-the-loveit-theme-ublogger
+tags:
+- Hugo
+title: A fork of the LoveIt theme - uBlogger
+---
 
 After years of using the [Jane theme](https://github.com/xianmin/hugo-theme-jane) here at baty.net, I recently switched to [LoveIt](https://github.com/dillonzq/LoveIt). I like the theme. It's fancy enough without being _too_ fancy. The problem now is that the LoveIt theme seems to be abandoned by the author. Various people have attempted to contact them with no luck.
 

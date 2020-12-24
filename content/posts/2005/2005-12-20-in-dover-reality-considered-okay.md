@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-12-20T13:34:04+00:00"
-title = "In Dover, reality considered okay"
-url = "/2005/in-dover-reality-considered-okay/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-12-20T13:34:04+00:00"
+title: In Dover, reality considered okay
+url: /2005/in-dover-reality-considered-okay/
+---
 
 A judge in Dover, PA (God love him) rules in favor of reality by making it illegal to teach "Intelligent Design" in classrooms.&nbsp; Our kids may have a chance after all. 
 

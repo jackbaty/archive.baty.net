@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-08-28T23:57:35+00:00"
-title = "More RSS vs Email rumblings"
-url = "/2003/more-rss-vs-email-rumblings/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-08-28T23:57:35+00:00"
+title: More RSS vs Email rumblings
+url: /2003/more-rss-vs-email-rumblings/
+---
 
 There's been a spate of posts recently suggesting something that I believe will one day be recognized as the beginning of something. I'm talking about the death of email. Folks like [Chris Pirillo][1] and others are suggesting that RSS feeds will replace email newsletters in the not to distant future. Once the RSS aggregators get over being too geek-centric, this could very likely happen.
   

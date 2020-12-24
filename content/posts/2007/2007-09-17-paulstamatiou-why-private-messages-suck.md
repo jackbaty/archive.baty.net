@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-09-17T21:51:22+00:00"
-title = "PaulStamatiou: Why Private Messages Suck"
-url = "/2007/paulstamatiou-why-private-messages-suck/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-09-17T21:51:22+00:00"
+title: 'PaulStamatiou: Why Private Messages Suck'
+url: /2007/paulstamatiou-why-private-messages-suck/
+---
 
 [Yay Paul][1]! 
 

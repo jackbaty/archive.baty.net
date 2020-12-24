@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-09-18T14:34:02+00:00"
-title = "MC Hawking’s Crib Ok, “mix”"
-url = "/2000/mc-hawkings-crib-ok-mix/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-09-18T14:34:02+00:00"
+title: MC Hawking’s Crib Ok, “mix”
+url: /2000/mc-hawkings-crib-ok-mix/
+---
 
 [MC Hawking's Crib][1]
 

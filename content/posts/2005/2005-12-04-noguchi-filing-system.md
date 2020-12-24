@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-12-04T11:17:41+00:00"
-title = "Noguchi Filing System"
-url = "/2005/noguchi-filing-system/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-12-04T11:17:41+00:00"
+title: Noguchi Filing System
+url: /2005/noguchi-filing-system/
+---
 
 I dislike filing stuff, but I like being organized. Are these things mutually exclusive? Yes and no. GTD has given me a good reason and a consistent method for always having things filed. What I struggle with is the taxonomy of filing. Does this homeowner's insurance document go in "Household" or "Insurance?" A small classification speed bump like this can mean the difference between having something filed or just thrown away out of frustration and laziness. Enter [The Noguchi Filing System][1]. I missed the buzz about this a month or so ago, but it just might help.
 

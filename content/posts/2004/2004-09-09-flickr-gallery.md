@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-09-09T19:58:22+00:00"
-title = "Flickr Gallery"
-url = "/2004/flickr-gallery/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-09-09T19:58:22+00:00"
+title: Flickr Gallery
+url: /2004/flickr-gallery/
+---
 
 After a little more tinkering, I've got a (barely) working prototype of a local image gallery driven by the Flickr API.
 

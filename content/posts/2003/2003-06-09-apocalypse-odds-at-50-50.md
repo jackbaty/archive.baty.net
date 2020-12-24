@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-06-10T02:43:14+00:00"
-title = "Apocalypse odds at 50-50"
-url = "/2003/apocalypse-odds-at-50-50/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-06-10T02:43:14+00:00"
+title: Apocalypse odds at 50-50
+url: /2003/apocalypse-odds-at-50-50/
+---
 
 So we've got even odds on surviving some sort of man-made or natural
   

@@ -1,9 +1,10 @@
-+++
-date = "2017-08-07"
-tags = ["microblog", "social"]
-title = "Followers on Micro.blog - Ron Chester"
-
-+++
+---
+date: "2017-08-07"
+tags:
+- microblog
+- social
+title: Followers on Micro.blog - Ron Chester
+---
 
 [Ron Chester][1]
 

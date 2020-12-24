@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-11-30T08:36:53+00:00"
-title = "Moving WebWord > Trouble in"
-url = "/2000/moving-webword-trouble-in/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-11-30T08:36:53+00:00"
+title: Moving WebWord > Trouble in
+url: /2000/moving-webword-trouble-in/
+---
 
 [Moving WebWord > Trouble in Paradise: Problems Facing the Usability Community][1]
 

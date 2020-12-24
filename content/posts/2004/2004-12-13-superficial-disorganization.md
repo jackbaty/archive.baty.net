@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-12-13T18:08:27+00:00"
-title = "Superficial Disorganization"
-url = "/2004/superficial-disorganization/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-12-13T18:08:27+00:00"
+title: Superficial Disorganization
+url: /2004/superficial-disorganization/
+---
 
 I don't recall where I snipped this quote from&#8230;
 

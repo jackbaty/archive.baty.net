@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2006-08-10T20:58:31+00:00"
-title = "It’s unmaintainable"
-url = "/2006/its-unmaintainable/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2006-08-10T20:58:31+00:00"
+title: It’s unmaintainable
+url: /2006/its-unmaintainable/
+---
 
 Theres a [rather interesting thread][1] going on now over at the 37Signals blog, all started with Jason Fried quoting Fred Brooks&#8230; 
 

@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-04-17T19:44:49+00:00"
-tags = ["geek", "personal"]
-title = "How to work an 8-hour day | Philosophical Geek"
-url = "/2008/how-to-work-an-8-hour-day-philosophical-geek/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-04-17T19:44:49+00:00"
+tags:
+- geek
+- personal
+title: How to work an 8-hour day | Philosophical Geek
+url: /2008/how-to-work-an-8-hour-day-philosophical-geek/
+---
 
 I'm busy. I have too much to do. I work as much or more than anyone I know much of the time. And it's all my fault.
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2006-01-27T01:27:01+00:00"
-title = "The Worst Word in the Language"
-url = "/2006/the-worst-word-in-the-language/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2006-01-27T01:27:01+00:00"
+title: The Worst Word in the Language
+url: /2006/the-worst-word-in-the-language/
+---
 
 Timesonline's Jeremy Clarkson goes off on the frivolous over-use of various and sundry super-duper-unnecessary words. And grammer stuff too. 
 

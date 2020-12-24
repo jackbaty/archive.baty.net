@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-08-13T16:26:12+00:00"
-title = "Lighthouse: Attack of the flying"
-url = "/2000/lighthouse-attack-of-the-flying/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-08-13T16:26:12+00:00"
+title: 'Lighthouse: Attack of the flying'
+url: /2000/lighthouse-attack-of-the-flying/
+---
 
 [Lighthouse: Attack of the flying menus][1]
   

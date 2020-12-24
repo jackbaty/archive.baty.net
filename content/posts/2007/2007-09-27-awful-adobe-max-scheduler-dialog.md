@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-09-27T20:43:16+00:00"
-title = "Awful Adobe Max scheduler dialog"
-url = "/2007/awful-adobe-max-scheduler-dialog/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-09-27T20:43:16+00:00"
+title: Awful Adobe Max scheduler dialog
+url: /2007/awful-adobe-max-scheduler-dialog/
+---
 
 I was trying to plan my schedule for Adobe Max next week using their nifty Flex app. The app is okay, but actually scheduling sessions was nearly impossible. I first spent 20 minutes organizing things, then closed the window. Every modern calendar app, _especially_ fancy new RIAs like this one, save your changes automatically. Nope. Start over. 
 

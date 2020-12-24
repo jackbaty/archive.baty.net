@@ -1,10 +1,11 @@
-+++
-categories = ["Social Media"]
-date = "2020-09-13"
-tags = ["Twitter"]
-title = "Twitter these days"
-
-+++
+---
+categories:
+- Social Media
+date: "2020-09-13"
+tags:
+- Twitter
+title: Twitter these days
+---
 
 In January, 2018 [I wrote this](https://www.baty.net/2018/im-not-leaving-twitter-yet/):
 

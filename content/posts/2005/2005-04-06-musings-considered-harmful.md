@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-04-06T15:00:59+00:00"
-title = "Musings considered harmful"
-url = "/2005/musings-considered-harmful/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-04-06T15:00:59+00:00"
+title: Musings considered harmful
+url: /2005/musings-considered-harmful/
+---
 
 Blogs seem to need titles and taglines. This feels perfectly natural to me. What weblogs don't need are _bad_ titles and taglines.&nbsp; (Let's suppose for the sake of argument that mine isn't one of them.) Please, if you must blog(v.), refrain from any combination of the following&#8230;
 

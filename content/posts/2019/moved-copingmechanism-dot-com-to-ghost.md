@@ -1,10 +1,12 @@
-+++
-date = "2019-11-17T10:40:00-05:00"
-draft = false
-tags = ["blogging", "WordPress", "Ghost"]
-title = "Moved copingmechanism.com to Ghost"
-
-+++
+---
+date: "2019-11-17T10:40:00-05:00"
+draft: false
+tags:
+- blogging
+- WordPress
+- Ghost
+title: Moved copingmechanism.com to Ghost
+---
 
 So, [Ghost](https://ghost.org/)? Sure, why not.
 

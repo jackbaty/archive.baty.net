@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-05-31T19:49:34+00:00"
-title = "And speaking of whining"
-url = "/2005/and-speaking-of-whining/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-05-31T19:49:34+00:00"
+title: And speaking of whining
+url: /2005/and-speaking-of-whining/
+---
 
 <img src="/files/danica200.jpg" height="224" width="150" border="1" align="right" hspace="4" vspace="4" alt="Danica200" />
 

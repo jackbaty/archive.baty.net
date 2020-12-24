@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:11+00:00"
-title = "Marketing: Flogging on a Blog"
-url = "/2003/marketing-flogging-on-a-blog/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:11+00:00"
+title: 'Marketing: Flogging on a Blog'
+url: /2003/marketing-flogging-on-a-blog/
+---
 
 Oh you just **know** [this][1] is going to backfire. Doc Searls is right when he says&#8230;
   

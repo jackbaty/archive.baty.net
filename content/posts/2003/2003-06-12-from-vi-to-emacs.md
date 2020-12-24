@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-06-13T00:58:14+00:00"
-title = "From VI to Emacs"
-url = "/2003/from-vi-to-emacs/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-06-13T00:58:14+00:00"
+title: From VI to Emacs
+url: /2003/from-vi-to-emacs/
+---
 
 I use plain old vi or [Vim][1] pretty
   

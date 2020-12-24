@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Photography"]
-date = "2016-05-14T15:20:16+00:00"
-tags = ["film", "nikon"]
-title = "Nikon F3 First Impressions"
-url = "/2016/nikon-f3-first-impressions/"
-
-+++
+---
+author: Jack
+categories:
+- Photography
+date: "2016-05-14T15:20:16+00:00"
+tags:
+- film
+- nikon
+title: Nikon F3 First Impressions
+url: /2016/nikon-f3-first-impressions/
+---
 
 <div id="attachment_5218" style="width: 710px" class="wp-caption alignright">
   <img class="size-large wp-image-5218" src="/img/2016/05/2016-05-13_Nikon-F3-963x1024.jpg" alt="Nikon F3 HP and MD-4 Motor Drive" width="700" height="744" srcset="/img/2016/05/2016-05-13_Nikon-F3.jpg 963w, /img/2016/05/2016-05-13_Nikon-F3-282x300.jpg 282w, /img/2016/05/2016-05-13_Nikon-F3-768x817.jpg 768w, /img/2016/05/2016-05-13_Nikon-F3-658x700.jpg 658w" sizes="(max-width: 700px) 100vw, 700px" />

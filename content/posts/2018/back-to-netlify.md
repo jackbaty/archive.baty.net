@@ -1,12 +1,14 @@
-+++
-date = "2018-05-19T09:21:15-04:00"
-description = "Netlify is so easy"
-draft = false
-lastmod = "2018-05-19T09:21:21-04:00"
-tags = ["blogging", "netlify", "aws"]
-title = "Back to Netlify"
-
-+++
+---
+date: "2018-05-19T09:21:15-04:00"
+description: Netlify is so easy
+draft: false
+lastmod: "2018-05-19T09:21:21-04:00"
+tags:
+- blogging
+- netlify
+- aws
+title: Back to Netlify
+---
 
 baty.net is back to being built and deployed using
 [Netlify](https://netlify.com). I [moved everything to Amazon

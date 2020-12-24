@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-01-16T05:29:43+00:00"
-title = "Simple is better"
-url = "/2005/simple-is-better/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-01-16T05:29:43+00:00"
+title: Simple is better
+url: /2005/simple-is-better/
+---
 
 A favorite quote by someone I've forgotten is "Do not mistake complexity for sophistication." This continues to be good advice. I've been tricked into complexity many times. It sneaks its way into everything&#8212;software, consumer devices, even the written word. I'm going to get rid of it in as many places as I can.
 

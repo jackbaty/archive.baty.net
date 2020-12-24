@@ -1,10 +1,12 @@
-+++
-date = "2016-01-03T17:17:15-05:00"
-description = ""
-tags = ["photography", "4x5", "film"]
-title = "New55 1Shot"
-
-+++
+---
+date: "2016-01-03T17:17:15-05:00"
+description: ""
+tags:
+- photography
+- 4x5
+- film
+title: New55 1Shot
+---
 
 {{< figure src="/img/photos/20160103_Jess-and-Katie.jpg" title="Jess and Katie. Crown Graphic. New55 1Shot." >}}
 

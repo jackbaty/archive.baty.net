@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-11-29T14:24:09+00:00"
-title = "FSF Giving Guide 2014"
-url = "/2014/fsf-giving-guide-2014/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-11-29T14:24:09+00:00"
+title: FSF Giving Guide 2014
+url: /2014/fsf-giving-guide-2014/
+---
 
 [Free Software Foundation Giving Guide 2014][1]
 

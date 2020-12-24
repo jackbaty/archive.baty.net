@@ -1,10 +1,12 @@
-+++
-date = "2018-05-20T13:52:00-04:00"
-draft = false
-tags = ["blogging", "hugo", "org-mode"]
-title = "Let's try using ox-hugo again"
-
-+++
+---
+date: "2018-05-20T13:52:00-04:00"
+draft: false
+tags:
+- blogging
+- hugo
+- org-mode
+title: Let's try using ox-hugo again
+---
 
 Last year, while looking for ways to create a blog using Org-mode, I ran across
 [ox-hugo](https://github.com/kaushalmodi/ox-hugo). It was clever, but I was uncomfortable with yet another layer of

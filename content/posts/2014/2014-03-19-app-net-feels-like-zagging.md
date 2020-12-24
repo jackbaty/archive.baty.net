@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-03-19T00:00:00+00:00"
-tags = ["social", "software"]
-title = "App.net feels like zagging"
-url = "/2014/app-net-feels-like-zagging/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-03-19T00:00:00+00:00"
+tags:
+- social
+- software
+title: App.net feels like zagging
+url: /2014/app-net-feels-like-zagging/
+---
 
 <img src="/img/2014/appdotnet.jpg" alt="App.net feels like zagging" class="postimage" />
   

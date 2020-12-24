@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-09-21T18:23:22+00:00"
-title = "Review: Coffee and Cigarettes"
-url = "/2004/review-coffee-and-cigarettes/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-09-21T18:23:22+00:00"
+title: 'Review: Coffee and Cigarettes'
+url: /2004/review-coffee-and-cigarettes/
+---
 
 Jim Jarmusch films are something else entirely. I hated _Ghost Dog_ and really hated his Cannes-winning _Stranger than Paradise_. On the other hand I loved _Dead Man_, _Mystery Train_ and _Night on Earth_.
 

@@ -1,10 +1,10 @@
-+++
-date = "2019-08-01T12:04:00-04:00"
-draft = false
-tags = ["webdev"]
-title = "The web without the web"
-
-+++
+---
+date: "2019-08-01T12:04:00-04:00"
+draft: false
+tags:
+- webdev
+title: The web without the web
+---
 
 [Laura on dev.to](https://dev.to/walaura/the-web-without-the-web-aeo):
 

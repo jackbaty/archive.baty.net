@@ -1,14 +1,16 @@
-+++
-author = "Jack"
-categories = ["Tech"]
-date = "2017-09-18T18:59:52+00:00"
-featured_image = "/img/2017/09/keep-it-window.png"
-mf2_syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-tags = ["software"]
-title = "Keep It, by Reinvented Software"
-url = "/2017/keep-it-by-reinvented-software/"
-
-+++
+---
+author: Jack
+categories:
+- Tech
+date: "2017-09-18T18:59:52+00:00"
+featured_image: /img/2017/09/keep-it-window.png
+mf2_syndicate-to:
+- a:1:{i:0;s:4:"none";}
+tags:
+- software
+title: Keep It, by Reinvented Software
+url: /2017/keep-it-by-reinvented-software/
+---
 ## I&#8217;m going to need an Everything Bucket for my Everything Buckets. {.subtitle}
 
 The latest &#8220;Everything Bucket&#8221; is [Keep It][1] from Reinvented Software. Keep It is replacing Together, itself a fine tool for collecting things.

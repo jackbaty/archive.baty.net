@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2009-12-27T14:58:23+00:00"
-tags = ["film"]
-title = "Favorite Movies of 2009"
-url = "/2009/favorite-movies-of-2009/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2009-12-27T14:58:23+00:00"
+tags:
+- film
+title: Favorite Movies of 2009
+url: /2009/favorite-movies-of-2009/
+---
 
 Here's a quick list of my favorite movies from the past year.
 

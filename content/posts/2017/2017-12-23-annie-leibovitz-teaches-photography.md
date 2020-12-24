@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Photography"]
-date = "2017-12-23T14:42:31+00:00"
-tags = ["photography"]
-title = "Annie Leibovitz Teaches Photography"
-url = "/2017/annie-leibovitz-teaches-photography/"
-
-+++
+---
+author: Jack
+categories:
+- Photography
+date: "2017-12-23T14:42:31+00:00"
+tags:
+- photography
+title: Annie Leibovitz Teaches Photography
+url: /2017/annie-leibovitz-teaches-photography/
+---
 <img src="/img/2017/12/Annie-Leibovitz-Teaches-Photography-MasterClass-2017-12-23-09-34-15.png" alt="Annie Leibovitz Teaches Photography | MasterClass 2017 12 23 09 34 15" title="Annie Leibovitz Teaches Photography | MasterClass 2017-12-23 09-34-15.png" border="0" width="748" height="601" />
 
 A [Masterclass featuring Annie Leibovitz][1] looked like a great idea, so I paid the $90 and signed up.

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-03-10T13:32:23+00:00"
-title = "Tips for Mastering E-mail Overload"
-url = "/2005/tips-for-mastering-e-mail-overload/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-03-10T13:32:23+00:00"
+title: Tips for Mastering E-mail Overload
+url: /2005/tips-for-mastering-e-mail-overload/
+---
 
 If you didn't know better you'd think I was on some sort of anti-email crusade. Not true, just [food for thought][1]
 

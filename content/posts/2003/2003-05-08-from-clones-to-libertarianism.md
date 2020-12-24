@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:11+00:00"
-title = "From Clones to Libertarianism"
-url = "/2003/from-clones-to-libertarianism/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:11+00:00"
+title: From Clones to Libertarianism
+url: /2003/from-clones-to-libertarianism/
+---
 
 I started today by meeting Mary for breakfast. We continued a discussion started yesterday about cloning. More specifically, she had asked me what all the fuss was about and why it seemed that everyone opposed it. Good questions, but of course I had no answers, so I did a little digging and found that it is indeed a complex topic.
 

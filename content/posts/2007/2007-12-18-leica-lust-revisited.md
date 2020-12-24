@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-12-18T18:48:01+00:00"
-tags = ["photography"]
-title = "Leica Lust Revisited"
-url = "/2007/leica-lust-revisited/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-12-18T18:48:01+00:00"
+tags:
+- photography
+title: Leica Lust Revisited
+url: /2007/leica-lust-revisited/
+---
 
 James Russell has a piece at Luminous Landscape called [Leica M8 Revisited][1]. The reason I bring it up is that I want one. I mean **really** want one. 
 

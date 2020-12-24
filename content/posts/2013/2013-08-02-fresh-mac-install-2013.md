@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2013-08-02T19:00:00+00:00"
-tags = ["software"]
-title = "Fresh Mac Install 2013"
-url = "/2013/fresh-mac-install-2013/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2013-08-02T19:00:00+00:00"
+tags:
+- software
+title: Fresh Mac Install 2013
+url: /2013/fresh-mac-install-2013/
+---
 
 My iMac at home has been acting up. After confirming at the Apple store that it was not a hardware issue, I decided to wipe and rebuild. This is something I do occasionally, and I hate myself for it every time. I do it anyway.
 

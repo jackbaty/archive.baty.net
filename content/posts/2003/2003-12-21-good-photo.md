@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-12-21T10:09:16+00:00"
-title = "Good photo?"
-url = "/2003/good-photo/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-12-21T10:09:16+00:00"
+title: Good photo?
+url: /2003/good-photo/
+---
 
 I've been looking at a ton of photos and reading the corresponding "critiques" lately, trying to figure out what makes a good photograph. It's apparent that most people wouldn't know a worthwhile shot if it bit them in the ass. I know that _I_ certainly don't.
 

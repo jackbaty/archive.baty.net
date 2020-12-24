@@ -1,14 +1,17 @@
-+++
-author = "Jack"
-categories = ["Tech"]
-date = "2017-09-18T17:56:01+00:00"
-format = "link"
-mf2_syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-tags = ["apple", "hardware"]
-title = "Courage – Marco.org"
-url = "/2017/courage-marco-org/"
-
-+++
+---
+author: Jack
+categories:
+- Tech
+date: "2017-09-18T17:56:01+00:00"
+format: link
+mf2_syndicate-to:
+- a:1:{i:0;s:4:"none";}
+tags:
+- apple
+- hardware
+title: Courage – Marco.org
+url: /2017/courage-marco-org/
+---
 [Marco Arment][1]:
 
 > Apple just completely changed the fundamental shape of the most important, most successful, and most recognizable tech product that the world has ever seen.

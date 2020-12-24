@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-09-18T00:32:41+00:00"
-title = "Babylon Dictionary and Information at"
-url = "/2000/babylon-dictionary-and-information-at/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-09-18T00:32:41+00:00"
+title: Babylon Dictionary and Information at
+url: /2000/babylon-dictionary-and-information-at/
+---
 
 [Babylon Dictionary and Information at your fingertips][1]
 

@@ -1,13 +1,14 @@
-+++
-author = "Jack"
-categories = ["Technology/Software"]
-date = "2020-06-20T17:11:15+00:00"
-tags = ["Email"]
-title = "First impressions of HEY email"
-type = "posts"
-url = "/2020/first-impressions-of-hey-email/"
-
-+++
+---
+author: Jack
+categories:
+- Technology/Software
+date: "2020-06-20T17:11:15+00:00"
+tags:
+- Email
+title: First impressions of HEY email
+type: posts
+url: /2020/first-impressions-of-hey-email/
+---
 When Google&#8217;s Gmail went beta in 2004 I desperately wanted to try it. So much so that I traded an extra camera (A Canon Canonet GIII, no less!) for an invitation. Gmail was doing something different with email and, at the time, the trade was worth it.
 
 There haven&#8217;t been many true innovations in how we deal with email since then. The plethora of iOS apps claiming to revolutionize email probably count, although I haven&#8217;t liked any of them. More recently, [Superhuman][1] has been making a bold attempt. I tried Superhuman but for some reason it made me feel like a self-important twat, so I decided against paying $30/month for an exclusive, fancy Gmail wrapper.

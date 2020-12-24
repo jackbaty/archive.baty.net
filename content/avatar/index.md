@@ -1,11 +1,10 @@
-+++
-date = "2018-12-09"
-description = "The origin of my avatar"
-subtitle = "The story behind my \"Pipe Guy\" avatar"
-title = "The origin of my avatar"
-type = "page"
-
-+++
+---
+date: "2018-12-09"
+description: The origin of my avatar
+subtitle: The story behind my "Pipe Guy" avatar
+title: The origin of my avatar
+type: page
+---
 
 Here's the avatar I've been using for a few years.
 

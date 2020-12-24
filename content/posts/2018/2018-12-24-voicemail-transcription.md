@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Misc"]
-date = "2018-12-24T16:02:38+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-title = "Voicemail transcription"
-url = "/2018/voicemail-transcription/"
-
-+++
+---
+author: Jack
+categories:
+- Misc
+date: "2018-12-24T16:02:38+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+title: Voicemail transcription
+url: /2018/voicemail-transcription/
+---
 This, from a voicemail received recently at my (almost forgotten) Google Voice number:
 
 <blockquote class="wp-block-quote">

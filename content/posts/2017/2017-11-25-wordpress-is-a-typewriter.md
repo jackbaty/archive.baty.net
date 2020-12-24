@@ -1,11 +1,12 @@
-+++
-date = "2017-11-25T07:01:32-05:00"
-description = "Why publishing with WordPress is like using a typewriter"
-slug = "wordpress-is-a-typewriter"
-tags = ["blogging", "wordpress"]
-title = "WordPress is a Typewriter"
-
-+++
+---
+date: "2017-11-25T07:01:32-05:00"
+description: Why publishing with WordPress is like using a typewriter
+slug: wordpress-is-a-typewriter
+tags:
+- blogging
+- wordpress
+title: WordPress is a Typewriter
+---
 
 A "Type-In" is an event during which people get together with their typewriters at a library or coffee shop. They talk typing, show interested people how typewriters work and let them try typing for themselves. I read a story about a Type-In at which there was a young boy watching over his mother's shoulder. As soon as his mother began typing, the boy exclaimed, "The letters go right onto the paper!"
 

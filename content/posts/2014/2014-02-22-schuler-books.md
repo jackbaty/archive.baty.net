@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-02-22T00:00:00+00:00"
-tags = ["book"]
-title = "Schuler Books"
-url = "/2014/schuler-books/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-02-22T00:00:00+00:00"
+tags:
+- book
+title: Schuler Books
+url: /2014/schuler-books/
+---
 
 <img src="/img/2014/schuler-shelves.jpg" alt="Schuler Books" class="postimage" />
   

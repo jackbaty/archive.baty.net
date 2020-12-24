@@ -1,12 +1,15 @@
-+++
-date = "2018-03-25T10:37:16-04:00"
-description = "I replaced my iPhone X with the old SE for the weekend just to see how it felt"
-draft = false
-lastmod = "2018-03-25T10:37:18-04:00"
-tags = ["Apple", "hardware", "iPhone"]
-title = "A Weekend Back With the iPhone SE"
-
-+++
+---
+date: "2018-03-25T10:37:16-04:00"
+description: I replaced my iPhone X with the old SE for the weekend just to see how
+  it felt
+draft: false
+lastmod: "2018-03-25T10:37:18-04:00"
+tags:
+- Apple
+- hardware
+- iPhone
+title: A Weekend Back With the iPhone SE
+---
 
 <img src="/img/2018/iphone-x-and-se.jpg" alt="iPhone X and iPhone SE" />
 

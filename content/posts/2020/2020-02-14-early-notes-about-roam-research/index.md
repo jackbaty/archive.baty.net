@@ -1,14 +1,15 @@
-+++
-author = "Jack"
-categories = ["Software"]
-date = "2020-02-14T13:55:00+00:00"
-featuredImage = "Roam-Group-min.png"
-tags = ["Roam"]
-title = "Early notes about Roam Research"
-type = "posts"
-url = "/2020/early-notes-about-roam-research/"
-
-+++
+---
+author: Jack
+categories:
+- Software
+date: "2020-02-14T13:55:00+00:00"
+featuredImage: Roam-Group-min.png
+tags:
+- Roam
+title: Early notes about Roam Research
+type: posts
+url: /2020/early-notes-about-roam-research/
+---
 
 
 Roam is “A note-taking tool for networked thoughts.”

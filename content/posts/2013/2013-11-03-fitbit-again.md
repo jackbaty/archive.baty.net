@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2013-11-03T00:00:00+00:00"
-tags = ["gadget"]
-title = "Fitbit again"
-url = "/2013/fitbit-again/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2013-11-03T00:00:00+00:00"
+tags:
+- gadget
+title: Fitbit again
+url: /2013/fitbit-again/
+---
 
 <div>
   <div>

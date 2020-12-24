@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Misc"]
-date = "2018-12-08T21:28:30+00:00"
-tags = ["writing"]
-title = "More people should write – James Somers"
-url = "/2018/more-people-should-write-james-somers/"
-
-+++
+---
+author: Jack
+categories:
+- Misc
+date: "2018-12-08T21:28:30+00:00"
+tags:
+- writing
+title: More people should write – James Somers
+url: /2018/more-people-should-write-james-somers/
+---
 [James Somers][1]:
 
 > Walk around with a pen and a scrap of paper. Write some meaty emails. Engage more intensely with this place. 

@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-07-01T23:03:47+00:00"
-tags = ["apple", "music"]
-title = "Meet Apple Music + Subtraction.com"
-url = "/2015/meet-apple-music-subtraction-com/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-07-01T23:03:47+00:00"
+tags:
+- apple
+- music
+title: Meet Apple Music + Subtraction.com
+url: /2015/meet-apple-music-subtraction-com/
+---
 
 [Meet Apple Music + Subtraction.com][1]:
 

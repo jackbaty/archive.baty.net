@@ -1,10 +1,9 @@
-+++
-date = "2018-06-09T09:18:00-04:00"
-draft = false
-slug = "the-frictionless-joy-of-a-single-platform"
-title = "The Frictionless Joy of Using a Single Platform"
-
-+++
+---
+date: "2018-06-09T09:18:00-04:00"
+draft: false
+slug: the-frictionless-joy-of-a-single-platform
+title: The Frictionless Joy of Using a Single Platform
+---
 
 I've had so much fun these past few months learning my way around (Arch) Linux
 on the desktop. Using a ThinkPad while mobile instead of a MacBook Pro or iPad

@@ -1,9 +1,9 @@
-+++
-date = "2016-01-16T09:43:22-05:00"
-tags = ["tech"]
-title = "The Resolution Of The Bitcoin Experiment"
-
-+++
+---
+date: "2016-01-16T09:43:22-05:00"
+tags:
+- tech
+title: The Resolution Of The Bitcoin Experiment
+---
 
 {{< figure src="/img/2016/20160116_bitcoin_logo.svg" title="" >}}
 

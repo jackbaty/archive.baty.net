@@ -1,10 +1,12 @@
-+++
-date = "2016-11-02T19:47:32-04:00"
-slug = "almost-switched-to-wordpress-again"
-tags = ["blogging", "Hugo", "Wordpress"]
-title = "Almost Switched to Wordpress Again"
-
-+++
+---
+date: "2016-11-02T19:47:32-04:00"
+slug: almost-switched-to-wordpress-again
+tags:
+- blogging
+- Hugo
+- Wordpress
+title: Almost Switched to Wordpress Again
+---
 
 You may have noticed that for the past 24 hours this site reverted to the old
 Wordpress installation. That's because it did revert to the old Wordpress

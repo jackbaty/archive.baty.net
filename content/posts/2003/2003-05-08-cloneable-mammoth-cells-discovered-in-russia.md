@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:11+00:00"
-title = "Cloneable Mammoth Cells Discovered in Russia"
-url = "/2003/cloneable-mammoth-cells-discovered-in-russia/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:11+00:00"
+title: Cloneable Mammoth Cells Discovered in Russia
+url: /2003/cloneable-mammoth-cells-discovered-in-russia/
+---
 
 In a page out of Jurassic Park, "living" cells from a wolly mammoth,
   

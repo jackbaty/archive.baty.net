@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-03-07T13:42:59+00:00"
-title = "Dan Benjamin: Regarding Ruby"
-url = "/2005/dan-benjamin-regarding-ruby/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-03-07T13:42:59+00:00"
+title: 'Dan Benjamin: Regarding Ruby'
+url: /2005/dan-benjamin-regarding-ruby/
+---
 
 Dan Benjamin writes a centered, thoughtful [piece][1] on Rails, and the dangers of learning Ruby as a first language. My favorite bit is his description of PHP&#8230;
 

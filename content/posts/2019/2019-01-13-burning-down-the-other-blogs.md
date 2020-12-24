@@ -1,10 +1,10 @@
-+++
-date = "2019-01-13T13:41:51-05:00"
-description = "All of my other blogs are gone"
-tags = ["blogging"]
-title = "Burning down the other blogs"
-
-+++
+---
+date: "2019-01-13T13:41:51-05:00"
+description: All of my other blogs are gone
+tags:
+- blogging
+title: Burning down the other blogs
+---
 
 <img src="/img/2019/2019-01-13-yaoqi-lai-burn-it-down-thumb.jpg" alt="Match with
 flame" class="right-thumb"/>

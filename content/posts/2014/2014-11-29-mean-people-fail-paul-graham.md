@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-11-29T15:41:52+00:00"
-title = "Mean People Fail – Paul Graham"
-url = "/2014/mean-people-fail-paul-graham/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-11-29T15:41:52+00:00"
+title: Mean People Fail – Paul Graham
+url: /2014/mean-people-fail-paul-graham/
+---
 
 [Paul Graham][1]:
 

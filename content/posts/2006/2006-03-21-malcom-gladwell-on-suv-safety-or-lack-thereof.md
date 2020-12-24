@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2006-03-21T01:48:05+00:00"
-title = "Malcom Gladwell on S.U.V. safety (or lack thereof)"
-url = "/2006/malcom-gladwell-on-suv-safety-or-lack-thereof/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2006-03-21T01:48:05+00:00"
+title: Malcom Gladwell on S.U.V. safety (or lack thereof)
+url: /2006/malcom-gladwell-on-suv-safety-or-lack-thereof/
+---
 
 Do you drive your big, selfish, me-first S.U.V. because you think it's safer? If so, Malcom Gladwell [thinks you're wrong][1]. 
 

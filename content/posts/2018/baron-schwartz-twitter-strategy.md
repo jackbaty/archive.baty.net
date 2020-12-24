@@ -1,12 +1,13 @@
-+++
-date = "2018-04-08T19:20:43-04:00"
-description = ""
-draft = false
-lastmod = "2018-04-08T19:20:43-04:00"
-tags = ["Twitter", "social"]
-title = "Baron Schwartz's Twitter Strategy"
-
-+++
+---
+date: "2018-04-08T19:20:43-04:00"
+description: ""
+draft: false
+lastmod: "2018-04-08T19:20:43-04:00"
+tags:
+- Twitter
+- social
+title: Baron Schwartz's Twitter Strategy
+---
 
 [Baron Schwartz](https://www.xaprb.com/blog/my-twitter-following-strategy/):
 

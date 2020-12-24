@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-18T15:11:13+00:00"
-title = "Peter Frampton’s Bullet Time"
-url = "/2003/peter-framptons-bullet-time/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-18T15:11:13+00:00"
+title: Peter Frampton’s Bullet Time
+url: /2003/peter-framptons-bullet-time/
+---
 
 I haven't seen the new Matrix movie yet, but on my way in to the
   

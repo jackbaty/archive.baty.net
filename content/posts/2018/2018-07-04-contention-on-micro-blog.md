@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Tech"]
-date = "2018-07-04T11:58:16+00:00"
-tags = ["blogging"]
-title = "Contention on micro.blog"
-url = "/2018/contention-on-micro-blog/"
-
-+++
+---
+author: Jack
+categories:
+- Tech
+date: "2018-07-04T11:58:16+00:00"
+tags:
+- blogging
+title: Contention on micro.blog
+url: /2018/contention-on-micro-blog/
+---
 <img src="/img/2018/07/NewImage.png" alt="Chip and Dale" title="NewImage.png" border="0" width="253" height="199" style="float:right;" />
 
 Conversations on [Micro.blog][1] have been getting a bit feisty lately. I like this, as for a while things were maybe just a tiny bit too nice. Difficult topics tended to be silently stepped around, which could make for a bit of a Chip and Dale vibe. Nothing wrong with politeness of course. Micro.blog has been a welcome reprieve from the toxic awfulness that Twitter tends to generate. Still, this newfound friendly contentiousness has added a bit of spark to the place and it&#8217;s been fun.

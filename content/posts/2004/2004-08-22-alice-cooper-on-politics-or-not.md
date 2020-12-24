@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-08-22T08:29:57+00:00"
-title = "Alice Cooper on politics (or not)"
-url = "/2004/alice-cooper-on-politics-or-not/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-08-22T08:29:57+00:00"
+title: Alice Cooper on politics (or not)
+url: /2004/alice-cooper-on-politics-or-not/
+---
 
 Alice Cooper is blasting other rock stars who are planning to perform "benefits" in order to oust GW. Folks like Bruce Springsteen, John Mellencamp and R.E.M are committing "&#8230;treason against Rock and Roll because Rock and Roll is the antithesis of politics."
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-07-05T10:05:21+00:00"
-title = "Review: Spartan"
-url = "/2004/review-spartan/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-07-05T10:05:21+00:00"
+title: 'Review: Spartan'
+url: /2004/review-spartan/
+---
 
 After seeing [Spartan][1], it occurred to me that the problem I have with many of Mamet's films is that although there's plenty of interesting dialog, there are no real characters.&nbsp; I couldn't have cared less about anyone in the movie. Even the cleverest dialog will have trouble compensating for that.
 

@@ -1,12 +1,12 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2016-06-04T12:13:50+00:00"
-format = "link"
-title = "Seth’s Blog: Neophilia and ennui"
-url = "/2016/neophilia-and-ennui/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2016-06-04T12:13:50+00:00"
+format: link
+title: 'Seth’s Blog: Neophilia and ennui'
+url: /2016/neophilia-and-ennui/
+---
 
 [Seth Godin][1]
 

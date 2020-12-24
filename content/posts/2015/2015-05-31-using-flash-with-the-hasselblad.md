@@ -1,12 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-05-31T15:17:12+00:00"
-tags = ["film", "Hasselblad", "photography"]
-title = "Using Flash with the Hasselblad"
-url = "/2015/using-flash-with-the-hasselblad/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-05-31T15:17:12+00:00"
+tags:
+- film
+- Hasselblad
+- photography
+title: Using Flash with the Hasselblad
+url: /2015/using-flash-with-the-hasselblad/
+---
 
 <div id="attachment_4550" style="width: 801px" class="wp-caption alignnone">
   <a href="/img/2015/06/flash-with-hasselblad.jpg"><img class="size-full wp-image-4550" src="/img/2015/06/flash-with-hasselblad.jpg" alt="Kelly Photobombs (2015). Hasselblad 503CXi" width="791" height="800" srcset="/img/2015/06/flash-with-hasselblad.jpg 791w, /img/2015/06/flash-with-hasselblad-297x300.jpg 297w, /img/2015/06/flash-with-hasselblad-768x777.jpg 768w" sizes="(max-width: 791px) 100vw, 791px" /></a>

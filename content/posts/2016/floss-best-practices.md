@@ -1,11 +1,12 @@
-+++
-date = "2016-07-04T09:51:48-04:00"
-description = ""
-tags = ["development", "opensource"]
-title = "FLOSS Best Practices"
-topics = []
-
-+++
+---
+date: "2016-07-04T09:51:48-04:00"
+description: ""
+tags:
+- development
+- opensource
+title: FLOSS Best Practices
+topics: []
+---
 
 [Core Infrastructure Initiative Best Practices Badge Program](https://github.com/linuxfoundation/cii-best-practices-badge/blob/master/doc/criteria.md):
 

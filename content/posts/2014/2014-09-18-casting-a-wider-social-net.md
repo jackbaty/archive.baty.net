@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-09-19T00:39:31+00:00"
-tags = ["Blogging", "social"]
-title = "Casting a wider social net"
-url = "/2014/casting-a-wider-social-net/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-09-19T00:39:31+00:00"
+tags:
+- Blogging
+- social
+title: Casting a wider social net
+url: /2014/casting-a-wider-social-net/
+---
 
 I thought I wanted to be the quiet guy in the corner. I'd like to just create things, post them without fanfare, and hey, if you find them you find them. Or maybe I should never post anything at all. I could just make stuff that ends up in a cardboard box in my basement until I'm dead. That would be neat, but it's not likely. You see, I've fallen into the same trap as everyone else; I love validation. Even a simple but meaningless Facebook "Like" feels good and I'm just as vulnerable to that feeling as the rest of you. I certainly don't want to be one of those hand-waving-look-at-me! types that are so common, but I don't always enjoy sitting here talking to myself either.
   

@@ -1,13 +1,16 @@
-+++
-author = "Jack"
-categories = ["Tech"]
-date = "2018-01-30T00:43:22+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-tags = ["hardware", "linux"]
-title = "My Linux Experience – Day Two"
-url = "/2018/my-linux-experience-day-two/"
-
-+++
+---
+author: Jack
+categories:
+- Tech
+date: "2018-01-30T00:43:22+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+tags:
+- hardware
+- linux
+title: My Linux Experience – Day Two
+url: /2018/my-linux-experience-day-two/
+---
 So here I sit in front of a new-to-me Thinkpad X1 Carbon from 2015. It&#8217;s running Linux. I spent yesterday wiping it of Windows 10 and installing Ubuntu 16.04.
 
 <img class="alignnone size-large wp-image-868" src="/img/2018/01/File-Jan-29-7-12-35-PM-946x1024.jpeg" alt="" width="946" height="1024" srcset="/img/2018/01/File-Jan-29-7-12-35-PM-946x1024.jpeg 946w, /img/2018/01/File-Jan-29-7-12-35-PM-277x300.jpeg 277w, /img/2018/01/File-Jan-29-7-12-35-PM-768x832.jpeg 768w, /img/2018/01/File-Jan-29-7-12-35-PM-750x812.jpeg 750w" sizes="(max-width: 946px) 100vw, 946px" />

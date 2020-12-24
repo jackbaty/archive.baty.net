@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:12+00:00"
-title = "E-Commerce News: Blogging Goes Corporate"
-url = "/2003/e-commerce-news-blogging-goes-corporate/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:12+00:00"
+title: 'E-Commerce News: Blogging Goes Corporate'
+url: /2003/e-commerce-news-blogging-goes-corporate/
+---
 
 More on the trend toward [
   

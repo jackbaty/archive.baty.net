@@ -1,10 +1,10 @@
-+++
-date = "2016-11-26T13:13:14-05:00"
-slug = "people-of-earth-tv"
-tags = ["TV"]
-title = "People of Earth (TV)"
-
-+++
+---
+date: "2016-11-26T13:13:14-05:00"
+slug: people-of-earth-tv
+tags:
+- TV
+title: People of Earth (TV)
+---
 
 ![People of Earth](/img/2016/people-of-earth.jpg)
 

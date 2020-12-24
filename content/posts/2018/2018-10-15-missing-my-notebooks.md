@@ -1,13 +1,16 @@
-+++
-author = "Jack"
-categories = ["Analog"]
-date = "2018-10-16T00:56:05+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-tags = ["analog", "notebook"]
-title = "Missing my notebooks"
-url = "/2018/missing-my-notebooks/"
-
-+++
+---
+author: Jack
+categories:
+- Analog
+date: "2018-10-16T00:56:05+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+tags:
+- analog
+- notebook
+title: Missing my notebooks
+url: /2018/missing-my-notebooks/
+---
 I sometimes drift away from using a paper notebook for taking notes. This usually happens when I become infatuated with some new computer workflow or app and decide that paper is just too much work and too inconvenient.
 
 Then something happens that makes me miss my notebooks. 

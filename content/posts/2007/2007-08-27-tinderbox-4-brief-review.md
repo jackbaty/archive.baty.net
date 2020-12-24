@@ -1,18 +1,25 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-08-28T02:10:40+00:00"
-tags = ["Tinderbox"]
-title = "Tinderbox 4: Brief Review"
-tz_audio_format = ["mp3"]
-tz_gallery_captions = ["true"]
-tz_gallery_format = ["-=set slideshow type=-"]
-tz_gallery_margins = [10]
-tz_gallery_randomize = ["false"]
-tz_gallery_targetheight = [200]
-url = "/2007/tinderbox-4-brief-review/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-08-28T02:10:40+00:00"
+tags:
+- Tinderbox
+title: 'Tinderbox 4: Brief Review'
+tz_audio_format:
+- mp3
+tz_gallery_captions:
+- "true"
+tz_gallery_format:
+- -=set slideshow type=-
+tz_gallery_margins:
+- 10
+tz_gallery_randomize:
+- "false"
+tz_gallery_targetheight:
+- 200
+url: /2007/tinderbox-4-brief-review/
+---
 
 I'll just go ahead and say it, [Tinderbox][1] is the most useful app on my Mac. Period. I'd love to write an in depth review sometime, but for now, the highlights&#8230;.
 

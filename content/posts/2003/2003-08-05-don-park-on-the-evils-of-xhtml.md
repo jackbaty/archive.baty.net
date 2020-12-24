@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-08-06T00:54:46+00:00"
-title = "Don Park on the evils of XHTML"
-url = "/2003/don-park-on-the-evils-of-xhtml/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-08-06T00:54:46+00:00"
+title: Don Park on the evils of XHTML
+url: /2003/don-park-on-the-evils-of-xhtml/
+---
 
 See [Don Park's post][1] on why you shouldn't use XHTML for web pages.
 

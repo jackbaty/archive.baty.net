@@ -1,12 +1,14 @@
-+++
-categories = ["Photography"]
-date = "2020-09-12"
-featuredImage = "binders.jpg"
-featuredImagePreview = "preview.jpg"
-tags = ["Film", "Analog"]
-title = "Organizing film negatives"
-
-+++
+---
+categories:
+- Photography
+date: "2020-09-12"
+featuredImage: binders.jpg
+featuredImagePreview: preview.jpg
+tags:
+- Film
+- Analog
+title: Organizing film negatives
+---
 
 I've finally taken my film negatives out of the moving boxes and given them proper space on shelves in my office.
 

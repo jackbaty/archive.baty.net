@@ -1,12 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-08-31T17:04:23+00:00"
-tags = ["geek", "management", "programming"]
-title = "On Not Being a Programmer"
-url = "/2008/on-not-being-a-programmer/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-08-31T17:04:23+00:00"
+tags:
+- geek
+- management
+- programming
+title: On Not Being a Programmer
+url: /2008/on-not-being-a-programmer/
+---
 
 I used to be a programmer.
 

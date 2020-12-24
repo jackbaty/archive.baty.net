@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Books"]
-date = "2016-07-23T18:00:05+00:00"
-title = "Review: The Deep Whatsis"
-url = "/2016/review-the-deep-whatsis/"
-
-+++
+---
+author: Jack
+categories:
+- Books
+date: "2016-07-23T18:00:05+00:00"
+title: 'Review: The Deep Whatsis'
+url: /2016/review-the-deep-whatsis/
+---
 
 <a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/17316555"><img src="https://d.gr-assets.com/books/1360646271m/17316555.jpg" alt="The Deep Whatsis" border="0" /></a>
   

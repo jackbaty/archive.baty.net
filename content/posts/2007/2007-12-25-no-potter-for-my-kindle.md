@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Art"]
-date = "2007-12-25T15:02:01+00:00"
-tags = ["Art"]
-title = "No Potter for my Kindle"
-url = "/2007/no-potter-for-my-kindle/"
-
-+++
+---
+author: Jack
+categories:
+- Art
+date: "2007-12-25T15:02:01+00:00"
+tags:
+- Art
+title: No Potter for my Kindle
+url: /2007/no-potter-for-my-kindle/
+---
 
 It sounds crazy, but I've never read any of the Harry Potter books. I just haven't been interested. Late last night I finished reading [Bad Monkeys][1] &#8211; the first complete book read via the Kindle &#8211; and enjoyed it so much that I thought I'd find something new. For some reason Harry Potter came to mind. Surprisingly, it wasn't available for the Kindle. At first I assumed that this was a crazy oversight by Amazon, but it turns out that Rowlings has never allowed any of the Harry Potter books to be published in electronic form. Whaaaat?!
 

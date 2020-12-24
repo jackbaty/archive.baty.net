@@ -1,11 +1,11 @@
-+++
-date = "2017-07-19T07:56:09-04:00"
-description = "Some software is just wonderful"
-slug = "wonderful-software"
-tags = ["software"]
-title = "Wonderful Software"
-
-+++
+---
+date: "2017-07-19T07:56:09-04:00"
+description: Some software is just wonderful
+slug: wonderful-software
+tags:
+- software
+title: Wonderful Software
+---
 
 
 I love software. Even though I long to be one of those “I’ve only used X for 10 years and nothing else matters” people, there’s just no way. I use, and love, many things. Here I list a few of my long-time favorites. These are wonderful apps that have held up for years and continue to be useful and valuable.

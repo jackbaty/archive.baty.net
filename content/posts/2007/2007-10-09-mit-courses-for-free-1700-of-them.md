@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-10-09T17:33:48+00:00"
-title = "MIT Courses for free. 1700+ of them."
-url = "/2007/mit-courses-for-free-1700-of-them/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-10-09T17:33:48+00:00"
+title: MIT Courses for free. 1700+ of them.
+url: /2007/mit-courses-for-free-1700-of-them/
+---
 
 [Learn stuff for free, thanks to MIT][1]. 
 

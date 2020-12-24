@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-10-09T14:28:01+00:00"
-title = "Crawl back into your Crib and stop whining"
-url = "/2003/crawl-back-into-your-crib-and-stop-whining/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-10-09T14:28:01+00:00"
+title: Crawl back into your Crib and stop whining
+url: /2003/crawl-back-into-your-crib-and-stop-whining/
+---
 
 Here's a tip for recording artists: Don't complain about the record companies and then show up on [Cribs][1] with a $2M house and matching Excursions with 24-inch gold wheels. Sympathy goes out the window right quick.
 

@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-10-25T18:03:03+00:00"
-dsq_thread_id = [3155669834]
-title = "Evernote keeps sucking me back in"
-url = "/2014/evernote-keeps-sucking-me-back-in/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-10-25T18:03:03+00:00"
+dsq_thread_id:
+- 3155669834
+title: Evernote keeps sucking me back in
+url: /2014/evernote-keeps-sucking-me-back-in/
+---
 
 I have a built-in aversion to using Evernote. I'm not a fan of how it looks and I dislike how difficult it is to get things out in the same format I added them. I can't fathom why the currently-selected notebook is not indicated in the sidebar. And so on.
 

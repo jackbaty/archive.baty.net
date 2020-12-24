@@ -1,12 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-12-28T14:33:50+00:00"
-tags = ["flickr", "instagram", "photography"]
-title = "Instagram"
-url = "/2014/instagram/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-12-28T14:33:50+00:00"
+tags:
+- flickr
+- instagram
+- photography
+title: Instagram
+url: /2014/instagram/
+---
 
 <img style="max-height: none; max-width: 100%;" src="/img/2014/12/instagram.png" alt="" width="300" height="300" />
 

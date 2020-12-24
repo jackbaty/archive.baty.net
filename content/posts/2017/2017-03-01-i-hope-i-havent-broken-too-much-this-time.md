@@ -1,10 +1,13 @@
-+++
-date = "2017-03-01T20:54:44-05:00"
-slug = "i-hope-i-havent-broken-too-much-this-time"
-tags = ["Blogging", "Static", "Hugo", "Orgmode"]
-title = "I hope I Haven't Broken Too Much This Time"
-
-+++
+---
+date: "2017-03-01T20:54:44-05:00"
+slug: i-hope-i-havent-broken-too-much-this-time
+tags:
+- Blogging
+- Static
+- Hugo
+- Orgmode
+title: I hope I Haven't Broken Too Much This Time
+---
 
 
 I happened to see the [Hugo 0.19 release

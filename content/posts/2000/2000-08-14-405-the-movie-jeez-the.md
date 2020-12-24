@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-08-14T09:16:59+00:00"
-title = "405: the movie Jeez, the"
-url = "/2000/405-the-movie-jeez-the/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-08-14T09:16:59+00:00"
+title: '405: the movie Jeez, the'
+url: /2000/405-the-movie-jeez-the/
+---
 
 [405: the movie][1]
 

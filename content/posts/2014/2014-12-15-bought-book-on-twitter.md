@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-12-16T01:18:14+00:00"
-tags = ["book", "twitter"]
-title = "I bought a book on Twitter"
-url = "/2014/bought-book-on-twitter/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-12-16T01:18:14+00:00"
+tags:
+- book
+- twitter
+title: I bought a book on Twitter
+url: /2014/bought-book-on-twitter/
+---
 
 I just bought Chris Hadfield's book directly via his tweet [@Cmdr_Hadfield_][1]{.twitter-atreply.pretty-link}.
 

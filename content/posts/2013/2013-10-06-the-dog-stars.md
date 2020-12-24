@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Books", "Journal"]
-date = "2013-10-06T04:00:00+00:00"
-tags = ["book"]
-title = "Book: The Dog Stars"
-url = "/2013/the-dog-stars/"
-
-+++
+---
+author: Jack
+categories:
+- Books
+- Journal
+date: "2013-10-06T04:00:00+00:00"
+tags:
+- book
+title: 'Book: The Dog Stars'
+url: /2013/the-dog-stars/
+---
 
 <aside> <img src="/img/2013/dog-stars-book.jpg" alt="The Dog Stars" class="postimage" />
   

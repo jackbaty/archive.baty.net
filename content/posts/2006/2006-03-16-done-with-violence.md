@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2006-03-16T02:33:05+00:00"
-title = "Done with Violence"
-url = "/2006/done-with-violence/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2006-03-16T02:33:05+00:00"
+title: Done with Violence
+url: /2006/done-with-violence/
+---
 
 I was so happy to read Mark Morford's piece titled \_[I am Done with Violence][1]\_. 
 

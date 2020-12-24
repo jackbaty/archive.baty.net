@@ -1,13 +1,16 @@
-+++
-author = "Jack"
-categories = ["General"]
-date = "2019-12-22T13:03:18+00:00"
-tags = ["Notetaking", "Roam", "TiddlyWiki"]
-title = "TiddlyWiki and Roam and my Daily Notes"
-type = "posts"
-url = "/2019/roam-and-tiddlywiki/"
-
-+++
+---
+author: Jack
+categories:
+- General
+date: "2019-12-22T13:03:18+00:00"
+tags:
+- Notetaking
+- Roam
+- TiddlyWiki
+title: TiddlyWiki and Roam and my Daily Notes
+type: posts
+url: /2019/roam-and-tiddlywiki/
+---
 <div class="wp-block-jetpack-markdown">
   <p>
     A few notes about differences between TiddlyWiki and Roam related to my daily note taking process.

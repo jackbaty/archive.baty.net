@@ -1,13 +1,16 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-10-10T22:33:14+00:00"
-dsq_thread_id = [3131254316]
-tags = ["geek", "lifehack"]
-title = "Feed Reset"
-url = "/2008/feed-reset/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-10-10T22:33:14+00:00"
+dsq_thread_id:
+- 3131254316
+tags:
+- geek
+- lifehack
+title: Feed Reset
+url: /2008/feed-reset/
+---
 
 <span class="drop_cap">R</span>eading RSS feeds consumes a significant amount of my spare time. Recently I noticed a change in my attitude toward feeds. Lots of mumbling under my breath. "Stupid" "Enough already!" "Been there." Taking a step back I noticed my subscription list sucked. Okay that's not true exactly, but I did realize that I'm not interested in the same things I was a year ago. My feed list needs an overhaul!
 

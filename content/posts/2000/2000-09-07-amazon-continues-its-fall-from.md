@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-09-08T00:11:03+00:00"
-title = "Amazon continues its fall from"
-url = "/2000/amazon-continues-its-fall-from/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-09-08T00:11:03+00:00"
+title: Amazon continues its fall from
+url: /2000/amazon-continues-its-fall-from/
+---
 
 Amazon continues its fall from grace &#8211; or at least continues to piss **me** off. Same thing.
   

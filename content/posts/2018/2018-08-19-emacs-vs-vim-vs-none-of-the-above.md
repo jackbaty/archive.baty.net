@@ -1,13 +1,16 @@
-+++
-author = "Jack"
-categories = ["Tech"]
-date = "2018-08-19T14:47:20+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-tags = ["emacs", "vim"]
-title = "Emacs vs Vim vs None Of The Above"
-url = "/2018/emacs-vs-vim-vs-none-of-the-above/"
-
-+++
+---
+author: Jack
+categories:
+- Tech
+date: "2018-08-19T14:47:20+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+tags:
+- emacs
+- vim
+title: Emacs vs Vim vs None Of The Above
+url: /2018/emacs-vs-vim-vs-none-of-the-above/
+---
 BBEdit for years. Then Vim for years. Then Emacs for years. In between I&#8217;ve used just about every editor there is. I love them all.
 
 Emacs is everything anyone could ever want in an editor, and more. It&#8217;s the &#8220;more&#8221; part that gets you. At some point this weekend I realized I had spent nearly two hours trying to dial in Emacs window behavior and failed. Even if I had succeeded, it was still two hours I could have been doing something else.

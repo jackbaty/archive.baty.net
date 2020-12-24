@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-12-30T17:38:04+00:00"
-dsq_thread_id = [3131254554]
-title = "The Image Culture"
-url = "/2005/the-image-culture/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-12-30T17:38:04+00:00"
+dsq_thread_id:
+- 3131254554
+title: The Image Culture
+url: /2005/the-image-culture/
+---
 
 [The Image Culture][1]
 

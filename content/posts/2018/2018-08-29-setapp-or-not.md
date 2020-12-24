@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Tech"]
-date = "2018-08-29T15:03:49+00:00"
-tags = ["software"]
-title = "Setapp or Not?"
-url = "/2018/setapp-or-not/"
-
-+++
+---
+author: Jack
+categories:
+- Tech
+date: "2018-08-29T15:03:49+00:00"
+tags:
+- software
+title: Setapp or Not?
+url: /2018/setapp-or-not/
+---
 As I was reviewing my growing list of software subscriptions, I remembered [Setapp][1]. I&#8217;ve been subscribed to Setapp since launch. I like the idea of &#8220;Netflix but for apps&#8221;. Access to a large and growing list of useful apps for ten bucks a month is pretty great.
 
 But is it worth it to me? Let&#8217;s see.

@@ -1,10 +1,11 @@
-+++
-categories = ["Photography"]
-date = "2020-10-11"
-tags = ["Lightroom"]
-title = "Had to install Lightroom Classic again"
-
-+++
+---
+categories:
+- Photography
+date: "2020-10-11"
+tags:
+- Lightroom
+title: Had to install Lightroom Classic again
+---
 
 When I recently [deleted all my Adobe apps](https://www.baty.net/2020/deleting-adobe/) I forgot to consider how much I rely [Negative Lab Pro](https://www.negativelabpro.com) for processing film scans.
 

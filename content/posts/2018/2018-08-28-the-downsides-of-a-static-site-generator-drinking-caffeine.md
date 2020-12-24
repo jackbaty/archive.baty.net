@@ -1,13 +1,18 @@
-+++
-author = "Jack"
-categories = ["Tech"]
-date = "2018-08-28T12:21:19+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-tags = ["blogging", "hugo", "static", "wordpress"]
-title = "The Downsides of a Static Site Generator – Drinking Caffeine"
-url = "/2018/the-downsides-of-a-static-site-generator-drinking-caffeine/"
-
-+++
+---
+author: Jack
+categories:
+- Tech
+date: "2018-08-28T12:21:19+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+tags:
+- blogging
+- hugo
+- static
+- wordpress
+title: The Downsides of a Static Site Generator – Drinking Caffeine
+url: /2018/the-downsides-of-a-static-site-generator-drinking-caffeine/
+---
 <a class="u-like-of" href="https://www.drinkingcaffeine.com/2018/08/26/the-downsides-of-a-static-site-generator/" rel="like-of">Martyn Chamberlin</a>:
 
 > On the whole, the cons of a static file generator seem less tangible than the pros

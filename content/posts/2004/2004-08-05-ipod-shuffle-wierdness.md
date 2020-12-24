@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-08-05T05:34:21+00:00"
-title = "iPod shuffle wierdness"
-url = "/2004/ipod-shuffle-wierdness/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-08-05T05:34:21+00:00"
+title: iPod shuffle wierdness
+url: /2004/ipod-shuffle-wierdness/
+---
 
 I bought myself a new iPod for my birthday (since no one else was thinking clearly enough to buy me one, apparently).
 

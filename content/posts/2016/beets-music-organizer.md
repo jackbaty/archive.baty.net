@@ -1,12 +1,14 @@
-+++
-date = "2014-12-13T19:53:45-04:00"
-description = ""
-draft = false
-tags = ["Beets", "Music"]
-title = "Beets Music Organizer"
-topics = ["App"]
-
-+++
+---
+date: "2014-12-13T19:53:45-04:00"
+description: ""
+draft: false
+tags:
+- Beets
+- Music
+title: Beets Music Organizer
+topics:
+- App
+---
 
 2014-12-13 Installed on iMac
 

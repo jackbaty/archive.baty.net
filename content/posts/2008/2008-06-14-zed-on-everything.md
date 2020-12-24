@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-06-14T16:30:00+00:00"
-tags = ["geek"]
-title = "Zed on everything"
-url = "/2008/zed-on-everything/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-06-14T16:30:00+00:00"
+tags:
+- geek
+title: Zed on everything
+url: /2008/zed-on-everything/
+---
 
 [Zed 2008-06-13][1]
 

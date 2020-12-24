@@ -1,10 +1,12 @@
-+++
-date = "2017-03-11T09:36:48-05:00"
-slug = "darkroom-underground-magazine"
-tags = ["Analog", "Film", "Photography"]
-title = "Darkroom Underground Magazine"
-
-+++
+---
+date: "2017-03-11T09:36:48-05:00"
+slug: darkroom-underground-magazine
+tags:
+- Analog
+- Film
+- Photography
+title: Darkroom Underground Magazine
+---
 
 
 [Tim Layton](http://www.timlaytonfineart.com/blog/2017/3/new-analog-darkroom-photography-magazine):

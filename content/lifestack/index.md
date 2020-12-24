@@ -1,10 +1,10 @@
-+++
-date = "2018-12-09"
-description = "a list of things that I use to manage my life or that I simply enjoy using"
-title = "My Life Stack"
-toc = true
-
-+++
+---
+date: "2018-12-09"
+description: a list of things that I use to manage my life or that I simply enjoy
+  using
+title: My Life Stack
+toc: true
+---
 
 ## What's a "Life Stack"?
 This is my "Life Stack". I used to call it "Stuff I Use" but "Life Stack" sounds

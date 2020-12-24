@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-11-02T18:00:43+00:00"
-dsq_thread_id = [3184137532]
-title = "Fresh Mac Installs – November 2014"
-url = "/2014/fresh-mac-installs-november-2014/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-11-02T18:00:43+00:00"
+dsq_thread_id:
+- 3184137532
+title: Fresh Mac Installs – November 2014
+url: /2014/fresh-mac-installs-november-2014/
+---
 
 <p class="pConcord">
   I just replaced my 5-year <img class="alignright wp-image-3874" src="/img/2014/11/Apple_-_iMac_with_Retina_5K-display.png" alt="Apple_-_iMac_with_Retina_5K display" width="262" height="187" srcset="/img/2014/11/Apple_-_iMac_with_Retina_5K-display.png 642w, /img/2014/11/Apple_-_iMac_with_Retina_5K-display-300x214.png 300w" sizes="(max-width: 262px) 100vw, 262px" />old 27&#8243; iMac with a beautiful new 27&#8243; Retina iMac. Normally it would be best to restore from a Time Machine backup but I decided that with 5 years of crud built up I would start from scratch. I'm sure I'll hate myself later.

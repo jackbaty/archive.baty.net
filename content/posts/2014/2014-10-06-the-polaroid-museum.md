@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-10-07T00:22:25+00:00"
-tags = ["photography", "polaroid"]
-title = "The Polaroid Museum"
-url = "/2014/the-polaroid-museum/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-10-07T00:22:25+00:00"
+tags:
+- photography
+- polaroid
+title: The Polaroid Museum
+url: /2014/the-polaroid-museum/
+---
 
 <img title="2014-10-03 12.16.51-edit.jpg" src="/img/2014/10/2014-10-03-12.16.51-edit.jpg" alt="2014 10 03 12 16 51 edit" width="450" height="600" border="0" />
 

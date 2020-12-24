@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-09-13T09:10:00+00:00"
-title = "CNET.com: Will P2P companies thrive"
-url = "/2000/cnetcom-will-p2p-companies-thrive/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-09-13T09:10:00+00:00"
+title: 'CNET.com: Will P2P companies thrive'
+url: /2000/cnetcom-will-p2p-companies-thrive/
+---
 
 [CNET.com: Will P2P companies thrive or die?][1]
 

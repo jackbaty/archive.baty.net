@@ -1,13 +1,16 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-01-28T00:00:00+00:00"
-dsq_thread_id = [3595560]
-tags = ["story", "Writing"]
-title = "Do You Wanna Get Funky With Me"
-url = "/2012/do-you-wanna-get-funky-with-me/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-01-28T00:00:00+00:00"
+dsq_thread_id:
+- 3595560
+tags:
+- story
+- Writing
+title: Do You Wanna Get Funky With Me
+url: /2012/do-you-wanna-get-funky-with-me/
+---
 
 A story about courage.
 

@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-08-17T22:46:59+00:00"
-tags = ["Blogging"]
-title = "Manton Reece’s upcoming microblogging app"
-url = "/2015/manton-reeces-upcoming-microblogging-app/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-08-17T22:46:59+00:00"
+tags:
+- Blogging
+title: Manton Reece’s upcoming microblogging app
+url: /2015/manton-reeces-upcoming-microblogging-app/
+---
 
 Manton Reece recently shared the following [Sneak peek screenshot][1] of his upcoming microblogging app.
 

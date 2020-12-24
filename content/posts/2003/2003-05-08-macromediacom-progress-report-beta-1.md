@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:12+00:00"
-title = "Macromedia.com Progress Report: Beta 1"
-url = "/2003/macromediacom-progress-report-beta-1/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:12+00:00"
+title: 'Macromedia.com Progress Report: Beta 1'
+url: /2003/macromediacom-progress-report-beta-1/
+---
 
 I'm rather impressed with the way Macromedia is handling the
   

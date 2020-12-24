@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-02-26T00:28:19+00:00"
-title = "Permalinks – Matt Gemmell"
-url = "/2015/permalinks-matt-gemmell/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-02-26T00:28:19+00:00"
+title: Permalinks – Matt Gemmell
+url: /2015/permalinks-matt-gemmell/
+---
 
 [Matt Gemmell on date-based permalinks][1]:
 

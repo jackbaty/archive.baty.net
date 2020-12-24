@@ -1,10 +1,11 @@
-+++
-date = "2019-08-06T14:53:00-04:00"
-draft = false
-tags = ["leica", "film"]
-title = "Leica M4 is out of storage"
-
-+++
+---
+date: "2019-08-06T14:53:00-04:00"
+draft: false
+tags:
+- leica
+- film
+title: Leica M4 is out of storage
+---
 
 Finally, I've gotten my beloved Leica M4 out of storage. It's been in
 a case in my basement since last year's move and that's a shame.

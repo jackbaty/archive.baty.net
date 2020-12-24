@@ -1,10 +1,10 @@
-+++
-date = "2017-06-21T19:24:52-04:00"
-slug = "following-people-vs-topics"
-tags = ["Blogging"]
-title = "Following People vs Topics"
-
-+++
+---
+date: "2017-06-21T19:24:52-04:00"
+slug: following-people-vs-topics
+tags:
+- Blogging
+title: Following People vs Topics
+---
 
 [Colin Walker](https://colinwalker.blog/2017/06/21/21062017-0910/):
 

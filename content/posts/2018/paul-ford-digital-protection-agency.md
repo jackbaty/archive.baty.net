@@ -1,12 +1,14 @@
-+++
-date = "2018-03-24T13:45:57-04:00"
-description = "It’s time for a digital protection agency. It’s clear ethics don’t scale, and it’s not just Facebook’s problem. "
-draft = false
-lastmod = "2018-03-24T13:45:57-04:00"
-tags = ["social", "Facebook"]
-title = "Facebook Is Why We Need a Digital Protection Agency - Paul Ford, Bloomberg"
-
-+++
+---
+date: "2018-03-24T13:45:57-04:00"
+description: 'It’s time for a digital protection agency. It’s clear ethics don’t scale,
+  and it’s not just Facebook’s problem. '
+draft: false
+lastmod: "2018-03-24T13:45:57-04:00"
+tags:
+- social
+- Facebook
+title: Facebook Is Why We Need a Digital Protection Agency - Paul Ford, Bloomberg
+---
 
 [Paul Ford, Bloomberg](https://www.bloomberg.com/news/articles/2018-03-21/paul-ford-facebook-is-why-we-need-a-digital-protection-agency):
 

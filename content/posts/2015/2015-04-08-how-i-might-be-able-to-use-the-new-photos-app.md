@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-04-09T00:10:33+00:00"
-tags = ["photography", "workflow"]
-title = "How I might be able to use Apple' new Photos app"
-url = "/2015/how-i-might-be-able-to-use-the-new-photos-app/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-04-09T00:10:33+00:00"
+tags:
+- photography
+- workflow
+title: How I might be able to use Apple' new Photos app
+url: /2015/how-i-might-be-able-to-use-the-new-photos-app/
+---
 
 Apple released the new Photos app today along with OS X 10.10.3. I never gave iPhoto a serious try, but I did use Aperture for a while. Photos seems to aim for somewhere between those two.
 

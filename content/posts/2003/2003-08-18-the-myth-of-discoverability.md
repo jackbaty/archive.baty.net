@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-08-18T22:33:32+00:00"
-title = "The Myth of Discoverability"
-url = "/2003/the-myth-of-discoverability/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-08-18T22:33:32+00:00"
+title: The Myth of Discoverability
+url: /2003/the-myth-of-discoverability/
+---
 
 From [The Myth of Discoverability][1]&#8230;
   

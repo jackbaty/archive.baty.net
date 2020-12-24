@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-06-24T18:12:21+00:00"
-title = "Movie recommendations"
-url = "/2004/movie-recommendations/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-06-24T18:12:21+00:00"
+title: Movie recommendations
+url: /2004/movie-recommendations/
+---
 
 [The Station Agent][1]
 

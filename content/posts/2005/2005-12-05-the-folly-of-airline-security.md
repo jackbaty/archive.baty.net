@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-12-05T20:54:29+00:00"
-title = "The folly of airline security"
-url = "/2005/the-folly-of-airline-security/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-12-05T20:54:29+00:00"
+title: The folly of airline security
+url: /2005/the-folly-of-airline-security/
+---
 
 > 
 > 

@@ -1,13 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-04-27T00:00:00+00:00"
-dsq_thread_id = [3595694]
-tags = ["software"]
-title = "No New Tools?"
-url = "/2014/no-new-tools/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-04-27T00:00:00+00:00"
+dsq_thread_id:
+- 3595694
+tags:
+- software
+title: No New Tools?
+url: /2014/no-new-tools/
+---
 
 [Frank Chimero][1]:
 

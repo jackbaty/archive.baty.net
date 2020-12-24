@@ -1,10 +1,10 @@
-+++
-date = "2016-12-09T07:28:40-05:00"
-slug = "permanent-vs-useful"
-tags = ["blogging"]
-title = "Permanent vs Useful"
-
-+++
+---
+date: "2016-12-09T07:28:40-05:00"
+slug: permanent-vs-useful
+tags:
+- blogging
+title: Permanent vs Useful
+---
 
 The ideal website is static and hosted on a simple service like Amazon S3 or a
 cheap VPS. As long as someone keeps paying the bill, a static website will be

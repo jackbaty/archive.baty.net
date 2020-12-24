@@ -1,9 +1,8 @@
-+++
-date = "2016-11-27T12:18:07-05:00"
-slug = "the-new-macbook-pro-is-kind-of-great-for-hackers"
-title = "The new MacBook Pro is kind of great for hackers"
-
-+++
+---
+date: "2016-11-27T12:18:07-05:00"
+slug: the-new-macbook-pro-is-kind-of-great-for-hackers
+title: The new MacBook Pro is kind of great for hackers
+---
 
 [Adam Geitgey](https://medium.com/@ageitgey/the-new-macbook-pro-is-kind-of-great-for-hackers-64c1c577a4d2#.1bdzzxigx):
 

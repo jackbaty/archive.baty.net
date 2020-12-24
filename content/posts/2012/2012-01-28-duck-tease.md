@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-01-28T00:00:00+00:00"
-tags = ["story", "Writing"]
-title = "Duck Tease"
-url = "/2012/duck-tease/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-01-28T00:00:00+00:00"
+tags:
+- story
+- Writing
+title: Duck Tease
+url: /2012/duck-tease/
+---
 
 ## A story about accidents
           

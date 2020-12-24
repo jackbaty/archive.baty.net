@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-08-25T14:25:18+00:00"
-title = "Nielsen: Usability 101"
-url = "/2003/nielsen-usability-101/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-08-25T14:25:18+00:00"
+title: 'Nielsen: Usability 101'
+url: /2003/nielsen-usability-101/
+---
 
 [Jakob Nielsen][1]:
   

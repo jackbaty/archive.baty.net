@@ -1,10 +1,12 @@
-+++
-date = "2017-02-24T20:46:22-05:00"
-slug = "mailhub-and-apple-mail"
-tags = ["Apple", "Email", "Mailhub"]
-title = "Mailhub and Apple Mail"
-
-+++
+---
+date: "2017-02-24T20:46:22-05:00"
+slug: mailhub-and-apple-mail
+tags:
+- Apple
+- Email
+- Mailhub
+title: Mailhub and Apple Mail
+---
 
 
 I’ve been reeling things in lately, software-wise. I’ll write more about

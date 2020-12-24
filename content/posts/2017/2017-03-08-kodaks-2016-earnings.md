@@ -1,10 +1,11 @@
-+++
-date = "2017-03-08T11:38:13-05:00"
-slug = "kodaks-2016-earnings"
-tags = ["Kodak", "Film"]
-title = "Kodak's 2016 Earnings"
-
-+++
+---
+date: "2017-03-08T11:38:13-05:00"
+slug: kodaks-2016-earnings
+tags:
+- Kodak
+- Film
+title: Kodak's 2016 Earnings
+---
 
 [Kodak](http://htl.li/IzYN309GtdO):
 

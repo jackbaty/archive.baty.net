@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-06-02T20:14:11+00:00"
-title = "Gravity’s Rainbow"
-url = "/2004/gravitys-rainbow/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-06-02T20:14:11+00:00"
+title: Gravity’s Rainbow
+url: /2004/gravitys-rainbow/
+---
 
 I'm not smart enough to understand the books I'm interested in reading. I recently finished _Everything and More: A Compact History of Infinity_ by David Foster Wallace. Neat, but honestly I only understood about half of it, and I'm unsure which half.
 

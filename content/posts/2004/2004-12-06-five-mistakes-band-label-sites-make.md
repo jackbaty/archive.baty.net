@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-12-06T17:03:22+00:00"
-title = "Five Mistakes Band & Label Sites Make"
-url = "/2004/five-mistakes-band-label-sites-make/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-12-06T17:03:22+00:00"
+title: Five Mistakes Band & Label Sites Make
+url: /2004/five-mistakes-band-label-sites-make/
+---
 
 Mr. Merlin over at 43Folders drops a lovely piece entitled [Five Mistakes Band & Label Sites Make][1]. Most of the mistakes apply to _any_ type of site. A few short quotes below, but read the whole thing anyway&#8230;
 

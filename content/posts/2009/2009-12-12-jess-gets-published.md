@@ -1,12 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2009-12-12T16:26:18+00:00"
-tags = ["Jess", "personal", "photography"]
-title = "Jess gets published"
-url = "/2009/jess-gets-published/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2009-12-12T16:26:18+00:00"
+tags:
+- Jess
+- personal
+- photography
+title: Jess gets published
+url: /2009/jess-gets-published/
+---
 
 <img src="/files/jess-published-sm.jpg" alt="jess-published-sm.jpg" border="0" width="600" height="269" />
 

@@ -1,10 +1,12 @@
-+++
-date = "2017-10-15T12:58:43-04:00"
-description = "I'm feeling very text-based and cli-driven today"
-tags = ["text", "cli", "workflow"]
-title = "Some text-based things today"
-
-+++
+---
+date: "2017-10-15T12:58:43-04:00"
+description: I'm feeling very text-based and cli-driven today
+tags:
+- text
+- cli
+- workflow
+title: Some text-based things today
+---
 
 A couple times a year I find myself in an all-text-for-all-things mood and today was one of those days. This is different from my similar put-everything-in-emacs mood, as it involves neither Emacs nor Org Mode.
 

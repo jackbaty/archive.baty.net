@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2006-06-10T18:29:39+00:00"
-dsq_thread_id = [3131256055]
-title = "Good Rants"
-url = "/2006/good-rants/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2006-06-10T18:29:39+00:00"
+dsq_thread_id:
+- 3131256055
+title: Good Rants
+url: /2006/good-rants/
+---
 
 If you’re gonna rant, you should be pretty good at it.  [Like this guy][1]. Here’s one on Salmonella Hysteria
 

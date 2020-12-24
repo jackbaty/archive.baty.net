@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-04-18T14:19:25+00:00"
-title = "Too many browsers"
-url = "/2005/too-many-browsers/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-04-18T14:19:25+00:00"
+title: Too many browsers
+url: /2005/too-many-browsers/
+---
 
 Well I've narrowed it down at least. It went like this: I'd used [Firefox][1] on Windows since it was like Phoenix 0.5 and never even considered IE after that. It kept getting better and better, with oodles of extensions to keep me busy. No problem. Then, I [switched][2] to a Mac, thinking Firefox would follow me along, and it did &#8211; for a while.
 

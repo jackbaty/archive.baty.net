@@ -1,12 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-11-28T11:34:48+00:00"
-tags = ["Blogging", "emacs", "orgmode"]
-title = "Publishing My Notes Using Org Mode"
-url = "/2015/publishing-my-notes-using-org-mode/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-11-28T11:34:48+00:00"
+tags:
+- Blogging
+- emacs
+- orgmode
+title: Publishing My Notes Using Org Mode
+url: /2015/publishing-my-notes-using-org-mode/
+---
 
 I write things down as they occur to me and I sometimes want to share them because that’s what we do now. For the past couple of years I’ve maintained a static site containing these notes at [notes.baty.net][1]. I used Dave Winer’s excellent outliner [Fargo][2] as both the authoring and publishing tool. Fargo works great, but I changed it all yesterday to use [Org Mode][3] instead.
 

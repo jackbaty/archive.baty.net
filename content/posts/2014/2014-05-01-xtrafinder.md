@@ -1,13 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-05-01T00:00:00+00:00"
-dsq_thread_id = [3595695]
-tags = ["software"]
-title = "XtraFinder"
-url = "/2014/xtrafinder/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-05-01T00:00:00+00:00"
+dsq_thread_id:
+- 3595695
+tags:
+- software
+title: XtraFinder
+url: /2014/xtrafinder/
+---
 
 <img src="/img/2014/XtraFinder.png" alt="XtraFinder" class="postimage" />
   

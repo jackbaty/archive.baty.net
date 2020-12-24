@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:12+00:00"
-title = "PHPosxom, Wikis, and the Tao of *osxom"
-url = "/2003/phposxom-wikis-and-the-tao-of-osxom/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:12+00:00"
+title: PHPosxom, Wikis, and the Tao of *osxom
+url: /2003/phposxom-wikis-and-the-tao-of-osxom/
+---
 
 There’s some interesting things beginning to happen in the world of [PHPosxom][1]
 

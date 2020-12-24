@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-10-28T18:15:19+00:00"
-title = "TaskPaper"
-url = "/2007/taskpaper/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-10-28T18:15:19+00:00"
+title: TaskPaper
+url: /2007/taskpaper/
+---
 
 I've been using OmniFocus for a while as my GTD weapon of choice and it's a lovely app. As a matter of fact it is too much of a lovely app. OmniFocus is one of those things that makes it fun to tweak and play endlessly. That there's the problem; I'm guilty of playing with the system rather than using it. Again. 
 

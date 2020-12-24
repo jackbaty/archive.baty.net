@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-04-04T22:13:18+00:00"
-tags = ["geek"]
-title = "Giving Mail.app another shot"
-url = "/2008/giving-mailapp-another-shot/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-04-04T22:13:18+00:00"
+tags:
+- geek
+title: Giving Mail.app another shot
+url: /2008/giving-mailapp-another-shot/
+---
 
 Gmail is just so damn good that I haven't used a desktop email client in years. Desktop apps are always better than their web-based counterparts. Gmail is the exception. I can think of no other case where a web-based version of an app is better than a good desktop app. Google Docs and Spreadsheets vs Pages and Numbers? Nope. Mindomo, Mindmeister, etc. vs MindManager. Not even close. Photoshop Express vs Photoshop Elements? Nuh uh. The convenience of having stuff in the cloud is not enough to compensate for the user experience sacrifices I have to make.
 

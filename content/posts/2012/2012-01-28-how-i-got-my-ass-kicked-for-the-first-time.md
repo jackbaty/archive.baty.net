@@ -1,13 +1,16 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-01-28T00:00:00+00:00"
-dsq_thread_id = [3595555]
-tags = ["story", "Writing"]
-title = "How I Got My Ass Kicked for the First Time"
-url = "/2012/how-i-got-my-ass-kicked-for-the-first-time/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-01-28T00:00:00+00:00"
+dsq_thread_id:
+- 3595555
+tags:
+- story
+- Writing
+title: How I Got My Ass Kicked for the First Time
+url: /2012/how-i-got-my-ass-kicked-for-the-first-time/
+---
 
 A story about revenge
 

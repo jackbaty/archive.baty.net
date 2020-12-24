@@ -1,10 +1,11 @@
-+++
-date = "2017-03-11T10:25:52-05:00"
-slug = "ona-bowery-bag"
-tags = ["Hardware", "Photography"]
-title = "ONA Bowery Bag"
-
-+++
+---
+date: "2017-03-11T10:25:52-05:00"
+slug: ona-bowery-bag
+tags:
+- Hardware
+- Photography
+title: ONA Bowery Bag
+---
 
 {{< figure src="/img/2017/ona-bowery.jpg" title="" >}}
 

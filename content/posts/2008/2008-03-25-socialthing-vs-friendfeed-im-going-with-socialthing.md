@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-03-25T21:26:00+00:00"
-tags = ["geek"]
-title = "Socialthing! vs FriendFeed. I’m going with Socialthing!"
-url = "/2008/socialthing-vs-friendfeed-im-going-with-socialthing/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-03-25T21:26:00+00:00"
+tags:
+- geek
+title: Socialthing! vs FriendFeed. I’m going with Socialthing!
+url: /2008/socialthing-vs-friendfeed-im-going-with-socialthing/
+---
 
 [FriendFeed][1] has all the social network aggregation momentum right now, and it's a pretty sweet service. Here's my quick and dirty opinion on FriendFeed vs [Socialthing!][2]
 

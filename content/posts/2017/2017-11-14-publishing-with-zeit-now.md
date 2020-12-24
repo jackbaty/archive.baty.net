@@ -1,12 +1,13 @@
-+++
-date = "2017-11-14T12:22:01-04:00"
-description = "Using Zeit Now to publish my notes as a static site"
-draft = false
-slug = "publishing-with-zeit-now"
-tags = ["blogging", "static"]
-title = "Publishing a static blog with Zeit Now"
-
-+++
+---
+date: "2017-11-14T12:22:01-04:00"
+description: Using Zeit Now to publish my notes as a static site
+draft: false
+slug: publishing-with-zeit-now
+tags:
+- blogging
+- static
+title: Publishing a static blog with Zeit Now
+---
 
 I decided to use my Tinderbox-generated static blog as a real world test of https://zeit.co.
 

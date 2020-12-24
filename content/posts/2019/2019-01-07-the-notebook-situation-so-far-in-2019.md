@@ -1,13 +1,18 @@
-+++
-author = "Jack"
-categories = ["Analog"]
-date = "2019-01-08T01:34:37+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-tags = ["bulletjournal", "hobonichi", "moleskine", "notebook"]
-title = "The notebook situation so far in 2019"
-url = "/2019/the-notebook-situation-so-far-in-2019/"
-
-+++
+---
+author: Jack
+categories:
+- Analog
+date: "2019-01-08T01:34:37+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+tags:
+- bulletjournal
+- hobonichi
+- moleskine
+- notebook
+title: The notebook situation so far in 2019
+url: /2019/the-notebook-situation-so-far-in-2019/
+---
 <figure class="wp-block-image"><img src="/img/2019/notebooks.jpg" alt="" /><figcaption><h4>Hobonichi Techo and Moleskine Sketchbook</h4></figcaption></figure> 
 
 My notebook configuration looks nothing like I planned it just a week ago. I had intended to keep things [just like last year][1] but nope.

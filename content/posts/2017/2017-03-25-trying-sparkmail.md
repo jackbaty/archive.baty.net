@@ -1,11 +1,11 @@
-+++
-date = "2017-03-25T10:58:15-04:00"
-draft = false
-slug = "trying-sparkmail"
-tags = ["Email"]
-title = "Giving Spark Mail a Try"
-
-+++
+---
+date: "2017-03-25T10:58:15-04:00"
+draft: false
+slug: trying-sparkmail
+tags:
+- Email
+title: Giving Spark Mail a Try
+---
 
 I love email. In spite of its faults, email is the most reliable way to
 communicate with anyone, anywhere, anytime. It's been this way for decades. It

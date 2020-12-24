@@ -1,18 +1,26 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2013-10-13T00:00:00+00:00"
-tags = ["film", "photography"]
-title = "Now, about that 35mm film…"
-tz_audio_format = ["mp3"]
-tz_gallery_captions = ["true"]
-tz_gallery_format = ["-=set slideshow type=-"]
-tz_gallery_margins = [10]
-tz_gallery_randomize = ["false"]
-tz_gallery_targetheight = [200]
-url = "/2013/now-about-that-35mm-film/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2013-10-13T00:00:00+00:00"
+tags:
+- film
+- photography
+title: Now, about that 35mm film…
+tz_audio_format:
+- mp3
+tz_gallery_captions:
+- "true"
+tz_gallery_format:
+- -=set slideshow type=-
+tz_gallery_margins:
+- 10
+tz_gallery_randomize:
+- "false"
+tz_gallery_targetheight:
+- 200
+url: /2013/now-about-that-35mm-film/
+---
 
 <div>
   <div>

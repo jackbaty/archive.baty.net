@@ -1,10 +1,12 @@
-+++
-categories = ["Software"]
-date = "2020-12-22"
-tags = ["TiddlyWiki", "Wiki"]
-title = "Saving local TiddlyWiki files using WebDAV"
-
-+++
+---
+categories:
+- Software
+date: "2020-12-22"
+tags:
+- TiddlyWiki
+- Wiki
+title: Saving local TiddlyWiki files using WebDAV
+---
 
 [TiddlyWiki](https://tiddlywiki.com) is an amazing, powerful, flexible, fun bit of software. I use it for various project notes and logs, but mostly I use it for my wiki at [rudimentarylathe.wiki](https://rudimentarylathe.wiki).
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-03-03T12:51:29+00:00"
-title = "But they’re missing something"
-url = "/2005/but-theyre-missing-something/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-03-03T12:51:29+00:00"
+title: But they’re missing something
+url: /2005/but-theyre-missing-something/
+---
 
 Can you tell what's missing from this Intel Mac Mini wannabe?
 

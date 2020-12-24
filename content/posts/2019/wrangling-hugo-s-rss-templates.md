@@ -1,10 +1,10 @@
-+++
-date = "2019-07-06T09:21:00-04:00"
-draft = false
-tags = ["hugo"]
-title = "Wrangling Hugo's RSS templates"
-
-+++
+---
+date: "2019-07-06T09:21:00-04:00"
+draft: false
+tags:
+- hugo
+title: Wrangling Hugo's RSS templates
+---
 
 I just lost an hour "fixing" [Hugo's](https://gohugo.io/) handling of RSS feeds.
 

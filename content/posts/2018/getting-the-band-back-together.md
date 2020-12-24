@@ -1,12 +1,12 @@
-+++
-date = "2018-04-14T11:37:41-04:00"
-description = "I've changed my mind and my workflow...again"
-draft = false
-lastmod = "2018-04-14T11:37:41-04:00"
-tags = ["workflow"]
-title = "Getting the GTD Band Back Together"
-
-+++
+---
+date: "2018-04-14T11:37:41-04:00"
+description: I've changed my mind and my workflow...again
+draft: false
+lastmod: "2018-04-14T11:37:41-04:00"
+tags:
+- workflow
+title: Getting the GTD Band Back Together
+---
 
 <img src="/img/2018/band-back-together.png" alt="My doc"/>
 

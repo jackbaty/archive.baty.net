@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2009-11-11T21:44:20+00:00"
-dsq_thread_id = [3131254173]
-title = "The precultural paradigm of expression in the works of Pynchon"
-url = "/2009/the-precultural-paradigm-of-expression-in-the-works-of-pynchon/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2009-11-11T21:44:20+00:00"
+dsq_thread_id:
+- 3131254173
+title: The precultural paradigm of expression in the works of Pynchon
+url: /2009/the-precultural-paradigm-of-expression-in-the-works-of-pynchon/
+---
 
 ### Discourses of stasis
 

@@ -1,13 +1,15 @@
-+++
-author = "Jack"
-categories = ["Photography"]
-date = "2018-12-24T21:47:04+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-tags = ["lightroom"]
-title = "Conceding that I’ve lost the Headline vs. Title battle"
-url = "/2018/conceding-that-ive-lost-the-headline-vs-title-battle/"
-
-+++
+---
+author: Jack
+categories:
+- Photography
+date: "2018-12-24T21:47:04+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+tags:
+- lightroom
+title: Conceding that I’ve lost the Headline vs. Title battle
+url: /2018/conceding-that-ive-lost-the-headline-vs-title-battle/
+---
 The [IPTC Metadata Standard][1] defines the &#8220;Title&#8221; attribute like this:
 
 <blockquote class="wp-block-quote">

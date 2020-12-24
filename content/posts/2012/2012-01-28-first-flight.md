@@ -1,13 +1,16 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-01-28T00:00:00+00:00"
-dsq_thread_id = [3595558]
-tags = ["story", "Writing"]
-title = "First Flight"
-url = "/2012/first-flight/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-01-28T00:00:00+00:00"
+dsq_thread_id:
+- 3595558
+tags:
+- story
+- Writing
+title: First Flight
+url: /2012/first-flight/
+---
 
 ## A story about flying
           

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2001-01-19T07:51:43+00:00"
-title = "Web Sites Begin to Self"
-url = "/2001/web-sites-begin-to-self/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2001-01-19T07:51:43+00:00"
+title: Web Sites Begin to Self
+url: /2001/web-sites-begin-to-self/
+---
 
 [Web Sites Begin to Self Organize][1]
 

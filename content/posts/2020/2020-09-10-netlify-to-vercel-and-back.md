@@ -1,10 +1,11 @@
-+++
-categories = ["Software"]
-date = "2020-09-10"
-tags = ["Static"]
-title = "From Netlify to Vercel and Back"
-
-+++
+---
+categories:
+- Software
+date: "2020-09-10"
+tags:
+- Static
+title: From Netlify to Vercel and Back
+---
 
 Baty.net has been a [Hugo](https://gohugo.io)-managed static site for a few years now. I've been using [Netlify](https://netlify.com) for hosting this latest iteration, but I thought I'd give [Vercel](https://vercel.com) (formerly Zeit) a try.
 

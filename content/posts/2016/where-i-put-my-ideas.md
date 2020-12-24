@@ -1,11 +1,12 @@
-+++
-date = "2016-07-04T10:21:37-04:00"
-description = ""
-tags = ["blogging", "writing"]
-title = "Where I put my ideas - Dave Winer"
-topics = []
-
-+++
+---
+date: "2016-07-04T10:21:37-04:00"
+description: ""
+tags:
+- blogging
+- writing
+title: Where I put my ideas - Dave Winer
+topics: []
+---
 
 [Dave Winer](http://scripting.com/2016/07/02/1345.html):
 

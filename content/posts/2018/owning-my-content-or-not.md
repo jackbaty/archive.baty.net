@@ -1,10 +1,10 @@
-+++
-date = "2018-08-11T11:34:56-04:00"
-description = "Not all content is worth owning"
-tags = ["blogging"]
-title = "Owning My Content - Or Not"
-
-+++
+---
+date: "2018-08-11T11:34:56-04:00"
+description: Not all content is worth owning
+tags:
+- blogging
+title: Owning My Content - Or Not
+---
 
 I am in 100% agreement with the concept of "Owning Your Content". I have had my
 own blog on my own domain for going on twenty years and have no plans to stop.

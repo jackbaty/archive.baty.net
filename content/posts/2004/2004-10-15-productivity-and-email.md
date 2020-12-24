@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-10-15T14:51:28+00:00"
-title = "Productivity and Email"
-url = "/2004/productivity-and-email/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-10-15T14:51:28+00:00"
+title: Productivity and Email
+url: /2004/productivity-and-email/
+---
 
 I was going to write a long rant about the negative impact that email has on productivity, but [this post][1] pretty much nails it.
 

@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2009-12-05T13:31:46+00:00"
-tags = ["geek"]
-title = "Inbox NULL"
-url = "/2009/inbox-null/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2009-12-05T13:31:46+00:00"
+tags:
+- geek
+title: Inbox NULL
+url: /2009/inbox-null/
+---
 
 <img src="/files/InboxNull-2.jpg" alt="InboxNull-2.jpg" border="0" width="525" height="337" />
 

@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-12-25T00:00:00+00:00"
-tags = ["music"]
-title = "Swans – The Seer"
-url = "/2012/swans-the-seer/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-12-25T00:00:00+00:00"
+tags:
+- music
+title: Swans – The Seer
+url: /2012/swans-the-seer/
+---
 
 <div>
   <div>

@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-05-12T14:32:35+00:00"
-tags = ["nostalgia", "paper"]
-title = "Reading the Newspaper"
-url = "/2012/20125reading-the-newspaper/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-05-12T14:32:35+00:00"
+tags:
+- nostalgia
+- paper
+title: Reading the Newspaper
+url: /2012/20125reading-the-newspaper/
+---
 
 Most Sunday mornings I grab a cup of coffee and my iPad to catch up on feeds and articles I've saved to Instapaper during the week. It's a ritual similar to that of reading the Sunday paper.
 

@@ -1,11 +1,11 @@
-+++
-date = "2016-08-17T06:42:56-04:00"
-description = ""
-tags = ["science"]
-title = "Gloating About the Climate"
-topics = []
-
-+++
+---
+date: "2016-08-17T06:42:56-04:00"
+description: ""
+tags:
+- science
+title: Gloating About the Climate
+topics: []
+---
 
 As has been pointed out everywhere, July 2016 was the warmest month we've seen,
 ever. As a sane person, I understand that climate change is real and remains a

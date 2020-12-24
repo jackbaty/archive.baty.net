@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-06-26T16:53:17+00:00"
-tags = ["Amazon", "hardware"]
-title = "The Amazon Echo"
-url = "/2015/the-amazon-echo/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-06-26T16:53:17+00:00"
+tags:
+- Amazon
+- hardware
+title: The Amazon Echo
+url: /2015/the-amazon-echo/
+---
 
 [<img class=" size-full wp-image-4626 alignnone" src="/img/2015/06/echo.jpg" alt="echo" width="573" height="350" srcset="/img/2015/06/echo.jpg 573w, /img/2015/06/echo-300x183.jpg 300w" sizes="(max-width: 573px) 100vw, 573px" />][1]
 

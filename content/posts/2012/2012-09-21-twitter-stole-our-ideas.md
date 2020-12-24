@@ -1,13 +1,16 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2012-09-21T00:00:00+00:00"
-dsq_thread_id = [3595570]
-tags = ["social", "twitter"]
-title = "Twitter Stole Our Ideas"
-url = "/2012/twitter-stole-our-ideas/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2012-09-21T00:00:00+00:00"
+dsq_thread_id:
+- 3595570
+tags:
+- social
+- twitter
+title: Twitter Stole Our Ideas
+url: /2012/twitter-stole-our-ideas/
+---
 
 <div>
   <div>

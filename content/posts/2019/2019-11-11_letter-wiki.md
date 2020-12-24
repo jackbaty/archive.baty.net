@@ -1,8 +1,7 @@
-+++
-date = "2019-11-11T09:19:36-05:00"
-title = "Letter.wiki"
-
-+++
+---
+date: "2019-11-11T09:19:36-05:00"
+title: Letter.wiki
+---
 
 I like the idea of [Letter.wiki](https://letter.wiki/conversations).
 

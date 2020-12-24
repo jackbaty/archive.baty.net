@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-01-27T23:13:44+00:00"
-title = "Tech Notes for today mod_ssl and mod_deflate"
-url = "/2007/tech-notes-for-today-mod_ssl-and-mod_deflate/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-01-27T23:13:44+00:00"
+title: Tech Notes for today mod_ssl and mod_deflate
+url: /2007/tech-notes-for-today-mod_ssl-and-mod_deflate/
+---
 
 It's the little things in a sysadmin's life that can drive him to drink. Example? Certainly&#8230; 
 

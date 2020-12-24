@@ -1,11 +1,12 @@
-+++
-date = "2017-04-11T20:57:57-04:00"
-draft = false
-slug = "snaps-from-dads-birthday"
-tags = ["Family", "Film"]
-title = "Snaps From My Dad's Birthday"
-
-+++
+---
+date: "2017-04-11T20:57:57-04:00"
+draft: false
+slug: snaps-from-dads-birthday
+tags:
+- Family
+- Film
+title: Snaps From My Dad's Birthday
+---
 
 I shot a roll of Tri-X with the F3 at my dad's house while celebrating his 76th birthday.
 

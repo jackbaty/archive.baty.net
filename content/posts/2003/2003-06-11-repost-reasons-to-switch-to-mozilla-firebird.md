@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-06-12T03:28:14+00:00"
-title = "Repost: Reasons to switch to Mozilla Firebird"
-url = "/2003/repost-reasons-to-switch-to-mozilla-firebird/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-06-12T03:28:14+00:00"
+title: 'Repost: Reasons to switch to Mozilla Firebird'
+url: /2003/repost-reasons-to-switch-to-mozilla-firebird/
+---
 
 I'm going to post this again. [Reasons to switch
   

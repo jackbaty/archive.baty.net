@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2013-11-01T00:00:00+00:00"
-tags = ["film", "photography"]
-title = "Walking around with the M3"
-url = "/2013/walking-around-with-the-m3/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2013-11-01T00:00:00+00:00"
+tags:
+- film
+- photography
+title: Walking around with the M3
+url: /2013/walking-around-with-the-m3/
+---
 
 I hadn't shot a deliberate photo in a week, so I grabbed the M3 off the shelf, loaded it up with some HP5 and started walking. The goal was to keep going until the roll was used up.
 

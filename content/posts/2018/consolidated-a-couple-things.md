@@ -1,10 +1,12 @@
-+++
-date = "2018-09-22T16:55:16-04:00"
-lastmod = "2018-09-22T16:55:16-04:00"
-tags = ["workflow", "github", "dropbox"]
-title = "Consolidated a Couple Things Today"
-
-+++
+---
+date: "2018-09-22T16:55:16-04:00"
+lastmod: "2018-09-22T16:55:16-04:00"
+tags:
+- workflow
+- github
+- dropbox
+title: Consolidated a Couple Things Today
+---
 
 Things were starting to sprawl around here, so I've consolidated some of the services I use.
 

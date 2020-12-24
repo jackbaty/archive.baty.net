@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-08-11T22:30:48+00:00"
-title = "Switching to Mozilla"
-url = "/2003/switching-to-mozilla/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-08-11T22:30:48+00:00"
+title: Switching to Mozilla
+url: /2003/switching-to-mozilla/
+---
 
 Keith Robinson offers a few, now familiar [reasons to switch to Mozilla][1] .
   

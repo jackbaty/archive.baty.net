@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-12-30T21:20:39+00:00"
-tags = ["Fusionary", "personal"]
-title = "Club Thievey"
-url = "/2007/club-thievey/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-12-30T21:20:39+00:00"
+tags:
+- Fusionary
+- personal
+title: Club Thievey
+url: /2007/club-thievey/
+---
 
 <img src="/files/thievey.jpg" alt="thievey.jpg" border="0" width="188" align="right" height="242" />
 

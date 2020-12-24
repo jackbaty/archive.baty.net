@@ -1,10 +1,12 @@
-+++
-date = "2016-11-05T12:40:43-04:00"
-slug = "photomemo-photographers-memo-book"
-tags = ["photography", "analog", "notebook"]
-title = "PhotoMemo Photographer's Memo Book"
-
-+++
+---
+date: "2016-11-05T12:40:43-04:00"
+slug: photomemo-photographers-memo-book
+tags:
+- photography
+- analog
+- notebook
+title: PhotoMemo Photographer's Memo Book
+---
 ![PhotoMemo book](/img/2016/photomemo-notebook.jpg)
 
 I've gotten lazy when it comes to recording information about film rolls. This,

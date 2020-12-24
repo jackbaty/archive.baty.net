@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-10-22T04:15:09+00:00"
-title = "Poetry by Proxy"
-url = "/2003/poetry-by-proxy/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-10-22T04:15:09+00:00"
+title: Poetry by Proxy
+url: /2003/poetry-by-proxy/
+---
 
 A Thousand Kisses Deep Leonard Cohen
 

@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-12-05T04:28:37+00:00"
-tags = ["personal"]
-title = "First Flight"
-url = "/2008/first-flight-2/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-12-05T04:28:37+00:00"
+tags:
+- personal
+title: First Flight
+url: /2008/first-flight-2/
+---
 
 Tom, John and Frank were the three brothers who lived in the house directly across the street from me.
 

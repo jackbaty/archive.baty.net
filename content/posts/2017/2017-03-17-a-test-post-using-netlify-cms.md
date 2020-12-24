@@ -1,9 +1,11 @@
-+++
-date = "2017-03-17T14:05:28.481Z"
-tags = ["Netlify", "CMS", "Static"]
-title = "A test post using Netlify CMS"
-
-+++
+---
+date: "2017-03-17T14:05:28.481Z"
+tags:
+- Netlify
+- CMS
+- Static
+title: A test post using Netlify CMS
+---
 
 One of the things preventing “normal” people from using a static CMS is that there’s not a comfortable way to for them to edit and preview content. I myself *prefer* editing markdown in a local text editor. Most people don’t work well that way.
 

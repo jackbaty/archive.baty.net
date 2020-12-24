@@ -1,11 +1,11 @@
-+++
-date = "2017-03-20T14:36:10-04:00"
-draft = false
-slug = "dimension-of-miracles"
-tags = ["Book"]
-title = "Dimension of Miracles (Book)"
-
-+++
+---
+date: "2017-03-20T14:36:10-04:00"
+draft: false
+slug: dimension-of-miracles
+tags:
+- Book
+title: Dimension of Miracles (Book)
+---
 
 ![Dimension of Miracles](/img/2017/DimensionOfMiracles.jpg)
 

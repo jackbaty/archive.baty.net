@@ -1,10 +1,13 @@
-+++
-date = "2017-05-11"
-slug = "first-time-printing-with-the-focomat-iic"
-tags = ["photography", "analog", "darkroom", "leica"]
-title = "First time printing with the Focomat IIc"
-
-+++
+---
+date: "2017-05-11"
+slug: first-time-printing-with-the-focomat-iic
+tags:
+- photography
+- analog
+- darkroom
+- leica
+title: First time printing with the Focomat IIc
+---
 
 I'm still working on restoring a Focomat IIc. It's been a bit of a struggle, but I reached a milestone this week: I made some prints!
 

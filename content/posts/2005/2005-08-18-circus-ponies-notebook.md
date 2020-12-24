@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-08-18T22:30:26+00:00"
-title = "Circus Ponies Notebook"
-url = "/2005/circus-ponies-notebook/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-08-18T22:30:26+00:00"
+title: Circus Ponies Notebook
+url: /2005/circus-ponies-notebook/
+---
 
 It's amazing how my perception of a particular piece of software can change over time. Some apps have tricked me into liking them, only to eventually fail. Others I've tried and hated, then grown to love. An example of the latter is [Circus Ponies Notebook][1].
 

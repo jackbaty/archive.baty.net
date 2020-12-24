@@ -1,11 +1,12 @@
-+++
-date = "2016-09-01T06:49:00-04:00"
-description = ""
-tags = ["Facebook", "open web"]
-title = "Why Tim Berners-Lee is no friend of Facebook - The Guardian"
-topics = []
-
-+++
+---
+date: "2016-09-01T06:49:00-04:00"
+description: ""
+tags:
+- Facebook
+- open web
+title: Why Tim Berners-Lee is no friend of Facebook - The Guardian
+topics: []
+---
 
 [John Naughton](https://www.theguardian.com/commentisfree/2016/aug/28/tim-berners-lee-open-web-mark-zuckerberg-facebook):
 

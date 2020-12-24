@@ -1,10 +1,11 @@
-+++
-date = "2018-07-07T07:56:46-04:00"
-description = "Roon was crashing but now it's not"
-tags = ["roon", "macos"]
-title = "Fixing Roon on Mojave beta"
-
-+++
+---
+date: "2018-07-07T07:56:46-04:00"
+description: Roon was crashing but now it's not
+tags:
+- roon
+- macos
+title: Fixing Roon on Mojave beta
+---
 
 [Roon](https://roonlabs.com) would not launch after I installed the Mojave
 public beta 2 on my iMac. I found [this

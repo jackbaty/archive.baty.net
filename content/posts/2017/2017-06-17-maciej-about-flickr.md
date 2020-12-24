@@ -1,10 +1,10 @@
-+++
-date = "2017-06-17T07:53:47-04:00"
-slug = "maciej-about-flickr"
-tags = ["Flickr"]
-title = "Maciej makes a terrific suggestion about Flickr"
-
-+++
+---
+date: "2017-06-17T07:53:47-04:00"
+slug: maciej-about-flickr
+tags:
+- Flickr
+title: Maciej makes a terrific suggestion about Flickr
+---
 
 In an interview on The Verge about his recent Delicious
 acquisition, [Maciej Cegłowski](https://www.theverge.com/2017/6/12/15746916/pinboard-founder-maciej-ceglowski-interview-yahoo-delicious-fandom) says:

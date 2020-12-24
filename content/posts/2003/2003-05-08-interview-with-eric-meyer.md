@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:12+00:00"
-title = "Interview with Eric Meyer"
-url = "/2003/interview-with-eric-meyer/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:12+00:00"
+title: Interview with Eric Meyer
+url: /2003/interview-with-eric-meyer/
+---
 
 UIE: .[Interview with
   

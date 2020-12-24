@@ -1,13 +1,16 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-04-06T00:00:00+00:00"
-dsq_thread_id = [3595689]
-tags = ["development", "productivity"]
-title = "Personal Kanban"
-url = "/2014/personal-kanban/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-04-06T00:00:00+00:00"
+dsq_thread_id:
+- 3595689
+tags:
+- development
+- productivity
+title: Personal Kanban
+url: /2014/personal-kanban/
+---
 
 <img src="/img/2014/personal-kanban.jpg" alt="Personal Kanban" class="postimage" />
   

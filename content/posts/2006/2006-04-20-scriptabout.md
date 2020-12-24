@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2006-04-20T19:32:01+00:00"
-dsq_thread_id = [3131255977]
-title = "./script/about"
-url = "/2006/scriptabout/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2006-04-20T19:32:01+00:00"
+dsq_thread_id:
+- 3131255977
+title: ./script/about
+url: /2006/scriptabout/
+---
 
 I use Ruby on Rails every day and \*just now\* discovered you can run ./script/about from your Rails app root. Here's some sample output&#8230; 
 

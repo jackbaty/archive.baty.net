@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:12+00:00"
-title = "The Principle of Good Enough"
-url = "/2003/the-principle-of-good-enough/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:12+00:00"
+title: The Principle of Good Enough
+url: /2003/the-principle-of-good-enough/
+---
 
 I worry that I'm often seen as too willing to compromise on projects,
   

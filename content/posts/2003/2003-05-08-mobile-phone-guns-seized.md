@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:11+00:00"
-title = "Mobile phone guns seized"
-url = "/2003/mobile-phone-guns-seized/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:11+00:00"
+title: Mobile phone guns seized
+url: /2003/mobile-phone-guns-seized/
+---
 
 Now there not just annoying, they're deadly. [CNN][1]
 

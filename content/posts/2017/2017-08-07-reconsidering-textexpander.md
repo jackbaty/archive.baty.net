@@ -1,9 +1,10 @@
-+++
-date = "2017-08-07"
-tags = ["app", "workflow"]
-title = "Reconsidering TextExpander"
-
-+++
+---
+date: "2017-08-07"
+tags:
+- app
+- workflow
+title: Reconsidering TextExpander
+---
 
 It was only a couple of weeks ago that I [bailed on TextExpander][1] and moved my text snippets to Alfred. It felt good to be rid of a monthly subscription and to run one fewer app on my machines. 
 

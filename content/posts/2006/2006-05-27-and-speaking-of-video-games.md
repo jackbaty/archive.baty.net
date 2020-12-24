@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2006-05-27T08:12:10+00:00"
-title = "And speaking of video games…"
-url = "/2006/and-speaking-of-video-games/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2006-05-27T08:12:10+00:00"
+title: And speaking of video games…
+url: /2006/and-speaking-of-video-games/
+---
 
 Remember Apple's Pippin? I barely do, and am better for it. 
 

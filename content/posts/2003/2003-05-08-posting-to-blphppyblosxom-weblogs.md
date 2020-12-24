@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:12+00:00"
-title = "Posting to [bl|php|pybl]osxom weblogs"
-url = "/2003/posting-to-blphppyblosxom-weblogs/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:12+00:00"
+title: Posting to [bl|php|pybl]osxom weblogs
+url: /2003/posting-to-blphppyblosxom-weblogs/
+---
 
 ![Posting to weblogs][1]
 

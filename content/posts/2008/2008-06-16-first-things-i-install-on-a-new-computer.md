@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-06-16T22:51:52+00:00"
-tags = ["geek"]
-title = "First things I install on a new computer"
-url = "/2008/first-things-i-install-on-a-new-computer/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-06-16T22:51:52+00:00"
+tags:
+- geek
+title: First things I install on a new computer
+url: /2008/first-things-i-install-on-a-new-computer/
+---
 
 **Updated 11/28/2009 [here][1]**
 

@@ -1,10 +1,11 @@
-+++
-date = "2016-11-02T19:24:40-04:00"
-slug = "redesigning-waxy-2016-edition--waxyorg"
-tags = ["blogging", "open web"]
-title = "Redesigning Waxy, 2016 edition - Waxy.org"
-
-+++
+---
+date: "2016-11-02T19:24:40-04:00"
+slug: redesigning-waxy-2016-edition--waxyorg
+tags:
+- blogging
+- open web
+title: Redesigning Waxy, 2016 edition - Waxy.org
+---
 
 [Andy Baio](http://waxy.org/2016/11/redesigning-waxy-2016-edition/)
 

@@ -1,18 +1,26 @@
-+++
-author = "Jack"
-categories = ["Hardware"]
-date = "2009-11-28T15:44:58+00:00"
-tags = ["gear", "software"]
-title = "Things I install on a new computer – revisited Fall 2009"
-tz_audio_format = ["mp3"]
-tz_gallery_captions = ["true"]
-tz_gallery_format = ["-=set slideshow type=-"]
-tz_gallery_margins = [10]
-tz_gallery_randomize = ["false"]
-tz_gallery_targetheight = [200]
-url = "/2009/things-i-install-on-a-new-computer-revisited-fall-2009/"
-
-+++
+---
+author: Jack
+categories:
+- Hardware
+date: "2009-11-28T15:44:58+00:00"
+tags:
+- gear
+- software
+title: Things I install on a new computer – revisited Fall 2009
+tz_audio_format:
+- mp3
+tz_gallery_captions:
+- "true"
+tz_gallery_format:
+- -=set slideshow type=-
+tz_gallery_margins:
+- 10
+tz_gallery_randomize:
+- "false"
+tz_gallery_targetheight:
+- 200
+url: /2009/things-i-install-on-a-new-computer-revisited-fall-2009/
+---
 
 <img src="/files/macbookpro-unibody.png" alt="macbookpro-unibody.png" width="400" height="220" border="0" />
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-11-14T08:14:15+00:00"
-title = "CEATEC Photos Why does nearly"
-url = "/2000/ceatec-photos-why-does-nearly/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-11-14T08:14:15+00:00"
+title: CEATEC Photos Why does nearly
+url: /2000/ceatec-photos-why-does-nearly/
+---
 
 [CEATEC Photos][1]
 

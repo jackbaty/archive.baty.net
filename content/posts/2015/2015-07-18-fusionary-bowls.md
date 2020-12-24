@@ -1,13 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-07-18T19:11:10+00:00"
-format = "gallery"
-tags = ["Fusionary"]
-title = "Fusionary Bowls"
-url = "/2015/fusionary-bowls/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-07-18T19:11:10+00:00"
+format: gallery
+tags:
+- Fusionary
+title: Fusionary Bowls
+url: /2015/fusionary-bowls/
+---
 
 [Fusionary][1]{.} was incorporated on July 15th, 1995. We celebrated by getting together to eat, drink, and bowl.
 

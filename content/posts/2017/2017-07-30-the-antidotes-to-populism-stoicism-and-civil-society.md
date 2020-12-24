@@ -1,10 +1,10 @@
-+++
-date = "2017-05-08"
-slug = "the-antidotes-to-populism-stoicism-and-civil-society"
-tags = ["politics"]
-title = "The antidotes to populism: stoicism and civil society"
-
-+++
+---
+date: "2017-05-08"
+slug: the-antidotes-to-populism-stoicism-and-civil-society
+tags:
+- politics
+title: 'The antidotes to populism: stoicism and civil society'
+---
 
 [Thomas R. Wells (3QD)][1]
 

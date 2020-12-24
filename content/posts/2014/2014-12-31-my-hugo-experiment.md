@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-12-31T23:12:21+00:00"
-tags = ["Blogging", "CMS"]
-title = "My Hugo Experiment"
-url = "/2014/my-hugo-experiment/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-12-31T23:12:21+00:00"
+tags:
+- Blogging
+- CMS
+title: My Hugo Experiment
+url: /2014/my-hugo-experiment/
+---
 
 &nbsp;
 

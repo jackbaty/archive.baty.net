@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-11-03T16:22:23+00:00"
-title = "Tim Bray on the Richer Interface"
-url = "/2003/tim-bray-on-the-richer-interface/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-11-03T16:22:23+00:00"
+title: Tim Bray on the Richer Interface
+url: /2003/tim-bray-on-the-richer-interface/
+---
 
 Tim Bray [writes a little][1] on who's asking for Rich Applications&#8230;
   

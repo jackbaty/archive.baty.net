@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-02-23T18:43:41+00:00"
-title = "David Foster Wallace interview"
-url = "/2005/david-foster-wallace-interview-2/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-02-23T18:43:41+00:00"
+title: David Foster Wallace interview
+url: /2005/david-foster-wallace-interview-2/
+---
 
 [DFW Goes on][1] about Television, postmodernism, meta-fiction and even more stuff that I don't really understand.
 

@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-12-12T18:33:04+00:00"
-tags = ["personal", "Tinderbox"]
-title = "Why I use Tinderbox. Reason #46"
-url = "/2007/why-i-use-tinderbox-reason-46/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-12-12T18:33:04+00:00"
+tags:
+- personal
+- Tinderbox
+title: 'Why I use Tinderbox. Reason #46'
+url: /2007/why-i-use-tinderbox-reason-46/
+---
 
 Y'all know that I love [Tinderbox][1]. There a number of good reasons for this, but the one I'm talking about here (#46 apparently) is the truly great service that [Eastgate][2] continues to deliver.
 

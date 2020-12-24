@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Books", "Journal"]
-date = "2015-05-31T15:22:11+00:00"
-tags = ["book"]
-title = "Book: How We Got to Now"
-url = "/2015/book-how-we-got-to-now/"
-
-+++
+---
+author: Jack
+categories:
+- Books
+- Journal
+date: "2015-05-31T15:22:11+00:00"
+tags:
+- book
+title: 'Book: How We Got to Now'
+url: /2015/book-how-we-got-to-now/
+---
 
 [<img class="alignnone size-full wp-image-4556" src="/img/2015/06/how-we-got-to-now.jpg" alt="how-we-got-to-now" width="250" height="378" srcset="/img/2015/06/how-we-got-to-now.jpg 250w, /img/2015/06/how-we-got-to-now-198x300.jpg 198w" sizes="(max-width: 250px) 100vw, 250px" />][1]
 

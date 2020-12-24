@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2009-11-27T15:16:50+00:00"
-tags = ["Blogging"]
-title = "Look everyone, what a dumb-ass!"
-url = "/2009/look-everyone-what-a-dumb-ass/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2009-11-27T15:16:50+00:00"
+tags:
+- Blogging
+title: Look everyone, what a dumb-ass!
+url: /2009/look-everyone-what-a-dumb-ass/
+---
 
 Blogs and Twitter have been passing around a couple links recently that I find discouraging &#8212; both the links and the passing around of them.
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-01-02T18:44:01+00:00"
-title = "Early driving"
-url = "/2004/early-driving/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-01-02T18:44:01+00:00"
+title: Early driving
+url: /2004/early-driving/
+---
 
 I sometimes let her drive me around the neighborhood. It's a rush.
 

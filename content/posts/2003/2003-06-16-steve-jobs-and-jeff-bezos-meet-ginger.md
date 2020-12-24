@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-06-17T01:51:14+00:00"
-title = "Steve Jobs and Jeff Bezos meet  Ginger"
-url = "/2003/steve-jobs-and-jeff-bezos-meet-ginger/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-06-17T01:51:14+00:00"
+title: Steve Jobs and Jeff Bezos meet  Ginger
+url: /2003/steve-jobs-and-jeff-bezos-meet-ginger/
+---
 
 A [first
   

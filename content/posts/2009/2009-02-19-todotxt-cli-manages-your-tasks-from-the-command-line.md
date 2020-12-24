@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2009-02-20T01:36:40+00:00"
-tags = ["geek"]
-title = "Todo.txt CLI Manages Your Tasks from the Command Line"
-url = "/2009/todotxt-cli-manages-your-tasks-from-the-command-line/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2009-02-20T01:36:40+00:00"
+tags:
+- geek
+title: Todo.txt CLI Manages Your Tasks from the Command Line
+url: /2009/todotxt-cli-manages-your-tasks-from-the-command-line/
+---
 
 [Lifehacker Code: Todo.txt CLI Manages Your Tasks from the Command Line][1]: "Dozens of fancy point-and-click task managers promise to organize your to-do list, but so often power users find that nothing outdoes that trusty old classic: the todo.txt file."
 

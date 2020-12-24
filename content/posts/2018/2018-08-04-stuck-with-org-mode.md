@@ -1,10 +1,13 @@
-+++
-date = "2018-08-04T13:37:05-04:00"
-description = "Try as I might, I can't quit org-mode"
-tags = ["emacs", "org-mode", "things", "workflow"]
-title = "I May Be Stuck With Org-Mode Forever"
-
-+++
+---
+date: "2018-08-04T13:37:05-04:00"
+description: Try as I might, I can't quit org-mode
+tags:
+- emacs
+- org-mode
+- things
+- workflow
+title: I May Be Stuck With Org-Mode Forever
+---
 
 I've been feeling rather point-and-clicky lately, so I decided to move all
 my tasks to [Things](https://culturedcode.com/things/) and use it for the month

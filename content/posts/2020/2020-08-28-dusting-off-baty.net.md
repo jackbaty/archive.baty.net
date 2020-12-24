@@ -1,10 +1,11 @@
-+++
-date = "2020-08-28T11:37:33.377Z"
-slug = "dusting-off-batydotnet"
-tags = ["Blogging", "Meta"]
-title = "Dusting off Baty.net"
-
-+++
+---
+date: "2020-08-28T11:37:33.377Z"
+slug: dusting-off-batydotnet
+tags:
+- Blogging
+- Meta
+title: Dusting off Baty.net
+---
 
 I did an internet search and clicked on a result and ended up here at baty.net.
 

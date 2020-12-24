@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-09-20T13:17:09+00:00"
-tags = ["Kindle", "reading"]
-title = "Yet another Kindle"
-url = "/2014/yet-another-kindle/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-09-20T13:17:09+00:00"
+tags:
+- Kindle
+- reading
+title: Yet another Kindle
+url: /2014/yet-another-kindle/
+---
 
 [<img src="https://farm3.staticflickr.com/2111/2130291410_3f2da4a0fe_z.jpg?zz=1" alt="Kindle" width="640" height="480" />][1]
 

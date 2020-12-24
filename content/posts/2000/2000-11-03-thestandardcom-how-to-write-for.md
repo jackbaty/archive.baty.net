@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-11-03T08:37:32+00:00"
-title = "TheStandard.com: How to Write for"
-url = "/2000/thestandardcom-how-to-write-for/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-11-03T08:37:32+00:00"
+title: 'TheStandard.com: How to Write for'
+url: /2000/thestandardcom-how-to-write-for/
+---
 
 [TheStandard.com: How to Write for the Web][1]
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-08-21T18:30:21+00:00"
-title = "Flickr Organizr"
-url = "/2004/flickr-organizr/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-08-21T18:30:21+00:00"
+title: Flickr Organizr
+url: /2004/flickr-organizr/
+---
 
 The folks at [Flickr][1] have released a Flash app called Organizr. It's basically a nice interface for creating photo "sets", searching, browsing and whatnot. Interesting that they worked pretty hard to make the Flash app _look_ like an HTML app.
 

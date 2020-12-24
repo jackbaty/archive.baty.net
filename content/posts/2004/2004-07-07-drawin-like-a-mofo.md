@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-07-07T16:23:21+00:00"
-title = "Drawin’ Like a Mofo"
-url = "/2004/drawin-like-a-mofo/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-07-07T16:23:21+00:00"
+title: Drawin’ Like a Mofo
+url: /2004/drawin-like-a-mofo/
+---
 
 I typically have no idea what [Kevin is talking about][1], but dang if he don't draw real good.
 

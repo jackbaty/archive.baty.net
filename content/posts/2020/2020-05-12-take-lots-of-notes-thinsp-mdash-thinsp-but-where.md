@@ -1,13 +1,17 @@
-+++
-author = "Jack"
-categories = ["Software"]
-date = "2020-05-12T13:34:00+00:00"
-tags = ["Notetaking", "Org-roam", "Roam", "TiddlyWiki"]
-title = "Take lots of notes – but where?"
-type = "posts"
-url = "/2020/take-lots-of-notes-thinsp-mdash-thinsp-but-where/"
-
-+++
+---
+author: Jack
+categories:
+- Software
+date: "2020-05-12T13:34:00+00:00"
+tags:
+- Notetaking
+- Org-roam
+- Roam
+- TiddlyWiki
+title: Take lots of notes – but where?
+type: posts
+url: /2020/take-lots-of-notes-thinsp-mdash-thinsp-but-where/
+---
 Once again, I am struggling with the decision on where to take notes. I apologize for making you sit through yet another round of this navel-gazing process, but I need to type it out. It helps me think.
 
 Let’s, for the moment, ignore journaling [<sup>1</sup>][1] and consider only the current contenders for my “Second Brain”, or “Personal Knowledge Management System”, or even “Zettelkasten” if we’re feeling fancy and want to abuse the term a little.

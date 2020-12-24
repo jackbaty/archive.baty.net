@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-06-03T01:54:14+00:00"
-title = "Joel Spolsky endorses Mozilla Firebird"
-url = "/2003/joel-spolsky-endorses-mozilla-firebird/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-06-03T01:54:14+00:00"
+title: Joel Spolsky endorses Mozilla Firebird
+url: /2003/joel-spolsky-endorses-mozilla-firebird/
+---
 
 In a recent entry at [Joel on  
 Software][1], Joel says that we finally have a browser that will work

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-08-22T05:49:21+00:00"
-title = "Documentary Run"
-url = "/2004/documentary-run/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-08-22T05:49:21+00:00"
+title: Documentary Run
+url: /2004/documentary-run/
+---
 
 I've been watching an odd assortment of documentary or near-documentary films lately. For those interested, here's a summary.
 

@@ -1,12 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2013-07-17T00:00:00+00:00"
-tags = ["darkroom", "film", "photography"]
-title = "Printing practice"
-url = "/2013/printing-practice/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2013-07-17T00:00:00+00:00"
+tags:
+- darkroom
+- film
+- photography
+title: Printing practice
+url: /2013/printing-practice/
+---
 
 I'm still trying to get a handle on making prints in the darkroom. It's not easy. Last night I tried printing this image of a dandelion.
 

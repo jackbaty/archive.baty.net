@@ -1,12 +1,12 @@
-+++
-date = "2018-04-10T07:59:37-04:00"
-description = ""
-draft = false
-lastmod = "2018-04-10T07:59:37-04:00"
-tags = ["news"]
-title = "Headlines making you anxious? Delay reading them - Oliver Burkeman"
-
-+++
+---
+date: "2018-04-10T07:59:37-04:00"
+description: ""
+draft: false
+lastmod: "2018-04-10T07:59:37-04:00"
+tags:
+- news
+title: Headlines making you anxious? Delay reading them - Oliver Burkeman
+---
 
 [Oliver Burkeman, The Guardian](https://www.theguardian.com/lifeandstyle/2018/apr/06/how-to-handle-headline-anxiety-take-time-reading-news-oliver-burkeman”):
 

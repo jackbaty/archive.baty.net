@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-12-11T19:17:39+00:00"
-title = "Lifehacks.org invaded by Google ads"
-url = "/2005/lifehacksorg-invaded-by-google-ads/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-12-11T19:17:39+00:00"
+title: Lifehacks.org invaded by Google ads
+url: /2005/lifehacksorg-invaded-by-google-ads/
+---
 
 I understand that a guy's gotta make a living, but sheesh.
   

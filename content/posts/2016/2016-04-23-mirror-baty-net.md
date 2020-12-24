@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2016-04-23T13:28:12+00:00"
-title = "mirror.baty.net"
-url = "/2016/mirror-baty-net/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2016-04-23T13:28:12+00:00"
+title: mirror.baty.net
+url: /2016/mirror-baty-net/
+---
 
 I love the idea of running a completely static site, but I don't like the process of publishing one. Still too finicky for me. Having a bunch of html files in a directory feels so good though!
 

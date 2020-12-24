@@ -1,11 +1,13 @@
-+++
-date = "2018-05-23T21:28:00-04:00"
-draft = false
-slug = "things-i-write-with"
-tags = ["analog", "writing", "tools"]
-title = "Things I Write With"
-
-+++
+---
+date: "2018-05-23T21:28:00-04:00"
+draft: false
+slug: things-i-write-with
+tags:
+- analog
+- writing
+- tools
+title: Things I Write With
+---
 
 As someone who loves writing with analog tools, I have always switched willy
 nilly between pens, pencils, notebooks, types of paper, etc. I never seemed to

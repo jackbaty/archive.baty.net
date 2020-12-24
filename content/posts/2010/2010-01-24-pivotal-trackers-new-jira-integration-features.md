@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2010-01-24T20:30:12+00:00"
-tags = ["geek"]
-title = "Pivotal Tracker' new JIRA integration features"
-url = "/2010/pivotal-trackers-new-jira-integration-features/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2010-01-24T20:30:12+00:00"
+tags:
+- geek
+title: Pivotal Tracker' new JIRA integration features
+url: /2010/pivotal-trackers-new-jira-integration-features/
+---
 
 Speaking of [This and That](https://jackbaty.com/2010/01/this-and-that/), I use both Atlassian's [JIRA](http://www.atlassian.com/software/jira/) and more recently [Pivotal Tracker](http://www.pivotaltracker.com/) for issue/story management. Both are great, and I don't want to give up either of them, but it's always been sort of an either/or proposition. The good news is that this weekend Tracker released some new features, one of which is integration with JIRA. Issues created in JIRA can be viewed within Tracker and optionally added to an iteration or the "icebox." You can read about it in more detail [here](http://www.pivotaltracker.com/help/integrations#external_integrations). I've been playing with it today and it looks to be a great start. They're still working on 2-way integration so that Features created in Tracker will also automatically be posted to JIRA. For now, it's just JIRA->Tracker.
 

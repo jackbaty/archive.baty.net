@@ -1,12 +1,12 @@
-+++
-date = "2018-02-26T19:38:59-05:00"
-description = ""
-draft = false
-lastmod = "2018-02-26T19:38:59-05:00"
-tags = ["book"]
-title = "Book: The Lathe of Heaven ★★★½"
-
-+++
+---
+date: "2018-02-26T19:38:59-05:00"
+description: ""
+draft: false
+lastmod: "2018-02-26T19:38:59-05:00"
+tags:
+- book
+title: 'Book: The Lathe of Heaven ★★★½'
+---
 
 <img src="/img/2018/2930299.jpg" alt="The Lathe of Heaven cover" />
 

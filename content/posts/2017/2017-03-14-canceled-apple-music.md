@@ -1,11 +1,11 @@
-+++
-date = "2017-03-14T10:47:24-04:00"
-draft = false
-slug = "canceled-apple-music"
-tags = ["Apple"]
-title = "I've Canceled My Apple Music Subscription"
-
-+++
+---
+date: "2017-03-14T10:47:24-04:00"
+draft: false
+slug: canceled-apple-music
+tags:
+- Apple
+title: I've Canceled My Apple Music Subscription
+---
 
 Ever since my favorite music streaming service, Rdio, was shut down, I've been forced to find a replacement. The contenders were Spotify and Apple Music. I've never loved Spotify, and iTunes is a mess. I subscribed to both services to see which I prefer.
 

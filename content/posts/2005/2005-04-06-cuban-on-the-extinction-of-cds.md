@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-04-06T14:07:11+00:00"
-title = "Cuban on the extinction of CDs"
-url = "/2005/cuban-on-the-extinction-of-cds/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-04-06T14:07:11+00:00"
+title: Cuban on the extinction of CDs
+url: /2005/cuban-on-the-extinction-of-cds/
+---
 
 I now buy all of my music on CD. For a while iTunes was cool and buying music with one click was fun, but then Apple started doing that change the rule thing. Besides, used CDs are cheaper than buying one from Apple and I can rip them into any format I choose and do whatever I like with them. This is good.
 

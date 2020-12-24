@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-12-19T18:10:01+00:00"
-title = "Lovely Buttocks"
-url = "/2005/lovely-buttocks/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-12-19T18:10:01+00:00"
+title: Lovely Buttocks
+url: /2005/lovely-buttocks/
+---
 
 For those times when "[callipygian][1]" just isn't the right word, there's always "[ba-donka-donk][2]"
 

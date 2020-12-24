@@ -1,10 +1,10 @@
-+++
-date = "2016-10-29T08:50:01-04:00"
-slug = "my-system-keeps-failing"
-tags = ["Workflow"]
-title = "My System Keeps Failing"
-
-+++
+---
+date: "2016-10-29T08:50:01-04:00"
+slug: my-system-keeps-failing
+tags:
+- Workflow
+title: My System Keeps Failing
+---
 
 I found a web export of my
 old [Delicious Library](https://www.delicious-monster.com) and it reminded me

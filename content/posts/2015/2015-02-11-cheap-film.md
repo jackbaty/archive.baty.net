@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-02-11T22:13:05+00:00"
-tags = ["film", "photography"]
-title = "Cheap Film"
-url = "/2015/cheap-film/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-02-11T22:13:05+00:00"
+tags:
+- film
+- photography
+title: Cheap Film
+url: /2015/cheap-film/
+---
 
 For 35mm color negatives, I've always shot either Portra 400 or Fuji Pro 400H; both great films. Also,  at between $7.50 and $10.00 per roll, they're expensive. And let's face it, I'm shooting fast and loose, taking what most would call snapshots. It's not art, that's for sure.
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-08-18T22:22:56+00:00"
-title = "Make it Bigger"
-url = "/2003/make-it-bigger/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-08-18T22:22:56+00:00"
+title: Make it Bigger
+url: /2003/make-it-bigger/
+---
 
 Paula Scher, in her book [Make it Bigger][1], discusses the negotiation process that goes on between the designer and the client.
   

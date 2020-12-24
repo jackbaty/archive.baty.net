@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-09-17T14:59:03+00:00"
-title = "The Quality of the Mundane"
-url = "/2005/the-quality-of-the-mundane/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-09-17T14:59:03+00:00"
+title: The Quality of the Mundane
+url: /2005/the-quality-of-the-mundane/
+---
 
 I have been replacing the mundane with the exceptional.
 

@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2013-02-03T22:16:36+00:00"
-title = "Processing my own color film"
-url = "/2013/20132processing-my-own-color-film/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2013-02-03T22:16:36+00:00"
+title: Processing my own color film
+url: /2013/20132processing-my-own-color-film/
+---
 
 "Color (C-41) processing is hard." Or at least that's what I always assumed. Several months ago I decided to find out for myself, but only yesterday did I finally get to it.&nbsp;
 

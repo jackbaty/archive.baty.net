@@ -1,11 +1,12 @@
-+++
-date = "2016-08-28T09:57:04-04:00"
-description = ""
-tags = ["knowledge", "Slack"]
-title = "Slack Is All Hose And No Bucket | Hapgood"
-topics = []
-
-+++
+---
+date: "2016-08-28T09:57:04-04:00"
+description: ""
+tags:
+- knowledge
+- Slack
+title: Slack Is All Hose And No Bucket | Hapgood
+topics: []
+---
 
 [Mike Caulfield](https://hapgood.us/2016/08/25/slack-is-all-hose-and-no-bucket/):
 

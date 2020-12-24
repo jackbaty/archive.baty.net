@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-12-18T10:15:39+00:00"
-tags = ["Jess"]
-title = "Jessica’s First Crash"
-url = "/2005/jessicas-first-crash/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-12-18T10:15:39+00:00"
+tags:
+- Jess
+title: Jessica’s First Crash
+url: /2005/jessicas-first-crash/
+---
 
 [![][1]][2]  
 [Crash][3] 

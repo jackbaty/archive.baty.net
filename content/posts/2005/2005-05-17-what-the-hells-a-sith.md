@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-05-17T22:11:54+00:00"
-title = "What the hell’s a Sith?"
-url = "/2005/what-the-hells-a-sith/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-05-17T22:11:54+00:00"
+title: What the hell’s a Sith?
+url: /2005/what-the-hells-a-sith/
+---
 
 Boy, if you're gonna trash a film, do it well. Or better yet, do it [very, very well][1].
 

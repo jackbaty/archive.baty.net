@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-05-11T19:00:00+00:00"
-tags = ["productivity", "software"]
-title = "RegEx Renamer for Alfred"
-url = "/2014/regex-renamer-for-alfred/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-05-11T19:00:00+00:00"
+tags:
+- productivity
+- software
+title: RegEx Renamer for Alfred
+url: /2014/regex-renamer-for-alfred/
+---
 
 If you're an [Alfred][1] user and frequently need to rename files in the Finder, you should take a look at [RegEx Renamer][2]
 

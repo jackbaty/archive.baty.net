@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-09-07T00:30:00+00:00"
-title = "Now that I’ve met you,"
-url = "/2000/now-that-ive-met-you/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-09-07T00:30:00+00:00"
+title: Now that I’ve met you,
+url: /2000/now-that-ive-met-you/
+---
 
 [Now that I've met you, would object to never seeing each other again][1], says
   

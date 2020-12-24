@@ -1,12 +1,14 @@
-+++
-date = "2018-03-24T09:55:17-04:00"
-description = "The comfort of using things that aren't quite so precious"
-draft = false
-lastmod = "2018-03-24T09:55:23-04:00"
-tags = ["Alphasmart", "Nikon", "hardware"]
-title = "Using Less-Precious Things"
-
-+++
+---
+date: "2018-03-24T09:55:17-04:00"
+description: The comfort of using things that aren't quite so precious
+draft: false
+lastmod: "2018-03-24T09:55:23-04:00"
+tags:
+- Alphasmart
+- Nikon
+- hardware
+title: Using Less-Precious Things
+---
 {{< figure src="/img/2018/20180324_Less-precious-things.jpg"  title="Less Precious Things" >}}
 
 In recent months I've noticed a trend away from using precious things. By

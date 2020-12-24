@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-08-15T00:06:03+00:00"
-title = "Google’s answer to everything"
-url = "/2003/googles-answer-to-everything/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-08-15T00:06:03+00:00"
+title: Google’s answer to everything
+url: /2003/googles-answer-to-everything/
+---
 
 [Mark Pilgrim][1] discovers that Google's new calculator knows the answer to life the universe and everything. (Yes, it's 42).
 

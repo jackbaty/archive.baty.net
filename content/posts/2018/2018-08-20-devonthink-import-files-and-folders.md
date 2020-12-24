@@ -1,14 +1,17 @@
-+++
-author = "Jack"
-categories = ["Tech"]
-date = "2018-08-20T21:50:30+00:00"
-format = "link"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-tags = ["devonthink", "Workflow"]
-title = "DEVONthink – Import Files and Folders"
-url = "/2018/devonthink-import-files-and-folders/"
-
-+++
+---
+author: Jack
+categories:
+- Tech
+date: "2018-08-20T21:50:30+00:00"
+format: link
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+tags:
+- devonthink
+- Workflow
+title: DEVONthink – Import Files and Folders
+url: /2018/devonthink-import-files-and-folders/
+---
 <img title="2018-08-20-devonthink-import.png" src="/img/2018/08/2018-08-20-devonthink-import.png" alt="2018 08 20 devonthink import" width="564" height="410" border="0" />
 
 There&#8217;s a lot to be said for using the Mac&#8217;s Finder for long-term, portable, stable storage of files. It&#8217;s always right there. Add Dropbox and everything is seamlessly synced across both of my Macs.

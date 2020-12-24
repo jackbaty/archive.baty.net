@@ -1,12 +1,13 @@
-+++
-date = "2018-04-15T10:17:18-04:00"
-description = "Roon is indeed 'The music player for music lovers'"
-draft = false
-lastmod = "2018-04-15T10:17:18-04:00"
-tags = ["music", "software"]
-title = "The Roon Music Player is Awesome"
-
-+++
+---
+date: "2018-04-15T10:17:18-04:00"
+description: Roon is indeed 'The music player for music lovers'
+draft: false
+lastmod: "2018-04-15T10:17:18-04:00"
+tags:
+- music
+- software
+title: The Roon Music Player is Awesome
+---
 {{< figure src="/img/2018/roon-screen.png" title="My local music library as shown by Roon" >}}
 
 After a recent two-day internet outage I started looking for something better than iTunes for managing and playing my local music library. Streaming music doesn't work very well without internet access, and iTunes doesn't work very well for _anything_.

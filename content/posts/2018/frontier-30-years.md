@@ -1,12 +1,12 @@
-+++
-date = "2018-04-25T19:49:19-04:00"
-description = "A good run for a tool I used to love"
-draft = false
-lastmod = "2018-04-25T19:49:19-04:00"
-tags = ["scripting"]
-title = "30 Years of Frontier"
-
-+++
+---
+date: "2018-04-25T19:49:19-04:00"
+description: A good run for a tool I used to love
+draft: false
+lastmod: "2018-04-25T19:49:19-04:00"
+tags:
+- scripting
+title: 30 Years of Frontier
+---
 
 [Dave Winer](http://scripting.com/2018/04/18/164609.html):
 

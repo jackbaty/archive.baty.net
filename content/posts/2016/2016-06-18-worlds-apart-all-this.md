@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2016-06-18T11:09:35+00:00"
-title = "Worlds apart – All this"
-url = "/2016/worlds-apart-all-this/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2016-06-18T11:09:35+00:00"
+title: Worlds apart – All this
+url: /2016/worlds-apart-all-this/
+---
 
 [Dr. Drang][1]
 

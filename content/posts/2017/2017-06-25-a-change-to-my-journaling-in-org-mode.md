@@ -1,10 +1,11 @@
-+++
-date = "2017-06-25T12:05:07-04:00"
-slug = "a-change-to-my-journaling-in-org-mode"
-tags = ["Journaling", "Org-Mode"]
-title = "A change to my Org Mode journaling"
-
-+++
+---
+date: "2017-06-25T12:05:07-04:00"
+slug: a-change-to-my-journaling-in-org-mode
+tags:
+- Journaling
+- Org-Mode
+title: A change to my Org Mode journaling
+---
 
 Keeping up with a journal every day is hard. I've tried to make it easier by
 using capture templates in Org Mode. My usual approach is to have the capture

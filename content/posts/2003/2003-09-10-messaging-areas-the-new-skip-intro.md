@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-09-10T23:06:59+00:00"
-title = "Messaging Areas: The new ‘Skip Intro?’"
-url = "/2003/messaging-areas-the-new-skip-intro/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-09-10T23:06:59+00:00"
+title: 'Messaging Areas: The new ‘Skip Intro?’'
+url: /2003/messaging-areas-the-new-skip-intro/
+---
 
 Uh oh, did [we][1] get on the wrong design bus? [actionscript.com][2] seems to think so.
   

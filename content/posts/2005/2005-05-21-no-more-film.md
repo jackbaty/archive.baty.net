@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-05-21T15:39:25+00:00"
-title = "No more film"
-url = "/2005/no-more-film/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-05-21T15:39:25+00:00"
+title: No more film
+url: /2005/no-more-film/
+---
 
 I think it's finally happened. Unless I'm not reading myself correctly, the days of shooting film are over. I can sum up the reasons in one sentence:
 

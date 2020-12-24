@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:12+00:00"
-title = "Suits and Geeks"
-url = "/2003/suits-and-geeks/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:12+00:00"
+title: Suits and Geeks
+url: /2003/suits-and-geeks/
+---
 
 Arnold King writes an [interesting
   

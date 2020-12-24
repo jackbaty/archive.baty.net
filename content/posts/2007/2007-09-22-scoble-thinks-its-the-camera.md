@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-09-22T22:23:48+00:00"
-dsq_thread_id = [3131254881]
-title = "Scoble thinks it’s the camera"
-url = "/2007/scoble-thinks-its-the-camera/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-09-22T22:23:48+00:00"
+dsq_thread_id:
+- 3131254881
+title: Scoble thinks it’s the camera
+url: /2007/scoble-thinks-its-the-camera/
+---
 
 \*\*Post removed\*\* 
 

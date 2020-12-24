@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-10-25T19:28:26+00:00"
-title = "Ruby stuff in Leopard"
-url = "/2007/ruby-stuff-in-leopard/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-10-25T19:28:26+00:00"
+title: Ruby stuff in Leopard
+url: /2007/ruby-stuff-in-leopard/
+---
 
 So the following is a list of gems included with Leopard &#8211; by default. 
 

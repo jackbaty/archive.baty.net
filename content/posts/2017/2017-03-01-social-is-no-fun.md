@@ -1,10 +1,10 @@
-+++
-date = "2017-02-11T20:29:32-05:00"
-slug = "social-is-no-fun"
-tags = ["Social"]
-title = "Social Is No Fun"
-
-+++
+---
+date: "2017-02-11T20:29:32-05:00"
+slug: social-is-no-fun
+tags:
+- Social
+title: Social Is No Fun
+---
 
 
 I recently re-activated my Facebook account after a few months away. I

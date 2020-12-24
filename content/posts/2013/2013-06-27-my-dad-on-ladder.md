@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2013-06-27T00:00:00+00:00"
-tags = ["digital", "photography"]
-title = "My Dad on Ladder"
-url = "/2013/my-dad-on-ladder/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2013-06-27T00:00:00+00:00"
+tags:
+- digital
+- photography
+title: My Dad on Ladder
+url: /2013/my-dad-on-ladder/
+---
 
 <div>
   <div>

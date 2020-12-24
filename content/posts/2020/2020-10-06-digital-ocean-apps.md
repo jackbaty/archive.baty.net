@@ -1,10 +1,13 @@
-+++
-categories = ["Tech"]
-date = "2020-10-06"
-tags = ["DevOps", "Digital Ocean", "Hosting"]
-title = "Digital Ocean App Platform"
-
-+++
+---
+categories:
+- Tech
+date: "2020-10-06"
+tags:
+- DevOps
+- Digital Ocean
+- Hosting
+title: Digital Ocean App Platform
+---
 
 Digital Ocean released their new [App Platform](https://www.digitalocean.com/products/app-platform/) so I thought I'd test it with this blog's Hugo build since I'm a big fan of Digital Ocean.
 

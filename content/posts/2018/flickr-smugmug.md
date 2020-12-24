@@ -1,12 +1,14 @@
-+++
-date = "2018-04-21T10:04:24-04:00"
-description = "I've loved both services for many years and this news makes me happy"
-draft = false
-lastmod = "2018-04-21T10:04:24-04:00"
-tags = ["flickr", "photography", "smugmug"]
-title = "SmugMug buys Flickr and hope is restored to the internet"
-
-+++
+---
+date: "2018-04-21T10:04:24-04:00"
+description: I've loved both services for many years and this news makes me happy
+draft: false
+lastmod: "2018-04-21T10:04:24-04:00"
+tags:
+- flickr
+- photography
+- smugmug
+title: SmugMug buys Flickr and hope is restored to the internet
+---
 
 [Me, writing about Flickr in 2004](https://www.baty.net/2004/flickr-the-feed-thickens/):
 

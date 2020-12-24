@@ -1,10 +1,11 @@
-+++
-date = "2017-05-26"
-slug = "hate-mowing-your-lawn-good-dont-do-it-the-nib"
-tags = ["capitalism", "environment"]
-title = "Hate Mowing Your Lawn? Good! Don’t Do It - The Nib"
-
-+++
+---
+date: "2017-05-26"
+slug: hate-mowing-your-lawn-good-dont-do-it-the-nib
+tags:
+- capitalism
+- environment
+title: Hate Mowing Your Lawn? Good! Don’t Do It - The Nib
+---
 
 [Ted Steinberg and Shannon Wright][1]:
 

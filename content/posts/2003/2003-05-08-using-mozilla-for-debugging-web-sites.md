@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:12+00:00"
-title = "Using Mozilla for debugging web sites"
-url = "/2003/using-mozilla-for-debugging-web-sites/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:12+00:00"
+title: Using Mozilla for debugging web sites
+url: /2003/using-mozilla-for-debugging-web-sites/
+---
 
 Via Slashdot, an article that pointed out many reasons why Mozilla
   

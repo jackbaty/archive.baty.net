@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Art"]
-date = "2007-12-14T00:32:39+00:00"
-tags = ["Art"]
-title = "David Foster Wallace Interview"
-url = "/2007/david-foster-wallace-interview/"
-
-+++
+---
+author: Jack
+categories:
+- Art
+date: "2007-12-14T00:32:39+00:00"
+tags:
+- Art
+title: David Foster Wallace Interview
+url: /2007/david-foster-wallace-interview/
+---
 
 Thanks Mr. Gruber for pointing out [this interview][1] with David Foster Wallace.
 

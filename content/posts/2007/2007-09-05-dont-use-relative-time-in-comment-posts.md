@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2007-09-05T21:46:40+00:00"
-title = "Don’t use relative time in comment posts"
-url = "/2007/dont-use-relative-time-in-comment-posts/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2007-09-05T21:46:40+00:00"
+title: Don’t use relative time in comment posts
+url: /2007/dont-use-relative-time-in-comment-posts/
+---
 
 If you have a blog, and allow comments, please do me a favor. Include the real date and time with each comment. I'm too lazy to do the math when the comment says "Anonymous Dufus said, 241 days later&#8230;" 
 

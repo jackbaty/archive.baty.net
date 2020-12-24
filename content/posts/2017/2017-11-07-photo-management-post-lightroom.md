@@ -1,12 +1,13 @@
-+++
-date = "2017-11-07T20:08:41-04:00"
-description = "I've kicked Lightroom to the curb"
-draft = false
-slug = "photo-management-post-lightroom"
-tags = ["workflow", "photography"]
-title = "Photo Management Without Lightroom"
-
-+++
+---
+date: "2017-11-07T20:08:41-04:00"
+description: I've kicked Lightroom to the curb
+draft: false
+slug: photo-management-post-lightroom
+tags:
+- workflow
+- photography
+title: Photo Management Without Lightroom
+---
 
 Adobe recently released the new Lightroom CC and threw my entire process so thoroughly into question that I've stopped using Lightroom to edit and manage my photos.
 

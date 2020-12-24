@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2016-03-05T19:58:40+00:00"
-title = "Amazon Echo vs Siri"
-url = "/2016/amazon-echo-vs-siri/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2016-03-05T19:58:40+00:00"
+title: Amazon Echo vs Siri
+url: /2016/amazon-echo-vs-siri/
+---
 
 [MacSparky][1]
 

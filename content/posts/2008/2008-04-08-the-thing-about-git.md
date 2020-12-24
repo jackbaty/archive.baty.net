@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-04-08T18:25:57+00:00"
-tags = ["geek"]
-title = "The Thing About Git"
-url = "/2008/the-thing-about-git/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-04-08T18:25:57+00:00"
+tags:
+- geek
+title: The Thing About Git
+url: /2008/the-thing-about-git/
+---
 
 Ryan Tomayko: [The Thing About Git][1]
 

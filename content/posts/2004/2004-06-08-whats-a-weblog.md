@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-06-08T17:15:20+00:00"
-title = "What’s a weblog?"
-url = "/2004/whats-a-weblog/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-06-08T17:15:20+00:00"
+title: What’s a weblog?
+url: /2004/whats-a-weblog/
+---
 
 I think [this post][1] on glassdog is funny&#8230;
 

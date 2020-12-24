@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-12-12T23:38:20+00:00"
-title = "Google Toolbar Those Google folks"
-url = "/2000/google-toolbar-those-google-folks/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-12-12T23:38:20+00:00"
+title: Google Toolbar Those Google folks
+url: /2000/google-toolbar-those-google-folks/
+---
 
 [Google Toolbar][1]
 

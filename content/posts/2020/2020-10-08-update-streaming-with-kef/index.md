@@ -1,11 +1,12 @@
-+++
-categories = ["Music"]
-date = "2020-10-08"
-featuredImagePreview = "preview.jpg"
-tags = ["Music"]
-title = "Upgrading my music streaming setup"
-
-+++
+---
+categories:
+- Music
+date: "2020-10-08"
+featuredImagePreview: preview.jpg
+tags:
+- Music
+title: Upgrading my music streaming setup
+---
 
 I sit at my home office desk an awful lot these days. This affords me the opportunity to listen to music for long stretches, and I've been taking advantage of that.
 

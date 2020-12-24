@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2009-11-15T18:00:29+00:00"
-tags = ["photography"]
-title = "Life in the Time of Virtual Photography"
-url = "/2009/life-in-the-time-of-virtual-photography/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2009-11-15T18:00:29+00:00"
+tags:
+- photography
+title: Life in the Time of Virtual Photography
+url: /2009/life-in-the-time-of-virtual-photography/
+---
 
 Life in the Time of Virtual Photography:
 

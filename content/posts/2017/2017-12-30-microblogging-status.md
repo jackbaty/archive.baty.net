@@ -1,13 +1,15 @@
-+++
-author = "Jack"
-categories = ["Misc"]
-date = "2017-12-30T18:20:00+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-tags = ["blogging micro.blog"]
-title = "Microblogging status"
-url = "/2017/microblogging-status/"
-
-+++
+---
+author: Jack
+categories:
+- Misc
+date: "2017-12-30T18:20:00+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+tags:
+- blogging micro.blog
+title: Microblogging status
+url: /2017/microblogging-status/
+---
 I didn&#8217;t think I needed a microblog but I think I need a microblog. I like writing short posts and sharing random images and links. These don&#8217;t need titles or tags or other meta data. They&#8217;re just throw away thoughts, but I wouldn&#8217;t mind if they were preserved just the same.
 
 Here are my options:

@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-02-26T01:04:03+00:00"
-tags = ["apple"]
-title = "The Apple Watch Edition’s Upgrade Dilemma"
-url = "/2015/the-apple-watch-editions-upgrade-dilemma/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-02-26T01:04:03+00:00"
+tags:
+- apple
+title: The Apple Watch Edition’s Upgrade Dilemma
+url: /2015/the-apple-watch-editions-upgrade-dilemma/
+---
 
 Gruber commenting on [The Apple Watch Edition’s Upgrade Dilemma][1]:
 

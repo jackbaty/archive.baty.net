@@ -1,12 +1,12 @@
-+++
-author = "Jack"
-categories = ["Software"]
-date = "2016-05-26T11:04:29+00:00"
-format = "link"
-title = "Adactio: Journal—Regressive Web Apps"
-url = "/2016/adactio-journal-regressive-web-apps/"
-
-+++
+---
+author: Jack
+categories:
+- Software
+date: "2016-05-26T11:04:29+00:00"
+format: link
+title: 'Adactio: Journal—Regressive Web Apps'
+url: /2016/adactio-journal-regressive-web-apps/
+---
 
 [Jeremy Keith &#8211; Regressive Web Apps][1]
 

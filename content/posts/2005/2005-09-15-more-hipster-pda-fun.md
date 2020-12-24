@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-09-15T19:35:02+00:00"
-title = "More Hipster PDA fun"
-url = "/2005/more-hipster-pda-fun/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-09-15T19:35:02+00:00"
+title: More Hipster PDA fun
+url: /2005/more-hipster-pda-fun/
+---
 
 In [Hipster PDA Tips for People Obsessed With Productivity Pr0n But Bad At Actual Productivity][1], you'll find the following advice&#8230;
 

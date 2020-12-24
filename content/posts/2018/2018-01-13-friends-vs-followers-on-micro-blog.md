@@ -1,13 +1,17 @@
-+++
-author = "Jack"
-categories = ["Tech"]
-date = "2018-01-13T13:53:49+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-tags = ["blogging", "social", "twitter"]
-title = "Friends vs Followers on Micro.blog"
-url = "/2018/friends-vs-followers-on-micro-blog/"
-
-+++
+---
+author: Jack
+categories:
+- Tech
+date: "2018-01-13T13:53:49+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+tags:
+- blogging
+- social
+- twitter
+title: Friends vs Followers on Micro.blog
+url: /2018/friends-vs-followers-on-micro-blog/
+---
 If I’m honest, the reason I originally backed and then joined [Micro.blog][1] by [Manton Reece][2] is that I enjoy tinkering with new platforms and social networks. I try them all. Manton’s ideas about “owning your content” and the hooks into [IndieWeb][3] ideas were just icing.
 
 I came for the novelty, but stayed because it’s become my favorite place to be.

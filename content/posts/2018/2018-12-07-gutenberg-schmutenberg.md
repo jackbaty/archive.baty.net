@@ -1,13 +1,16 @@
-+++
-author = "Jack"
-categories = ["Tech"]
-date = "2018-12-07T13:24:26+00:00"
-mf2_mp-syndicate-to = ["a:1:{i:0;s:4:\"none\";}"]
-tags = ["blogging", "wordpress"]
-title = "Gutenberg schmutenberg"
-url = "/2018/gutenberg-schmutenberg/"
-
-+++
+---
+author: Jack
+categories:
+- Tech
+date: "2018-12-07T13:24:26+00:00"
+mf2_mp-syndicate-to:
+- a:1:{i:0;s:4:"none";}
+tags:
+- blogging
+- wordpress
+title: Gutenberg schmutenberg
+url: /2018/gutenberg-schmutenberg/
+---
 <div class="wp-block-image">
   <figure class="alignright"><img src="/img/2018/12/Gutenberg-e1544296974950-300x236.jpg" alt="" class="wp-image-2105" srcset="/img/2018/12/Gutenberg-e1544296974950-300x236.jpg 300w, /img/2018/12/Gutenberg-e1544296974950-768x604.jpg 768w, /img/2018/12/Gutenberg-e1544296974950-1024x806.jpg 1024w, /img/2018/12/Gutenberg-e1544296974950.jpg 1322w" sizes="(max-width: 300px) 100vw, 300px" /></figure>
 </div>

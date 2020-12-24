@@ -1,12 +1,12 @@
-+++
-date = "2016-08-13T09:11:21-04:00"
-description = ""
-draft = false
-tags = ["Hardware"]
-title = "Re-Pairing"
-topics = []
-
-+++
+---
+date: "2016-08-13T09:11:21-04:00"
+description: ""
+draft: false
+tags:
+- Hardware
+title: Re-Pairing
+topics: []
+---
 
 The only thing worse than untangling wired headphones is constantly having to
 charge and (re)pair wireless headphones.

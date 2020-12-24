@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-09-18T20:22:06+00:00"
-title = "Feathered hair"
-url = "/2003/feathered-hair/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-09-18T20:22:06+00:00"
+title: Feathered hair
+url: /2003/feathered-hair/
+---
 
 Okay, so every girl in my high school yearbook looked like [this][1].
 

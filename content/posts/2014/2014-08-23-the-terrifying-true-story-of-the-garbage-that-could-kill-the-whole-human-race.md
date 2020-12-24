@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-08-23T20:54:58+00:00"
-title = "The terrifying true story of the garbage that could kill the whole human race"
-url = "/2014/the-terrifying-true-story-of-the-garbage-that-could-kill-the-whole-human-race/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-08-23T20:54:58+00:00"
+title: The terrifying true story of the garbage that could kill the whole human race
+url: /2014/the-terrifying-true-story-of-the-garbage-that-could-kill-the-whole-human-race/
+---
 
 [Bucky McMahon][1].
 

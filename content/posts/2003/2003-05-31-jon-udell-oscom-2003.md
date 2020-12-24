@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-31T22:19:13+00:00"
-title = "Jon Udell OSCOM 2003"
-url = "/2003/jon-udell-oscom-2003/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-31T22:19:13+00:00"
+title: Jon Udell OSCOM 2003
+url: /2003/jon-udell-oscom-2003/
+---
 
 [Jon
   

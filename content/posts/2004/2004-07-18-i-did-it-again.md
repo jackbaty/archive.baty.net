@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-07-18T18:06:21+00:00"
-title = "I did it again"
-url = "/2004/i-did-it-again/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-07-18T18:06:21+00:00"
+title: I did it again
+url: /2004/i-did-it-again/
+---
 
 Once in a while it would be nice to have a digital camera handy. I still have my old casio exilim, but I hate using it. Since I sold the Digital Rebel to [Steve][1] and bought all sorts of film gear, I was left without anything digital. What I wanted was something small enough to take everywhere, but not so small that it's hard to handle. I wanted a simple point and shoot but with manual options, just in case. After much research, I settled on the Canon A80.
 

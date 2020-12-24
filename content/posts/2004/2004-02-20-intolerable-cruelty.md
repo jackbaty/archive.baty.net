@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-02-20T09:41:14+00:00"
-title = "Intolerable Cruelty"
-url = "/2004/intolerable-cruelty/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-02-20T09:41:14+00:00"
+title: Intolerable Cruelty
+url: /2004/intolerable-cruelty/
+---
 
 As a huge fan of the Coen brothers, I expect a lot from each new movie. Intolerable Cruelty wasn't the best Coen film, but a mediocre Coen movie beats the crap out of most "good" movies.
 

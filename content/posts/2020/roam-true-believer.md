@@ -1,11 +1,13 @@
-+++
-categories = ["Software"]
-date = "2020-06-11"
-slug = "so-i-went-with-roam-research-and-am-a-true-believer"
-tags = ["Notetaking", "Roam"]
-title = "So, I went with Roam Research and am a True Believer"
-
-+++
+---
+categories:
+- Software
+date: "2020-06-11"
+slug: so-i-went-with-roam-research-and-am-a-true-believer
+tags:
+- Notetaking
+- Roam
+title: So, I went with Roam Research and am a True Believer
+---
 
 I discovered [Roam](https://roamresearch.com/) in December, 2019 and thought, “Wow! This is exactly the thing I’ve been looking for” even though it was buggy, less than pretty, and still too new to count on. And yet, the more I dug in, the more I liked it. I remember telling people that “this thing pays dividends on your notes!” I’d finally found the ultimate tool for my Personal Knowledge Management System. (I don’t call it a “Zettelkasten” for two reasons. First, the way I use Roam isn’t really as a Zettelkasten. Second, I can’t help but think that Zettelkasten is kind of a show-off word so it puts me off.)
 

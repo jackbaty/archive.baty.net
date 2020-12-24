@@ -1,9 +1,8 @@
-+++
-date = "2016-10-07T17:23:15-04:00"
-slug = "desktop-speakers"
-title = "Desktop Speakers"
-
-+++
+---
+date: "2016-10-07T17:23:15-04:00"
+slug: desktop-speakers
+title: Desktop Speakers
+---
 
 I have a pretty decent sound system in my home office, but I rarely listen to
 it. Instead, I find myself just playing music through the iMac. It occurred to

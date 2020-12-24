@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2000-09-21T09:29:27+00:00"
-title = "six reasons not to use"
-url = "/2000/six-reasons-not-to-use/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2000-09-21T09:29:27+00:00"
+title: six reasons not to use
+url: /2000/six-reasons-not-to-use/
+---
 
 [six reasons not to use an asp][1]
 

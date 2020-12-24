@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:11+00:00"
-title = "Where did the guitar solo go?"
-url = "/2003/where-did-the-guitar-solo-go/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:11+00:00"
+title: Where did the guitar solo go?
+url: /2003/where-did-the-guitar-solo-go/
+---
 
 [Good question][1].
   

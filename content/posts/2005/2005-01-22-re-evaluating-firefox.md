@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-01-22T14:40:44+00:00"
-title = "Re-evaluating Firefox"
-url = "/2005/re-evaluating-firefox/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-01-22T14:40:44+00:00"
+title: Re-evaluating Firefox
+url: /2005/re-evaluating-firefox/
+---
 
 I've used Firefox daily, since it was an early Phoenix release. On Windows it was pretty much either that or IE, and we all know that's a no-brainer. Firefox followed me faithfully when I switched to using a Mac and I still think it's a great browser. But&#8230;
 

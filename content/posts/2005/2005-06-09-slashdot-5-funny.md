@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-06-09T18:38:05+00:00"
-title = "Slashdot +5 Funny"
-url = "/2005/slashdot-5-funny/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-06-09T18:38:05+00:00"
+title: Slashdot +5 Funny
+url: /2005/slashdot-5-funny/
+---
 
 I don't read [Slashdot][1] much these days. Not because I don't have time, but because the noisy drone of idiots is unbearable.
 

@@ -1,10 +1,12 @@
-+++
-date = "2018-11-17"
-slug = "lightroom-cc-pros-cons"
-tags = ["photography", "adobe", "workflow"]
-title = "Lightroom CC pros and cons"
-
-+++
+---
+date: "2018-11-17"
+slug: lightroom-cc-pros-cons
+tags:
+- photography
+- adobe
+- workflow
+title: Lightroom CC pros and cons
+---
 
 I would like to edit photos on my iPad more often. I'd be interested in using Lightroom CC on iOS and macOS to do it, but I switched from Lightroom Classic CC to Capture One Pro a while ago on the desktop and am very happy with C1. Even if I were still using Lightroom Classic CC, I'm not sure I'd be ready to switch.
 

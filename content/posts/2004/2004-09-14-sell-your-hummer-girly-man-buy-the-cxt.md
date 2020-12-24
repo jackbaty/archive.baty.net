@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-09-14T16:47:22+00:00"
-title = "Sell your Hummer girly-man, buy the CXT"
-url = "/2004/sell-your-hummer-girly-man-buy-the-cxt/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-09-14T16:47:22+00:00"
+title: Sell your Hummer girly-man, buy the CXT
+url: /2004/sell-your-hummer-girly-man-buy-the-cxt/
+---
 
 I'm typically neither politically correct nor socially conscientious, but I could be convinced to take action against the self-centered, thoughtless bastards driving too-big-for-anything-but-my-fat-selfish-ass SUVs.
 

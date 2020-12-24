@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-10-11T20:00:15+00:00"
-title = "Web applications rule the enterprise"
-url = "/2003/web-applications-rule-the-enterprise/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-10-11T20:00:15+00:00"
+title: Web applications rule the enterprise
+url: /2003/web-applications-rule-the-enterprise/
+---
 
 [][1] 
   

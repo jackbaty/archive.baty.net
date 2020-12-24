@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-01-21T18:44:45+00:00"
-tags = ["geek"]
-title = "The Data So Far"
-url = "/2008/the-data-so-far/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-01-21T18:44:45+00:00"
+tags:
+- geek
+title: The Data So Far
+url: /2008/the-data-so-far/
+---
 
 Here's a concise summary&#8230;
 

@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-03-16T00:00:00+00:00"
-tags = ["social"]
-title = "Under-sharing"
-url = "/2014/under-sharing/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-03-16T00:00:00+00:00"
+tags:
+- social
+title: Under-sharing
+url: /2014/under-sharing/
+---
 
 Every so often I consider &#x201c;going dark&#x201d; on the Internet. Meaning I drop out of Twitter, Facebook, etc. just to get away from the noise for a while. It never lasts because I _love_ sharing stuff Facebook and Twitter and Tumblr. Even so, I think it&#x2019;s time to try staying away for a while. 
 

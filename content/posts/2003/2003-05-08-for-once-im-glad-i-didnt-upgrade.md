@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-05-09T01:32:12+00:00"
-title = "For once I’m glad I didn’t upgrade"
-url = "/2003/for-once-im-glad-i-didnt-upgrade/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-05-09T01:32:12+00:00"
+title: For once I’m glad I didn’t upgrade
+url: /2003/for-once-im-glad-i-didnt-upgrade/
+---
 
 Serious flaw in MS SQL Server 2000 is causing havoc on the net. I'm still running version 7.
   

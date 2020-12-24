@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-10-27T17:38:01+00:00"
-title = "Coding for easier redesigns"
-url = "/2003/coding-for-easier-redesigns/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-10-27T17:38:01+00:00"
+title: Coding for easier redesigns
+url: /2003/coding-for-easier-redesigns/
+---
 
 Zeldman: [Coding for easier redesigns][1] revisits some of the territory from Designing with Web Standards related to thinking structurally and how that helps later.
 

@@ -1,10 +1,10 @@
-+++
-date = "2016-11-03T16:01:54-04:00"
-slug = "dropbox-personal"
-tags = ["Dropbox"]
-title = "Dropbox (Personal)"
-
-+++
+---
+date: "2016-11-03T16:01:54-04:00"
+slug: dropbox-personal
+tags:
+- Dropbox
+title: Dropbox (Personal)
+---
 
 A few weeks ago Dropbox notified me that I could have a "Team" Dropbox account
 in addition to my normal account. This seemed worth checking into, so I went

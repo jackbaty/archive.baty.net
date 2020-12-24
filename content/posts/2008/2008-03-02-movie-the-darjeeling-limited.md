@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2008-03-02T08:59:57+00:00"
-tags = ["film"]
-title = "Movie: The Darjeeling Limited"
-url = "/2008/movie-the-darjeeling-limited/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2008-03-02T08:59:57+00:00"
+tags:
+- film
+title: 'Movie: The Darjeeling Limited'
+url: /2008/movie-the-darjeeling-limited/
+---
 
 <img src="/files/The-Darjeeling-Ltd2.png" alt="The-Darjeeling-Ltd2.png" border="0" width="500" height="267" />
 

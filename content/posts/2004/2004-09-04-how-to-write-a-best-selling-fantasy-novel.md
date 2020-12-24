@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-09-04T06:34:21+00:00"
-title = "How to write a best selling fantasy novel."
-url = "/2004/how-to-write-a-best-selling-fantasy-novel/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-09-04T06:34:21+00:00"
+title: How to write a best selling fantasy novel.
+url: /2004/how-to-write-a-best-selling-fantasy-novel/
+---
 
 I'm not a huge fan of fantasy novels, but if I ever decide to write one, [this guide][1] pretty much nails the entire process.
 

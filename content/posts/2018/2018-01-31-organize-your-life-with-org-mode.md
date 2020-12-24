@@ -1,13 +1,14 @@
-+++
-author = "Jack"
-categories = ["Tech"]
-date = "2018-02-01T00:26:22+00:00"
-format = "image"
-tags = ["org-mode"]
-title = "Organize Your Life With Org-Mode"
-url = "/2018/organize-your-life-with-org-mode/"
-
-+++
+---
+author: Jack
+categories:
+- Tech
+date: "2018-02-01T00:26:22+00:00"
+format: image
+tags:
+- org-mode
+title: Organize Your Life With Org-Mode
+url: /2018/organize-your-life-with-org-mode/
+---
 [Karl Voit][1]:
 
 > Never in my life have I seen a more beautiful piece of software that scales well from very simple note taking to the most complex workflows you can imagine. Its community is awesome, you can meet the most nicest people.

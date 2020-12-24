@@ -1,10 +1,10 @@
-+++
-date = "2016-11-24T19:34:33-05:00"
-slug = "charging-apple-things"
-tags = ["Apple"]
-title = "Charging Apple Things"
-
-+++
+---
+date: "2016-11-24T19:34:33-05:00"
+slug: charging-apple-things
+tags:
+- Apple
+title: Charging Apple Things
+---
 
 I defended Apple when they released a mouse that needed to be charged by plugging
 the cable into the bottom. I said, "It only takes a few moments to charge, so

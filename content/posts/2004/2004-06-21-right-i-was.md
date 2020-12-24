@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-06-21T16:54:21+00:00"
-title = "Right, I was"
-url = "/2004/right-i-was/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-06-21T16:54:21+00:00"
+title: Right, I was
+url: /2004/right-i-was/
+---
 
 Okay, so it wasn't even two weeks, but [I was right][1] about Tracy's story [being interesting][2].
 

@@ -1,12 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-02-28T16:00:20+00:00"
-tags = ["connectedtext", "note-taking", "software"]
-title = "Early notes about ConnectedText"
-url = "/2015/early-notes-about-connectedtext/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-02-28T16:00:20+00:00"
+tags:
+- connectedtext
+- note-taking
+- software
+title: Early notes about ConnectedText
+url: /2015/early-notes-about-connectedtext/
+---
 
 As a Mac user I've never seriously considered [ConnectedText][1] despite so many smart people<sup id="fnref-4352-users"><a href="#fn-4352-users" rel="footnote">1</a></sup> who rave about it.
 

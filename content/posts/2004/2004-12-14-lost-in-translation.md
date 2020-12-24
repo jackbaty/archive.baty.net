@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-12-14T18:46:41+00:00"
-title = "Lost in Translation"
-url = "/2004/lost-in-translation/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-12-14T18:46:41+00:00"
+title: Lost in Translation
+url: /2004/lost-in-translation/
+---
 
 <img src="/images/blog/images/blog/lostintranslation.jpg" border="0" height="196" width="144" alt="lostintranslation.jpg" align="right" />
   

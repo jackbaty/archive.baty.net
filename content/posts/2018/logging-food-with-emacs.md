@@ -1,11 +1,11 @@
-+++
-date = "2018-05-13T16:10:52-04:00"
-description = "Because I can"
-lastmod = "2018-05-13T16:11:07-04:00"
-tags = ["org-mode"]
-title = "Logging Food With Org-mode"
-
-+++
+---
+date: "2018-05-13T16:10:52-04:00"
+description: Because I can
+lastmod: "2018-05-13T16:11:07-04:00"
+tags:
+- org-mode
+title: Logging Food With Org-mode
+---
 
 For some reason I enjoy recording what and where I eat. Usually I do this in a
 paper notebook, but I decided try it using Org-mode files instead.

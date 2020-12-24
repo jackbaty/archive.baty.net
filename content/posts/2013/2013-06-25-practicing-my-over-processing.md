@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2013-06-25T00:00:00+00:00"
-tags = ["photography"]
-title = "Practicing my over-processing"
-url = "/2013/practicing-my-over-processing/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2013-06-25T00:00:00+00:00"
+tags:
+- photography
+title: Practicing my over-processing
+url: /2013/practicing-my-over-processing/
+---
 
 <div>
   <div>

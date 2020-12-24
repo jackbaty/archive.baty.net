@@ -1,10 +1,9 @@
-+++
-date = "2018-06-13T18:17:00-04:00"
-draft = false
-slug = "using-caddy-for-serving-static-content"
-title = "Using Caddy for serving static content"
-
-+++
+---
+date: "2018-06-13T18:17:00-04:00"
+draft: false
+slug: using-caddy-for-serving-static-content
+title: Using Caddy for serving static content
+---
 
 I have a bunch of static files/websites laying around so I stood up an Amazon
 Lightsail instance and installed the [Caddy](https://caddyserver.com) web server.

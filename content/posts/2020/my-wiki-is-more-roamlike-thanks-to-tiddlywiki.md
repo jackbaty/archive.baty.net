@@ -1,11 +1,13 @@
-+++
-categories = ["Software"]
-date = "2020-04-14"
-slug = "my-wiki-is-more-roam-like-thanks-to-tiddlyblink"
-tags = ["TiddlyWiki", "Roam"]
-title = "My wiki is more Roam-like thanks to TiddlyBlink"
-
-+++
+---
+categories:
+- Software
+date: "2020-04-14"
+slug: my-wiki-is-more-roam-like-thanks-to-tiddlyblink
+tags:
+- TiddlyWiki
+- Roam
+title: My wiki is more Roam-like thanks to TiddlyBlink
+---
 
 
 I’ve finally gone and added [TiddlyBlink](https://giffmex.org/gifts/tiddlyblink.html#TiddlyBlink%20home)’s modifications to my [TiddlyWiki](https://tiddlywiki.com/)-based wiki at [rudimentarylathe.org](https://rudimentarylathe.org/). This gives me a little of the automatic backlinking functionality of [Roam](https://roamresearch.com/) but in TiddlyWiki

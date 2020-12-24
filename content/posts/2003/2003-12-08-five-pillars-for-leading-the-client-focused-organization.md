@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-12-08T16:15:04+00:00"
-title = "Five Pillars for Leading the Client-Focused Organization"
-url = "/2003/five-pillars-for-leading-the-client-focused-organization/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-12-08T16:15:04+00:00"
+title: Five Pillars for Leading the Client-Focused Organization
+url: /2003/five-pillars-for-leading-the-client-focused-organization/
+---
 
 [Joseph Neubauer article][1] on building enduring client relationships.
   

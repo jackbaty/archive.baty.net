@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2004-10-15T20:15:22+00:00"
-title = "Web Standards Zealotry"
-url = "/2004/web-standards-zealotry/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2004-10-15T20:15:22+00:00"
+title: Web Standards Zealotry
+url: /2004/web-standards-zealotry/
+---
 
 [The Man in Blue][1], responding to a [long thread][2] triggered by D. Keith Robinson, writes about the overzealous way some web developers cling to a validate-or-die mentality.
 

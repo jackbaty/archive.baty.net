@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-08-07T10:29:26+00:00"
-title = "Seven Blunders of the World"
-url = "/2005/seven-blunders-of-the-world/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-08-07T10:29:26+00:00"
+title: Seven Blunders of the World
+url: /2005/seven-blunders-of-the-world/
+---
 
 Seven Blunders of the World
 

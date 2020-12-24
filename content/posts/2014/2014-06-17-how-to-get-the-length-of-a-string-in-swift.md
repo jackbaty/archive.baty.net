@@ -1,13 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-06-17T19:00:00+00:00"
-dsq_thread_id = [3595720]
-tags = ["programming"]
-title = "How to Get the Length of a String in Swift"
-url = "/2014/how-to-get-the-length-of-a-string-in-swift/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-06-17T19:00:00+00:00"
+dsq_thread_id:
+- 3595720
+tags:
+- programming
+title: How to Get the Length of a String in Swift
+url: /2014/how-to-get-the-length-of-a-string-in-swift/
+---
 
 * * *
 

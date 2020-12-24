@@ -1,12 +1,15 @@
-+++
-author = "Jack"
-categories = ["Art", "Journal"]
-date = "2008-09-25T22:55:04+00:00"
-tags = ["Art", "humor"]
-title = "Nascar Cancels Season Following David Foster Wallace' Death"
-url = "/2008/nascar-cancels-season-following-david-foster-wallaces-death/"
-
-+++
+---
+author: Jack
+categories:
+- Art
+- Journal
+date: "2008-09-25T22:55:04+00:00"
+tags:
+- Art
+- humor
+title: Nascar Cancels Season Following David Foster Wallace' Death
+url: /2008/nascar-cancels-season-following-david-foster-wallaces-death/
+---
 
 <span class="drop_cap">T</span>he world would look better to me were this [Onion article][1] true.
 

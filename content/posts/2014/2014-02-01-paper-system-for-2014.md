@@ -1,12 +1,15 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-02-01T00:00:00+00:00"
-tags = ["analog", "paper", "productivity"]
-title = "Paper system for 2014"
-url = "/2014/paper-system-for-2014/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-02-01T00:00:00+00:00"
+tags:
+- analog
+- paper
+- productivity
+title: Paper system for 2014
+url: /2014/paper-system-for-2014/
+---
 
 {{< figure src="/img/imported/20140201_DSCF1912.jpg" title="" >}}
 

@@ -1,18 +1,26 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2014-08-17T18:53:38+00:00"
-tags = ["Blogging", "social"]
-title = "Cross Posting by Default"
-tz_audio_format = ["mp3"]
-tz_gallery_captions = ["true"]
-tz_gallery_format = ["-=set slideshow type=-"]
-tz_gallery_margins = [10]
-tz_gallery_randomize = ["false"]
-tz_gallery_targetheight = [200]
-url = "/2014/cross-posting-by-default/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2014-08-17T18:53:38+00:00"
+tags:
+- Blogging
+- social
+title: Cross Posting by Default
+tz_audio_format:
+- mp3
+tz_gallery_captions:
+- "true"
+tz_gallery_format:
+- -=set slideshow type=-
+tz_gallery_margins:
+- 10
+tz_gallery_randomize:
+- "false"
+tz_gallery_targetheight:
+- 200
+url: /2014/cross-posting-by-default/
+---
 
 <div>
 </div>

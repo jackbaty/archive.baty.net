@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Photography"]
-date = "2017-11-24T00:55:24+00:00"
-tags = ["b&amp;w", "Fuji"]
-title = "Gene at the buffet"
-url = "/2017/gene-at-the-buffet/"
-
-+++
+---
+author: Jack
+categories:
+- Photography
+date: "2017-11-24T00:55:24+00:00"
+tags:
+- b&amp;w
+- Fuji
+title: Gene at the buffet
+url: /2017/gene-at-the-buffet/
+---
 
 {{< figure src="/img/2017/11/gene.jpg" title="Gene at the buffet. X-Pro2. 56mm f1.2. Acros simulation." >}}
 

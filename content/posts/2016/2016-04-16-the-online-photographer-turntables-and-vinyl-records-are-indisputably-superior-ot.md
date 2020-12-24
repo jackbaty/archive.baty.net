@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Analog"]
-date = "2016-04-16T12:30:02+00:00"
-tags = ["music"]
-title = "TOP: Turntables and Vinyl Records Are Indisputably Superior (OT)"
-url = "/2016/the-online-photographer-turntables-and-vinyl-records-are-indisputably-superior-ot/"
-
-+++
+---
+author: Jack
+categories:
+- Analog
+date: "2016-04-16T12:30:02+00:00"
+tags:
+- music
+title: 'TOP: Turntables and Vinyl Records Are Indisputably Superior (OT)'
+url: /2016/the-online-photographer-turntables-and-vinyl-records-are-indisputably-superior-ot/
+---
 
 [Mike Johnston][1]
 

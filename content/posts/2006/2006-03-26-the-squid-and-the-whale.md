@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2006-03-26T05:33:05+00:00"
-title = "The Squid and the Whale"
-url = "/2006/the-squid-and-the-whale/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2006-03-26T05:33:05+00:00"
+title: The Squid and the Whale
+url: /2006/the-squid-and-the-whale/
+---
 
 ![][1] 
 

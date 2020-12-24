@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2003-10-16T16:10:55+00:00"
-title = "Examining the Role of De Facto Standards on the Web"
-url = "/2003/examining-the-role-of-de-facto-standards-on-the-web/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2003-10-16T16:10:55+00:00"
+title: Examining the Role of De Facto Standards on the Web
+url: /2003/examining-the-role-of-de-facto-standards-on-the-web/
+---
 
 A new Boxes and Arrows piece discussing [De Facto Standards on the Web][1]
 

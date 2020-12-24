@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-01-27T18:00:08+00:00"
-title = "Rivers and Tides"
-url = "/2005/rivers-and-tides/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-01-27T18:00:08+00:00"
+title: Rivers and Tides
+url: /2005/rivers-and-tides/
+---
 
 If someone were to ask me, "What is an artist?" I'd probably just stare blankly and shrug my shoulders. On the other hand, watching [Rivers and Tides][1], a film about Scottish artist Andy Goldsworthy made me want to jump up and down screaming "There's one, right there!"
 

@@ -1,12 +1,14 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2015-07-22T21:20:01+00:00"
-tags = ["now playing", "vinyl"]
-title = "Now Playing: Pink Floyd – Atom Heart Mother"
-url = "/2015/now-playing-pink-floyd-atom-heart-mother/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2015-07-22T21:20:01+00:00"
+tags:
+- now playing
+- vinyl
+title: 'Now Playing: Pink Floyd – Atom Heart Mother'
+url: /2015/now-playing-pink-floyd-atom-heart-mother/
+---
 
 <div id="attachment_4774" style="width: 710px" class="wp-caption alignnone">
   <img class="wp-image-4774 size-large" src="/img/2015/07/atom-heart-mother-700x700.jpg" alt="Pink Floyd. Atom Heart Mother" width="700" height="700" />

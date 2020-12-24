@@ -1,9 +1,9 @@
-+++
-date = "2019-09-05T20:34:35-04:00"
-tags = ["blogging"]
-title = "I just set up a 1999.io blog again"
-
-+++
+---
+date: "2019-09-05T20:34:35-04:00"
+tags:
+- blogging
+title: I just set up a 1999.io blog again
+---
 
 For a time, I was using [Dave Winer](http://scripting.com)'s blogging tool, [Fargo](http://fargo.io). After support for Fargo faded I followed up with his newer tool, [1999.io](http://1999.io) and loved that too.
 

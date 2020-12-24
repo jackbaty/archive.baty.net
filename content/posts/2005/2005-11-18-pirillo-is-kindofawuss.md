@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-11-18T22:35:26+00:00"
-title = "Pirillo is kindofawuss"
-url = "/2005/pirillo-is-kindofawuss/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-11-18T22:35:26+00:00"
+title: Pirillo is kindofawuss
+url: /2005/pirillo-is-kindofawuss/
+---
 
 I wonder how long it will be before [Pirillo][1] stops mentioning [Ponzi][2] every third sentence. Soon I'll bet, unless he stops being such a&#8230; and I'll go out on a limb and paraphrase her.. wuss.
 

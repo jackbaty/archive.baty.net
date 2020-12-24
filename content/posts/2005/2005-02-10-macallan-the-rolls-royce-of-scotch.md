@@ -1,11 +1,11 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2005-02-10T17:10:59+00:00"
-title = "Macallan, the Rolls Royce of scotch"
-url = "/2005/macallan-the-rolls-royce-of-scotch/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2005-02-10T17:10:59+00:00"
+title: Macallan, the Rolls Royce of scotch
+url: /2005/macallan-the-rolls-royce-of-scotch/
+---
 
 <img src="/images/blog/images/30yo_pop.jpg" align="right" height="320" width="180" border="1" hspace="4" vspace="4" alt="30Yo Pop" />
   

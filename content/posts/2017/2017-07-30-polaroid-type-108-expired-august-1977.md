@@ -1,10 +1,12 @@
-+++
-date = "2017-05-12"
-slug = "polaroid-type-108-expired-august-1977"
-tags = ["film", "instagram", "polaroid"]
-title = "Polaroid Type 108 - Expired August 1977"
-
-+++
+---
+date: "2017-05-12"
+slug: polaroid-type-108-expired-august-1977
+tags:
+- film
+- instagram
+- polaroid
+title: Polaroid Type 108 - Expired August 1977
+---
 
 ![Photo][1]
 

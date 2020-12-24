@@ -1,12 +1,15 @@
-+++
-categories = ["Software"]
-date = "2020-12-06"
-excerpt = "This is a pretty compelling local-first option. Written in Clojure and feels more Roam-like than, say, Obsidian."
-slug = "logseq-a-private-local-first-roam-alternative"
-tags = ["Roam", "Clojure"]
-title = "Logseq is a private, local-first Roam alternative"
-
-+++
+---
+categories:
+- Software
+date: "2020-12-06"
+excerpt: This is a pretty compelling local-first option. Written in Clojure and feels
+  more Roam-like than, say, Obsidian.
+slug: logseq-a-private-local-first-roam-alternative
+tags:
+- Roam
+- Clojure
+title: Logseq is a private, local-first Roam alternative
+---
 
 I continue to follow development of [Logseq](https://logseq.com).
 

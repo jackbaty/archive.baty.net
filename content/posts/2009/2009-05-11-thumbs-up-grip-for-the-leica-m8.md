@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2009-05-11T14:32:23+00:00"
-thesis_post_image = ["/files/ThumbsUp-0-20090511-183902.jpg"]
-title = "Thumbs Up grip for the Leica M8"
-url = "/2009/thumbs-up-grip-for-the-leica-m8/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2009-05-11T14:32:23+00:00"
+thesis_post_image:
+- /files/ThumbsUp-0-20090511-183902.jpg
+title: Thumbs Up grip for the Leica M8
+url: /2009/thumbs-up-grip-for-the-leica-m8/
+---
 
 The Leica M8 is hard to hold. It's basically the same size and shape as earlier film-based models, but it's a little bigger and a little smoother. It feels as great as other M cameras, but doesn't inspire the same confidence when holding it. It may be the covering. On my M4 the covering has more texture and feels a littler stickier than that of the M8. The M8 also does not have a film advance lever to snuggle your thumb under. This all adds up to a problem, and Tim Isaac has solved it with a terrific little device called the Thumbs Up.
 

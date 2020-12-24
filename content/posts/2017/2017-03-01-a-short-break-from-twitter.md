@@ -1,10 +1,11 @@
-+++
-date = "2017-01-07T20:06:16-05:00"
-slug = "a-short-break-from-twitter"
-tags = ["Social", "Twitter"]
-title = "A Short Break From Twitter"
-
-+++
+---
+date: "2017-01-07T20:06:16-05:00"
+slug: a-short-break-from-twitter
+tags:
+- Social
+- Twitter
+title: A Short Break From Twitter
+---
 
 I haven’t been “on” Twitter since the first of the year. As of today
 that means it’s been a whole week. It sounds stupid just saying that, “A

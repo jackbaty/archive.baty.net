@@ -1,12 +1,13 @@
-+++
-date = "2018-03-14T07:16:32-04:00"
-description = ""
-draft = false
-lastmod = "2018-03-14T07:16:46-04:00"
-tags = ["Twitter", "social"]
-title = "Retweets Are Trash - The Atlantic"
-
-+++
+---
+date: "2018-03-14T07:16:32-04:00"
+description: ""
+draft: false
+lastmod: "2018-03-14T07:16:46-04:00"
+tags:
+- Twitter
+- social
+title: Retweets Are Trash - The Atlantic
+---
 [Alexis C. Madrigal (The Atlantic)](https://www.theatlantic.com/magazine/archive/2018/04/the-case-against-retweets/554078/) 
 
 > So I began to take note each time I experienced a little hit of outrage or condescension or envy during a Twitter session. What I found was that nearly every time I felt one of these negative emotions, it was triggered by a retweet.

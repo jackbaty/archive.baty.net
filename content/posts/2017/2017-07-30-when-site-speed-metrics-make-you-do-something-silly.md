@@ -1,10 +1,11 @@
-+++
-date = "2017-05-27"
-slug = "when-site-speed-metrics-make-you-do-something-silly"
-tags = ["blogging", "performance"]
-title = "When site speed metrics make you do something silly"
-
-+++
+---
+date: "2017-05-27"
+slug: when-site-speed-metrics-make-you-do-something-silly
+tags:
+- blogging
+- performance
+title: When site speed metrics make you do something silly
+---
 
 A few weeks ago I moved my blog from a static site at [baty.net][1] into WordPress at [baty.blog][2]. I don't know how it'll all turn out but that's where we are now.
 

@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2006-02-22T00:57:04+00:00"
-dsq_thread_id = [3595584]
-title = "More new web apps I like"
-url = "/2006/more-new-web-apps-i-like/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2006-02-22T00:57:04+00:00"
+dsq_thread_id:
+- 3595584
+title: More new web apps I like
+url: /2006/more-new-web-apps-i-like/
+---
 
 Just to reiterate, I think [Stikipad](<http://www.stikipad.com>) is the best hosted wiki implementation I've used. It helps that I can email the developers, ask for something, and have it 2 days later. They've recently changed the features in the free version, so give it a whirl. 
 

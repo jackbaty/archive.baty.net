@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2013-12-22T00:00:00+00:00"
-tags = ["Writing"]
-title = "D&#039;ya ever get tired of blogging?"
-url = "/2013/dya-ever-get-tired-of-blogging/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2013-12-22T00:00:00+00:00"
+tags:
+- Writing
+title: D&#039;ya ever get tired of blogging?
+url: /2013/dya-ever-get-tired-of-blogging/
+---
 
 <div>
   <div>

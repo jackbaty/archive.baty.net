@@ -1,11 +1,13 @@
-+++
-categories = ["Software"]
-date = "2020-05-29"
-slug = "keeping-org-roam-daily-notes-in-a-separate-folder"
-tags = ["Org-roam", "Org mode"]
-title = "Keeping Org-roam daily notes in a separate folder"
-
-+++
+---
+categories:
+- Software
+date: "2020-05-29"
+slug: keeping-org-roam-daily-notes-in-a-separate-folder
+tags:
+- Org-roam
+- Org mode
+title: Keeping Org-roam daily notes in a separate folder
+---
 
 [Org-roam](https://github.com/org-roam/org-roam) continues to impress.
 

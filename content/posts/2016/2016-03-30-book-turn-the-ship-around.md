@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Books"]
-date = "2016-03-31T00:23:53+00:00"
-tags = ["book"]
-title = "Book: Turn the Ship Around!"
-url = "/2016/book-turn-the-ship-around/"
-
-+++
+---
+author: Jack
+categories:
+- Books
+date: "2016-03-31T00:23:53+00:00"
+tags:
+- book
+title: 'Book: Turn the Ship Around!'
+url: /2016/book-turn-the-ship-around/
+---
 
 <img class="alignnone wp-image-5043" src="/img/2016/03/turn-the-ship-around.jpg" alt="turn-the-ship-around" width="150" height="226" />
 

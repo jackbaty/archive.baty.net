@@ -1,10 +1,10 @@
-+++
-date = "2017-01-07T20:04:29-05:00"
-slug = "open-letter-to-apple--dave-pell"
-tags = ["Apple"]
-title = "Open Letter to Apple - Dave Pell"
-
-+++
+---
+date: "2017-01-07T20:04:29-05:00"
+slug: open-letter-to-apple--dave-pell
+tags:
+- Apple
+title: Open Letter to Apple - Dave Pell
+---
 
 [Dave Pell](https://medium.com/@davepell/open-letter-to-apple-ed3acc4dbf96#.aqv34i2lb):
 

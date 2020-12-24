@@ -1,12 +1,13 @@
-+++
-author = "Jack"
-categories = ["Journal"]
-date = "2016-06-11T19:17:00+00:00"
-tags = ["Blogging"]
-title = "Tags and Categories"
-url = "/2016/tags-and-categories/"
-
-+++
+---
+author: Jack
+categories:
+- Journal
+date: "2016-06-11T19:17:00+00:00"
+tags:
+- Blogging
+title: Tags and Categories
+url: /2016/tags-and-categories/
+---
 
 The posts on this blog can have tags, categories, or both. Sometimes I use tags, sometimes I use categories, sometimes I use both.
 
