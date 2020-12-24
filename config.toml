@@ -248,14 +248,14 @@ theme = "codeit"
     Vine = ""
     Googlescholar = ""
     Researchgate = ""
-    Mastodon = ""
+    Mastodon = "@jackbaty"
     Thingiverse = ""
     Devto = ""
     Gitea = ""
     XMPP = ""
     Matrix = ""
     Bilibili = ""
-    Email = "jbaty@hey.com"
+    Email = "jack@baty.net"
     RSS = true # 
 
   #  Page config
