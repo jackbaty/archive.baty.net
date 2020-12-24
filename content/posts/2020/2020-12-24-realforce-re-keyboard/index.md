@@ -29,18 +29,18 @@ The R2 is built very well. It's heavy, solid, and, while unassuming, looks great
 
 So what's the problem?
 
-Well, there's nothing _wrong_ with it. The issues I'm having are minor and I don't know how serious they'll be over time, but still...
+Well, there's nothing _wrong_ with it. It's a great keyboard. The issues I'm having are minor and I don't know how significant they'll be over time, but still...
 
-The larger keyboard puts me farther away from the trackpad. I didn't realize how great it was with the HHKB to have the trackpad right next to where I'm typing. The few inches of extra reach thousands of times a day  make a noticeable difference.
+The larger keyboard puts me farther away from the trackpad. I didn't realize how great it was with the HHKB to have the trackpad right next to where I'm typing. Like _right_ next to it. Those few inches of extra reach thousands of times a day make a noticeable difference.
 
-The Escape key is too far away. Again, just an extra inch or two but as a Vim mode user, Escape is one of my most-often used keys. (No, I'm not changing the bindings.).
+The Escape key is too far away, also. Again, just an extra inch or two but as a Vim mode user, Escape is one of my most-frequently used keys. (No, I'm not changing the vim bindings.)
 
-The keys have variable resistance, meaning the outside keys, used mostly with a pinky, take less pressure to activate than the centermost keys. This is noticeable and mostly a good thing, but the outer keys are so very sensitive that I frequently type a ";" by accident just by resting my fingers on the home row.
+The Realforce keys have variable resistance, meaning the outside keys, used mostly with a pinky, require less pressure to activate than the centermost keys. This is noticeable and mostly a good thing, but the outer keys are so very sensitive that I often accidentally type a ";" just by resting my fingers on the home row.
 
-And what about those arrow keys? Well again, they're a tad far away. The arrow keys on the HHKB are accessed via a function layer, but are so nearby that I'm starting to wonder if it's worth the trouble. I mean, I've gotten good at using them on the HHKB, but it throws me off when on other keyboards. 
+And what about those arrow keys? Well again, they're a tad far away. The arrow keys on the HHKB are accessed via a function layer, which was a pain to learn, but they are so close to the home row that I'm starting to wonder if it's worth the trouble of having to reach for them. I mean, I've already gone through the learning curve and have gotten good at using them on the HHKB.
 
-The strangest thing I've noticed is that with all those extra keys hanging off the right side, it feels like I have to use the R2 off-center. I know, it shouldn't matter, but I notice it. It feels off, somehow.
+The strangest thing I've noticed is that with all those extra keys hanging off the right side, it feels like I'm using the R2 off-center. I know, it shouldn't matter, but I notice it. It feels off, somehow.
 
 {{< image src="keyboard.jpg" caption="The Realforce R2 and HHKB" >}}
 
-None of these issues are deal-breakers. The Realforce R2 is a fabulous keyboard. I love it, but I'm not sure I love it as much as I do the HHKB.
+Anyway, none of these issues are deal-breakers. The Realforce R2 is a fabulous keyboard. I highly recommend it, but I'm not sure I love it as much as I do the HHKB.
