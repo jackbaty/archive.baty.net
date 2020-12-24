@@ -4,7 +4,8 @@ date:  2020-12-24
 categories:
 - Blogging
 slug: "new-theme-codeit"
-description: "It's a fork of the old theme, but maintained"
+subtitle: "The same thing, but different"
+summary: "A new theme, (almost the) same as the old theme"
 ---
 
 The theme I've used for this site, LoveIt, is no longer being maintained. This isn't that big a deal, but I prefer to have someone keeping an eye on things and making small fixes and improvements.
