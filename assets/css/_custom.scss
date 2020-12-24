@@ -6,6 +6,10 @@
   margin-top: 2em;
 }
 
+.single .post-meta {
+  margin-top: 15px;
+} 
+
 .single .content figure {
   margin-top: 2.0em;
 }
@@ -23,4 +27,9 @@
 
 article.single.summary {
   margin-bottom: 3em;
+}
+
+.single .single-subtitle {
+  color: $global-font-secondary-color;
+  font-style: normal;
 }
