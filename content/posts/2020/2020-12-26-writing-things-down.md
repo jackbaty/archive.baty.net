@@ -26,9 +26,8 @@ again. You see, unlike my dad, I overthink the shit out of my Workflow.
 
 For example, what should I do with my journal? Should it remain in Org Journal
 or perhaps move entirely into Roam? How about Day One? Or TiddlyWiki? Paper?
-What is a journal anyway? I don't use journals consistently. For example, where
-should I record that I changed the filter in the refrigerator? That's not really
-a journal thing, but then what is it?
+What is a journal anyway? Where should I record that I changed the filter in the
+refrigerator? That's not really a journal thing, but then what is it?
 
 Perhaps a better question is, why record when I change the fridge filter at all?
 
