@@ -16,4 +16,4 @@ The new blog is at [notes.baty.net][1]. It's not really a blog as much as a plac
 UPDATE: See [Changes at Small Picture][2].
 
  [1]: http://notes.baty.net
- [2]: https://www.baty.net/Posts/2013/07/ChangesatSmallPicture.html
+ [2]: /Posts/2013/07/ChangesatSmallPicture.html

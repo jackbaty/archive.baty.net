@@ -14,4 +14,4 @@ I'm a little sad that I had to stop using the wonderful [Extended Keyboard II][
 
 S'okay, I pulled the Das Keyboard out of the closet and that's a pretty great keyboard also.
 
- [1]: https://www.baty.net/2015/apple-extended-keyboard-ii/
+ [1]: /2015/apple-extended-keyboard-ii/

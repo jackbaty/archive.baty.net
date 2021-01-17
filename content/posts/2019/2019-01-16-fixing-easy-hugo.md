@@ -8,7 +8,7 @@ title: Fixing Easy Hugo
 
 I'd been fighting with what I thought was a [bug in easy-hugo](https://github.com/masasam/emacs-easy-hugo/issues/47), but when I stopped posting with Hugo I sort of forgot about it.
 
-Now that [I'm back](https://www.baty.net/2019/burning-down-the-other-blogs/) I finally dug in and tried solving the problem.
+Now that [I'm back](/2019/burning-down-the-other-blogs/) I finally dug in and tried solving the problem.
 
 The solution was simple but took me hours to find. I had put the following in my `config.toml` file...
 

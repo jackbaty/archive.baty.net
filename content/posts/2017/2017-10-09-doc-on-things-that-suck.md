@@ -15,4 +15,4 @@ title: Doc on Things That Suck
 > ...
 
 
-His list is even longer than mine. Looks like I'm not the only person [suffering from Technology Fatigue](https://www.baty.net/2017/technology-fatigue/)
+His list is even longer than mine. Looks like I'm not the only person [suffering from Technology Fatigue](/2017/technology-fatigue/)

@@ -20,5 +20,5 @@ For example, I recently decided to [sell all of my Canon gear][1]. It's all high
 
 So I've changed my mind. I'm keeping the [Canons _and_ the Nikons][2] for now until I calm down.
 
- [1]: https://www.baty.net/2015/01/selling-the-canons/
- [2]: https://www.baty.net/2013/06/keep-the-nikons-or-the-canons/
+ [1]: /2015/selling-the-canons/
+ [2]: /2013/keep-the-nikons-or-the-canons/

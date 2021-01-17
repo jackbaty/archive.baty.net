@@ -17,7 +17,7 @@ My notebook binder of choice in recent months has been a [Roterfaden][2] and i
 Then I discovered the [“Cousin” version of the Hobonichi][4]. The Cousin is A5 and just as awesome as the littler Techo. The only problem is that it doesn’t come in an edition that’s been translated to English. I decided to try one anyway. I bought the Spring 2015 version and love it.<figure> 
 
 <div style="width: 810px" class="wp-caption alignnone">
-  <a class="fancybox" title="" href="https://www.baty.net/img/2015/20150906_Hobonichi_Techo_Cousin_2015_in_Roterfaden.jpg" rel="article0"><img src="https://www.baty.net/img/2015/20150906_Hobonichi_Techo_Cousin_2015_in_Roterfaden.jpg" alt="" width="800" height="600" /></a>
+  <a class="fancybox" title="" href="/img/2015/20150906_Hobonichi_Techo_Cousin_2015_in_Roterfaden.jpg" rel="article0"><img src="/img/2015/20150906_Hobonichi_Techo_Cousin_2015_in_Roterfaden.jpg" alt="" width="800" height="600" /></a>
   
   <p class="wp-caption-text">
     Roterfaden And Hobonichi Techo A5 Cousin

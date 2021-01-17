@@ -8,7 +8,7 @@ tags:
 title: A quick tour of my Tinderbox Daybook
 ---
 
-I've been keeping a "Daybook" using [Tinderbox](https://eastgate.com/Tinderbox/) since [at least 2008](https://www.baty.net/2008/tinderbox-as-a-daybook/). My Daybook is basically a collection of outlines and notes. Here's a quick overview.
+I've been keeping a "Daybook" using [Tinderbox](https://eastgate.com/Tinderbox/) since [at least 2008](/2008/tinderbox-as-a-daybook/). My Daybook is basically a collection of outlines and notes. Here's a quick overview.
 
 The main sections are:
 

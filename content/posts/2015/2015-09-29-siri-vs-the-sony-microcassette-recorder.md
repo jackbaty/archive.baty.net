@@ -9,7 +9,7 @@ title: Siri vs the Sony Microcassette Recorder
 url: /2015/siri-vs-the-sony-microcassette-recorder/
 ---
 
-<img class="article-banner" src="https://www.baty.net/img/2015/20150929_sony-microcassette.jpg" alt="" />
+<img class="article-banner" src="/img/2015/20150929_sony-microcassette.jpg" alt="" />
 
 <div class="article-entry">
   <p>

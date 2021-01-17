@@ -30,4 +30,4 @@ Here's what's for sale:
 
 <jack@baty.net> if you're interested in any of it.
 
- [1]: https://www.baty.net/2013/06/keep-the-nikons-or-the-canons/
+ [1]: /2013/keep-the-nikons-or-the-canons/

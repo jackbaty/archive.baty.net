@@ -9,9 +9,7 @@ title: Blue Apron
 url: /2015/blue-apron/
 ---
 
-<figure><a class="fancybox" title="" href="https://www.baty.net/img/2015/20151003_Blue_Apron_box.jpg" rel="article0"><img src="https://www.baty.net/img/2015/20151003_Blue_Apron_box.jpg" alt="" /></a></p> <figcaption> 
-
-#### </figcaption> </figure> 
+<img src="/img/2015/20151003_Blue_Apron_box.jpg" alt="" />
 
 I’ve been cooking [Blue Apron][1] meals for while now and I love it. If you’re like me, you enjoy cooking, but hate the planning and shopping parts. Blue Apron solves both problems by sending me the ingredients for 3 meals (for two) every week. Each box contains all of the ingredients, clearly labeled, in the exact quantities required.
 

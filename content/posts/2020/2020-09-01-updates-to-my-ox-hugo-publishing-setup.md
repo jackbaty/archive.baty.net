@@ -7,7 +7,7 @@ tags:
 title: Updates to my ox-hugo publishing setup
 ---
 
-My [previous post](https://www.baty.net/2020/its-all-emacs/) was mostly a way to test updates to how I handle images and
+My [previous post](/2020/its-all-emacs/) was mostly a way to test updates to how I handle images and
 publish posts using Org mode and [ox-hugo](https://github.com/kaushalmodi/ox-hugo).
 
 New posts are created using the following Org mode capture template.

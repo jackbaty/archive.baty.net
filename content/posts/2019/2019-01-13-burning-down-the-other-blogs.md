@@ -26,7 +26,7 @@ elsewhere, nor do I have to think about "which blog should this go on?". Radical
 This leaves me with...
 
 - [baty.blog](https://www.baty.blog/) - now known as "My blog"
-- ~~[baty.net](https://www.baty.net/) - (formerly) known as "My blog"~~
+- ~~[baty.net](/) - (formerly) known as "My blog"~~
 - [micro.baty.net](https://micro.baty.net) - my micro.blog hosted microblog
 - [rudimentarylathe.org](https://rudimentarylathe.org) - my wiki
 

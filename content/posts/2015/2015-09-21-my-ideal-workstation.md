@@ -9,11 +9,8 @@ title: My Ideal Workstation
 url: /2015/my-ideal-workstation/
 ---
 
-<figure><a class="fancybox" title="" href="https://www.baty.net/img/2015/old-desk.jpg" rel="article0"><img src="https://www.baty.net/img/2015/old-desk.jpg" alt="" /></a>
+<img src="/img/2015/old-desk.jpg" alt="" />
   
-<figcaption> 
-
-#### </figcaption> </figure> 
 
 I sometimes imagine living in a world where I sit alone at a big old wooden desk and do my work using only a telephone, address book, adding machine, paper calendar, notebook, and a nice pen. That would be my ideal workstation.
 

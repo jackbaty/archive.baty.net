@@ -40,5 +40,5 @@ A few examples:
 
 **Update:** I&#8217;ve also added these to a public Flickr album: [Found Negatives][2]
 
- [1]: https://www.baty.net/avatar/
+ [1]: /avatar/
  [2]: https://www.flickr.com/photos/jbaty/albums/72157698585600360

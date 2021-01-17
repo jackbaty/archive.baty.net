@@ -28,4 +28,4 @@ Of course one advantage of doing it this way it’s easy to manage via Git and G
  [3]: http://www.eastgate.com/Tinderbox/
  [4]: http://www.jamierubin.net/2014/12/07/joys-of-a-text-based-reading-list/
  [5]: https://github.com/jackbaty/Books
- [6]: https://www.baty.net/reading-list/ "Reading List"
+ [6]: /reading-list/ "Reading List"

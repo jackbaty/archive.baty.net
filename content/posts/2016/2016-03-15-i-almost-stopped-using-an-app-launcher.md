@@ -20,4 +20,4 @@ I found the following in a draft blog post from back in August:
 I actually did try it for a while. Like a week. Turned out I _do_ use some of those other nifty features. I'm still using [LaunchBar][1] every day. The first mention of it here was back in 2007 with [From QuickSilver to LaunchBar][2]. We've been together a while.
 
  [1]: https://www.obdev.at/products/launchbar/index.html
- [2]: https://www.baty.net/2007/from-quicksilver-to-launchbar/
+ [2]: /2007/from-quicksilver-to-launchbar/

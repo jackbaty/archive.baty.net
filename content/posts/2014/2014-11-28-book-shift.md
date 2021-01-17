@@ -17,4 +17,4 @@ url: /2014/book-shift/
 “[Shift][1]”, the second book in Hugh Howey’s Solo Series was nearly as good as the first (“[Wool][2]”). Other than a few I-don’t-believe-he-would-do-that moments, I really enjoyed it. Looking forward to reading “Dust” next.
 
  [1]: http://www.amazon.com/Shift-Omnibus-Edition-Silo-Series-ebook/dp/B00B6Z6HI2/
- [2]: https://www.baty.net/2014/11/book-wool-2/
+ [2]: /2014/book-wool-2/

@@ -12,7 +12,7 @@ Today, I deleted the Adobe apps from my devices.
 
 This was not due to some sort of protest or reaction to policy or subscriptions fatigue or anything like that. I did it because I needed to make a decision about how I manage and process my photos.
 
-I wrote just a week ago about how I'm going to be using only Lightroom because [I couldn't deal with the combination of Lightroom and Lightroom Classic](https://www.baty.net/2020/giving-up-lightroom-classic-and-cc/).
+I wrote just a week ago about how I'm going to be using only Lightroom because [I couldn't deal with the combination of Lightroom and Lightroom Classic](/2020/giving-up-lightroom-classic-and-cc/).
 
 What I seem to write every time I switch to something other than Capture One Pro is something like, "Now, I'd _prefer_ to use Capture One Pro, but..." 
 

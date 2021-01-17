@@ -117,4 +117,4 @@ share them with him for 11 years. The memories will last forever.
 
 &nbsp;
 
- [1]: https://www.baty.net/2014/10/zim-vom-schafer-see-2003-2014/ "Zim vom Schafer see (2003-2014) – A good boy"
+ [1]: /2014/10/zim-vom-schafer-see-2003-2014/ "Zim vom Schafer see (2003-2014) – A good boy"

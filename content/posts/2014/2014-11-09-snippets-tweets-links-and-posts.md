@@ -31,7 +31,7 @@ And then there’s syndication. I link to baty.net posts on Twitter and sometime
 
  [1]: http://snippets.baty.net
  [2]: https://twitter.com/jackbaty
- [3]: https://www.baty.net/linkblog/
+ [3]: /linkblog/
  [4]: http://baty.net
  [5]: https://www.flickr.com/photos/jbaty/
  [6]: http://scripting.com

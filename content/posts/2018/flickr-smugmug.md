@@ -10,11 +10,11 @@ tags:
 title: SmugMug buys Flickr and hope is restored to the internet
 ---
 
-[Me, writing about Flickr in 2004](https://www.baty.net/2004/flickr-the-feed-thickens/):
+[Me, writing about Flickr in 2004](/2004/flickr-the-feed-thickens/):
 
 > So far, Flickr rocks. It’s still officially in beta, and things change/improve almost daily. The site is a great combination of easy to use and geek-friendly. The developers are focused on all the right things. There seems to be a core set of ideals that touch on things like standards-compliance, ease of use, extensibility, accessibility and other goodies.
 
-[And again, a few months later](https://www.baty.net/2004/why-flickr-is-a-great-web-app/):
+[And again, a few months later](/2004/why-flickr-is-a-great-web-app/):
 
 > The community features are a great byproduct of the site’s main goal, photo
 > sharing. And they don’t get in your way if you don’t care.

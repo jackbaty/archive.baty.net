@@ -52,4 +52,4 @@ Generally, though, I still like the OM-2n. My favorite is the OM-1n but auto-exp
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-4501'> Leeloo </figcaption></figure>
 </div>
 
- [1]: https://www.baty.net/2015/the-kodak-pakon-f-135-plus-scanner/
+ [1]: /2015/the-kodak-pakon-f-135-plus-scanner/

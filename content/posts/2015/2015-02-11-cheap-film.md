@@ -22,4 +22,4 @@ For 35mm color negatives, I've always shot either Portra 400 or Fuji Pro 400H; b
 
 Since I'm not creating art, I thought I'd try some cheaper films. I'm going to give the "consumer" films from Kodak and Fuji a try. I'm told both scan very well on the [Pakon][1]. At around $3.00/roll it's worth testing. I'm expecting to not see a significant difference, which could save me a lot of money.
 
- [1]: https://www.baty.net/2015/02/the-kodak-pakon-f-135-plus-scanner/ "The Kodak Pakon F-135 Plus Scanner"
+ [1]: /2015/the-kodak-pakon-f-135-plus-scanner/ "The Kodak Pakon F-135 Plus Scanner"

@@ -30,5 +30,5 @@ Things have once again settled into a [pattern I've seen before][6], and I like 
  [2]: http://notes.baty.net/2015/08/13/textFileFatigue.html
  [3]: https://github.com/syl20bnr/spacemacs
  [4]: http://orgmode.org
- [5]: https://www.baty.net/2008/tinderbox-as-a-daybook/
- [6]: https://www.baty.net/2013/digital-recordkeeping/
+ [5]: /2008/tinderbox-as-a-daybook/
+ [6]: /2013/digital-recordkeeping/

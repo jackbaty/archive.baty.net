@@ -7,7 +7,7 @@ tags:
 title: Twitter these days
 ---
 
-In January, 2018 [I wrote this](https://www.baty.net/2018/im-not-leaving-twitter-yet/):
+In January, 2018 [I wrote this](/2018/im-not-leaving-twitter-yet/):
 
 > Yet, I continue to learn, discover, laugh, share, and interact with interesting and generally wonderful people on Twitter every day.
 

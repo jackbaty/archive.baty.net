@@ -14,7 +14,7 @@ This will come as no surprise to anyone who knows me, but I'm stepping away from
 
 Sigh.
 
-Why did I do this? Honestly, it might be that I just get bored. Changing up my systems is my version of playing video games...it wastes a lot of time but it's just so much fun. The [same thing happend last year](https://www.baty.net/2016/the-problems-i-have-with-org-mode-and-emacs/). It happens most years. I'm used to it.
+Why did I do this? Honestly, it might be that I just get bored. Changing up my systems is my version of playing video games...it wastes a lot of time but it's just so much fun. The [same thing happend last year](/2016/the-problems-i-have-with-org-mode-and-emacs/). It happens most years. I'm used to it.
 
 I have been trying to reduce the number of apps I use. To this end, I'd gone all-in with Emacs and Org-mode for writing, GTD, publishing, coding, and email. For file management, I've tried weaning myself from DEVONthink and just keeping things in folders and using Finder to deal with them and Spotlight to find things. 
 

@@ -36,7 +36,7 @@ If you want to follow along, it’s here…
 
 Or if you prefer something shorter, I’m redirecting from here:
 
-[https://www.baty.net/roam](https://www.baty.net/roam)
+[baty.net/roam](https://www.baty.net/roam)
 
 
 

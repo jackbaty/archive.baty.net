@@ -25,4 +25,4 @@ what’s next. I’d prefer to see that reversed. Something like...
 Make it about _starting something_ rather than about quitting. I think that would be better.
 
 
-[^guilty]: I'm guilty of this. [Example A](https://www.baty.net/2018/there-goes-facebook/), [Example B](https://www.baty.net/2018/linked-out)
+[^guilty]: I'm guilty of this. [Example A](/2018/there-goes-facebook/), [Example B](/2018/linked-out)

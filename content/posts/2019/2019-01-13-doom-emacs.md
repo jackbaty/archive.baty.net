@@ -5,7 +5,7 @@ tags:
 title: Doom Emacs
 ---
 
-Well [this](https://www.baty.net/2019/mastering-emacs-again/) was a terrible
+Well [this](/2019/mastering-emacs-again/) was a terrible
 idea.
 
 I learned a lot, but, with apologies to Emacs purists, there's just no way using

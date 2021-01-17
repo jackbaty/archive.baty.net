@@ -29,7 +29,7 @@ I read a _lot_ on my Kindle, so I upgrade each time the device gets better. The
 See also: [Do I Have Too Many Kindles?][5]
 
  [1]: https://flic.kr/p/4ffiqf
- [2]: https://www.baty.net/2007/11/kindle-me/ "Kindle me!"
+ [2]: /2007/11/kindle-me/ "Kindle me!"
  [3]: http://www.amazon.com/gp/product/B000FI73MA?ie=UTF8&tag=jacbatsay-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000FI73MA
  [4]: http://www.amazon.com/dp/B00IOY8XWQ/
- [5]: https://www.baty.net/2012/03/do-i-have-too-many-kindles/ "Do I Have Too Many Kindles?"
+ [5]: /2012/03/do-i-have-too-many-kindles/ "Do I Have Too Many Kindles?"

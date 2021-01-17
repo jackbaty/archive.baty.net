@@ -44,4 +44,4 @@ This entire process takes maybe 15 minutes and the results look good to me.
  [1]: https://www.negative.supply/35mm
  [2]: https://www.negativelabpro.com
  [3]: https://www.bhphotovideo.com/c/product/1485799-REG/7artisans_photoelectric_a112_x_60mm_f_2_8_fuji.html
- [4]: https://www.baty.net/2015/the-kodak-pakon-f-135-plus-scanner-2/
+ [4]: /2015/the-kodak-pakon-f-135-plus-scanner-2/

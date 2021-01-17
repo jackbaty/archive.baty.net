@@ -33,4 +33,4 @@ So I bought a second HHKB and that settles it.
 
  [1]: https://ultimatehackingkeyboard.com/
  [2]: https://hhkeyboard.us/happyhacking/
- [3]: https://www.baty.net/2018/the-happy-hacking-keyboard-professional-2/
+ [3]: /2018/the-happy-hacking-keyboard-professional-2/

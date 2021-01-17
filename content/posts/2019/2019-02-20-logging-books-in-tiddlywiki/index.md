@@ -49,7 +49,7 @@ Storing the start/enddates in custom fields allows them to be used in other ways
 
 This makes me want to go back and add _all_ of my books as individual tiddlers, but that may be a while.
 
- [1]: https://www.baty.net/books/
+ [1]: /books/
  [2]: https://rudimentarylathe.org
  [3]: https://rudimentarylathe.org/#Books%20archive
  [4]: https://rudimentarylathe.org/#Books

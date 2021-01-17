@@ -168,7 +168,7 @@ Some miscellaneous photo-related support items
 - [Profoto D1 Monolights][profoto] – I’m fortunate enough to own a couple great monolights.
   I should totally use them more often.
 
-[pakon]: https://www.baty.net/2015/the-kodak-pakon-f-135-plus-scanner-2/
+[pakon]: /2015/the-kodak-pakon-f-135-plus-scanner-2/
 [profoto]: https://www.bhphotovideo.com/c/product/661871-REG/Profoto_901056_D1_Air_500Ws_2_Monolight.html
  
 ### Darkroom
@@ -270,7 +270,7 @@ And the rest...
 [hiuni]: https://www.jetpens.com/Uni-Mitsubishi-Hi-Uni-Pencils/ct/621
 [sharpener]: https://www.amazon.com/Caran-Dache-Pencil-sharpening-Machine-455-200/dp/B0013F5R0Y/
 [sm3]: https://typewriterreview.com/2013/02/28/olympia-sm3/
-[sm9]: https://www.baty.net/2014/olympia-sm9/
+[sm9]: /2014/olympia-sm9/
 [fieldnotes]: https://fieldnotesbrand.com/
 
 ## Every Day Carry

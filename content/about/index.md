@@ -10,7 +10,7 @@ title: About
 
 I was a partner at Fusionary Media from 1995 until we sold the company in May of 2020. I remain there in a consulting role. Fusionary is a terrific digital development studio in Grand Rapids, MI, and if your business needs something built for the web or mobile devices you should 💌 [send them a note](mailto:info@fusionary.com).
 
-I blog here at [baty.net](https://www.baty.net/) ✒️. I write about photography, blogging, analog tools, productivity, software, you name it.
+I blog here at [baty.net](/) ✒️. I write about photography, blogging, analog tools, productivity, software, you name it.
 
 I take notes, daily, in public, using TiddlyWiki at [Rudimentary Lathe](https://rudimentarylathe.wiki).
 
@@ -60,6 +60,6 @@ Do not expect consistency.
 
 - [Books I've read](https://rudimentarylathe.org/#Books)
 - [Things I use](/lifestack)
-- [The origin of my avatar](https://www.baty.net/avatar/)
+- [The origin of my avatar](/avatar/)
 - [Letterboxd](https://letterboxd.com/jackbaty) is where I track and rate the movies I watch
 - [Goodreads](https://goodreads.com/jackbaty) for sharing what I'm reading

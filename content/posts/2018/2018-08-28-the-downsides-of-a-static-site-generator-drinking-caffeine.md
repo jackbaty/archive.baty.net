@@ -70,8 +70,8 @@ With all that said, I&#8217;m typing this in MarsEdit for posting to my WordPres
 <li id="fn-1764-cache">
   I&#8217;m conveniently ignoring the option of WP static caching here. <a href="#fnref-1764-cache">↩</a></fn></footnotes>
 
- [1]: https://www.baty.net/2017/wordpress-is-a-typewriter/
- [2]: https://www.baty.net/2016/leaning-toward-static-again/
- [3]: https://www.baty.net/2009/wordpress-vs-static/
- [4]: https://www.baty.net/2016/hugo/
- [5]: https://www.baty.net/2016/almost-switched-to-wordpress-again/
+ [1]: /2017/wordpress-is-a-typewriter/
+ [2]: /2016/leaning-toward-static-again/
+ [3]: /2009/wordpress-vs-static/
+ [4]: /2016/hugo/
+ [5]: /2016/almost-switched-to-wordpress-again/

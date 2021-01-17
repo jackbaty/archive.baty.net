@@ -29,4 +29,4 @@ I've been blogging since the late 90s and still have most posts in one form or a
 The lesson here, if there is one, is that there's no reason to risk losing content and breaking old links just to try new blogging software. WordPress is old and capable and complete and stable and fast (enough) for me. I should stick with it. I probably won't, but I _should._ Besides, it's fun to see how long [the archives page][1] is getting._  
 _
 
- [1]: https://www.baty.net/archives/ ""
+ [1]: /archives/ ""

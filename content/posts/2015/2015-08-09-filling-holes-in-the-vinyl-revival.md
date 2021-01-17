@@ -35,4 +35,4 @@ Ben Swank of Third Man:
 
  [1]: http://www.subtraction.com/2015/08/09/poking-holes-in-the-vinyl-revival/
  [2]: http://www.stereogum.com/featured/have-we-reached-peak-vinyl/
- [3]: https://www.baty.net/2005/the-joy-of-vinyl/
+ [3]: /2005/the-joy-of-vinyl/

@@ -32,5 +32,5 @@ that design matters.
 
 Here’s a tip. If you want to get the most out of the news, [read real,
 printed
-newspapers](https://www.baty.net/2017/why-i-still-read-printed-newspapers/).
+newspapers](/2017/why-i-still-read-printed-newspapers/).
 Really, it solves many of the problems described in the article.

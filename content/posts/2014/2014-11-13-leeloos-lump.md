@@ -16,4 +16,4 @@ During [Leeloo’s knee surgery][1] last week, I asked the doctor to remove a lu
 
 A little good news is nice.
 
- [1]: https://www.baty.net/2014/11/leeloos-legs/
+ [1]: /2014/11/leeloos-legs/

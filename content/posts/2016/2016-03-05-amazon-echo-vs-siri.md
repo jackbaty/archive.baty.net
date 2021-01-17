@@ -17,7 +17,7 @@ The [Amazon Echo][2] has remained my favorite device over the past six months.
 
 Using Siri, on the other hand, feels like work. Siri makes me wait too long just for her to get things wrong.
 
-Siri also requires me to _do_ something first. I have to pick up my phone, press a button, and wait. Yes, if I’m sitting at my desk with the iPhone plugged in<span id="fnref:185d1ab87884a11918c4e05c88ffbef7:1" class="footnote-ref"><a href="https://www.baty.net/#fn:185d1ab87884a11918c4e05c88ffbef7:1" rel="footnote">1</a></span>, I can just say “Hey Siri”, but if I’m sitting at my desk I don’t _need_ Siri. When I still had an Apple Watch, the experience of using Siri wasn’t worth the effort. Way too slow.
+Siri also requires me to _do_ something first. I have to pick up my phone, press a button, and wait. Yes, if I’m sitting at my desk with the iPhone plugged in<span id="fnref:185d1ab87884a11918c4e05c88ffbef7:1" class="footnote-ref"><a href="/#fn:185d1ab87884a11918c4e05c88ffbef7:1" rel="footnote">1</a></span>, I can just say “Hey Siri”, but if I’m sitting at my desk I don’t _need_ Siri. When I still had an Apple Watch, the experience of using Siri wasn’t worth the effort. Way too slow.
 
 With Alexa (I call her “Alexa”, not “Echo”), I just say what I want, from anywhere in the room, even when there’s music playing, and she responds quickly and accurately. I use Alexa _while_ I’m doing other things. With Siri, I need to stop what I’m doing in order to use it. Big difference.
 
