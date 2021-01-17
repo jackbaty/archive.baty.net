@@ -1,9 +1,9 @@
-baseURL = "https://www.baty.net/"
+baseURL = "https://archive.baty.net/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "Jack Baty's Weblog"
+title = "Jack Baty's Weblog Archive (2000-2020)"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "codeit"
@@ -30,11 +30,11 @@ theme = "codeit"
     weight = 2
     
 	[[menu.main]]
-	  identifier = "about"
+	  identifier = "baty"
 	  pre = ""
 	  post = ""
-	  name = "About"
-	  url = "/about/"
+	  name = "Baty.net"
+	  url = "https://www.baty.net/"
 	  title = ""
 	  weight = 4
 
@@ -117,7 +117,7 @@ theme = "codeit"
       # URL of the LOGO
       logo = "/img/logo.png"
       # title name
-      name = "Jack Baty's Weblog"
+      name = "Jack Baty's Weblog Archives (2000-2020)"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -186,7 +186,7 @@ theme = "codeit"
     [params.home.posts]
       enable = true
       # special amount of posts in each home posts page
-      paginate = 12
+      paginate = 20
       #  replaced with hiddenFromHomePage in params.page
       # default behavior when you don't set "hiddenFromHomePage" in front matter
       defaultHiddenFromHomePage = false
@@ -408,7 +408,7 @@ theme = "codeit"
         outlined = false
       #  Commento comment config
       [params.page.comment.commento]
-        enable = true
+        enable = false
       #  Utterances comment config
       [params.page.comment.utterances]
         enable = false
@@ -467,7 +467,7 @@ theme = "codeit"
 
   #  Analytics config
   [params.analytics]
-    enable = true
+    enable = false
     # Google Analytics
     [params.analytics.google]
       id = ""

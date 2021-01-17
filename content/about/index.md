@@ -4,6 +4,8 @@ draft: false
 title: About
 ---
 
+*This content is archived as of Dec 31, 2020.*
+
 ## A little about me
 
 {{< image src="jack-about-300x300.jpg" caption="Your host, Jack Baty" width="300" height="300" linked="false" >}}
